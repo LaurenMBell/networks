@@ -2,6 +2,7 @@ import pandas as pd
 from scipy import stats
 import itertools
 import numpy as np
+import chime
 
 def compute_correlations(data, model_name):
     """
@@ -61,10 +62,7 @@ lps_correlations = compute_correlations(lps, "LPS")
 dss_correlations.to_csv("DSS_correlations.csv", index=False)
 vecpac_correlations.to_csv("VECPAC_correlations.csv", index=False)
 lps_correlations.to_csv("LPS_correlations.csv", index=False)
-
-print(f"DSS: {len(dss_correlations)} correlations")
-print(f"VECPAC: {len(vecpac_correlations)} correlations")
-print(f"LPS: {len(lps_correlations)} correlations")
+chime.success()
 
 # ============= POOLED CORRELATIONS =============
 
@@ -81,5 +79,10 @@ lps_renamed.drop("ID", axis=1, inplace=True)
 all_data = pd.concat([dss_renamed, vecpac_renamed, lps_renamed], axis=1)
 
 # Compute pooled correlations
-pooled_correlations = compute_correlations(all_data, "pooled").dropna()
+pooled_correlations = compute_correlations(all_data, "pooled")
 pooled_correlations.to_csv("pooled_correlations.csv", index=False)
+print(f"DSS: {len(dss_correlations)} correlations")
+print(f"VECPAC: {len(vecpac_correlations)} correlations")
+print(f"LPS: {len(lps_correlations)} correlations")
+print(f"Pooled: {len(pooled_correlations)} correlations")
+chime.success()
