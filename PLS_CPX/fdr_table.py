@@ -4,14 +4,14 @@ import pandas as pd
 from statsmodels.stats.multitest import fdrcorrection
 import chime
 
-# Load CSVs
+#load CSVs
 vecpac = pd.read_csv("VECPAC_correlations.csv")
 lps    = pd.read_csv("LPS_correlations.csv")
 dss    = pd.read_csv("DSS_correlations.csv")
 pooled = pd.read_csv("pooled_correlations.csv")
 
 #print(lps)
-# Rename correlation & p-value columns
+#rename correlation & p-value columns
 vecpac.columns.values[2] = 'VECPAC r'
 vecpac.columns.values[3] = 'VECPAC p-values'
 vecpac.columns.values[4] = 'VECPAC n'
@@ -25,15 +25,15 @@ pooled.columns.values[2] = 'Pooled r'
 pooled.columns.values[3] = 'Pooled p-values'
 pooled.columns.values[4] = 'Pooled n'
 
-# Select only DSS r/p-values and LPS r/p-values
+#select only DSS r/p-values and LPS r/p-values
 dss_subset = dss[['DSS r', 'DSS p-values', 'DSS n']]
 lps_subset = lps[['LPS r', 'LPS p-values', 'LPS n']]
 pooled_subset = pooled[['Pooled r', 'Pooled p-values', 'Pooled n']]
 
-# Concatenate columns and drop Nan values 
+#concatenate columns and drop Nan values 
 df = pd.concat([vecpac, dss_subset, lps_subset, pooled_subset], axis=1).dropna()
 
-# Add a new column based on sign consistency
+#add a new column based on sign consistency
 df['Consistent'] = (
     ((df['VECPAC r'] > 0) & (df['LPS r'] > 0) & (df['DSS r'] > 0) & (df['Pooled r'] > 0)) |
     ((df['VECPAC r'] < 0) & (df['LPS r'] < 0) & (df['DSS r'] < 0) & (df['Pooled r'] < 0))
