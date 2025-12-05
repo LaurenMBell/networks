@@ -26,12 +26,14 @@ def compute_correlations(data, model_name):
         gene_values = data.iloc[gene_idx][mice].astype(float)
         
         df = pd.DataFrame({'metabolite': met_values, 'gene': gene_values})
-        n = len(df)
+        #n = len(df) (~(a.isna() | b.isna())).sum()
+        n = (~(df["metabolite"].isna() | df["gene"].isna())).sum()
         
         if n < 3:
             corr, pval = np.nan, np.nan  
         else:
-            corr, pval = stats.spearmanr(df['metabolite'], df['gene'])
+            corr, pval = stats.spearmanr(df['metabolite'], df['gene'], nan_policy = 'omit')
+            pval /= 2 # for one sided p value
         
         results.append({
             'metabolite': met_id, 

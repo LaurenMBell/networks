@@ -110,7 +110,7 @@ common_vecpac = sorted(list(set(cpx_vecpac.columns) & set(pls_vecpac.columns)))
 common_lps = sorted(list(set(cpx_lps.columns) & set(pls_lps.columns)))
 
 
-#simplify to the mice they have in common
+# simplify to the mice they have in common
 cpx_aligned_dss = cpx_dss[common_dss]
 cpx_aligned_vecpac = cpx_vecpac[common_vecpac]
 cpx_aligned_lps = cpx_lps[common_lps]
@@ -118,7 +118,7 @@ pls_aligned_dss = pls_dss[common_dss]
 pls_aligned_vecpac = pls_vecpac[common_vecpac]
 pls_aligned_lps = pls_lps[common_lps]
 
-#merge each model by mouse
+# merge each model by mouse
 merged_dss = pd.concat([cpx_aligned_dss, pls_aligned_dss], axis=0)
 merged_vecpac = pd.concat([cpx_aligned_vecpac, pls_aligned_vecpac], axis=0)
 merged_lps = pd.concat([cpx_aligned_lps, pls_aligned_lps], axis=0)
