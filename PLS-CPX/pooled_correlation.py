@@ -32,8 +32,8 @@ def compute_correlations(data, model_name):
         if n < 3:
             corr, pval = np.nan, np.nan  
         else:
-            corr, pval = stats.spearmanr(df['metabolite'], df['gene'], nan_policy = 'omit')
-            pval /= 2 # for one sided p value
+            corr, pval = stats.spearmanr(df['metabolite'], df['gene'], nan_policy = 'omit') #two sided pval
+            
         
         results.append({
             'metabolite': met_id, 

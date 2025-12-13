@@ -25,21 +25,34 @@ pooled.columns.values[2] = 'Pooled r'
 pooled.columns.values[3] = 'Pooled p-values'
 pooled.columns.values[4] = 'Pooled n'
 
+#vecpac.loc[:, "VECPAC p-values"] *= 2 #to correct for previously dividing by 2 
 #select only DSS r/p-values and LPS r/p-values
 dss_subset = dss[['DSS r', 'DSS p-values', 'DSS n']]
+#dss_subset.loc[:, "DSS p-values"] *= 2
 lps_subset = lps[['LPS r', 'LPS p-values', 'LPS n']]
+#lps_subset.loc[:, "LPS p-values"] *= 2
 pooled_subset = pooled[['Pooled r', 'Pooled p-values', 'Pooled n']]
+#pooled_subset.loc[:, "Pooled p-values"] *= 2 
 
 #concatenate columns and drop Nan values 
-df = pd.concat([vecpac, dss_subset, lps_subset, pooled_subset], axis=1).dropna()
+df = pd.concat([vecpac, dss_subset, lps_subset, pooled_subset], axis=1)
 
-#add a new column based on sign consistency
-df['Consistent'] = (
-    ((df['VECPAC r'] > 0) & (df['LPS r'] > 0) & (df['DSS r'] > 0) & (df['Pooled r'] > 0)) |
-    ((df['VECPAC r'] < 0) & (df['LPS r'] < 0) & (df['DSS r'] < 0) & (df['Pooled r'] < 0))
+r_cols = ["VECPAC r", "DSS r", "LPS r"]
+df["r Count"] = df[r_cols].notna().sum(axis=1)
+
+# require >= 2 models to be non-nan
+df_valid = df[df["r Count"] >= 2].copy()
+
+r_cols = ["VECPAC r", "DSS r", "LPS r", "Pooled r"]
+
+df_valid["Consistent"] = df_valid[r_cols].apply(
+    lambda row: (np.nanmin(row) > 0) or (np.nanmax(row) < 0), axis=1
 )
 
-is_consistent = df.loc[df["Consistent"] == True].copy()
+df_valid.to_csv("all_correlations_pre_FDR.csv", index=False)
+print("saved all_correlations_pre_FDR.csv")
+
+is_consistent = df_valid[df_valid["Consistent"]].copy()
 
 is_consistent["Sign"] = np.where(is_consistent['Pooled r'] > 0, "+", "-")
 
@@ -48,4 +61,5 @@ rejected, corrected_pvals = fdrcorrection(is_consistent.loc[:, "Pooled p-values"
 is_consistent["Pooled FDR"] = corrected_pvals
 
 is_consistent.to_csv("PLS-CPX_FDR.csv", index=False)
+print("saved PLS-CPX_FDR.csv")
 chime.success()
