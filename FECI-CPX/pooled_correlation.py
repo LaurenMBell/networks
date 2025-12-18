@@ -6,35 +6,55 @@ import chime
 
 def compute_correlations(data, model_name):
     nodes = data['ID'].values
+
+    nodes_clean = (
+    pd.Series(nodes)
+      .astype(str)
+      .str.strip()         
+      .str.replace("–", "-", regex=False)
+      .values
+    )
     
     #identify genes and metabolites
-    p_data = [(i, node_val) for i, node_val in enumerate(nodes) 
-                 if str(node_val).endswith("-P")]
-    f_data = [(i, node_val) for i, node_val in enumerate(nodes) 
-                       if not str(node_val).endswith("-P")]
+    c_data = [
+        (i, node_val)
+        for i, node_val in enumerate(nodes_clean)
+        if node_val.startswith("ENSMUSG") and node_val.endswith("-P")
+    ]
+
+    f_data = [
+        (i, node_val)
+        for i, node_val in enumerate(nodes_clean)
+        if not node_val.startswith("ENSMUSG")
+    ]
+
     
     #get sample columns 
     mice = [col for col in data.columns if col != "ID"]
     
     #create all metabolite-gene pairs
-    pairs = list(itertools.product(p_data, f_data))
+    pairs = list(itertools.product(c_data, f_data))
         
     results = []
     
-    for (p_idx, p_id), (f_idx, f_id) in pairs:
-        p_values = data.iloc[p_idx][mice].astype(float)
+    for (c_idx, c_id), (f_idx, f_id) in pairs:
+        c_values = data.iloc[c_idx][mice].astype(float)
         f_values = data.iloc[f_idx][mice].astype(float)
         
-        df = pd.DataFrame({'plasma_metabolite': p_values, 'feci_metabolite': f_values})
-        n = len(df)
+        df = pd.DataFrame({'cpx_gene': c_values, 'feci_metabolite': f_values})
+        n = (~(df["cpx_gene"].isna() | df["feci_metabolite"].isna())).sum()
         
         if n < 3:
             corr, pval = np.nan, np.nan  
         else:
-            corr, pval = stats.spearmanr(df['plasma_metabolite'], df['feci_metabolite'])
+            print(f"{c_id} - {f_id}\n")
+            corr, pval = stats.spearmanr(df['cpx_gene'], df['feci_metabolite'], nan_policy='omit')
+            
+            if (corr == 1 or corr == -1):
+                pval = 0
         
         results.append({
-            'plasma_metabolite': p_id, 
+            'cpx_gene': c_id, 
             'feci_metabolite': f_id, 
             f'{model_name}_corr_coef': corr, 
             f'{model_name}_p-value': pval, 
@@ -50,12 +70,14 @@ lps = pd.read_csv("merged_lps.csv")
 
 #compute correlations for each model separately
 dss_correlations = compute_correlations(dss, "DSS")
-vecpac_correlations = compute_correlations(vecpac, "VECPAC")
-lps_correlations = compute_correlations(lps, "LPS")
-
-#save individual model results
 dss_correlations.to_csv("DSS_correlations.csv", index=False)
+chime.success()
+
+vecpac_correlations = compute_correlations(vecpac, "VECPAC")
 vecpac_correlations.to_csv("VECPAC_correlations.csv", index=False)
+chime.success()
+
+lps_correlations = compute_correlations(lps, "LPS")
 lps_correlations.to_csv("LPS_correlations.csv", index=False)
 chime.success()
 
