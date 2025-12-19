@@ -21,7 +21,7 @@ def nodes(df):
 
     unique_mets = set() 
 
-    unique_mets = set(df["plasma_metabolite"]).union(set(df["feci_metabolite"]))
+    unique_mets = set(df["cpx_gene"]).union(set(df["feci_metabolite"]))
     total_nodes = len(unique_mets)
     
     # question: how to calculate positive and negative nodes, fix this lauren
@@ -79,7 +79,7 @@ def table_making(file, name):
         for j in fdr_p:
             return_table = pd.DataFrame()
             
-            for col in ["plasma_metabolite","feci_metabolite","VECPAC r","VECPAC p-values","VECPAC n",
+            for col in ["cpx_gene","feci_metabolite","VECPAC r","VECPAC p-values","VECPAC n",
                         "DSS r","DSS p-values","DSS n","LPS r","LPS p-values","LPS n","Pooled r","Pooled p-values",
                         "Pooled n","Consistent","Sign","Pooled FDR"]:
                 file[col] = pd.to_numeric(file[col], errors="coerce")
@@ -121,7 +121,7 @@ def table_making(file, name):
 
 #df_quant = pd.read_csv("/Users/laurenbell/Desktop/Metabolite_Brain_Gut_MorgunLab/network_properties/quantile_norm_data/updated_metaanalysis_fdr_table.csv")
 #df_median_with_zeros = pd.read_csv("/Users/laurenbell/Desktop/Metabolite_Brain_Gut_MorgunLab/network_properties/median_norm_data/updated_metaanalysis_fdr_table.csv")
-df = pd.read_csv("FECI-PLS_FDR.csv")
+df = pd.read_csv("FECI-CPX_FDR.csv")
 
 
 #thresholds to iterate over
@@ -130,4 +130,4 @@ fdr_p =[1.0, 0.3, 0.25, 0.2, 0.15, 0.1, 0.05, 0.01]
 
 #table_making(df_quant, "quantile")
 #table_making(df_median_with_zeros, "median_with_zeros")
-table_making(df, "FECI-PLS")
+table_making(df, "FECI-CPX")

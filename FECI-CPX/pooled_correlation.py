@@ -38,19 +38,25 @@ def compute_correlations(data, model_name):
     results = []
     
     for (c_idx, c_id), (f_idx, f_id) in pairs:
-        c_values = data.iloc[c_idx][mice].astype(float)
-        f_values = data.iloc[f_idx][mice].astype(float)
+        c_values = data.iloc[c_idx][mice].astype(float).to_numpy()
+        f_values = data.iloc[f_idx][mice].astype(float).to_numpy()
         
-        df = pd.DataFrame({'cpx_gene': c_values, 'feci_metabolite': f_values})
-        n = (~(df["cpx_gene"].isna() | df["feci_metabolite"].isna())).sum()
-        
-        if n < 3:
-            corr, pval = np.nan, np.nan  
-        else:
-            print(f"{c_id} - {f_id}\n")
-            corr, pval = stats.spearmanr(df['cpx_gene'], df['feci_metabolite'], nan_policy='omit')
+        mask = ~np.isnan(c_values) & ~np.isnan(f_values)
+        c_masked = c_values[mask]
+        f_masked = f_values[mask]
+        n = mask.sum()
+
+
+        if n < 3: #if sample size is less than 3
+            corr, pval = np.nan, np.nan 
+        elif np.all(c_masked == c_masked[0]) or np.all(f_masked == f_masked[0]):
+            corr, pval = np.nan, np.nan
+        else: 
+            #print(f"{c_id} - {f_id}\n")
+
+            corr, pval = stats.spearmanr(c_masked, f_masked, nan_policy='omit')
             
-            if corr == 1 or corr == -1:
+            if abs(corr) == 1:
                 pval = 0
         
         results.append({
@@ -71,14 +77,17 @@ lps = pd.read_csv("merged_lps.csv")
 #compute correlations for each model separately
 dss_correlations = compute_correlations(dss, "DSS")
 dss_correlations.to_csv("DSS_correlations.csv", index=False)
+print("dss done")
 chime.success()
 
 vecpac_correlations = compute_correlations(vecpac, "VECPAC")
 vecpac_correlations.to_csv("VECPAC_correlations.csv", index=False)
+print("vecpac done")
 chime.success()
 
 lps_correlations = compute_correlations(lps, "LPS")
 lps_correlations.to_csv("LPS_correlations.csv", index=False)
+print("lps done")
 chime.success()
 
 # ============= POOLED CORRELATIONS =============#
@@ -101,4 +110,5 @@ all_data.to_csv("merged_all_data.csv", index=False)
 #compute pooled correlationss
 pooled_correlations = compute_correlations(all_data, "pooled")
 pooled_correlations.to_csv("pooled_correlations.csv", index=False)
+print("pooled done")
 chime.success()
