@@ -64,12 +64,12 @@ feci_dss = feci_dss.drop(0)
 feci_vecpac = feci_vecpac.drop(0)
 feci_lps = feci_lps.drop(0)
 
-# Annotate fecal mice
+# annotate feci metabolites
 feci_dss["ID"]    = feci_dss["ID"].astype(str).str.strip() + "-F"
 feci_vecpac["ID"] = feci_vecpac["ID"].astype(str).str.strip() + "-F"
 feci_lps["ID"]    = feci_lps["ID"].astype(str).str.strip() + "-F"
 
-# Annotate plasma mice
+# annotate pls metabolites
 pls_dss["ID"]    = pls_dss["ID"].astype(str).str.strip() + "-P"
 pls_vecpac["ID"] = pls_vecpac["ID"].astype(str).str.strip() + "-P"
 pls_lps["ID"]    = pls_lps["ID"].astype(str).str.strip() + "-P"

@@ -6,12 +6,28 @@ import chime
 
 def compute_correlations(data, model_name):
     nodes = data['ID'].values
+
+    nodes_clean = (
+    pd.Series(nodes)
+      .astype(str)
+      .str.strip()         
+      .str.replace("–", "-", regex=False)
+      .values
+    )
     
     #identify genes and metabolites
-    p_data = [(i, node_val) for i, node_val in enumerate(nodes) 
-                 if str(node_val).endswith("-P")]
-    f_data = [(i, node_val) for i, node_val in enumerate(nodes) 
-                       if not str(node_val).endswith("-P")]
+    p_data = [
+        (i, node_val)
+        for i, node_val in enumerate(nodes_clean)
+        if node_val.endswith("-P")
+    ]
+
+    f_data = [
+        (i, node_val)
+        for i, node_val in enumerate(nodes_clean)
+        if node_val.endswith("-F")
+    ]
+
     
     #get sample columns 
     mice = [col for col in data.columns if col != "ID"]
@@ -22,19 +38,29 @@ def compute_correlations(data, model_name):
     results = []
     
     for (p_idx, p_id), (f_idx, f_id) in pairs:
-        p_values = data.iloc[p_idx][mice].astype(float)
-        f_values = data.iloc[f_idx][mice].astype(float)
+        p_values = data.iloc[p_idx][mice].astype(float).to_numpy()
+        f_values = data.iloc[f_idx][mice].astype(float).to_numpy()
         
-        df = pd.DataFrame({'plasma_metabolite': p_values, 'feci_metabolite': f_values})
-        n = len(df)
-        
-        if n < 3:
-            corr, pval = np.nan, np.nan  
-        else:
-            corr, pval = stats.spearmanr(df['plasma_metabolite'], df['feci_metabolite'])
+        mask = ~np.isnan(p_values) & ~np.isnan(f_values)
+        p_masked = p_values[mask]
+        f_masked = f_values[mask]
+        n = mask.sum()
+
+
+        if n < 3: #if sample size is less than 3
+            corr, pval = np.nan, np.nan 
+        elif np.all(p_masked == p_masked[0]) or np.all(f_masked == f_masked[0]):
+            corr, pval = np.nan, np.nan
+        else: 
+            #print(f"{c_id} - {f_id}\n")
+
+            corr, pval = stats.spearmanr(p_masked, f_masked, nan_policy='omit')
+            
+            if abs(corr) == 1:
+                pval = 0
         
         results.append({
-            'plasma_metabolite': p_id, 
+            'pls_metabolite': p_id, 
             'feci_metabolite': f_id, 
             f'{model_name}_corr_coef': corr, 
             f'{model_name}_p-value': pval, 
@@ -43,21 +69,26 @@ def compute_correlations(data, model_name):
     
     return pd.DataFrame(results)
 
-#read data
-dss = pd.read_csv("merged_dss.csv")
-vecpac = pd.read_csv("merged_vecpac.csv")
-lps = pd.read_csv("merged_lps.csv")
-
 #compute correlations for each model separately
+dss = pd.read_csv("merged_dss.csv")
 dss_correlations = compute_correlations(dss, "DSS")
-vecpac_correlations = compute_correlations(vecpac, "VECPAC")
-lps_correlations = compute_correlations(lps, "LPS")
-
-#save individual model results
 dss_correlations.to_csv("DSS_correlations.csv", index=False)
-vecpac_correlations.to_csv("VECPAC_correlations.csv", index=False)
-lps_correlations.to_csv("LPS_correlations.csv", index=False)
+print("dss done")
 chime.success()
+
+lps = pd.read_csv("merged_lps.csv")
+lps_correlations = compute_correlations(lps, "LPS")
+lps_correlations.to_csv("LPS_correlations.csv", index=False)
+print("lps done")
+chime.success()
+
+
+vecpac = pd.read_csv("merged_vecpac.csv")
+vecpac_correlations = compute_correlations(vecpac, "VECPAC")
+vecpac_correlations.to_csv("VECPAC_correlations.csv", index=False)
+print("vecpac done")
+chime.success()
+
 
 # ============= POOLED CORRELATIONS =============#
 
@@ -79,4 +110,5 @@ all_data.to_csv("merged_all_data.csv", index=False)
 #compute pooled correlationss
 pooled_correlations = compute_correlations(all_data, "pooled")
 pooled_correlations.to_csv("pooled_correlations.csv", index=False)
+print("pooled done")
 chime.success()

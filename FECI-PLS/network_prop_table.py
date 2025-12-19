@@ -21,7 +21,7 @@ def nodes(df):
 
     unique_mets = set() 
 
-    unique_mets = set(df["plasma_metabolite"]).union(set(df["feci_metabolite"]))
+    unique_mets = set(df["pls_metabolite"]).union(set(df["feci_metabolite"]))
     total_nodes = len(unique_mets)
     
     # question: how to calculate positive and negative nodes, fix this lauren
@@ -79,7 +79,7 @@ def table_making(file, name):
         for j in fdr_p:
             return_table = pd.DataFrame()
             
-            for col in ["plasma_metabolite","feci_metabolite","VECPAC r","VECPAC p-values","VECPAC n",
+            for col in ["pls_metabolite","feci_metabolite","VECPAC r","VECPAC p-values","VECPAC n",
                         "DSS r","DSS p-values","DSS n","LPS r","LPS p-values","LPS n","Pooled r","Pooled p-values",
                         "Pooled n","Consistent","Sign","Pooled FDR"]:
                 file[col] = pd.to_numeric(file[col], errors="coerce")
