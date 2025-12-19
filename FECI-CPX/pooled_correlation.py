@@ -50,7 +50,7 @@ def compute_correlations(data, model_name):
             print(f"{c_id} - {f_id}\n")
             corr, pval = stats.spearmanr(df['cpx_gene'], df['feci_metabolite'], nan_policy='omit')
             
-            if (corr == 1 or corr == -1):
+            if corr == 1 or corr == -1:
                 pval = 0
         
         results.append({
