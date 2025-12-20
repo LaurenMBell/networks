@@ -21,25 +21,31 @@ def compute_correlations(data, model_name):
         
     results = []
     
-    for (met_idx, met_id), (gene_idx, gene_id) in pairs:
-        met_values = data.iloc[met_idx][mice].astype(float)
-        gene_values = data.iloc[gene_idx][mice].astype(float)
+    for (p_idx, p_id), (c_idx, c_id) in pairs:
+        p_values = data.iloc[p_idx][mice].astype(float).to_numpy()
+        c_values = data.iloc[c_idx][mice].astype(float).to_numpy()
         
-        df = pd.DataFrame({'metabolite': met_values, 'gene': gene_values})
-        #n = len(df) (~(a.isna() | b.isna())).sum()
-        n = (~(df["metabolite"].isna() | df["gene"].isna())).sum()
-        
-        if n < 3:
-            corr, pval = np.nan, np.nan  
-        else:
-            corr, pval = stats.spearmanr(df['metabolite'], df['gene'], nan_policy = 'omit') #two sided pval
+        mask = ~np.isnan(p_values) & ~np.isnan(c_values)
+        p_masked = p_values[mask]
+        c_masked = c_values[mask]
+        n = mask.sum()
+
+
+        if n < 3: #if sample size is less than 3
+            corr, pval = np.nan, np.nan 
+        elif np.all(p_masked == p_masked[0]) or np.all(c_masked == c_masked[0]):
+            corr, pval = np.nan, np.nan
+        else: 
+            #print(f"{c_id} - {f_id}\n")
+
+            corr, pval = stats.spearmanr(p_masked, c_masked, nan_policy='omit')
             
             if abs(corr) == 1:
                 pval = 0
         
         results.append({
-            'metabolite': met_id, 
-            'gene': gene_id, 
+            'cpx_gene': c_id, 
+            'pls_metabolite': p_id,
             f'{model_name}_corr_coef': corr, 
             f'{model_name}_p-value': pval, 
             f'{model_name}_n_samples': n
@@ -49,18 +55,21 @@ def compute_correlations(data, model_name):
 
 #read data
 dss = pd.read_csv("merged_dss.csv")
-vecpac = pd.read_csv("merged_vecpac.csv")
-lps = pd.read_csv("merged_lps.csv")
-
-#compute correlations for each model separately
 dss_correlations = compute_correlations(dss, "DSS")
-vecpac_correlations = compute_correlations(vecpac, "VECPAC")
-lps_correlations = compute_correlations(lps, "LPS")
-
-#save individual model results
 dss_correlations.to_csv("DSS_correlations.csv", index=False)
+print("dss done")
+chime.success()
+
+vecpac = pd.read_csv("merged_vecpac.csv")
+vecpac_correlations = compute_correlations(vecpac, "VECPAC")
 vecpac_correlations.to_csv("VECPAC_correlations.csv", index=False)
+print("vecpac done")
+chime.success()
+
+lps = pd.read_csv("merged_lps.csv")
+lps_correlations = compute_correlations(lps, "LPS")
 lps_correlations.to_csv("LPS_correlations.csv", index=False)
+print("lps done")
 chime.success()
 
 # ============= POOLED CORRELATIONS =============#
