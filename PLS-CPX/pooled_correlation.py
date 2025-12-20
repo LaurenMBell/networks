@@ -34,7 +34,7 @@ def compute_correlations(data, model_name):
         else:
             corr, pval = stats.spearmanr(df['metabolite'], df['gene'], nan_policy = 'omit') #two sided pval
             
-            if (corr == 1 or corr == -1):
+            if abs(corr) == 1:
                 pval = 0
         
         results.append({

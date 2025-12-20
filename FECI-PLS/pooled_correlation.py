@@ -35,8 +35,11 @@ def compute_correlations(data, model_name):
     #create all metabolite-gene pairs
     pairs = list(itertools.product(p_data, f_data))
         
+    #pairs = ['(2,2-Dimethyl-5-[2-(2-ethoxymethoxy)propyl][1,3]dioxolan-4-yl)methanol-F'), (1,'(7a-Isopropenyl-4,5-dimethyloctahydroinden-4-yl)methanol-P')]
+
     results = []
     
+    #for (p_idx, p_id), (f_idx, f_id) in pairs:
     for (p_idx, p_id), (f_idx, f_id) in pairs:
         p_values = data.iloc[p_idx][mice].astype(float).to_numpy()
         f_values = data.iloc[f_idx][mice].astype(float).to_numpy()
