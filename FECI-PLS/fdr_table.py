@@ -11,9 +11,9 @@ dss    = pd.read_csv("DSS_correlations.csv")
 pooled = pd.read_csv("pooled_correlations.csv")
 
 # get rid of the tissue flags for the edge table
-for df in [vecpac, lps, dss, pooled]: 
-    df.iloc[:, 0] = df.iloc[:, 0].astype(str).str.replace(r"-P$", "", regex=True)
-    df.iloc[:, 1] = df.iloc[:, 1].astype(str).str.replace(r"-F$", "", regex=True)
+#for df in [vecpac, lps, dss, pooled]: 
+    #df.iloc[:, 0] = df.iloc[:, 0].astype(str).str.replace(r"-P$", "", regex=True)
+    #df.iloc[:, 1] = df.iloc[:, 1].astype(str).str.replace(r"-F$", "", regex=True)
 
 #print(lps)
 #rename correlation & p-value columns
