@@ -28,11 +28,10 @@ def vote(G, neighbor, target):
 #G = [l0, l1, l2, l3...ln] = UNION OF ALL LAYERS
 
 def define_layers(G, l0, l1):
-    #function that returns a list of subnetwork objects [l0,l1,...ln] 
+    #function that returns a list of sets of nodes[l0,l1,...ln] 
     layers = [l0, l1]
 
     #something iterative needs to happen here
-    #G = nx.union(G, current_layer) 
 
     for layer in layers:
         if layer == l0:
@@ -46,18 +45,17 @@ def define_layers(G, l0, l1):
                     if neighbor not in l0:
                         next_layer.append(neighbor)
 
+            G = nx.union(G, next_layer) 
             layers.append(next_layer)
 
-
-
-    return layers
+    return G, layers
 
 
 def reverse_puc(G, ln, lm):
     #function to take each node in a layer and find directionality for it
 
     # MAKE EACH LAYER A SET THEN FIND THE NEIGHBORS OF EACH NODE BELONING TO THAT SET
-    for node in ln.nodes:
+    for node in ln:
         neighbors = list(G.neighbors(node))
         score = 0
 
@@ -106,11 +104,17 @@ after this works, find frustration
 """
         
 def main():
-    l0 = nx.Graph() #going to be the cpx nodes in pls-cpx
-    l1 = nx.Graph() #going to be pls nodes in pls-cpx
-    G = nx.union(l0, l1)
+    pls_cpx = pd.read_csv("PLS-CPX_FDR.csv")
+    pls = pd.read_csv("PLS_edges")
+    
+    l0 = set(pls_cpx['cpx_gene']) #going to be the cpx nodes in pls-cpx
+    l1 =  set(pls_cpx['pls_metabolite']) #going to be pls nodes in pls-cpx
 
-    layers = define_layers(G, l0, l1) #layers = list of subnetwork objects of G
+    
+
+    G = nx.union(l0, l1) #you need to redine G to inclue ALL edges 
+
+    G, layers = define_layers(G, l0, l1) #layers = list of subnetwork objects of G
 
     n = 0
     for layer in layers:
