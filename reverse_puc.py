@@ -1,5 +1,6 @@
 import networkx as nx
 import pandas as pd
+import matplotlib.pyplot as plt
 
 """
 1) define source of truth, 
@@ -30,36 +31,33 @@ def vote(G, neighbor, target):
 def define_layers(G, l0, l1):
     #function that returns a list of sets of nodes[l0,l1,...ln] 
     layers = [l0, l1]
+    visited = l0 | l1
 
-    #something iterative needs to happen here
+    while True:
+        current = layers[-1]
+        next_layer = set()
 
-    for layer in layers:
-        if layer == l0:
-            continue
-        else: #starting with l1
-            next_layer = []
+        for node in current:
+            neighbors = set(G.neighbors(node))
+            for neighbor in neighbors:
+                if neighbor not in visited:
+                    next_layer.add(neighbor)
 
-            for node in layer:
-                neighbors = list(G.neighbors(node))
-                for neighbor in neighbors:
-                    if neighbor not in l0:
-                        next_layer.append(neighbor)
+        if not next_layer:
+            break
 
-            G = nx.union(G, next_layer) 
-            layers.append(next_layer)
+        layers.append(next_layer)
+        visited |= next_layer
 
-    return G, layers
+    return layers
 
 
 def reverse_puc(G, ln, lm):
     #function to take each node in a layer and find directionality for it
+    to_remove = set() #list to collect nodes to remove instead of during iteration
 
-    # MAKE EACH LAYER A SET THEN FIND THE NEIGHBORS OF EACH NODE BELONING TO THAT SET
     for node in ln:
         neighbors = list(G.neighbors(node))
-        score = 0
-
-        #think of a better solution later 
         up = 0
         down = 0
 
@@ -71,9 +69,8 @@ def reverse_puc(G, ln, lm):
                     up += 1
                 if n_vote == -1:
                     down += 1
-                
-                score += n_vote
 
+        score = up - down
         if score < 0:
             G.nodes[node]['dir'] = -1
             f = up/(up+down)
@@ -81,46 +78,46 @@ def reverse_puc(G, ln, lm):
             G.nodes[node]['dir'] = 1
             f = down/(up+down)
         else: #score = 0, equal disagreement
-            G.remove_node(node)
+            to_remove.add(node)
+            continue
 
         if f >0.2: #if frustration is > 0.2, remove node
-            G.remove_node(node)
+            to_remove.add(node)
 
-    return ln
+    return ln - to_remove
 
-"""
-for every node in a layer:
-    find every connecting node in the previous layer (all edges in ln-1)
-
-    make each node vote and keep a running tally 
-
-    if the tally is 0, throw it out
-
-    if the tally is >0, the node is positive
-
-    if the tally is <0, the node is negative 
-
-after this works, find frustration
-"""
-        
-def main():
-    pls_cpx = pd.read_csv("PLS-CPX_FDR.csv")
-    pls = pd.read_csv("PLS_edges")
+def pls_cpx_rpuc():
+    print("started pls-cpx")
+    pls_cpx = pd.read_csv("PLS-CPX_edges.csv")
+    pls = pd.read_csv("PLS_edges.csv")
     
     l0 = set(pls_cpx['cpx_gene']) #going to be the cpx nodes in pls-cpx
     l1 =  set(pls_cpx['pls_metabolite']) #going to be pls nodes in pls-cpx
 
+    #you need to init 'dir' for all edges and nodes
+    G = nx.Graph()
+
+    for i, r in pls_cpx.iterrows():
+        G.add_edge(r["cpx_gene"], r["pls_metabolite"], dir=r["edge_dir"])
+    for i, r in pls.iterrows():
+        G.add_edge(r["n1"], r["n2"], dir=r["edge_dir"])
+
+    for node in G.nodes:
+        G.nodes[node]["dir"] = G.nodes[node].get("dir", 1)
+
+    layers = define_layers(G, l0, l1)
     
+    for i in range(1, len(layers)):
+        layers[i] = reverse_puc(G, layers[i], layers[i-1])
 
-    G = nx.union(l0, l1) #you need to redine G to inclue ALL edges 
+    #show the graph at the end
+    nx.draw(G, with_labels=True, font_weight='bold')
+    name = input("name the graph: ")
+    plt.savefig(f"{name}.png")
+    plt.show()
 
-    G, layers = define_layers(G, l0, l1) #layers = list of subnetwork objects of G
+def main():
+    pls_cpx_rpuc()
 
-    n = 0
-    for layer in layers:
-        if n == 0:
-            continue
-        else:
-            layer = reverse_puc(G, layer, layers[n-1])
-            n+=1
-    
+if __name__=="__main__":
+    main()
