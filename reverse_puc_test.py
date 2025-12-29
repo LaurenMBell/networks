@@ -13,7 +13,8 @@ def make_graph(votes):
     return G
 
 
-# test all node combos 
+# test all node combos
+#++++++++++++++++++++++++++++++++++++++++++++++++++++++
 def test_vote_up_up():
     G = nx.Graph()
     G.add_edge("A", "B", dir=1)
@@ -31,10 +32,10 @@ def test_vote_down_up():
     assert reverse_puc.vote(G, "A", "B") == -1
 def test_vote_down_down():
     G = nx.Graph()
-   
     G.add_edge("A", "B", dir=-1)
     G.nodes["A"]["dir"] = -1
     assert reverse_puc.vote(G, "A", "B") == 1
+#+++++++++++++++++++++++++++++++++++++++++++++++++
 
 
 def test_define_layers_straight():
@@ -150,7 +151,7 @@ def test_reverse_puc_frusteration_at_thresh():
 
 
 def test_reverse_puc_tie():
-    #ties should remove the node
+    #if score = 0, node should be removed
     G = make_graph([
         ("A", "X",  -1, -1),
         ("B", "X", -1,  1),

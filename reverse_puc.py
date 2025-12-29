@@ -111,10 +111,12 @@ def pls_cpx_rpuc():
         layers[i] = reverse_puc(G, layers[i], layers[i-1])
 
     #show the graph at the end
+    """
     nx.draw(G, with_labels=True, font_weight='bold')
     name = input("name the graph: ")
     plt.savefig(f"{name}.png")
-    plt.show()
+    plt.show() 
+    """
 
 def main():
     pls_cpx_rpuc()
