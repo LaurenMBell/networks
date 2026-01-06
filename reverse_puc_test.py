@@ -271,8 +271,8 @@ def test_full_1():
     assert G.nodes["K"]["dir"] == 1 
 
 
-def test_full_2():
-    #second big graph, 33 nodes and 5 layers, f thresh raised
+def test_full_2_high_f_thresh():
+    #second big graph, 33 nodes and 5 layers, f thresh =0.5
     G = make_graph([ 
         #L0 to L1
         ("AA", "V", 1, None, 1),
@@ -282,18 +282,17 @@ def test_full_2():
         ("AB", "V", 1, None, 1),
         ("AB", "W", 1, None, -1),
         ("AB", "X", 1, None, 1),
-        ("AB", "Y", 1, None, 1),
-        ("AC", "V", -1, None, 1),
+        ("AB", "Y", 1, None, -1),
         ("AC", "W", -1, None, 1),
         ("AC", "X", -1, None, -1),
         ("AC", "Y", -1, None, -1),
         ("AC", "Z", -1, None, -1),
         ("AD", "X", 1, None, -1),
-        ("AD", "Y", 1, None, -1),
+        ("AD", "Y", 1, None, 1),
         ("AD", "Z", 1, None, 1),
         ("AE", "X", -1, None, 1),
         ("AE", "Z", -1, None, -1),
-        ("AF", "Y", 1, None, -1),
+        ("AF", "Y", 1, None, 1),
         ("AF", "Z", 1, None, 1),
         ("AG", "Z", -1, None, 1),
 
@@ -311,10 +310,10 @@ def test_full_2():
         ("X", "Q", None, None, -1),
         ("X", "R", None, None, 1),
         ("X", "S", None, None, 1),
-        ("Y", "Q", None, None, -1),
+        ("Y", "Q", None, None, 1),
         ("Y", "R", None, None, -1),
         ("Y", "S", None, None, -1),
-        ("Y", "T", None, None, -1),
+        ("Y", "T", None, None, 1),
         ("Y", "U", None, None, -1),
         ("Z", "Q", None, None, 1),
         ("Z", "R", None, None, -1),
@@ -334,7 +333,7 @@ def test_full_2():
         ("P", "I", None, None, -1),
         ("P", "J", None, None, -1),
         ("P", "K", None, None, 1),
-        ("P", "L", None, None, 1),
+        ("P", "L", None, None, -1),
         ("P", "M", None, None, 1),
         ("Q", "J", None, None, 1),
         ("Q", "K", None, None, 1),
@@ -381,5 +380,36 @@ def test_full_2():
     assert(len(layers) == 5)
 
     for i in range(1, len(layers)):
+        print(f"\nLAYER: {i}")
         layers[i] = reverse_puc.reverse_puc(G, layers[i], layers[i-1], thresh = 0.5)
+        print(f"\nFINAL NODES IN LAYER {i}: {layers[i]}")
 
+    assert "A" not in G #tie
+    assert G.nodes["B"]["dir"] == 1 
+    assert G.nodes["C"]["dir"] == -1 
+    assert G.nodes["D"]["dir"] == -1 
+    assert G.nodes["E"]["dir"] == -1 
+    assert "F" not in G #tie
+    assert G.nodes["G"]["dir"] == -1 
+    assert G.nodes["H"]["dir"] == 1 
+    assert G.nodes["I"]["dir"] == 1 
+    assert G.nodes["J"]["dir"] == 1 
+    assert G.nodes["K"]["dir"] == -1 
+    assert G.nodes["L"]["dir"] == 1 
+    assert G.nodes["M"]["dir"] == -1 
+    assert G.nodes["N"]["dir"] == 1 
+    assert "O" not in G #tie 
+    assert G.nodes["P"]["dir"] == -1 
+    assert G.nodes["Q"]["dir"] == -1 
+    assert "R" not in G #tie
+    assert G.nodes["S"]["dir"] == -1 
+    assert G.nodes["T"]["dir"] == 1 
+    assert G.nodes["U"]["dir"] == -1 
+    assert G.nodes["V"]["dir"] == 1 
+    assert G.nodes["W"]["dir"] == -1 
+    assert G.nodes["X"]["dir"] == 1 
+    assert G.nodes["Y"]["dir"] == 1 
+    assert G.nodes["Z"]["dir"] == 1 
+
+    #assert "AG" not in G #should be removed even though its in L0
+    

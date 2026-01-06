@@ -62,9 +62,11 @@ def define_layers(G, l0, l1):
 def reverse_puc(G, ln, lm, thresh=0.2):
     #function to take each node in a layer and find directionality for it
     to_remove_nodes = set() #set to collect nodes to remove instead of during iteration
-    to_remove_edges = set()
+    #to_remove_edges = set()
 
     for node in ln:
+        print(f"NODE: {node}")
+
         up = 0
         up_e = []
         down = 0
@@ -82,8 +84,10 @@ def reverse_puc(G, ln, lm, thresh=0.2):
                     down_e.append(neighbor)
 
         score = up - down
+        print(f"SCORE: {score}")
         if score == 0: #tie
             to_remove_nodes.add(node)
+            print("score == 0, node to be removed")
             continue
         elif score < 0:
             dir = -1
@@ -91,6 +95,7 @@ def reverse_puc(G, ln, lm, thresh=0.2):
 
             for neighbor in up_e:
                 G.remove_edge(node, neighbor)
+                print(f"removing edge {node} - {neighbor}")
 
         elif score > 0:
             dir = 1
@@ -98,13 +103,16 @@ def reverse_puc(G, ln, lm, thresh=0.2):
 
             for neighbor in down_e:
                 G.remove_edge(node, neighbor)
+                print(f"removing edge {node} - {neighbor}")
 
         
 
         if f > thresh: #if frustration is > 0.2, remove node
             to_remove_nodes.add(node)
+            print("f > thresh, node to be removed")
         else:
             G.nodes[node]['dir'] = dir
+            print("node updated!")
 
         
     
