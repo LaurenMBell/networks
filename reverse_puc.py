@@ -2,6 +2,9 @@ import networkx as nx
 import pandas as pd
 import matplotlib.pyplot as plt
 
+
+#CAN THIS BE REWORKED WITH IGRAPH??
+
 """
 1) define source of truth, 
     
@@ -17,6 +20,10 @@ import matplotlib.pyplot as plt
 5) frustration = proportion of disagreements, if that proportion is >0.2, 
     remove the node
 """
+def assign_node_dir(df, node):
+    df[node]
+
+
 
 def vote(G, neighbor, target):
     #up = 1, down = -1
@@ -52,39 +59,58 @@ def define_layers(G, l0, l1):
     return layers
 
 
-def reverse_puc(G, ln, lm):
+def reverse_puc(G, ln, lm, thresh=0.2):
     #function to take each node in a layer and find directionality for it
-    to_remove = set() #list to collect nodes to remove instead of during iteration
+    to_remove_nodes = set() #set to collect nodes to remove instead of during iteration
+    to_remove_edges = set()
 
     for node in ln:
-        neighbors = list(G.neighbors(node))
         up = 0
+        up_e = []
         down = 0
+        down_e = []
 
-        for neighbor in neighbors:
+        for neighbor in G.neighbors(node):
             if neighbor in lm:
                 #every neighbor in lm should vote 
                 n_vote = vote(G, neighbor, node)
                 if n_vote == 1:
                     up += 1
+                    up_e.append(neighbor)
                 if n_vote == -1:
                     down += 1
+                    down_e.append(neighbor)
 
         score = up - down
-        if score < 0:
-            G.nodes[node]['dir'] = -1
-            f = up/(up+down)
-        elif score > 0:
-            G.nodes[node]['dir'] = 1
-            f = down/(up+down)
-        else: #score = 0, equal disagreement
-            to_remove.add(node)
+        if score == 0: #tie
+            to_remove_nodes.add(node)
             continue
+        elif score < 0:
+            dir = -1
+            f = up/(up+down)
 
-        if f >0.2: #if frustration is > 0.2, remove node
-            to_remove.add(node)
+            for neighbor in up_e:
+                G.remove_edge(node, neighbor)
 
-    return ln - to_remove
+        elif score > 0:
+            dir = 1
+            f = down/(up+down)
+
+            for neighbor in down_e:
+                G.remove_edge(node, neighbor)
+
+        
+
+        if f > thresh: #if frustration is > 0.2, remove node
+            to_remove_nodes.add(node)
+        else:
+            G.nodes[node]['dir'] = dir
+
+        
+    
+    G.remove_nodes_from(to_remove_nodes)
+
+    return ln - to_remove_nodes
 
 def pls_cpx_rpuc():
     print("started pls-cpx")
@@ -117,6 +143,12 @@ def pls_cpx_rpuc():
     plt.savefig(f"{name}.png")
     plt.show() 
     """
+
+def build_graph(edges):
+    G = nx.Graph()
+
+
+    return G
 
 def main():
     pls_cpx_rpuc()
