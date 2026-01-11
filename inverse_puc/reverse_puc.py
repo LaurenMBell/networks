@@ -1,11 +1,8 @@
 import networkx as nx
 import pandas as pd
 import matplotlib.pyplot as plt
-import igraph as ig
 import time
 
-
-#CAN THIS BE REWORKED WITH IGRAPH??
 
 """
 1) define source of truth, 
@@ -59,13 +56,13 @@ def define_layers(G, l0, l1):
     return layers
 
 
-def reverse_puc(G, ln, lm, f, thresh=0.2):
+def reverse_puc(G, ln, lm, f=None, thresh=0.2):
     #function to take each node in a layer and find directionality for it
     to_remove_nodes = set() #set to collect nodes to remove instead of during iteration
     #to_remove_edges = set()
 
     for node in ln:
-        f.write(f"NODE: {node}\n")
+        if f: f.write(f"NODE: {node}\n")
 
         up = 0
         up_e = []
@@ -84,10 +81,10 @@ def reverse_puc(G, ln, lm, f, thresh=0.2):
                     down_e.append(neighbor)
 
         score = up - down
-        f.write(f"SCORE: {score}\n")
+        if f: f.write(f"SCORE: {score}\n")
         if score == 0: #tie or no neighbors
             to_remove_nodes.add(node)
-            f.write("score == 0, node to be removed\n\n")
+            if f: f.write("score == 0, node to be removed\n\n")
             continue
         elif score < 0:
             dir = -1
@@ -95,7 +92,7 @@ def reverse_puc(G, ln, lm, f, thresh=0.2):
 
             for neighbor in up_e:
                 G.remove_edge(node, neighbor)
-                f.write(f"removing edge {node} - {neighbor}\n")
+                if f: f.write(f"removing edge {node} - {neighbor}\n")
 
         elif score > 0:
             dir = 1
@@ -103,16 +100,16 @@ def reverse_puc(G, ln, lm, f, thresh=0.2):
 
             for neighbor in down_e:
                 G.remove_edge(node, neighbor)
-                f.write(f"removing edge {node} - {neighbor}\n")
+                if f: f.write(f"removing edge {node} - {neighbor}\n")
 
         
 
         if frustration > thresh: #if frustration is > 0.2, remove node
             to_remove_nodes.add(node)
-            f.write("f > thresh, node to be removed\n\n")
+            if f: f.write("f > thresh, node to be removed\n\n")
         else:
             G.nodes[node]['dir'] = dir
-            f.write("node updated!\n\n")
+            if f: f.write("node updated!\n\n")
 
         
     
@@ -121,7 +118,7 @@ def reverse_puc(G, ln, lm, f, thresh=0.2):
     return ln - to_remove_nodes
 
 def pls_cpx_rpuc(f):
-    f.write(f"CURRENT TIME: {time.localtime}\n\n")
+    f.write(f"CURRENT TIME: {time.localtime()}\n\n")
     f.write("Started PLS-CPX!\n")
     pls_cpx = pd.read_csv("PLS-CPX_edges.csv")
     pls_cpx = pls_cpx[pls_cpx["Consistent"] == True]

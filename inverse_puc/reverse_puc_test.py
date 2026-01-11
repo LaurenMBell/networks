@@ -2,8 +2,6 @@ import pytest
 import networkx as nx
 import reverse_puc
 
-#CAN THIS BE REWORKED WITH IGRAPH??
-
 #func for making a graph for testing
 def make_graph(votes):
     #votes is a tuple (n1, n2, n1_dir, n2_dir, e_dir)
