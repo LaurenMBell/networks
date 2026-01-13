@@ -58,7 +58,7 @@ def define_layers(G, l0, l1):
     return layers
 
 
-def reverse_puc(G, ln, lm, f=None, thresh=0.2):
+def reverse_puc(G, ln, lm, f=None, thresh=0.2, first=False):
     #function to take each node in a layer and find directionality for it
     to_remove_nodes = set() #set to collect nodes to remove instead of during iteration
     #to_remove_edges = set()
@@ -70,9 +70,11 @@ def reverse_puc(G, ln, lm, f=None, thresh=0.2):
         up_e = []
         down = 0
         down_e = []
+        n_lm = []
 
         for neighbor in list(G.neighbors(node)):
             if neighbor in lm:
+                n_lm.append(neighbor)
                 #every neighbor in lm should vote 
                 n_vote = vote(G, neighbor, node)
                 if n_vote == 1:
@@ -84,9 +86,15 @@ def reverse_puc(G, ln, lm, f=None, thresh=0.2):
 
         score = up - down
         if f: f.write(f"SCORE: {score}\n")
+        if f: f.write(f"UP: {up}\n")
+        if f: f.write(f"DOWN: {down}\n")
         if score == 0: #tie or no neighbors
             to_remove_nodes.add(node)
             if f: f.write("score == 0, node to be removed\n\n")
+
+            if first: 
+                for n in n_lm:
+                    G.remove_edge(node, n)
             continue
         elif score < 0:
             dir = -1
@@ -108,14 +116,19 @@ def reverse_puc(G, ln, lm, f=None, thresh=0.2):
 
         if frustration > thresh: #if frustration is > 0.2, remove node
             to_remove_nodes.add(node)
-            if f: f.write("f > thresh, node to be removed\n\n")
+
+            if first: 
+                for n in n_lm:
+                    G.remove_edge(node, n)
+            if f: f.write(f"{frustration} > {thresh}, node to be removed\n\n")
         else:
             G.nodes[node]['dir'] = dir
             if f: f.write("node updated!\n\n")
 
         
     
-    G.remove_nodes_from(to_remove_nodes)
+    if not first: G.remove_nodes_from(to_remove_nodes)
+    
 
     return ln - to_remove_nodes
 
@@ -126,7 +139,7 @@ def pls_cpx_rpuc(f):
     pls_cpx = pls_cpx[pls_cpx["Pooled FDR"] <= 0.1]
 
     pls = pd.read_csv("PLS_edges.csv")
-    pls = pls[(pls["FDR"] <= 0.05) &(pls[["VECPAC r", "DSS r", "LPS r"]].abs().max(axis=1) <= 0.2)]
+    pls = pls[(pls["FDR"] <= 0.05) & (pls[["VECPAC p-values", "DSS p-values", "LPS p-values"]].abs().max(axis=1) <= 0.2)]
     cpx_node_dir = pd.read_csv("network_nodes.csv")
     
     l0 = set(pls_cpx['cpx_gene']) #going to be the cpx nodes in pls-cpx
@@ -152,12 +165,14 @@ def pls_cpx_rpuc(f):
     for i, r in pls.iterrows(): 
         G.add_edge(r["Metabolite 1"], r["Metabolite 2"], dir=r["edge_dir"])
 
+    l1 = reverse_puc(G, l1, l0, f, first=True)
+
     #define the rest of the graph
     layers = define_layers(G, l0, l1)
     
     #perform reverse_puc for all layers
-    for i in range(1, len(layers)):
-        layers[i] = reverse_puc(G, layers[i], layers[i-1], f)
+    for i in range(2, len(layers)):
+        layers[i] = reverse_puc(G, layers[i], layers[i-1], f, first=False)
 
     #to figure out later, it looks terrifying rn
     """
@@ -178,12 +193,13 @@ def pls_cpx_rpuc(f):
         edges.append({"n1": u,"n2": v,"edge_dir": d.get("dir", None)})
     pd.DataFrame(edges).to_csv("pls_cpx_rpuc_edges.csv", index=False)
     
+    """
     #save node table 
     nodes = []
     for n, d in G.nodes(data=True):
         if n not in l0:
             nodes.append({"node": n,"node_dir": G.nodes[n]["dir"]})
-    pd.DataFrame(nodes).to_csv("pls_rpuc_nodes.csv", index=False)
+    pd.DataFrame(nodes).to_csv("pls_rpuc_nodes.csv", index=False) """
     
 
 def build_graph(edges):
