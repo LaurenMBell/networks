@@ -3,6 +3,8 @@ import pandas as pd
 import matplotlib.pyplot as plt
 import time
 
+#predictr/predictdir
+#direction of change 
 
 """
 1) define source of truth, 
@@ -118,13 +120,13 @@ def reverse_puc(G, ln, lm, f=None, thresh=0.2):
     return ln - to_remove_nodes
 
 def pls_cpx_rpuc(f):
-    f.write(f"CURRENT TIME: {time.localtime()}\n\n")
+    f.write(time.strftime("CURRENT TIME: %Y-%m-%d %H:%M:%S\n\n"))
     f.write("Started PLS-CPX!\n")
     pls_cpx = pd.read_csv("PLS-CPX_edges.csv")
-    pls_cpx = pls_cpx[pls_cpx["Consistent"] == True]
+    pls_cpx = pls_cpx[pls_cpx["Pooled FDR"] <= 0.1]
 
     pls = pd.read_csv("PLS_edges.csv")
-    pls = pls[pls["Consistent?"] == True]
+    pls = pls[(pls["FDR"] <= 0.05) &(pls[["VECPAC r", "DSS r", "LPS r"]].abs().max(axis=1) <= 0.2)]
     cpx_node_dir = pd.read_csv("network_nodes.csv")
     
     l0 = set(pls_cpx['cpx_gene']) #going to be the cpx nodes in pls-cpx
