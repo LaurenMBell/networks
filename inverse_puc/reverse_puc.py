@@ -6,22 +6,6 @@ import time
 #predictr/predictdir
 #direction of change 
 
-"""
-1) define source of truth, 
-    
-    L0 = CPX NODES IN PLS-CPX NETWORK
-    L1 = PLS NODES IN PLS-CPX NETWORK
-
-2) for every node in Ln, every node that is directly connect to it that 
-    isn't already in Ln-1 makes up the set Ln+1
-3) Starting with L1, for each node X in set Ln, every node connected to it 
-    in Ln-1. 
-4) for each of those, they should vote on directionality with a sum mechanism
-5) edges to nodes that disagree with the majority are removed 
-5) frustration = proportion of disagreements, if that proportion is >0.2, 
-    remove the node
-"""
-
 def vote(G, neighbor, target):
     #up = 1, down = -1
     n_dir = G.nodes[neighbor]["dir"]
@@ -32,38 +16,27 @@ def vote(G, neighbor, target):
 
 #G = [l0, l1, l2, l3...ln] = UNION OF ALL LAYERS
 
-def define_layers(G, l0, l1):
-    #YOU COULD DO THIS WITHOUT PASSING IN L1!!
+def define_next_layer(G, ln, visited):
+    lm = set() #Ln+1
 
-    #function that returns a list of sets of nodes[l0,l1,...ln] 
-    layers = [l0, l1]
-    visited = l0 | l1
-
-    while True:
-        current = layers[-1]
-        next_layer = set()
-
-        for node in current:
-            neighbors = set(G.neighbors(node))
-            for neighbor in neighbors:
-                if neighbor not in visited:
-                    next_layer.add(neighbor)
-
-        if not next_layer: #end at the end of the graph
-            break
-
-        layers.append(next_layer)
-        visited |= next_layer # visited = visited | next_layer
-
-    return layers
+    for node in ln:
+        neighbors = set(G.neighbors(node))
+        for neighbor in neighbors:
+            if neighbor not in visited and neighbor not in ln: 
+                #SHOULD ONLY BE NEIGHBORS IN THE NEXT LAYER, NOT VISITED OR CURRENT LAYER
+                lm.add(neighbor)
+                
+    return lm
 
 
-def reverse_puc(G, ln, lm, f=None, thresh=0.2, first=False):
+def reverse_puc(G, ln, visited, f=None, thresh=0.2, first=False):
     #function to take each node in a layer and find directionality for it
     to_remove_nodes = set() #set to collect nodes to remove instead of during iteration
     #to_remove_edges = set()
 
-    for node in ln:
+    lm = define_next_layer(G, ln, visited)
+
+    for node in lm:
         if f: f.write(f"NODE: {node}\n")
 
         up = 0
@@ -73,9 +46,9 @@ def reverse_puc(G, ln, lm, f=None, thresh=0.2, first=False):
         n_lm = []
 
         for neighbor in list(G.neighbors(node)):
-            if neighbor in lm:
+            if neighbor in ln:
                 n_lm.append(neighbor)
-                #every neighbor in lm should vote 
+                #every neighbor in ln should vote 
                 n_vote = vote(G, neighbor, node)
                 if n_vote == 1:
                     up += 1
@@ -129,7 +102,7 @@ def reverse_puc(G, ln, lm, f=None, thresh=0.2, first=False):
 
     if not first: G.remove_nodes_from(to_remove_nodes)
 
-    return ln - to_remove_nodes
+    return lm - to_remove_nodes
 
 def pls_cpx_rpuc(f):
     f.write(time.strftime("CURRENT TIME: %Y-%m-%d %H:%M:%S\n\n"))
@@ -160,40 +133,33 @@ def pls_cpx_rpuc(f):
             G.nodes[node]["dir"] = dirs.get(node, None)
 
     #init edges for rest of PLS
-    #TO DO NEED TO DOUBLE CHECK POOLED R CALCULATIONS FOR PLS EDGES !!! DO NOT FORGET TO DO THIS
     for i, r in pls.iterrows(): 
         G.add_edge(r["Metabolite 1"], r["Metabolite 2"], dir=r["edge_dir"])
 
-    for n in G.neighbors("cis-4,5-Dihydroxy-o-dithiane, 2O-"):
-        print(f"BEFORE: {n}")
-        
-    l1 = reverse_puc(G, l1, l0, f, first=True)
 
-    for n in G.neighbors("cis-4,5-Dihydroxy-o-dithiane, 2O-"):
-        print(f"AFTER: {n}")
-
-    #define the rest of the graph
-    layers = define_layers(G, l0, l1)
-
-    for n in G.neighbors("cis-4,5-Dihydroxy-o-dithiane, 2O-e"):
-        print(f"AFTER AFTER: {n}")
-
-    for layer in layers:
-        f.write(str(layer))
-        f.write("\n\n\n")
+    # ==================== PERFORMING INVERSE PUC =====================================
+    # reverse_puc(G, ln, visited, f=None, thresh=0.2, first=False) -> lm - to_remove
     
-    #perform reverse_puc for all layers
-    for i in range(2, len(layers)):
-        layers[i] = reverse_puc(G, layers[i], layers[i-1], f, first=False)
+    # GET L1 FROM L0
+    visited = set(l0)
 
-    #to figure out later, it looks terrifying rn
-    """
-    #show the graph at the end
-    nx.draw(G, with_labels=True, font_weight='bold')
-    name = input("name the graph: ")
-    plt.savefig(f"{name}.png")
-    plt.show() 
-    """ 
+    l1 = reverse_puc(G, l0, visited, f, first=True)
+
+    visited |= l1 #visited = visited | l1
+
+    layers = [set(l0), set(l1)] #list of sets of nodes
+
+    ln = l1
+
+    while True:
+        lm = reverse_puc(G, ln, visited, f, first=False) #START WiTH L1 AS PLS 'L0'
+        if not lm:
+            #end of network
+            break
+
+        layers.append(lm)
+        visited |= lm
+        ln = lm #ln+1
 
     f.write("FINAL NETWORK NODES:\n")
 
@@ -224,12 +190,6 @@ def pls_cpx_rpuc(f):
             except:
                 print(f"{n} - no dir\n")
     pd.DataFrame(nodes).to_csv("pls_rpuc_nodes.csv", index=False) 
-    
-
-def build_graph(edges):
-    #function to make a graph from input edge table, and define L0 
-    G = nx.Graph() #clearly just do this later 
-    return G
 
 def main():
     f = open("report.txt", 'w')
