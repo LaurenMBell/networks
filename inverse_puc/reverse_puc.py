@@ -191,9 +191,99 @@ def pls_cpx_rpuc(f):
                 print(f"{n} - no dir\n")
     pd.DataFrame(nodes).to_csv("pls_rpuc_nodes.csv", index=False) 
 
+def feci_cpx_rpuc(f):
+    f.write(time.strftime("CURRENT TIME: %Y-%m-%d %H:%M:%S\n\n"))
+    f.write("Started FECI-CPX!\n")
+    pls_cpx = pd.read_csv("FECI-CPX_edges.csv")
+    pls_cpx = pls_cpx[pls_cpx["Pooled FDR"] <= 0.1]
+
+    pls = pd.read_csv("FECI_edges.csv")
+    pls = pls[(pls["FDR"] <= 0.05) & (pls[["VECPAC p-values", "DSS p-values", "LPS p-values"]].abs().max(axis=1) <= 0.2)]
+    cpx_node_dir = pd.read_csv("network_nodes.csv")
+    
+    l0 = set(pls_cpx['cpx_gene']) #going to be the cpx nodes in feci-cpx
+    l1 =  set(pls_cpx['feci_metabolite']) #going to be feci nodes in feci-cpx
+
+    #node direction hash table (gene:dir)
+    dirs = dict(zip(cpx_node_dir["ID"], cpx_node_dir["Mean Log2 Fold Change Direction (DSS)"]))
+
+    #init dir for all edges and cpx nodes
+    G = nx.Graph()
+
+    #init L0 and L1 from the FECI-CPX file
+    for i, r in pls_cpx.iterrows():
+        G.add_edge(r["cpx_gene"], r["feci_metabolite"], dir=r["edge_dir"]) 
+
+    #add node DOC from netwrok_nodes
+    for node in G.nodes: 
+        if node in l0:
+            G.nodes[node]["dir"] = dirs.get(node, None)
+
+    #init edges for rest of feces
+    for i, r in pls.iterrows(): 
+        G.add_edge(r["Metabolite 1"], r["Metabolite 2"], dir=r["edge_dir"])
+
+
+    # ==================== PERFORMING INVERSE PUC =====================================
+    # reverse_puc(G, ln, visited, f=None, thresh=0.2, first=False) -> lm - to_remove
+    
+    # GET L1 FROM L0
+    visited = set(l0)
+
+    l1 = reverse_puc(G, l0, visited, f, first=True)
+
+    visited |= l1 #visited = visited | l1
+
+    layers = [set(l0), set(l1)] #list of sets of nodes
+
+    ln = l1
+
+    while True:
+        lm = reverse_puc(G, ln, visited, f, first=False) #START WiTH L1 AS FECI 'L0'
+        if not lm:
+            #end of network
+            break
+
+        layers.append(lm)
+        visited |= lm
+        ln = lm #ln+1
+
+    f.write("FINAL NETWORK NODES:\n")
+
+    to_rmv = []
+    for node in G.nodes:
+        if "dir" not in G.nodes[node]:
+            to_rmv.append(node)
+        
+    for n in to_rmv:
+        G.remove_node(n)
+
+    for node in G.nodes:
+        f.write(f"{node}: {G.nodes[node]}\n")
+
+    #save edge table 
+    edges = []
+    for u, v, d in G.edges(data=True):
+        edges.append({"n1": u,"n2": v,"edge_dir": d.get("dir", None)})
+    pd.DataFrame(edges).to_csv("feci_cpx_rpuc_edges.csv", index=False)
+    
+    
+    #save node table 
+    nodes = []
+    for n, d in G.nodes(data=True):
+        if n not in l0:
+            try:
+                nodes.append({"node": n,"node_dir": G.nodes[n]["dir"]})
+            except:
+                print(f"{n} - no dir\n")
+    pd.DataFrame(nodes).to_csv("feci_rpuc_nodes.csv", index=False) 
+
 def main():
-    f = open("report.txt", 'w')
+    f = open("pls_report.txt", 'w')
     pls_cpx_rpuc(f)
+
+    f = open("feci_report.txt", 'w')
+    feci_cpx_rpuc(f)
 
 if __name__=="__main__":
     main()
