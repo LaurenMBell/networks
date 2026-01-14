@@ -89,6 +89,7 @@ def reverse_puc(G, ln, lm, f=None, thresh=0.2, first=False):
         if f: f.write(f"UP: {up}\n")
         if f: f.write(f"DOWN: {down}\n")
         if score == 0: #tie or no neighbors
+            frustration = None
             to_remove_nodes.add(node)
             if f: f.write("score == 0, node to be removed\n\n")
 
@@ -102,6 +103,7 @@ def reverse_puc(G, ln, lm, f=None, thresh=0.2, first=False):
 
             for neighbor in up_e:
                 G.remove_edge(node, neighbor)
+                n_lm.remove(neighbor)
                 if f: f.write(f"removing edge {node} - {neighbor}\n")
 
         elif score > 0:
@@ -110,25 +112,22 @@ def reverse_puc(G, ln, lm, f=None, thresh=0.2, first=False):
 
             for neighbor in down_e:
                 G.remove_edge(node, neighbor)
+                n_lm.remove(neighbor)
                 if f: f.write(f"removing edge {node} - {neighbor}\n")
 
-        
+        if frustration is not None:
+            if frustration > thresh: #if frustration is > 0.2, remove node
+                to_remove_nodes.add(node)
 
-        if frustration > thresh: #if frustration is > 0.2, remove node
-            to_remove_nodes.add(node)
+                if first: 
+                    for n in n_lm:
+                        G.remove_edge(node, n)
+                if f: f.write(f"{frustration} > {thresh}, node to be removed\n\n")
+            else:
+                G.nodes[node]['dir'] = dir
+                if f: f.write("node updated!\n\n")
 
-            if first: 
-                for n in n_lm:
-                    G.remove_edge(node, n)
-            if f: f.write(f"{frustration} > {thresh}, node to be removed\n\n")
-        else:
-            G.nodes[node]['dir'] = dir
-            if f: f.write("node updated!\n\n")
-
-        
-    
     if not first: G.remove_nodes_from(to_remove_nodes)
-    
 
     return ln - to_remove_nodes
 
@@ -165,10 +164,23 @@ def pls_cpx_rpuc(f):
     for i, r in pls.iterrows(): 
         G.add_edge(r["Metabolite 1"], r["Metabolite 2"], dir=r["edge_dir"])
 
+    for n in G.neighbors("cis-4,5-Dihydroxy-o-dithiane, 2O-"):
+        print(f"BEFORE: {n}")
+        
     l1 = reverse_puc(G, l1, l0, f, first=True)
+
+    for n in G.neighbors("cis-4,5-Dihydroxy-o-dithiane, 2O-"):
+        print(f"AFTER: {n}")
 
     #define the rest of the graph
     layers = define_layers(G, l0, l1)
+
+    for n in G.neighbors("cis-4,5-Dihydroxy-o-dithiane, 2O-e"):
+        print(f"AFTER AFTER: {n}")
+
+    for layer in layers:
+        f.write(str(layer))
+        f.write("\n\n\n")
     
     #perform reverse_puc for all layers
     for i in range(2, len(layers)):
@@ -184,6 +196,15 @@ def pls_cpx_rpuc(f):
     """ 
 
     f.write("FINAL NETWORK NODES:\n")
+
+    to_rmv = []
+    for node in G.nodes:
+        if "dir" not in G.nodes[node]:
+            to_rmv.append(node)
+        
+    for n in to_rmv:
+        G.remove_node(n)
+
     for node in G.nodes:
         f.write(f"{node}: {G.nodes[node]}\n")
 
@@ -193,13 +214,16 @@ def pls_cpx_rpuc(f):
         edges.append({"n1": u,"n2": v,"edge_dir": d.get("dir", None)})
     pd.DataFrame(edges).to_csv("pls_cpx_rpuc_edges.csv", index=False)
     
-    """
+    
     #save node table 
     nodes = []
     for n, d in G.nodes(data=True):
         if n not in l0:
-            nodes.append({"node": n,"node_dir": G.nodes[n]["dir"]})
-    pd.DataFrame(nodes).to_csv("pls_rpuc_nodes.csv", index=False) """
+            try:
+                nodes.append({"node": n,"node_dir": G.nodes[n]["dir"]})
+            except:
+                print(f"{n} - no dir\n")
+    pd.DataFrame(nodes).to_csv("pls_rpuc_nodes.csv", index=False) 
     
 
 def build_graph(edges):
@@ -213,3 +237,6 @@ def main():
 
 if __name__=="__main__":
     main()
+
+
+# L-LEUCINE SHOULD BE IN FINAL NETWORK 
