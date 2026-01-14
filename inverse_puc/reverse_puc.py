@@ -111,7 +111,7 @@ def pls_cpx_rpuc(f):
     pls_cpx = pls_cpx[pls_cpx["Pooled FDR"] <= 0.1]
 
     pls = pd.read_csv("PLS_edges.csv")
-    pls = pls[(pls["FDR"] <= 0.05) & (pls[["VECPAC p-values", "DSS p-values", "LPS p-values"]].abs().max(axis=1) <= 0.2)]
+    pls = pls[(pls["FDR"] <= 0.05) & (pls[["VECPAC p-values", "DSS p-values", "LPS p-values"]].max(axis=1) <= 0.2)]
     cpx_node_dir = pd.read_csv("network_nodes.csv")
     
     l0 = set(pls_cpx['cpx_gene']) #going to be the cpx nodes in pls-cpx

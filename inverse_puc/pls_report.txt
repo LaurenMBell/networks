@@ -1,65 +1,90 @@
-CURRENT TIME: 2026-01-14 14:30:15
+CURRENT TIME: 2026-01-14 14:36:58
 
 Started PLS-CPX!
-NODE: Allylescaline 
-SCORE: -1
+NODE: Indole-3-lactic acid
+SCORE: -2
 UP: 0
-DOWN: 1
+DOWN: 2
 node updated!
 
-NODE: 2,5-Cyclohexadiene-1,4-dione, 2,6-bis(1,1-dimethylethyl)-
-SCORE: 2
+NODE: 6-Methoxy-1-methyl-1,2,3,4-tetrahydroisoquinolin-7-ol 
+SCORE: 1
 UP: 2
-DOWN: 0
-node updated!
-
-NODE: 3-Hydroxyisovaleric acid
-SCORE: -2
-UP: 0
-DOWN: 2
-node updated!
-
-NODE: (9H-fluoren-9-yl)methanol, O-methoxycarbonyl-
-SCORE: -2
-UP: 0
-DOWN: 2
-node updated!
-
-NODE: Uracil
-SCORE: -1
-UP: 0
 DOWN: 1
-node updated!
-
-NODE: N-Isovaleroylglycine
-SCORE: -2
-UP: 0
-DOWN: 2
-node updated!
-
-NODE: Arabinofuranose, 1,2,3,5-tetrakis-O-
-SCORE: -1
-UP: 1
-DOWN: 2
-removing edge Arabinofuranose, 1,2,3,5-tetrakis-O- - ENSMUSG00000038827-P
+removing edge 6-Methoxy-1-methyl-1,2,3,4-tetrahydroisoquinolin-7-ol  - ENSMUSG00000038084-P
 0.3333333333333333 > 0.2, node to be removed
 
-NODE: D-Arabinose
-SCORE: 0
-UP: 1
-DOWN: 1
-score == 0, node to be removed
-
-NODE: Propanoic acid, 2-methyl-
+NODE: 2-Ketoisocaproic acid
 SCORE: 1
 UP: 1
 DOWN: 0
 node updated!
 
-NODE: Cyclobutanol
+NODE: Benzyl alcohol
+SCORE: 1
+UP: 1
+DOWN: 0
+node updated!
+
+NODE: 1,2-Benzenedicarboxylic acid
+SCORE: 1
+UP: 1
+DOWN: 0
+node updated!
+
+NODE: L-Glutamine
+SCORE: -1
+UP: 1
+DOWN: 2
+removing edge L-Glutamine - ENSMUSG00000098113-P
+0.3333333333333333 > 0.2, node to be removed
+
+NODE: Dodecylcyclohexane
+SCORE: -7
+UP: 0
+DOWN: 7
+node updated!
+
+NODE: 4-Hydroxyphenyllactic acid
+SCORE: -2
+UP: 0
+DOWN: 2
+node updated!
+
+NODE: D-(+)-Talofuranose, pentakis
+SCORE: 2
+UP: 2
+DOWN: 0
+node updated!
+
+NODE: Butylated Hydroxytoluene
+SCORE: -4
+UP: 0
+DOWN: 4
+node updated!
+
+NODE: 1,2-Butadiene, 1,1,4-triphenyl-3-trimethylsilyl-4-trimethylsilyloxy-
 SCORE: -1
 UP: 0
 DOWN: 1
+node updated!
+
+NODE: Ser-Leu
+SCORE: 1
+UP: 1
+DOWN: 0
+node updated!
+
+NODE: Carfentrazone-ethyl
+SCORE: 1
+UP: 1
+DOWN: 0
+node updated!
+
+NODE: 2-Amino-4-methylphenol
+SCORE: -5
+UP: 0
+DOWN: 5
 node updated!
 
 NODE: Propiophenone, 3',4'-dimethoxy-
@@ -68,25 +93,81 @@ UP: 1
 DOWN: 0
 node updated!
 
-NODE: 3,5-Dimethyl-1,4-diallylpyrazole
-SCORE: 0
-UP: 1
-DOWN: 1
-score == 0, node to be removed
-
-NODE: L-Hydroxyproline
-SCORE: -2
+NODE: D-Isoleucine, N-acetyl-
+SCORE: -1
 UP: 0
-DOWN: 2
+DOWN: 1
 node updated!
 
-NODE: Tributyl acetylcitrate
-SCORE: 3
-UP: 3
+NODE: D-Mannose
+SCORE: -3
+UP: 1
+DOWN: 4
+removing edge D-Mannose - ENSMUSG00000020308-P
+node updated!
+
+NODE: Xylazine
+SCORE: -1
+UP: 0
+DOWN: 1
+node updated!
+
+NODE: N,O-Bis(trimethylsilyl)carbamate
+SCORE: -6
+UP: 0
+DOWN: 6
+node updated!
+
+NODE: DL-Glyceraldehyde
+SCORE: -9
+UP: 0
+DOWN: 9
+node updated!
+
+NODE: 2-Aminobutanoic acid
+SCORE: 1
+UP: 1
 DOWN: 0
 node updated!
 
-NODE: Inosose-2, 1,3,4,5,6-pentakis-
+NODE: Octan-2-yl palmitate
+SCORE: 2
+UP: 2
+DOWN: 0
+node updated!
+
+NODE: Furan, 2-pentyl-
+SCORE: -1
+UP: 0
+DOWN: 1
+node updated!
+
+NODE: Myristic acid
+SCORE: -1
+UP: 0
+DOWN: 1
+node updated!
+
+NODE: Cyclo-(l-leucyl-l-phenylalanyl) 
+SCORE: 2
+UP: 2
+DOWN: 0
+node updated!
+
+NODE: 3-Methylpiperazine-2,5-dione, (R)-
+SCORE: -2
+UP: 1
+DOWN: 3
+removing edge 3-Methylpiperazine-2,5-dione, (R)- - ENSMUSG00000056735-P
+0.25 > 0.2, node to be removed
+
+NODE: Tacrine, N-trimethylsilyl-
+SCORE: -1
+UP: 0
+DOWN: 1
+node updated!
+
+NODE: Glycine, N-(1-oxobutyl)-
 SCORE: -3
 UP: 0
 DOWN: 3
@@ -100,23 +181,10 @@ removing edge Propanoic acid, 2-oxo- - ENSMUSG00000032238-P
 removing edge Propanoic acid, 2-oxo- - ENSMUSG00000031079-P
 0.4 > 0.2, node to be removed
 
-NODE: 1-Octene, 2-methyl-
-SCORE: 0
+NODE: Doconexent
+SCORE: 1
 UP: 1
-DOWN: 1
-score == 0, node to be removed
-
-NODE: 1-Butanamine, N,N-diethyl-
-SCORE: -5
-UP: 1
-DOWN: 6
-removing edge 1-Butanamine, N,N-diethyl- - ENSMUSG00000030703-P
-node updated!
-
-NODE: Pipecolic acid
-SCORE: -2
-UP: 0
-DOWN: 2
+DOWN: 0
 node updated!
 
 NODE: Methyl-3-methoxy-5-methyl benzoate
@@ -125,24 +193,17 @@ UP: 0
 DOWN: 3
 node updated!
 
-NODE: Hydroquinidine
-SCORE: -1
+NODE: 2,6-Bis[2-[2-S-thiosulfuroethylamino]ethoxy]pyrazine
+SCORE: -2
 UP: 0
-DOWN: 1
+DOWN: 2
 node updated!
 
-NODE: Ethanone, 1-(5-methoxy-2-methyl-3(1H)-indolyl)-
-SCORE: -1
-UP: 0
-DOWN: 1
+NODE: Thiazolo[4,5-f]quinoline, 2,9-dimethyl-
+SCORE: 1
+UP: 1
+DOWN: 0
 node updated!
-
-NODE: 2-Oxooctanoic acid
-SCORE: 2
-UP: 3
-DOWN: 1
-removing edge 2-Oxooctanoic acid - ENSMUSG00000031511-P
-0.25 > 0.2, node to be removed
 
 NODE: N-(Trimethylsilyl)hexanamide
 SCORE: -1
@@ -150,52 +211,109 @@ UP: 0
 DOWN: 1
 node updated!
 
-NODE: L-Asparagine
-SCORE: -2
-UP: 0
-DOWN: 2
-node updated!
-
-NODE: Doconexent
+NODE: Phosalone
 SCORE: 1
 UP: 1
 DOWN: 0
 node updated!
 
-NODE: 2,6-Bis[2-[2-S-thiosulfuroethylamino]ethoxy]pyrazine
-SCORE: -2
-UP: 0
-DOWN: 2
+NODE: Benzene, 1-acetoxy-2,6-dimethoxy-4-(2-propenyl)-
+SCORE: 3
+UP: 3
+DOWN: 0
 node updated!
 
-NODE: Acetoacetic acid
-SCORE: -1
-UP: 0
+NODE: 3,5-Dimethyl-1,4-diallylpyrazole
+SCORE: 0
+UP: 1
 DOWN: 1
+score == 0, node to be removed
+
+NODE: 2-Hydroxybutyric acid
+SCORE: 5
+UP: 6
+DOWN: 1
+removing edge 2-Hydroxybutyric acid - ENSMUSG00000025231-P
 node updated!
 
-NODE: Octane, 1-propoxy-
-SCORE: 1
-UP: 1
-DOWN: 0
-node updated!
-
-NODE: 2-Aminobutanoic acid
-SCORE: 1
-UP: 1
-DOWN: 0
-node updated!
-
-NODE: 1-Phenyl-1,2-ethanediol
-SCORE: -2
-UP: 0
-DOWN: 2
-node updated!
-
-NODE: 3-Indoleacetic acid
+NODE: 2-(Decanoyloxy)propane-1,3-diyl dioctanoate
 SCORE: -6
 UP: 0
 DOWN: 6
+node updated!
+
+NODE: 2,5-di-tert-Butyl-1,4-benzoquinone
+SCORE: 1
+UP: 1
+DOWN: 0
+node updated!
+
+NODE: Benzeneethanamine, N-[(pentafluorophenyl)methylene]-4-[(trimethylsilyl)oxy]-
+SCORE: 1
+UP: 1
+DOWN: 0
+node updated!
+
+NODE: 1-Butanamine, N,N-diethyl-
+SCORE: -5
+UP: 1
+DOWN: 6
+removing edge 1-Butanamine, N,N-diethyl- - ENSMUSG00000030703-P
+node updated!
+
+NODE: N-(Trifluoroacetyl)-N,O,O'-tris(trimethylsilyl)normetanephrine
+SCORE: 0
+UP: 2
+DOWN: 2
+score == 0, node to be removed
+
+NODE: Butanedioic acid
+SCORE: -2
+UP: 1
+DOWN: 3
+removing edge Butanedioic acid - ENSMUSG00000017314-P
+0.25 > 0.2, node to be removed
+
+NODE: Nonadecanoic acid
+SCORE: -2
+UP: 0
+DOWN: 2
+node updated!
+
+NODE: 2-(2,5-Dimethoxy-phenyl)-propionaldehyde
+SCORE: 1
+UP: 1
+DOWN: 0
+node updated!
+
+NODE: 4-(Methoxycarbonyl)phenol
+SCORE: 1
+UP: 1
+DOWN: 0
+node updated!
+
+NODE: 4-Methylvaleric acid
+SCORE: 0
+UP: 1
+DOWN: 1
+score == 0, node to be removed
+
+NODE: L-Alanine
+SCORE: 1
+UP: 1
+DOWN: 0
+node updated!
+
+NODE: 3-Amino-2-piperidone
+SCORE: -2
+UP: 0
+DOWN: 2
+node updated!
+
+NODE: (CH3)2C=NC2H558
+SCORE: 1
+UP: 1
+DOWN: 0
 node updated!
 
 NODE: 9-Hexadecenoic acid
@@ -204,53 +322,364 @@ UP: 1
 DOWN: 0
 node updated!
 
-NODE: 3-Buten-2-one, 4-(4-methoxyphenyl)-
-SCORE: 1
-UP: 1
-DOWN: 0
-node updated!
-
-NODE: N,N-Dimethyl-2-cyclohexyloxyethylamine
-SCORE: -5
-UP: 1
-DOWN: 6
-removing edge N,N-Dimethyl-2-cyclohexyloxyethylamine - ENSMUSG00000038827-P
-node updated!
-
-NODE: Myristic acid
+NODE: Uracil
 SCORE: -1
 UP: 0
 DOWN: 1
 node updated!
 
-NODE: 1,3,5-Trimethyl-1H-pyrazol-4-amine
+NODE: Phenoxyacetic acid
+SCORE: -2
+UP: 0
+DOWN: 2
+node updated!
+
+NODE: beta-Lyxopyranose
+SCORE: -9
+UP: 1
+DOWN: 10
+removing edge beta-Lyxopyranose - ENSMUSG00000022427-P
+node updated!
+
+NODE: 3-Methyladenine
 SCORE: 1
 UP: 2
 DOWN: 1
-removing edge 1,3,5-Trimethyl-1H-pyrazol-4-amine - ENSMUSG00000038545-P
+removing edge 3-Methyladenine - ENSMUSG00000013858-P
 0.3333333333333333 > 0.2, node to be removed
 
-NODE: 3'-(Trimethylsilyl)oxy-beta-naphthoflavone
-SCORE: 3
-UP: 4
-DOWN: 1
-removing edge 3'-(Trimethylsilyl)oxy-beta-naphthoflavone - ENSMUSG00000020297-P
+NODE: 3-Hydroxy-2,3-dihydromaltol
+SCORE: -3
+UP: 0
+DOWN: 3
 node updated!
 
-NODE: 1-Propanamine, N,N-diethyl- 
-SCORE: -2
-UP: 1
-DOWN: 3
-removing edge 1-Propanamine, N,N-diethyl-  - ENSMUSG00000046711-P
-0.25 > 0.2, node to be removed
-
-NODE: Acetamide, 2,2,2-trifluoro-
+NODE: 9H-Fluorene, 9-methylene-
 SCORE: 0
 UP: 1
 DOWN: 1
 score == 0, node to be removed
 
+NODE: Hydroquinone
+SCORE: 1
+UP: 1
+DOWN: 0
+node updated!
+
+NODE: L-Isoleucine
+SCORE: -1
+UP: 0
+DOWN: 1
+node updated!
+
+NODE: Phenylalanine
+SCORE: -2
+UP: 0
+DOWN: 2
+node updated!
+
+NODE: (9H-fluoren-9-yl)methanol, O-methoxycarbonyl-
+SCORE: -2
+UP: 0
+DOWN: 2
+node updated!
+
+NODE: Hydroquinidine
+SCORE: -1
+UP: 0
+DOWN: 1
+node updated!
+
 NODE: Glyoxime
+SCORE: -1
+UP: 0
+DOWN: 1
+node updated!
+
+NODE: Nonanoic acid
+SCORE: 0
+UP: 1
+DOWN: 1
+score == 0, node to be removed
+
+NODE: Erythrono-1,4-lactone, (Z)-
+SCORE: -3
+UP: 1
+DOWN: 4
+removing edge Erythrono-1,4-lactone, (Z)- - ENSMUSG00000022427-P
+node updated!
+
+NODE: 6,7,4'-Trihydroxyisoflavone
+SCORE: -8
+UP: 0
+DOWN: 8
+node updated!
+
+NODE: Glycine, N-(N-DL-leucylglycyl)-
+SCORE: -1
+UP: 0
+DOWN: 1
+node updated!
+
+NODE: 13-Docosenamide
+SCORE: 1
+UP: 1
+DOWN: 0
+node updated!
+
+NODE: Dinoseb 
+SCORE: -10
+UP: 0
+DOWN: 10
+node updated!
+
+NODE: Deoxycholic Acid
+SCORE: -2
+UP: 0
+DOWN: 2
+node updated!
+
+NODE: Morpholine, 4-[2,3,4,6-tetrakis-O-(trimethylsilyl)-alpha-d-mannopyranosyl]-
+SCORE: 3
+UP: 3
+DOWN: 0
+node updated!
+
+NODE: Triethanolamine
+SCORE: -7
+UP: 1
+DOWN: 8
+removing edge Triethanolamine - ENSMUSG00000105302-P
+node updated!
+
+NODE: beta-D-Galactofuranose, 1,2,3,5,6-pentakis-O-(trimethylsilyl)-
+SCORE: -2
+UP: 0
+DOWN: 2
+node updated!
+
+NODE: 1-Phenethylamine
+SCORE: -2
+UP: 0
+DOWN: 2
+node updated!
+
+NODE: 2-Acetyl-5-chloro-3-methylbenzo(b)thiophene
+SCORE: -5
+UP: 2
+DOWN: 7
+removing edge 2-Acetyl-5-chloro-3-methylbenzo(b)thiophene - ENSMUSG00000004895-P
+removing edge 2-Acetyl-5-chloro-3-methylbenzo(b)thiophene - ENSMUSG00000051074-P
+0.2222222222222222 > 0.2, node to be removed
+
+NODE: 2,2,4-Trimethyl-1,3-pentanediol diisobutyrate
+SCORE: -1
+UP: 0
+DOWN: 1
+node updated!
+
+NODE: Nonanal
+SCORE: -2
+UP: 1
+DOWN: 3
+removing edge Nonanal - ENSMUSG00000010607-P
+0.25 > 0.2, node to be removed
+
+NODE: N-Isovaleroylglycine
+SCORE: -2
+UP: 0
+DOWN: 2
+node updated!
+
+NODE: Octane, 1-propoxy-
+SCORE: 1
+UP: 1
+DOWN: 0
+node updated!
+
+NODE: 12-Oxooctadecanoate
+SCORE: -8
+UP: 0
+DOWN: 8
+node updated!
+
+NODE: Isonicotinic Acid
+SCORE: 0
+UP: 2
+DOWN: 2
+score == 0, node to be removed
+
+NODE: Latanoprost lactone diol
+SCORE: 1
+UP: 1
+DOWN: 0
+node updated!
+
+NODE: Methylmalonic monoamide
+SCORE: -6
+UP: 0
+DOWN: 6
+node updated!
+
+NODE: Cyclopentanone, 2,2,4-trimethyl-
+SCORE: -4
+UP: 0
+DOWN: 4
+node updated!
+
+NODE: beta-D-Glucopyranose
+SCORE: 0
+UP: 1
+DOWN: 1
+score == 0, node to be removed
+
+NODE: 2,2-Diallylpyrrolidine
+SCORE: -2
+UP: 0
+DOWN: 2
+node updated!
+
+NODE: 1,5-Anhydroglucitol
+SCORE: 1
+UP: 1
+DOWN: 0
+node updated!
+
+NODE: 2-Heptanone, 4,6-dimethyl-
+SCORE: -5
+UP: 0
+DOWN: 5
+node updated!
+
+NODE: Allylescaline 
+SCORE: -1
+UP: 0
+DOWN: 1
+node updated!
+
+NODE: Xylitol
+SCORE: 1
+UP: 1
+DOWN: 0
+node updated!
+
+NODE: L-Hydroxyproline
+SCORE: -2
+UP: 0
+DOWN: 2
+node updated!
+
+NODE: N-Methyl-N-(tetrahydro-2-furanylmethyl)-4-piperidinamine
+SCORE: -9
+UP: 0
+DOWN: 9
+node updated!
+
+NODE: Dihydrouracil
+SCORE: -4
+UP: 1
+DOWN: 5
+removing edge Dihydrouracil - ENSMUSG00000038545-P
+node updated!
+
+NODE: Decanoic acid
+SCORE: 2
+UP: 2
+DOWN: 0
+node updated!
+
+NODE: 2-Pentenoic acid
+SCORE: 0
+UP: 1
+DOWN: 1
+score == 0, node to be removed
+
+NODE: Desmosterol
+SCORE: -1
+UP: 0
+DOWN: 1
+node updated!
+
+NODE: Acetic acid, bis[(trimethylsilyl)oxyl]-
+SCORE: 1
+UP: 1
+DOWN: 0
+node updated!
+
+NODE: Glyceric acid
+SCORE: -3
+UP: 0
+DOWN: 3
+node updated!
+
+NODE: Guanabenz
+SCORE: -4
+UP: 0
+DOWN: 4
+node updated!
+
+NODE: 10-Heptadecenoic acid
+SCORE: -8
+UP: 0
+DOWN: 8
+node updated!
+
+NODE: L-Lysine
+SCORE: 2
+UP: 3
+DOWN: 1
+removing edge L-Lysine - ENSMUSG00000030403-P
+0.25 > 0.2, node to be removed
+
+NODE: phenoxyethanol
+SCORE: 2
+UP: 3
+DOWN: 1
+removing edge phenoxyethanol - ENSMUSG00000052751-P
+0.25 > 0.2, node to be removed
+
+NODE: Azetidine, 1-acetyl-2-methyl-
+SCORE: -2
+UP: 0
+DOWN: 2
+node updated!
+
+NODE: N,N-Diethyl-2-aminoethanol
+SCORE: -4
+UP: 1
+DOWN: 5
+removing edge N,N-Diethyl-2-aminoethanol - ENSMUSG00000041012-P
+node updated!
+
+NODE: 1-(3-Methylphenyl)piperazine
+SCORE: -4
+UP: 0
+DOWN: 4
+node updated!
+
+NODE: Alloxanic acid
+SCORE: -2
+UP: 3
+DOWN: 5
+removing edge Alloxanic acid - ENSMUSG00000021215-P
+removing edge Alloxanic acid - ENSMUSG00000040167-P
+removing edge Alloxanic acid - ENSMUSG00000038884-P
+0.375 > 0.2, node to be removed
+
+NODE: Cyclohexene, 3-butyl-3-methyl-1-trimethylsilyloxy-
+SCORE: -2
+UP: 1
+DOWN: 3
+removing edge Cyclohexene, 3-butyl-3-methyl-1-trimethylsilyloxy- - ENSMUSG00000039450-P
+0.25 > 0.2, node to be removed
+
+NODE: 2-Methyl-4-pentenoic acid
+SCORE: -3
+UP: 0
+DOWN: 3
+node updated!
+
+NODE: alpha-L-Galactopyranoside, methyl 6-deoxy-, (R,R,R,S,S)-
 SCORE: -1
 UP: 0
 DOWN: 1
@@ -263,284 +692,37 @@ DOWN: 3
 removing edge Bis(trimethylsilyl)histidine - ENSMUSG00000049097-P
 0.25 > 0.2, node to be removed
 
-NODE: N,9-bis(Trimethylsilyl)-6-[(trimethylsilyl)oxy]-9H-purin-2-amine
-SCORE: -1
-UP: 0
-DOWN: 1
-node updated!
-
-NODE: Butanedioic acid
-SCORE: -2
-UP: 1
-DOWN: 3
-removing edge Butanedioic acid - ENSMUSG00000017314-P
-0.25 > 0.2, node to be removed
-
-NODE: Heptanoic acid
-SCORE: -2
-UP: 1
-DOWN: 3
-removing edge Heptanoic acid - ENSMUSG00000054484-P
-0.25 > 0.2, node to be removed
-
-NODE: L-Valine
-SCORE: 0
-UP: 1
-DOWN: 1
-score == 0, node to be removed
-
-NODE: Glycine, N-(N-DL-leucylglycyl)-
-SCORE: -1
-UP: 0
-DOWN: 1
-node updated!
-
-NODE: Isopropyl palmitate
-SCORE: -17
-UP: 0
-DOWN: 17
-node updated!
-
-NODE: Pyrimidine, 5-methyl-2,4-bis[(trimethylsilyl)oxy]-
-SCORE: -3
-UP: 0
-DOWN: 3
-node updated!
-
-NODE: Trisaminol
+NODE: 2-Hydroxy-5-methoxybenzaldehyde
 SCORE: 1
 UP: 1
 DOWN: 0
 node updated!
 
-NODE: Benzene, 4-ethenyl-1,2-dimethoxy-
-SCORE: 1
-UP: 2
-DOWN: 1
-removing edge Benzene, 4-ethenyl-1,2-dimethoxy- - ENSMUSG00000036718-P
-0.3333333333333333 > 0.2, node to be removed
-
-NODE: 9H-Fluorene, 9-methylene-
-SCORE: 0
-UP: 1
-DOWN: 1
-score == 0, node to be removed
-
-NODE: Carfentrazone-ethyl
-SCORE: 1
-UP: 1
-DOWN: 0
-node updated!
-
-NODE: (CH3)2C=NC2H558
-SCORE: 1
-UP: 1
-DOWN: 0
-node updated!
-
-NODE: 2-Hydroxybutyric acid
-SCORE: 5
-UP: 6
-DOWN: 1
-removing edge 2-Hydroxybutyric acid - ENSMUSG00000025231-P
-node updated!
-
-NODE: Aziridine, 1-(2-buten-2-yl)-
-SCORE: -1
-UP: 0
-DOWN: 1
-node updated!
-
-NODE: N-isobutyl-2-(trimethylsilyloxy]-4,5-dihydro-1H-imidazole-1-carboxamide
-SCORE: -1
-UP: 0
-DOWN: 1
-node updated!
-
-NODE: Deoxycholic Acid
-SCORE: -2
-UP: 0
-DOWN: 2
-node updated!
-
-NODE: Propanetriol, 2-methyl-
-SCORE: -3
-UP: 0
-DOWN: 3
-node updated!
-
-NODE: Butanoic acid, 2-methyl-3-[(trimethylsilyl)oxy]-
-SCORE: -2
-UP: 0
-DOWN: 2
-node updated!
-
-NODE: Malic acid
-SCORE: 1
-UP: 1
-DOWN: 0
-node updated!
-
-NODE: 3beta,4beta-Bis(trimethylsiloxy)cholest-5-ene
-SCORE: -7
-UP: 0
-DOWN: 7
-node updated!
-
-NODE: alpha-Linolenic acid
-SCORE: 1
-UP: 1
-DOWN: 0
-node updated!
-
-NODE: Azetidine, 1-acetyl-2-methyl-
-SCORE: -2
-UP: 0
-DOWN: 2
-node updated!
-
-NODE: Azatadine
-SCORE: -2
-UP: 0
-DOWN: 2
-node updated!
-
-NODE: Adipoyl-L-carnitine
-SCORE: -3
-UP: 0
-DOWN: 3
-node updated!
-
-NODE: N,N-Diethyl-2-aminoethanol
-SCORE: -4
-UP: 1
-DOWN: 5
-removing edge N,N-Diethyl-2-aminoethanol - ENSMUSG00000041012-P
-node updated!
-
-NODE: Suberic acid
-SCORE: -2
-UP: 0
-DOWN: 2
-node updated!
-
-NODE: Phenylalanine
-SCORE: -2
-UP: 0
-DOWN: 2
-node updated!
-
-NODE: Indole-3-lactic acid
-SCORE: -2
-UP: 0
-DOWN: 2
-node updated!
-
-NODE: cis-4,5-Dihydroxy-o-dithiane, 2O-
-SCORE: 0
-UP: 1
-DOWN: 1
-score == 0, node to be removed
-
-NODE: 2,2-Diallylpyrrolidine
-SCORE: -2
-UP: 0
-DOWN: 2
-node updated!
-
-NODE: N,O-Bis(trimethylsilyl)carbamate
-SCORE: -6
-UP: 0
-DOWN: 6
-node updated!
-
-NODE: 1,4-diazabicyclo[4.3.0]nonan-2,5-dione, 3-methyl 
-SCORE: 1
-UP: 1
-DOWN: 0
-node updated!
-
-NODE: 3-Nonen-1-ol
-SCORE: 1
-UP: 1
-DOWN: 0
-node updated!
-
-NODE: Phenoxyacetic acid
-SCORE: -2
-UP: 0
-DOWN: 2
-node updated!
-
-NODE: Benzophenone
+NODE: 2-Hydroxy-3-methylbutyric acid
 SCORE: -5
 UP: 0
 DOWN: 5
 node updated!
 
-NODE: N-Isobutyl-sec-butylamine
-SCORE: 2
-UP: 3
-DOWN: 1
-removing edge N-Isobutyl-sec-butylamine - ENSMUSG00000038545-P
-0.25 > 0.2, node to be removed
-
-NODE: D-Isoleucine, N-acetyl-
+NODE: Arabinofuranose, 1,2,3,5-tetrakis-O-
 SCORE: -1
-UP: 0
-DOWN: 1
-node updated!
-
-NODE: 3-Buten-2-one, 3-trimethylsilyloxy-
-SCORE: 1
 UP: 1
-DOWN: 0
-node updated!
+DOWN: 2
+removing edge Arabinofuranose, 1,2,3,5-tetrakis-O- - ENSMUSG00000038827-P
+0.3333333333333333 > 0.2, node to be removed
 
-NODE: Hexanoylglycine
-SCORE: -1
+NODE: 5,6-Dimethyl-4-phenyl-3-cyanopyridine-2(1H)-thione
+SCORE: 1
 UP: 2
-DOWN: 3
-removing edge Hexanoylglycine - ENSMUSG00000033948-P
-removing edge Hexanoylglycine - ENSMUSG00000007892-P
-0.4 > 0.2, node to be removed
+DOWN: 1
+removing edge 5,6-Dimethyl-4-phenyl-3-cyanopyridine-2(1H)-thione - ENSMUSG00000031513-P
+0.3333333333333333 > 0.2, node to be removed
 
-NODE: 1-Octadecanol
+NODE: Benzenepropanoic acid
 SCORE: 0
 UP: 1
 DOWN: 1
 score == 0, node to be removed
-
-NODE: 1-(2,4-Dimethoxyphenyl)-propan-2-one
-SCORE: 0
-UP: 2
-DOWN: 2
-score == 0, node to be removed
-
-NODE: Benzeneethanamine, N-[(pentafluorophenyl)methylene]-4-[(trimethylsilyl)oxy]-
-SCORE: 1
-UP: 1
-DOWN: 0
-node updated!
-
-NODE: 1,3,5-Benzetriol
-SCORE: -3
-UP: 1
-DOWN: 4
-removing edge 1,3,5-Benzetriol - ENSMUSG00000051074-P
-node updated!
-
-NODE: Methyl aminoacetate
-SCORE: -16
-UP: 0
-DOWN: 16
-node updated!
-
-NODE: Tartronic acid
-SCORE: -2
-UP: 0
-DOWN: 2
-node updated!
 
 NODE: Glycine
 SCORE: -1
@@ -548,138 +730,55 @@ UP: 0
 DOWN: 1
 node updated!
 
-NODE: L-Isoleucine
+NODE: Cyclobutanol
 SCORE: -1
 UP: 0
 DOWN: 1
 node updated!
 
-NODE: Tacrine, N-trimethylsilyl-
-SCORE: -1
-UP: 0
-DOWN: 1
-node updated!
-
-NODE: Supraene
-SCORE: -1
-UP: 1
-DOWN: 2
-removing edge Supraene - ENSMUSG00000026483-P
-0.3333333333333333 > 0.2, node to be removed
-
-NODE: 2-Heptenoic acid
-SCORE: -2
-UP: 0
-DOWN: 2
-node updated!
-
-NODE: N-(Trifluoroacetyl)-N,O,O'-tris(trimethylsilyl)normetanephrine
-SCORE: 0
-UP: 2
-DOWN: 2
-score == 0, node to be removed
-
-NODE: 3-Hexenedinitrile
-SCORE: -2
-UP: 0
-DOWN: 2
-node updated!
-
-NODE: Octan-2-yl palmitate
-SCORE: 2
-UP: 2
-DOWN: 0
-node updated!
-
-NODE: L-Alanine
-SCORE: 1
-UP: 1
-DOWN: 0
-node updated!
-
-NODE: 13-Docosenamide
-SCORE: 1
-UP: 1
-DOWN: 0
-node updated!
-
-NODE: 2-Allyl-1,4-dimethoxybenzene
-SCORE: -3
-UP: 0
-DOWN: 3
-node updated!
-
-NODE: Glycine, N-(1-oxobutyl)-
-SCORE: -3
-UP: 0
-DOWN: 3
-node updated!
-
-NODE: Benzoic acid, methyl ester
-SCORE: 1
-UP: 1
-DOWN: 0
-node updated!
-
-NODE: n-Pentadecanol
-SCORE: 1
-UP: 1
-DOWN: 0
-node updated!
-
-NODE: Guanidine, N,N-dimethyl-
-SCORE: 0
-UP: 1
-DOWN: 1
-score == 0, node to be removed
-
-NODE: Valylglycine
-SCORE: 0
-UP: 1
-DOWN: 1
-score == 0, node to be removed
-
-NODE: Glucopyranose
-SCORE: -1
-UP: 0
-DOWN: 1
-node updated!
-
-NODE: 3,4-Dihydrocoumarin, 4,4-dimethyl-6-dimethylamino-
+NODE: 1-Propanamine, N,N-diethyl- 
 SCORE: -2
 UP: 1
 DOWN: 3
-removing edge 3,4-Dihydrocoumarin, 4,4-dimethyl-6-dimethylamino- - ENSMUSG00000026527-P
+removing edge 1-Propanamine, N,N-diethyl-  - ENSMUSG00000046711-P
 0.25 > 0.2, node to be removed
 
-NODE: 1,2,2-Trimethyl-1-aza-spiro[2.3]hexane
+NODE: Dopamine
 SCORE: 0
 UP: 1
 DOWN: 1
 score == 0, node to be removed
 
-NODE: Dinoseb 
-SCORE: -10
-UP: 0
-DOWN: 10
+NODE: Oxalic acid
+SCORE: 1
+UP: 1
+DOWN: 0
 node updated!
 
-NODE: beta-Methylphenethylamine
-SCORE: 0
-UP: 2
+NODE: 1H-Pyrazole, 3,4-bis(trimethylsilyl)-
+SCORE: -1
+UP: 1
 DOWN: 2
-score == 0, node to be removed
+removing edge 1H-Pyrazole, 3,4-bis(trimethylsilyl)- - ENSMUSG00000058351-P
+0.3333333333333333 > 0.2, node to be removed
 
-NODE: 2,2,4-Trimethyl-1,3-pentanediol diisobutyrate
+NODE: 2-Oxooctanoic acid
+SCORE: 2
+UP: 3
+DOWN: 1
+removing edge 2-Oxooctanoic acid - ENSMUSG00000031511-P
+0.25 > 0.2, node to be removed
+
+NODE: Aceturic acid
+SCORE: -2
+UP: 0
+DOWN: 2
+node updated!
+
+NODE: 2-Methylglutaconic acid
 SCORE: -1
 UP: 0
 DOWN: 1
-node updated!
-
-NODE: Methylmalonic monoamide
-SCORE: -6
-UP: 0
-DOWN: 6
 node updated!
 
 NODE: Hydracrylic acid
@@ -689,175 +788,31 @@ DOWN: 5
 removing edge Hydracrylic acid - ENSMUSG00000056735-P
 node updated!
 
-NODE: Butanoic acid, 2,4-bis[(trimethylsilyl)oxy]-
-SCORE: -2
-UP: 0
-DOWN: 2
+NODE: 3-Nonen-1-ol
+SCORE: 1
+UP: 1
+DOWN: 0
 node updated!
 
-NODE: L-5-Oxoproline
+NODE: Ethanone, 1-(5-methoxy-2-methyl-3(1H)-indolyl)-
+SCORE: -1
+UP: 0
+DOWN: 1
+node updated!
+
+NODE: 3-Indoleacetic acid
+SCORE: -6
+UP: 0
+DOWN: 6
+node updated!
+
+NODE: Pyrimidine, 5-methyl-2,4-bis[(trimethylsilyl)oxy]-
 SCORE: -3
-UP: 1
-DOWN: 4
-removing edge L-5-Oxoproline - ENSMUSG00000055681-P
+UP: 0
+DOWN: 3
 node updated!
 
 NODE: 1-Methyl-N,N-bis(trimethylsilyl)-4-[(trimethylsilyl)oxy]-1H-imidazol-2-amine
-SCORE: -1
-UP: 0
-DOWN: 1
-node updated!
-
-NODE: Triethanolamine
-SCORE: -7
-UP: 1
-DOWN: 8
-removing edge Triethanolamine - ENSMUSG00000105302-P
-node updated!
-
-NODE: Pyroglutamic acid
-SCORE: -1
-UP: 1
-DOWN: 2
-removing edge Pyroglutamic acid - ENSMUSG00000056735-P
-0.3333333333333333 > 0.2, node to be removed
-
-NODE: 1-(3-Methylphenyl)piperazine
-SCORE: -4
-UP: 0
-DOWN: 4
-node updated!
-
-NODE: 4-Methylvaleric acid
-SCORE: 0
-UP: 1
-DOWN: 1
-score == 0, node to be removed
-
-NODE: 9-Octadecenoic acid
-SCORE: 0
-UP: 2
-DOWN: 2
-score == 0, node to be removed
-
-NODE: 6,8-Dioxapentadecane
-SCORE: -1
-UP: 1
-DOWN: 2
-removing edge 6,8-Dioxapentadecane - ENSMUSG00000024191-P
-0.3333333333333333 > 0.2, node to be removed
-
-NODE: Aceturic acid
-SCORE: -2
-UP: 0
-DOWN: 2
-node updated!
-
-NODE: 2,3,4-Trihydroxybutyric acid tetrakis
-SCORE: -3
-UP: 0
-DOWN: 3
-node updated!
-
-NODE: 3,5-Dimethylpyrazole
-SCORE: -3
-UP: 0
-DOWN: 3
-node updated!
-
-NODE: Ethanolamine
-SCORE: -3
-UP: 0
-DOWN: 3
-node updated!
-
-NODE: 1,2-Butadiene, 1,1,4-triphenyl-3-trimethylsilyl-4-trimethylsilyloxy-
-SCORE: -1
-UP: 0
-DOWN: 1
-node updated!
-
-NODE: 1,2-Benzenedicarboxylic acid
-SCORE: 1
-UP: 1
-DOWN: 0
-node updated!
-
-NODE: 1,1'-Biphenyl, 3,4-diethyl-
-SCORE: -1
-UP: 0
-DOWN: 1
-node updated!
-
-NODE: 2-Methylglutaconic acid
-SCORE: -1
-UP: 0
-DOWN: 1
-node updated!
-
-NODE: Benzenemethanamine, 2,3-dimethoxy-
-SCORE: 1
-UP: 1
-DOWN: 0
-node updated!
-
-NODE: Xylazine
-SCORE: -1
-UP: 0
-DOWN: 1
-node updated!
-
-NODE: Dopamine
-SCORE: 0
-UP: 1
-DOWN: 1
-score == 0, node to be removed
-
-NODE: 2,6-Dimethyl-N-[3-(trimethylsilyl)-1,3-thiazinan-2-ylidene]aniline
-SCORE: -5
-UP: 0
-DOWN: 5
-node updated!
-
-NODE: Thiazolo[4,5-f]quinoline, 2,9-dimethyl-
-SCORE: 1
-UP: 1
-DOWN: 0
-node updated!
-
-NODE: 2-Ethyl-3-hydroxypropionic acid
-SCORE: -1
-UP: 1
-DOWN: 2
-removing edge 2-Ethyl-3-hydroxypropionic acid - ENSMUSG00000031489-P
-0.3333333333333333 > 0.2, node to be removed
-
-NODE: 2,5-Piperazinedione, 3-benzyl-6-isopropyl-
-SCORE: -11
-UP: 0
-DOWN: 11
-node updated!
-
-NODE: beta-Lyxopyranose
-SCORE: -9
-UP: 1
-DOWN: 10
-removing edge beta-Lyxopyranose - ENSMUSG00000022427-P
-node updated!
-
-NODE: Desmosterol
-SCORE: -1
-UP: 0
-DOWN: 1
-node updated!
-
-NODE: 2,5-Dimethoxy-4-methylamphetamine
-SCORE: 0
-UP: 1
-DOWN: 1
-score == 0, node to be removed
-
-NODE: N-Valerylglycine
 SCORE: -1
 UP: 0
 DOWN: 1
@@ -869,163 +824,34 @@ UP: 1
 DOWN: 1
 score == 0, node to be removed
 
-NODE: 1-(4-Methoxyphenyl)-4,6-dimethyl-2(1H)-pyrimidinone
-SCORE: 0
-UP: 1
-DOWN: 1
-score == 0, node to be removed
-
-NODE: Cyclopentanone, 2,2,4-trimethyl-
-SCORE: -4
-UP: 0
-DOWN: 4
-node updated!
-
-NODE: Ribitol
-SCORE: -1
-UP: 0
-DOWN: 1
-node updated!
-
-NODE: Dodecylcyclohexane
-SCORE: -7
-UP: 0
-DOWN: 7
-node updated!
-
-NODE: L-Lysine
-SCORE: 2
-UP: 3
-DOWN: 1
-removing edge L-Lysine - ENSMUSG00000030403-P
-0.25 > 0.2, node to be removed
-
-NODE: 2-Acetyl-5-chloro-3-methylbenzo(b)thiophene
-SCORE: -5
-UP: 2
-DOWN: 7
-removing edge 2-Acetyl-5-chloro-3-methylbenzo(b)thiophene - ENSMUSG00000004895-P
-removing edge 2-Acetyl-5-chloro-3-methylbenzo(b)thiophene - ENSMUSG00000051074-P
-0.2222222222222222 > 0.2, node to be removed
-
-NODE: Decanoic acid
-SCORE: 2
-UP: 2
-DOWN: 0
-node updated!
-
-NODE: Nonanoic acid
-SCORE: 0
-UP: 1
-DOWN: 1
-score == 0, node to be removed
-
-NODE: 2,5-Di-tert-butylhydroquinone
-SCORE: 2
-UP: 3
-DOWN: 1
-removing edge 2,5-Di-tert-butylhydroquinone - ENSMUSG00000038545-P
-0.25 > 0.2, node to be removed
-
-NODE: Uridine
-SCORE: 1
-UP: 2
-DOWN: 1
-removing edge Uridine - ENSMUSG00000043614-P
-0.3333333333333333 > 0.2, node to be removed
-
-NODE: Cyclohexene, 3-butyl-3-methyl-1-trimethylsilyloxy-
-SCORE: -2
-UP: 1
-DOWN: 3
-removing edge Cyclohexene, 3-butyl-3-methyl-1-trimethylsilyloxy- - ENSMUSG00000039450-P
-0.25 > 0.2, node to be removed
-
-NODE: Ser-Leu
-SCORE: 1
-UP: 1
-DOWN: 0
-node updated!
-
-NODE: Docosyl octyl ether
-SCORE: -1
-UP: 1
-DOWN: 2
-removing edge Docosyl octyl ether - ENSMUSG00000007892-P
-0.3333333333333333 > 0.2, node to be removed
-
-NODE: 3-Methoxysalicylic acid
-SCORE: 4
-UP: 5
-DOWN: 1
-removing edge 3-Methoxysalicylic acid - ENSMUSG00000024191-P
-node updated!
-
-NODE: L-Lysine, ethyl ester 
-SCORE: -1
-UP: 0
-DOWN: 1
-node updated!
-
-NODE: Dehydronorketamine
-SCORE: -1
-UP: 0
-DOWN: 1
-node updated!
-
-NODE: 2,6-Dimethoxybenzylamine
-SCORE: -1
-UP: 1
-DOWN: 2
-removing edge 2,6-Dimethoxybenzylamine - ENSMUSG00000062040-P
-0.3333333333333333 > 0.2, node to be removed
-
-NODE: Benzyl alcohol
-SCORE: 1
-UP: 1
-DOWN: 0
-node updated!
-
-NODE: Xylitol
-SCORE: 1
-UP: 1
-DOWN: 0
-node updated!
-
-NODE: Stigmast-5-ene, 3beta-
+NODE: 3-Hexenedinitrile
 SCORE: -2
 UP: 0
 DOWN: 2
 node updated!
 
-NODE: 3-Cyclohexyl-L-alanine amide, N,N,N'N'-tetramethyl-
+NODE: N,9-bis(Trimethylsilyl)-6-[(trimethylsilyl)oxy]-9H-purin-2-amine
 SCORE: -1
 UP: 0
 DOWN: 1
 node updated!
 
-NODE: Carbonic acid, eicosyl vinyl ester 
-SCORE: 0
-UP: 2
-DOWN: 2
-score == 0, node to be removed
-
-NODE: Benzenepropanoic acid
+NODE: Campesterol
 SCORE: 0
 UP: 1
 DOWN: 1
 score == 0, node to be removed
 
-NODE: 4-Hydroxyphenyllactic acid
-SCORE: -2
+NODE: Cyclopentaneacetic acid, 3-oxo-2-pentyl-
+SCORE: -1
 UP: 0
-DOWN: 2
+DOWN: 1
 node updated!
 
-NODE: Latanoprost lactone diol
-SCORE: 1
-UP: 1
-DOWN: 0
+NODE: 2,5-Piperazinedione, 3-benzyl-6-isopropyl-
+SCORE: -11
+UP: 0
+DOWN: 11
 node updated!
 
 NODE: 1-Hexadecanol
@@ -1034,289 +860,42 @@ UP: 2
 DOWN: 0
 node updated!
 
-NODE: Erythrono-1,4-lactone, (Z)-
-SCORE: -3
-UP: 1
-DOWN: 4
-removing edge Erythrono-1,4-lactone, (Z)- - ENSMUSG00000022427-P
-node updated!
-
-NODE: Hydantoic acid
+NODE: Hexanoylglycine
 SCORE: -1
-UP: 0
-DOWN: 1
-node updated!
-
-NODE: D-(+)-Ribono-1,4-lactone (R,S,R)-
-SCORE: -4
-UP: 0
-DOWN: 4
-node updated!
-
-NODE: 4-Hydroxybenzeneacetic acid
-SCORE: -5
-UP: 0
-DOWN: 5
-node updated!
-
-NODE: 6,7,4'-Trihydroxyisoflavone
-SCORE: -8
-UP: 0
-DOWN: 8
-node updated!
-
-NODE: D-(+)-Talofuranose, pentakis
-SCORE: 2
 UP: 2
-DOWN: 0
-node updated!
-
-NODE: L-Threonine
-SCORE: -2
-UP: 1
 DOWN: 3
-removing edge L-Threonine - ENSMUSG00000056735-P
-0.25 > 0.2, node to be removed
+removing edge Hexanoylglycine - ENSMUSG00000033948-P
+removing edge Hexanoylglycine - ENSMUSG00000007892-P
+0.4 > 0.2, node to be removed
 
-NODE: 2-Amino-4-methylphenol
-SCORE: -5
-UP: 0
-DOWN: 5
-node updated!
-
-NODE: Nitrosothymol
-SCORE: -10
-UP: 1
-DOWN: 11
-removing edge Nitrosothymol - ENSMUSG00000027374-P
-node updated!
-
-NODE: 12-Oxooctadecanoate
-SCORE: -8
-UP: 0
-DOWN: 8
-node updated!
-
-NODE: Glycine, N-[4-[(trimethylsilyl)oxy]benzoyl]-
-SCORE: -1
-UP: 0
-DOWN: 1
-node updated!
-
-NODE: Propylamine
-SCORE: -5
-UP: 0
-DOWN: 5
-node updated!
-
-NODE: Pimelic acid
-SCORE: -6
-UP: 1
-DOWN: 7
-removing edge Pimelic acid - ENSMUSG00000101059-P
-node updated!
-
-NODE: 15-Oxo-11Z,13E-eicosadienoic acid
-SCORE: 1
-UP: 2
-DOWN: 1
-removing edge 15-Oxo-11Z,13E-eicosadienoic acid - ENSMUSG00000025474-P
-0.3333333333333333 > 0.2, node to be removed
-
-NODE: phenoxyethanol
-SCORE: 2
-UP: 3
-DOWN: 1
-removing edge phenoxyethanol - ENSMUSG00000052751-P
-0.25 > 0.2, node to be removed
-
-NODE: Hydroquinone
-SCORE: 1
-UP: 1
-DOWN: 0
-node updated!
-
-NODE: 1-Decene, 8-methyl-
-SCORE: -2
-UP: 0
-DOWN: 2
-node updated!
-
-NODE: DL-Glyceraldehyde
-SCORE: -9
-UP: 0
-DOWN: 9
-node updated!
-
-NODE: D-(-)-Fructofuranose, pentakis
-SCORE: 5
-UP: 5
-DOWN: 0
-node updated!
-
-NODE: 7-Isoquinolinol, 1,2,3,4-tetrahydro-1-[(4-hydroxyphenyl)methyl]-6-methoxy-
-SCORE: 1
-UP: 1
-DOWN: 0
-node updated!
-
-NODE: Nonadecanoic acid
-SCORE: -2
-UP: 0
-DOWN: 2
-node updated!
-
-NODE: 2,5-Dimethyl-1-aza-bicyclo[2.2.1]heptane
-SCORE: 1
-UP: 2
-DOWN: 1
-removing edge 2,5-Dimethyl-1-aza-bicyclo[2.2.1]heptane - ENSMUSG00000061533-P
-0.3333333333333333 > 0.2, node to be removed
-
-NODE: 2-Heptanone, 4,6-dimethyl-
-SCORE: -5
-UP: 0
-DOWN: 5
-node updated!
-
-NODE: 2-Isopropyl-5-methyl-1-heptanol 
-SCORE: -3
-UP: 0
-DOWN: 3
-node updated!
-
-NODE: 1-Phenethylamine
-SCORE: -2
-UP: 0
-DOWN: 2
-node updated!
-
-NODE: Furan, 2-pentyl-
-SCORE: -1
-UP: 0
-DOWN: 1
-node updated!
-
-NODE: 1,5-Anhydroglucitol
-SCORE: 1
-UP: 1
-DOWN: 0
-node updated!
-
-NODE: 3-Ureidopropionic acid
-SCORE: -1
-UP: 1
-DOWN: 2
-removing edge 3-Ureidopropionic acid - ENSMUSG00000049739-P
-0.3333333333333333 > 0.2, node to be removed
-
-NODE: 2-Pentenoic acid
+NODE: Acetamide, 2,2,2-trifluoro-
 SCORE: 0
 UP: 1
 DOWN: 1
 score == 0, node to be removed
 
-NODE: 2-Hydroxy-3-methylbutyric acid
-SCORE: -5
-UP: 0
-DOWN: 5
-node updated!
-
-NODE: Butylated Hydroxytoluene
-SCORE: -4
-UP: 0
-DOWN: 4
-node updated!
-
-NODE: Butylmethylamine
-SCORE: -1
+NODE: Aspartic acid
+SCORE: 1
 UP: 1
-DOWN: 2
-removing edge Butylmethylamine - ENSMUSG00000062040-P
-0.3333333333333333 > 0.2, node to be removed
+DOWN: 0
+node updated!
 
-NODE: 1-Aminocyclopropanecarboxylic acid
+NODE: Dehydronorketamine
 SCORE: -1
 UP: 0
 DOWN: 1
 node updated!
 
-NODE: Sertraline carbamoyl glucuronide
-SCORE: -5
-UP: 0
-DOWN: 5
+NODE: Tributyl acetylcitrate
+SCORE: 3
+UP: 3
+DOWN: 0
 node updated!
 
-NODE: 2-Propenamide, 3-phenyl-N-2-propenyl-
+NODE: Azatadine
 SCORE: -2
 UP: 0
 DOWN: 2
-node updated!
-
-NODE: Phosalone
-SCORE: 1
-UP: 1
-DOWN: 0
-node updated!
-
-NODE: L-Aspartic acid
-SCORE: -3
-UP: 1
-DOWN: 4
-removing edge L-Aspartic acid - ENSMUSG00000022427-P
-node updated!
-
-NODE: L-Cysteine
-SCORE: 1
-UP: 1
-DOWN: 0
-node updated!
-
-NODE: 3-Aminobenzoic acid
-SCORE: -3
-UP: 3
-DOWN: 6
-removing edge 3-Aminobenzoic acid - ENSMUSG00000030265-P
-removing edge 3-Aminobenzoic acid - ENSMUSG00000040167-P
-removing edge 3-Aminobenzoic acid - ENSMUSG00000004263-P
-0.3333333333333333 > 0.2, node to be removed
-
-NODE: Neostigmine 
-SCORE: -1
-UP: 0
-DOWN: 1
-node updated!
-
-NODE: p-Toluic acid
-SCORE: -9
-UP: 1
-DOWN: 10
-removing edge p-Toluic acid - ENSMUSG00000022427-P
-node updated!
-
-NODE: 3,5-di-tert-Butyl-4-hydroxyacetophenone
-SCORE: 1
-UP: 2
-DOWN: 1
-removing edge 3,5-di-tert-Butyl-4-hydroxyacetophenone - ENSMUSG00000015970-P
-0.3333333333333333 > 0.2, node to be removed
-
-NODE: 1,2,3,10,11,11a-Hexahydro-6,7,8-trimethoxy-3-oxo-5H-dibenzo(a,d)cycloheptene
-SCORE: -1
-UP: 0
-DOWN: 1
-node updated!
-
-NODE: 5-Henicosylresorcinol
-SCORE: -1
-UP: 0
-DOWN: 1
-node updated!
-
-NODE: 2-Hydroxy-5-methoxybenzaldehyde
-SCORE: 1
-UP: 1
-DOWN: 0
 node updated!
 
 NODE: L-Proline
@@ -1327,102 +906,19 @@ removing edge L-Proline - ENSMUSG00000050321-P
 removing edge L-Proline - ENSMUSG00000038545-P
 0.4 > 0.2, node to be removed
 
-NODE: Niclosamide
-SCORE: -1
-UP: 0
-DOWN: 1
-node updated!
-
-NODE: 6-Methoxy-1-methyl-1,2,3,4-tetrahydroisoquinolin-7-ol 
-SCORE: 1
-UP: 2
-DOWN: 1
-removing edge 6-Methoxy-1-methyl-1,2,3,4-tetrahydroisoquinolin-7-ol  - ENSMUSG00000038084-P
-0.3333333333333333 > 0.2, node to be removed
-
-NODE: 2,3-Butanediol
+NODE: Glycolic acid
 SCORE: -2
 UP: 0
 DOWN: 2
 node updated!
 
-NODE: Arachidonic acid
-SCORE: -3
-UP: 0
-DOWN: 3
-node updated!
-
-NODE: Isonicotinic Acid
-SCORE: 0
-UP: 2
-DOWN: 2
-score == 0, node to be removed
-
-NODE: Erythritol
+NODE: 1,2,3,10,11,11a-Hexahydro-6,7,8-trimethoxy-3-oxo-5H-dibenzo(a,d)cycloheptene
 SCORE: -1
 UP: 0
 DOWN: 1
 node updated!
 
-NODE: L-Tryptophan, N-acetyl-1
-SCORE: -2
-UP: 0
-DOWN: 2
-node updated!
-
-NODE: alpha-L-Galactopyranoside, methyl 6-deoxy-, (R,R,R,S,S)-
-SCORE: -1
-UP: 0
-DOWN: 1
-node updated!
-
-NODE: 2,5-di-tert-Butyl-1,4-benzoquinone
-SCORE: 1
-UP: 1
-DOWN: 0
-node updated!
-
-NODE: 2-Methyl-4-pentenoic acid
-SCORE: -3
-UP: 0
-DOWN: 3
-node updated!
-
-NODE: Alloxanic acid
-SCORE: -2
-UP: 3
-DOWN: 5
-removing edge Alloxanic acid - ENSMUSG00000021215-P
-removing edge Alloxanic acid - ENSMUSG00000040167-P
-removing edge Alloxanic acid - ENSMUSG00000038884-P
-0.375 > 0.2, node to be removed
-
-NODE: Morpholine, 4-[2,3,4,6-tetrakis-O-(trimethylsilyl)-alpha-d-mannopyranosyl]-
-SCORE: 3
-UP: 3
-DOWN: 0
-node updated!
-
-NODE: 1-(1-Hydroxybutyl)-2,5-dimethoxybenzene 
-SCORE: 0
-UP: 1
-DOWN: 1
-score == 0, node to be removed
-
-NODE: Serine
-SCORE: -1
-UP: 1
-DOWN: 2
-removing edge Serine - ENSMUSG00000056735-P
-0.3333333333333333 > 0.2, node to be removed
-
-NODE: 10-Heptadecenoic acid
-SCORE: -8
-UP: 0
-DOWN: 8
-node updated!
-
-NODE: beta-D-Glucopyranose
+NODE: Dodecanoic acid, 1-methylethyl ester
 SCORE: 0
 UP: 1
 DOWN: 1
@@ -1440,492 +936,23 @@ UP: 0
 DOWN: 2
 node updated!
 
-NODE: D-Fructose
-SCORE: -4
-UP: 0
-DOWN: 4
-node updated!
-
-NODE: 1-Hydroxy-3-methoxy-6-methylanthraquinone
-SCORE: 8
-UP: 10
-DOWN: 2
-removing edge 1-Hydroxy-3-methoxy-6-methylanthraquinone - ENSMUSG00000032633-P
-removing edge 1-Hydroxy-3-methoxy-6-methylanthraquinone - ENSMUSG00000007892-P
-node updated!
-
-NODE: Glyceric acid
-SCORE: -3
-UP: 0
-DOWN: 3
-node updated!
-
-NODE: Galactopyranose
+NODE: n-Pentadecanol
 SCORE: 1
 UP: 1
 DOWN: 0
 node updated!
 
-NODE: Heptadecanoic acid
-SCORE: -1
-UP: 0
-DOWN: 1
-node updated!
-
-NODE: Glycolic acid
-SCORE: -2
-UP: 0
-DOWN: 2
-node updated!
-
-NODE: 5,6-Dimethyl-4-phenyl-3-cyanopyridine-2(1H)-thione
-SCORE: 1
-UP: 2
-DOWN: 1
-removing edge 5,6-Dimethyl-4-phenyl-3-cyanopyridine-2(1H)-thione - ENSMUSG00000031513-P
-0.3333333333333333 > 0.2, node to be removed
-
-NODE: Campesterol
-SCORE: 0
-UP: 1
-DOWN: 1
-score == 0, node to be removed
-
-NODE: Benzene, 1-acetoxy-2,6-dimethoxy-4-(2-propenyl)-
-SCORE: 3
-UP: 3
-DOWN: 0
-node updated!
-
-NODE: Trimidox
-SCORE: 4
-UP: 4
-DOWN: 0
-node updated!
-
-NODE: n-Butylamine
-SCORE: 0
-UP: 1
-DOWN: 1
-score == 0, node to be removed
-
-NODE: Indole-5-carboxylic acid
-SCORE: -3
-UP: 1
-DOWN: 4
-removing edge Indole-5-carboxylic acid - ENSMUSG00000105729-P
-node updated!
-
-NODE: 2,5-Dimethoxybenzhydrazide
-SCORE: 0
-UP: 2
-DOWN: 2
-score == 0, node to be removed
-
-NODE: 3-Amino-2-piperidone
-SCORE: -2
-UP: 0
-DOWN: 2
-node updated!
-
-NODE: (7a-Isopropenyl-4,5-dimethyloctahydroinden-4-yl)methanol
-SCORE: -1
-UP: 2
-DOWN: 3
-removing edge (7a-Isopropenyl-4,5-dimethyloctahydroinden-4-yl)methanol - ENSMUSG00000048612-P
-removing edge (7a-Isopropenyl-4,5-dimethyloctahydroinden-4-yl)methanol - ENSMUSG00000052584-P
-0.4 > 0.2, node to be removed
-
-NODE: Benzimidazole, 5-trifluoromethyl-2-methyl-
-SCORE: -8
-UP: 0
-DOWN: 8
-node updated!
-
-NODE: 4-Hydroxybutanoic acid
-SCORE: 1
-UP: 1
-DOWN: 0
-node updated!
-
-NODE: 3-Methylpiperazine-2,5-dione, (R)-
-SCORE: -2
-UP: 1
-DOWN: 3
-removing edge 3-Methylpiperazine-2,5-dione, (R)- - ENSMUSG00000056735-P
-0.25 > 0.2, node to be removed
-
-NODE: beta-D-Galactofuranose, 1,2,3,5,6-pentakis-O-(trimethylsilyl)-
-SCORE: -2
-UP: 0
-DOWN: 2
-node updated!
-
-NODE: Benzaldehyde, 2,5-dimethyl-
-SCORE: -10
-UP: 0
-DOWN: 10
-node updated!
-
-NODE: 3-Methyladenine
-SCORE: 1
-UP: 2
-DOWN: 1
-removing edge 3-Methyladenine - ENSMUSG00000013858-P
-0.3333333333333333 > 0.2, node to be removed
-
-NODE: Cholesta-3,5-dien-7-one
-SCORE: -1
-UP: 1
-DOWN: 2
-removing edge Cholesta-3,5-dien-7-one - ENSMUSG00000031079-P
-0.3333333333333333 > 0.2, node to be removed
-
-NODE: Acetic acid, bis[(trimethylsilyl)oxyl]-
-SCORE: 1
-UP: 1
-DOWN: 0
-node updated!
-
-NODE: 3-Hydroxy-2,3-dihydromaltol
-SCORE: -3
-UP: 0
-DOWN: 3
-node updated!
-
-NODE: L-Glutamine
-SCORE: -1
-UP: 1
-DOWN: 2
-removing edge L-Glutamine - ENSMUSG00000098113-P
-0.3333333333333333 > 0.2, node to be removed
-
-NODE: 3,4,5-Trihydroxypentanoic acid, tetrakis(trimethylsilyl)-
-SCORE: -2
-UP: 1
-DOWN: 3
-removing edge 3,4,5-Trihydroxypentanoic acid, tetrakis(trimethylsilyl)- - ENSMUSG00000020752-P
-0.25 > 0.2, node to be removed
-
-NODE: N-Acetyltyrosine
-SCORE: 1
-UP: 2
-DOWN: 1
-removing edge N-Acetyltyrosine - ENSMUSG00000036501-P
-0.3333333333333333 > 0.2, node to be removed
-
-NODE: Isofucosterol
-SCORE: -10
-UP: 1
-DOWN: 11
-removing edge Isofucosterol - ENSMUSG00000032633-P
-node updated!
-
-NODE: cis-4-Trimethylsilyloxy-cyclohexyl(trimethylsilyl)carboxylate
-SCORE: -3
-UP: 0
-DOWN: 3
-node updated!
-
-NODE: 9H-Purine, 9-(trimethylsilyl)-2,6,8-tris[(trimethylsilyl)oxy]-
-SCORE: -1
-UP: 1
-DOWN: 2
-removing edge 9H-Purine, 9-(trimethylsilyl)-2,6,8-tris[(trimethylsilyl)oxy]- - ENSMUSG00000036815-P
-0.3333333333333333 > 0.2, node to be removed
-
-NODE: Guanabenz
-SCORE: -4
-UP: 0
-DOWN: 4
-node updated!
-
-NODE: Dodecane, 4,6-dimethyl-
-SCORE: -7
-UP: 0
-DOWN: 7
-node updated!
-
-NODE: N-Methyl-N-(tetrahydro-2-furanylmethyl)-4-piperidinamine
+NODE: p-Toluic acid
 SCORE: -9
-UP: 0
-DOWN: 9
-node updated!
-
-NODE: 4-(Trimethylsilyoxy)-3-penten-2-one
-SCORE: 0
 UP: 1
-DOWN: 1
-score == 0, node to be removed
-
-NODE: Dodecanoic acid, 1-methylethyl ester
-SCORE: 0
-UP: 1
-DOWN: 1
-score == 0, node to be removed
-
-NODE: 4-Hydroxybenzoic acid
-SCORE: -2
-UP: 0
-DOWN: 2
+DOWN: 10
+removing edge p-Toluic acid - ENSMUSG00000022427-P
 node updated!
 
-NODE: Pentadecanoic acid
-SCORE: 1
-UP: 2
-DOWN: 1
-removing edge Pentadecanoic acid - ENSMUSG00000004285-P
-0.3333333333333333 > 0.2, node to be removed
-
-NODE: Nonanal
-SCORE: -2
-UP: 1
-DOWN: 3
-removing edge Nonanal - ENSMUSG00000010607-P
-0.25 > 0.2, node to be removed
-
-NODE: 2,5-Dimethoxymandelic acid
-SCORE: 2
-UP: 2
-DOWN: 0
-node updated!
-
-NODE: Ethanone, 1-(2,5-dimethoxyphenyl)-
-SCORE: -1
-UP: 0
-DOWN: 1
-node updated!
-
-NODE: Stearic acid
-SCORE: -1
-UP: 0
-DOWN: 1
-node updated!
-
-NODE: 2-(Decanoyloxy)propane-1,3-diyl dioctanoate
-SCORE: -6
-UP: 0
-DOWN: 6
-node updated!
-
-NODE: 2,4-Imidazolidinedione, 5,5-dimethyl-
+NODE: 2,6-Dimethyl-N-[3-(trimethylsilyl)-1,3-thiazinan-2-ylidene]aniline
 SCORE: -5
-UP: 1
-DOWN: 6
-removing edge 2,4-Imidazolidinedione, 5,5-dimethyl- - ENSMUSG00000038990-P
-node updated!
-
-NODE: 1-Octanol, 2-butyl-
-SCORE: 1
-UP: 1
-DOWN: 0
-node updated!
-
-NODE: 4-Pyridinol
-SCORE: -2
-UP: 1
-DOWN: 3
-removing edge 4-Pyridinol - ENSMUSG00000026527-P
-0.25 > 0.2, node to be removed
-
-NODE: 4-(Methoxycarbonyl)phenol
-SCORE: 1
-UP: 1
-DOWN: 0
-node updated!
-
-NODE: Cadaverine
-SCORE: -3
 UP: 0
-DOWN: 3
-node updated!
-
-NODE: Hexanoic acid
-SCORE: -1
-UP: 0
-DOWN: 1
-node updated!
-
-NODE: 1-Deoxypentitol
-SCORE: -7
-UP: 2
-DOWN: 9
-removing edge 1-Deoxypentitol - ENSMUSG00000027374-P
-removing edge 1-Deoxypentitol - ENSMUSG00000024191-P
-node updated!
-
-NODE: D-Mannose
-SCORE: -3
-UP: 1
-DOWN: 4
-removing edge D-Mannose - ENSMUSG00000020308-P
-node updated!
-
-NODE: 3beta-TRIMETHYLSILOXY-5alpha,6alpha-EPOXYCHOLESTANE
-SCORE: 0
-UP: 1
-DOWN: 1
-score == 0, node to be removed
-
-NODE: Benzoic acid, pentadecyl ester
-SCORE: -15
-UP: 0
-DOWN: 15
-node updated!
-
-NODE: Dodecanamide, N-(2-hydroxyethyl)-
-SCORE: 1
-UP: 2
-DOWN: 1
-removing edge Dodecanamide, N-(2-hydroxyethyl)- - ENSMUSG00000036613-P
-0.3333333333333333 > 0.2, node to be removed
-
-NODE: Dihydrouracil
-SCORE: -4
-UP: 1
 DOWN: 5
-removing edge Dihydrouracil - ENSMUSG00000038545-P
-node updated!
-
-NODE: cyclobutanecarboxylic acid
-SCORE: -1
-UP: 0
-DOWN: 1
-node updated!
-
-NODE: Benzo[b]fluorene, 5-amino-7-methyl-1,2,3,4,6,7,8,9-octahydro-11-thia-10-aza-
-SCORE: -1
-UP: 0
-DOWN: 1
-node updated!
-
-NODE: 1H-Pyrazole, 3,4-bis(trimethylsilyl)-
-SCORE: -1
-UP: 1
-DOWN: 2
-removing edge 1H-Pyrazole, 3,4-bis(trimethylsilyl)- - ENSMUSG00000058351-P
-0.3333333333333333 > 0.2, node to be removed
-
-NODE: Pentanedioic acid, 3-methyl-3-[(trimethylsilyl)oxy]-
-SCORE: -5
-UP: 1
-DOWN: 6
-removing edge Pentanedioic acid, 3-methyl-3-[(trimethylsilyl)oxy]- - ENSMUSG00000105302-P
-node updated!
-
-NODE: Cyclo-(l-leucyl-l-phenylalanyl) 
-SCORE: 2
-UP: 2
-DOWN: 0
-node updated!
-
-NODE: Quinolin-4-one, 1-[2-(3,4-dimethoxyphenyl)ethyl]-octahydro-
-SCORE: 0
-UP: 1
-DOWN: 1
-score == 0, node to be removed
-
-NODE: Atrazine desethyl
-SCORE: -1
-UP: 0
-DOWN: 1
-node updated!
-
-NODE: Aspartic acid
-SCORE: 1
-UP: 1
-DOWN: 0
-node updated!
-
-NODE: 9-Octadecenamide
-SCORE: -1
-UP: 0
-DOWN: 1
-node updated!
-
-NODE: 1-Cyclopentylethanol
-SCORE: -3
-UP: 0
-DOWN: 3
-node updated!
-
-NODE: Oxalic acid
-SCORE: 1
-UP: 1
-DOWN: 0
-node updated!
-
-NODE: Urea
-SCORE: 2
-UP: 3
-DOWN: 1
-removing edge Urea - ENSMUSG00000031511-P
-0.25 > 0.2, node to be removed
-
-NODE: D-(-)-Citramalic acid
-SCORE: -4
-UP: 0
-DOWN: 4
-node updated!
-
-NODE: 2-Ketoisocaproic acid
-SCORE: 1
-UP: 1
-DOWN: 0
-node updated!
-
-NODE: 5-Hydroxyquinoline
-SCORE: -4
-UP: 0
-DOWN: 4
-node updated!
-
-NODE: 3-(3-Cyclohexylaminopropionylamino)-5-ethylthiophene-2-carboxylic acid, ethyl ester
-SCORE: -2
-UP: 0
-DOWN: 2
-node updated!
-
-NODE: Cyclopentaneacetic acid, 3-oxo-2-pentyl-
-SCORE: -1
-UP: 0
-DOWN: 1
-node updated!
-
-NODE: Octocrylene
-SCORE: -2
-UP: 0
-DOWN: 2
-node updated!
-
-NODE: Ethyl cis-2-trimethylsilyl-cyclopropane-1-carboxylate
-SCORE: 0
-UP: 1
-DOWN: 1
-score == 0, node to be removed
-
-NODE: L-Tryptophan
-SCORE: -2
-UP: 0
-DOWN: 2
-node updated!
-
-NODE: Levulinic acid
-SCORE: -8
-UP: 0
-DOWN: 8
-node updated!
-
-NODE: 2-(2,5-Dimethoxy-phenyl)-propionaldehyde
-SCORE: 1
-UP: 1
-DOWN: 0
-node updated!
-
-NODE: Octanoic acid
-SCORE: 1
-UP: 1
-DOWN: 0
 node updated!
 
 NODE: 1-Piperazineethanol, 4-dibenzo[b,f][1,4]thiazepin-11-yl-
@@ -1934,13 +961,44 @@ UP: 1
 DOWN: 0
 node updated!
 
-NODE: Pentenoic acid, 4-[(trimethylsilyl)oxy]-
-SCORE: -1
+NODE: 1-Cyclopentylethanol
+SCORE: -3
 UP: 0
-DOWN: 1
+DOWN: 3
+node updated!
+
+NODE: L-Aspartic acid
+SCORE: -3
+UP: 1
+DOWN: 4
+removing edge L-Aspartic acid - ENSMUSG00000022427-P
 node updated!
 
 NODE: Arsenous acid
+SCORE: 1
+UP: 1
+DOWN: 0
+node updated!
+
+NODE: D-(+)-Ribono-1,4-lactone (R,S,R)-
+SCORE: -4
+UP: 0
+DOWN: 4
+node updated!
+
+NODE: 3-Buten-2-one, 3-trimethylsilyloxy-
+SCORE: 1
+UP: 1
+DOWN: 0
+node updated!
+
+NODE: D-(-)-Citramalic acid
+SCORE: -4
+UP: 0
+DOWN: 4
+node updated!
+
+NODE: Propanoic acid, 2-methyl-
 SCORE: 1
 UP: 1
 DOWN: 0
@@ -1952,159 +1010,987 @@ UP: 0
 DOWN: 1
 node updated!
 
-NODE: Pentylone
-SCORE: 1
+NODE: Docosyl octyl ether
+SCORE: -1
 UP: 1
-DOWN: 0
+DOWN: 2
+removing edge Docosyl octyl ether - ENSMUSG00000007892-P
+0.3333333333333333 > 0.2, node to be removed
+
+NODE: L-Lysine, ethyl ester 
+SCORE: -1
+UP: 0
+DOWN: 1
 node updated!
 
-NODE: L-Ornithine
-SCORE: -2
-UP: 1
-DOWN: 3
-removing edge L-Ornithine - Hydroquinone
-0.25 > 0.2, node to be removed
-
-NODE: 2-Butenedioic acid
+NODE: Valylglycine
 SCORE: 0
-UP: 2
-DOWN: 2
+UP: 1
+DOWN: 1
 score == 0, node to be removed
 
-NODE: Tris(trimethylsilyl)carbamate
-SCORE: 1
-UP: 4
-DOWN: 3
-removing edge Tris(trimethylsilyl)carbamate - 1-Butanamine, N,N-diethyl-
-removing edge Tris(trimethylsilyl)carbamate - 3-Hydroxyisovaleric acid
-removing edge Tris(trimethylsilyl)carbamate - Myristic acid
-0.42857142857142855 > 0.2, node to be removed
-
-NODE: Ketamine 
-SCORE: 2
-UP: 2
-DOWN: 0
+NODE: Tartronic acid
+SCORE: -2
+UP: 0
+DOWN: 2
 node updated!
 
-NODE: 1-Hexanol
+NODE: 2,3,4-Trihydroxybutyric acid tetrakis
+SCORE: -3
+UP: 0
+DOWN: 3
+node updated!
+
+NODE: Octanoic acid
 SCORE: 1
 UP: 1
 DOWN: 0
 node updated!
 
-NODE: p-Hydroxydiisopropylbenzene
+NODE: Pentenoic acid, 4-[(trimethylsilyl)oxy]-
+SCORE: -1
+UP: 0
+DOWN: 1
+node updated!
+
+NODE: N,N-Dimethyl-2-cyclohexyloxyethylamine
+SCORE: -5
+UP: 1
+DOWN: 6
+removing edge N,N-Dimethyl-2-cyclohexyloxyethylamine - ENSMUSG00000038827-P
+node updated!
+
+NODE: Butanoic acid, 2,4-bis[(trimethylsilyl)oxy]-
+SCORE: -2
+UP: 0
+DOWN: 2
+node updated!
+
+NODE: 7-Isoquinolinol, 1,2,3,4-tetrahydro-1-[(4-hydroxyphenyl)methyl]-6-methoxy-
+SCORE: 1
+UP: 1
+DOWN: 0
+node updated!
+
+NODE: 2,5-Dimethoxy-4-methylamphetamine
+SCORE: 0
+UP: 1
+DOWN: 1
+score == 0, node to be removed
+
+NODE: Inosose-2, 1,3,4,5,6-pentakis-
+SCORE: -3
+UP: 0
+DOWN: 3
+node updated!
+
+NODE: 3beta,4beta-Bis(trimethylsiloxy)cholest-5-ene
 SCORE: -7
 UP: 0
 DOWN: 7
 node updated!
 
-NODE: Campesterol
+NODE: cyclobutanecarboxylic acid
 SCORE: -1
 UP: 0
 DOWN: 1
 node updated!
 
-NODE: N-Isobutyl-sec-butylamine
-SCORE: 1
-UP: 2
-DOWN: 1
-removing edge N-Isobutyl-sec-butylamine - Dodecylcyclohexane
+NODE: 9H-Purine, 9-(trimethylsilyl)-2,6,8-tris[(trimethylsilyl)oxy]-
+SCORE: -1
+UP: 1
+DOWN: 2
+removing edge 9H-Purine, 9-(trimethylsilyl)-2,6,8-tris[(trimethylsilyl)oxy]- - ENSMUSG00000036815-P
 0.3333333333333333 > 0.2, node to be removed
 
-NODE: Cephalotaxine, 3-deoxy-3,11-epoxy-, (3alpha,11alpha)-
-SCORE: 3
-UP: 3
+NODE: Isopropyl palmitate
+SCORE: -17
+UP: 0
+DOWN: 17
+node updated!
+
+NODE: 2,5-Dimethoxybenzhydrazide
+SCORE: 0
+UP: 2
+DOWN: 2
+score == 0, node to be removed
+
+NODE: 2-Ethyl-3-hydroxypropionic acid
+SCORE: -1
+UP: 1
+DOWN: 2
+removing edge 2-Ethyl-3-hydroxypropionic acid - ENSMUSG00000031489-P
+0.3333333333333333 > 0.2, node to be removed
+
+NODE: 1-Hydroxy-3-methoxy-6-methylanthraquinone
+SCORE: 8
+UP: 10
+DOWN: 2
+removing edge 1-Hydroxy-3-methoxy-6-methylanthraquinone - ENSMUSG00000032633-P
+removing edge 1-Hydroxy-3-methoxy-6-methylanthraquinone - ENSMUSG00000007892-P
+node updated!
+
+NODE: 1-(1-Hydroxybutyl)-2,5-dimethoxybenzene 
+SCORE: 0
+UP: 1
+DOWN: 1
+score == 0, node to be removed
+
+NODE: 1-Decene, 8-methyl-
+SCORE: -2
+UP: 0
+DOWN: 2
+node updated!
+
+NODE: Benzaldehyde, 2,5-dimethyl-
+SCORE: -10
+UP: 0
+DOWN: 10
+node updated!
+
+NODE: Carbonic acid, eicosyl vinyl ester 
+SCORE: 0
+UP: 2
+DOWN: 2
+score == 0, node to be removed
+
+NODE: Benzoic acid, methyl ester
+SCORE: 1
+UP: 1
 DOWN: 0
 node updated!
 
-NODE: L-Tyrosine
+NODE: N-Valerylglycine
+SCORE: -1
+UP: 0
+DOWN: 1
+node updated!
+
+NODE: 3,4,5-Trihydroxypentanoic acid, tetrakis(trimethylsilyl)-
+SCORE: -2
+UP: 1
+DOWN: 3
+removing edge 3,4,5-Trihydroxypentanoic acid, tetrakis(trimethylsilyl)- - ENSMUSG00000020752-P
+0.25 > 0.2, node to be removed
+
+NODE: 2-Isopropyl-5-methyl-1-heptanol 
+SCORE: -3
+UP: 0
+DOWN: 3
+node updated!
+
+NODE: 1-(4-Methoxyphenyl)-4,6-dimethyl-2(1H)-pyrimidinone
+SCORE: 0
+UP: 1
+DOWN: 1
+score == 0, node to be removed
+
+NODE: 2,5-Di-tert-butylhydroquinone
+SCORE: 2
+UP: 3
+DOWN: 1
+removing edge 2,5-Di-tert-butylhydroquinone - ENSMUSG00000038545-P
+0.25 > 0.2, node to be removed
+
+NODE: Niclosamide
+SCORE: -1
+UP: 0
+DOWN: 1
+node updated!
+
+NODE: 1-Aminocyclopropanecarboxylic acid
+SCORE: -1
+UP: 0
+DOWN: 1
+node updated!
+
+NODE: 1-Octanol, 2-butyl-
+SCORE: 1
+UP: 1
+DOWN: 0
+node updated!
+
+NODE: Benzenemethanamine, 2,3-dimethoxy-
+SCORE: 1
+UP: 1
+DOWN: 0
+node updated!
+
+NODE: Isofucosterol
+SCORE: -10
+UP: 1
+DOWN: 11
+removing edge Isofucosterol - ENSMUSG00000032633-P
+node updated!
+
+NODE: N-Isobutyl-sec-butylamine
+SCORE: 2
+UP: 3
+DOWN: 1
+removing edge N-Isobutyl-sec-butylamine - ENSMUSG00000038545-P
+0.25 > 0.2, node to be removed
+
+NODE: Pentanedioic acid, 3-methyl-3-[(trimethylsilyl)oxy]-
+SCORE: -5
+UP: 1
+DOWN: 6
+removing edge Pentanedioic acid, 3-methyl-3-[(trimethylsilyl)oxy]- - ENSMUSG00000105302-P
+node updated!
+
+NODE: 4-Pyridinol
+SCORE: -2
+UP: 1
+DOWN: 3
+removing edge 4-Pyridinol - ENSMUSG00000026527-P
+0.25 > 0.2, node to be removed
+
+NODE: L-Asparagine
+SCORE: -2
+UP: 0
+DOWN: 2
+node updated!
+
+NODE: 1-Octene, 2-methyl-
+SCORE: 0
+UP: 1
+DOWN: 1
+score == 0, node to be removed
+
+NODE: Benzoic acid, pentadecyl ester
 SCORE: -15
 UP: 0
 DOWN: 15
 node updated!
 
-NODE: Tricine
-SCORE: 0
-UP: 5
+NODE: Benzophenone
+SCORE: -5
+UP: 0
 DOWN: 5
-score == 0, node to be removed
+node updated!
 
-NODE: 2-Furoic acid
-SCORE: -2
+NODE: 3-Buten-2-one, 4-(4-methoxyphenyl)-
+SCORE: 1
+UP: 1
+DOWN: 0
+node updated!
+
+NODE: Cadaverine
+SCORE: -3
 UP: 0
+DOWN: 3
+node updated!
+
+NODE: Ethanolamine
+SCORE: -3
+UP: 0
+DOWN: 3
+node updated!
+
+NODE: 3-Ureidopropionic acid
+SCORE: -1
+UP: 1
 DOWN: 2
+removing edge 3-Ureidopropionic acid - ENSMUSG00000049739-P
+0.3333333333333333 > 0.2, node to be removed
+
+NODE: Uridine
+SCORE: 1
+UP: 2
+DOWN: 1
+removing edge Uridine - ENSMUSG00000043614-P
+0.3333333333333333 > 0.2, node to be removed
+
+NODE: 3,5-di-tert-Butyl-4-hydroxyacetophenone
+SCORE: 1
+UP: 2
+DOWN: 1
+removing edge 3,5-di-tert-Butyl-4-hydroxyacetophenone - ENSMUSG00000015970-P
+0.3333333333333333 > 0.2, node to be removed
+
+NODE: 1,3,5-Benzetriol
+SCORE: -3
+UP: 1
+DOWN: 4
+removing edge 1,3,5-Benzetriol - ENSMUSG00000051074-P
 node updated!
 
-NODE: Indole-3-carboxaldehyde
-SCORE: -2
-UP: 0
-DOWN: 2
+NODE: Pimelic acid
+SCORE: -6
+UP: 1
+DOWN: 7
+removing edge Pimelic acid - ENSMUSG00000101059-P
 node updated!
 
-NODE: Salsoline
-SCORE: -19
-UP: 0
-DOWN: 19
-node updated!
-
-NODE: Hexanoylglycine
+NODE: L-Valine
 SCORE: 0
 UP: 1
 DOWN: 1
 score == 0, node to be removed
 
-NODE: 1-Octadecanol
-SCORE: 1
-UP: 3
-DOWN: 2
-removing edge 1-Octadecanol - Glyoxime
-removing edge 1-Octadecanol - Sertraline carbamoyl glucuronide
-0.4 > 0.2, node to be removed
-
-NODE: 2-Acetyl-3-(1-methyl-2-pyrrolyl)-1,4-benzenediol
-SCORE: 2
-UP: 2
-DOWN: 0
-node updated!
-
-NODE: 1-(2,4-Dimethoxyphenyl)-propan-2-one
-SCORE: -2
-UP: 1
-DOWN: 3
-removing edge 1-(2,4-Dimethoxyphenyl)-propan-2-one - 2-Hydroxy-5-methoxybenzaldehyde
-0.25 > 0.2, node to be removed
-
-NODE: Palmitelaidic acid
+NODE: Heptadecanoic acid
 SCORE: -1
 UP: 0
 DOWN: 1
 node updated!
 
-NODE: 2-Pentenedioic acid, 3-methyl-
-SCORE: -2
+NODE: Acetoacetic acid
+SCORE: -1
+UP: 0
+DOWN: 1
+node updated!
+
+NODE: Ethanone, 1-(2,5-dimethoxyphenyl)-
+SCORE: -1
+UP: 0
+DOWN: 1
+node updated!
+
+NODE: Hexanoic acid
+SCORE: -1
+UP: 0
+DOWN: 1
+node updated!
+
+NODE: N-Acetyltyrosine
+SCORE: 1
 UP: 2
-DOWN: 4
-removing edge 2-Pentenedioic acid, 3-methyl- - D-(+)-Talofuranose, pentakis
-removing edge 2-Pentenedioic acid, 3-methyl- - Propanoic acid, 2-methyl-
+DOWN: 1
+removing edge N-Acetyltyrosine - ENSMUSG00000036501-P
 0.3333333333333333 > 0.2, node to be removed
 
-NODE: D-Arabinose
+NODE: 3,5-Dimethylpyrazole
+SCORE: -3
+UP: 0
+DOWN: 3
+node updated!
+
+NODE: 4-Hydroxybutanoic acid
 SCORE: 1
 UP: 1
 DOWN: 0
 node updated!
 
-NODE: 2,6-Dimethoxybenzylamine
+NODE: Benzene, 4-ethenyl-1,2-dimethoxy-
+SCORE: 1
+UP: 2
+DOWN: 1
+removing edge Benzene, 4-ethenyl-1,2-dimethoxy- - ENSMUSG00000036718-P
+0.3333333333333333 > 0.2, node to be removed
+
+NODE: Indole-5-carboxylic acid
+SCORE: -3
+UP: 1
+DOWN: 4
+removing edge Indole-5-carboxylic acid - ENSMUSG00000105729-P
+node updated!
+
+NODE: 1-(2,4-Dimethoxyphenyl)-propan-2-one
+SCORE: 0
+UP: 2
+DOWN: 2
+score == 0, node to be removed
+
+NODE: Quinolin-4-one, 1-[2-(3,4-dimethoxyphenyl)ethyl]-octahydro-
 SCORE: 0
 UP: 1
 DOWN: 1
 score == 0, node to be removed
 
-NODE: Boric acid
+NODE: Methyl aminoacetate
+SCORE: -16
+UP: 0
+DOWN: 16
+node updated!
+
+NODE: Sertraline carbamoyl glucuronide
+SCORE: -5
+UP: 0
+DOWN: 5
+node updated!
+
+NODE: 1-Octadecanol
+SCORE: 0
+UP: 1
+DOWN: 1
+score == 0, node to be removed
+
+NODE: L-Tryptophan
+SCORE: -2
+UP: 0
+DOWN: 2
+node updated!
+
+NODE: Trisaminol
 SCORE: 1
 UP: 1
 DOWN: 0
 node updated!
+
+NODE: 3-Cyclohexyl-L-alanine amide, N,N,N'N'-tetramethyl-
+SCORE: -1
+UP: 0
+DOWN: 1
+node updated!
+
+NODE: 6,8-Dioxapentadecane
+SCORE: -1
+UP: 1
+DOWN: 2
+removing edge 6,8-Dioxapentadecane - ENSMUSG00000024191-P
+0.3333333333333333 > 0.2, node to be removed
+
+NODE: Octocrylene
+SCORE: -2
+UP: 0
+DOWN: 2
+node updated!
+
+NODE: D-(-)-Fructofuranose, pentakis
+SCORE: 5
+UP: 5
+DOWN: 0
+node updated!
+
+NODE: 2,3-Butanediol
+SCORE: -2
+UP: 0
+DOWN: 2
+node updated!
+
+NODE: Propylamine
+SCORE: -5
+UP: 0
+DOWN: 5
+node updated!
+
+NODE: Atrazine desethyl
+SCORE: -1
+UP: 0
+DOWN: 1
+node updated!
+
+NODE: 3-(3-Cyclohexylaminopropionylamino)-5-ethylthiophene-2-carboxylic acid, ethyl ester
+SCORE: -2
+UP: 0
+DOWN: 2
+node updated!
+
+NODE: Heptanoic acid
+SCORE: -2
+UP: 1
+DOWN: 3
+removing edge Heptanoic acid - ENSMUSG00000054484-P
+0.25 > 0.2, node to be removed
+
+NODE: Ethyl cis-2-trimethylsilyl-cyclopropane-1-carboxylate
+SCORE: 0
+UP: 1
+DOWN: 1
+score == 0, node to be removed
+
+NODE: 3'-(Trimethylsilyl)oxy-beta-naphthoflavone
+SCORE: 3
+UP: 4
+DOWN: 1
+removing edge 3'-(Trimethylsilyl)oxy-beta-naphthoflavone - ENSMUSG00000020297-P
+node updated!
+
+NODE: Pyroglutamic acid
+SCORE: -1
+UP: 1
+DOWN: 2
+removing edge Pyroglutamic acid - ENSMUSG00000056735-P
+0.3333333333333333 > 0.2, node to be removed
+
+NODE: 5-Henicosylresorcinol
+SCORE: -1
+UP: 0
+DOWN: 1
+node updated!
+
+NODE: 2,5-Cyclohexadiene-1,4-dione, 2,6-bis(1,1-dimethylethyl)-
+SCORE: 2
+UP: 2
+DOWN: 0
+node updated!
+
+NODE: 3beta-TRIMETHYLSILOXY-5alpha,6alpha-EPOXYCHOLESTANE
+SCORE: 0
+UP: 1
+DOWN: 1
+score == 0, node to be removed
+
+NODE: Benzo[b]fluorene, 5-amino-7-methyl-1,2,3,4,6,7,8,9-octahydro-11-thia-10-aza-
+SCORE: -1
+UP: 0
+DOWN: 1
+node updated!
+
+NODE: 3,4-Dihydrocoumarin, 4,4-dimethyl-6-dimethylamino-
+SCORE: -2
+UP: 1
+DOWN: 3
+removing edge 3,4-Dihydrocoumarin, 4,4-dimethyl-6-dimethylamino- - ENSMUSG00000026527-P
+0.25 > 0.2, node to be removed
+
+NODE: 4-Hydroxybenzoic acid
+SCORE: -2
+UP: 0
+DOWN: 2
+node updated!
+
+NODE: L-Threonine
+SCORE: -2
+UP: 1
+DOWN: 3
+removing edge L-Threonine - ENSMUSG00000056735-P
+0.25 > 0.2, node to be removed
+
+NODE: Butanoic acid, 2-methyl-3-[(trimethylsilyl)oxy]-
+SCORE: -2
+UP: 0
+DOWN: 2
+node updated!
+
+NODE: beta-Methylphenethylamine
+SCORE: 0
+UP: 2
+DOWN: 2
+score == 0, node to be removed
+
+NODE: Hydantoic acid
+SCORE: -1
+UP: 0
+DOWN: 1
+node updated!
+
+NODE: D-Fructose
+SCORE: -4
+UP: 0
+DOWN: 4
+node updated!
+
+NODE: Pentadecanoic acid
+SCORE: 1
+UP: 2
+DOWN: 1
+removing edge Pentadecanoic acid - ENSMUSG00000004285-P
+0.3333333333333333 > 0.2, node to be removed
+
+NODE: Cholesta-3,5-dien-7-one
+SCORE: -1
+UP: 1
+DOWN: 2
+removing edge Cholesta-3,5-dien-7-one - ENSMUSG00000031079-P
+0.3333333333333333 > 0.2, node to be removed
+
+NODE: Stearic acid
+SCORE: -1
+UP: 0
+DOWN: 1
+node updated!
+
+NODE: N-isobutyl-2-(trimethylsilyloxy]-4,5-dihydro-1H-imidazole-1-carboxamide
+SCORE: -1
+UP: 0
+DOWN: 1
+node updated!
+
+NODE: Glycine, N-[4-[(trimethylsilyl)oxy]benzoyl]-
+SCORE: -1
+UP: 0
+DOWN: 1
+node updated!
+
+NODE: 1,4-diazabicyclo[4.3.0]nonan-2,5-dione, 3-methyl 
+SCORE: 1
+UP: 1
+DOWN: 0
+node updated!
+
+NODE: Benzimidazole, 5-trifluoromethyl-2-methyl-
+SCORE: -8
+UP: 0
+DOWN: 8
+node updated!
+
+NODE: Aziridine, 1-(2-buten-2-yl)-
+SCORE: -1
+UP: 0
+DOWN: 1
+node updated!
+
+NODE: D-Arabinose
+SCORE: 0
+UP: 1
+DOWN: 1
+score == 0, node to be removed
+
+NODE: Nitrosothymol
+SCORE: -10
+UP: 1
+DOWN: 11
+removing edge Nitrosothymol - ENSMUSG00000027374-P
+node updated!
+
+NODE: Trimidox
+SCORE: 4
+UP: 4
+DOWN: 0
+node updated!
+
+NODE: Butylmethylamine
+SCORE: -1
+UP: 1
+DOWN: 2
+removing edge Butylmethylamine - ENSMUSG00000062040-P
+0.3333333333333333 > 0.2, node to be removed
+
+NODE: 2,5-Dimethyl-1-aza-bicyclo[2.2.1]heptane
+SCORE: 1
+UP: 2
+DOWN: 1
+removing edge 2,5-Dimethyl-1-aza-bicyclo[2.2.1]heptane - ENSMUSG00000061533-P
+0.3333333333333333 > 0.2, node to be removed
+
+NODE: Malic acid
+SCORE: 1
+UP: 1
+DOWN: 0
+node updated!
+
+NODE: 3-Aminobenzoic acid
+SCORE: -3
+UP: 3
+DOWN: 6
+removing edge 3-Aminobenzoic acid - ENSMUSG00000030265-P
+removing edge 3-Aminobenzoic acid - ENSMUSG00000040167-P
+removing edge 3-Aminobenzoic acid - ENSMUSG00000004263-P
+0.3333333333333333 > 0.2, node to be removed
+
+NODE: 1,3,5-Trimethyl-1H-pyrazol-4-amine
+SCORE: 1
+UP: 2
+DOWN: 1
+removing edge 1,3,5-Trimethyl-1H-pyrazol-4-amine - ENSMUSG00000038545-P
+0.3333333333333333 > 0.2, node to be removed
+
+NODE: Suberic acid
+SCORE: -2
+UP: 0
+DOWN: 2
+node updated!
+
+NODE: 4-Hydroxybenzeneacetic acid
+SCORE: -5
+UP: 0
+DOWN: 5
+node updated!
+
+NODE: 2-Propenamide, 3-phenyl-N-2-propenyl-
+SCORE: -2
+UP: 0
+DOWN: 2
+node updated!
+
+NODE: 3-Methoxysalicylic acid
+SCORE: 4
+UP: 5
+DOWN: 1
+removing edge 3-Methoxysalicylic acid - ENSMUSG00000024191-P
+node updated!
+
+NODE: Levulinic acid
+SCORE: -8
+UP: 0
+DOWN: 8
+node updated!
+
+NODE: 9-Octadecenamide
+SCORE: -1
+UP: 0
+DOWN: 1
+node updated!
+
+NODE: Ribitol
+SCORE: -1
+UP: 0
+DOWN: 1
+node updated!
+
+NODE: L-Tryptophan, N-acetyl-1
+SCORE: -2
+UP: 0
+DOWN: 2
+node updated!
+
+NODE: 1,1'-Biphenyl, 3,4-diethyl-
+SCORE: -1
+UP: 0
+DOWN: 1
+node updated!
+
+NODE: Serine
+SCORE: -1
+UP: 1
+DOWN: 2
+removing edge Serine - ENSMUSG00000056735-P
+0.3333333333333333 > 0.2, node to be removed
+
+NODE: Supraene
+SCORE: -1
+UP: 1
+DOWN: 2
+removing edge Supraene - ENSMUSG00000026483-P
+0.3333333333333333 > 0.2, node to be removed
+
+NODE: 3-Hydroxyisovaleric acid
+SCORE: -2
+UP: 0
+DOWN: 2
+node updated!
+
+NODE: 4-(Trimethylsilyoxy)-3-penten-2-one
+SCORE: 0
+UP: 1
+DOWN: 1
+score == 0, node to be removed
+
+NODE: Propanetriol, 2-methyl-
+SCORE: -3
+UP: 0
+DOWN: 3
+node updated!
+
+NODE: Erythritol
+SCORE: -1
+UP: 0
+DOWN: 1
+node updated!
+
+NODE: L-Cysteine
+SCORE: 1
+UP: 1
+DOWN: 0
+node updated!
+
+NODE: 15-Oxo-11Z,13E-eicosadienoic acid
+SCORE: 1
+UP: 2
+DOWN: 1
+removing edge 15-Oxo-11Z,13E-eicosadienoic acid - ENSMUSG00000025474-P
+0.3333333333333333 > 0.2, node to be removed
+
+NODE: 2,4-Imidazolidinedione, 5,5-dimethyl-
+SCORE: -5
+UP: 1
+DOWN: 6
+removing edge 2,4-Imidazolidinedione, 5,5-dimethyl- - ENSMUSG00000038990-P
+node updated!
+
+NODE: 2,5-Dimethoxymandelic acid
+SCORE: 2
+UP: 2
+DOWN: 0
+node updated!
+
+NODE: 1-Deoxypentitol
+SCORE: -7
+UP: 2
+DOWN: 9
+removing edge 1-Deoxypentitol - ENSMUSG00000027374-P
+removing edge 1-Deoxypentitol - ENSMUSG00000024191-P
+node updated!
+
+NODE: 2-Heptenoic acid
+SCORE: -2
+UP: 0
+DOWN: 2
+node updated!
+
+NODE: Urea
+SCORE: 2
+UP: 3
+DOWN: 1
+removing edge Urea - ENSMUSG00000031511-P
+0.25 > 0.2, node to be removed
+
+NODE: (7a-Isopropenyl-4,5-dimethyloctahydroinden-4-yl)methanol
+SCORE: -1
+UP: 2
+DOWN: 3
+removing edge (7a-Isopropenyl-4,5-dimethyloctahydroinden-4-yl)methanol - ENSMUSG00000048612-P
+removing edge (7a-Isopropenyl-4,5-dimethyloctahydroinden-4-yl)methanol - ENSMUSG00000052584-P
+0.4 > 0.2, node to be removed
+
+NODE: 2,6-Dimethoxybenzylamine
+SCORE: -1
+UP: 1
+DOWN: 2
+removing edge 2,6-Dimethoxybenzylamine - ENSMUSG00000062040-P
+0.3333333333333333 > 0.2, node to be removed
+
+NODE: Pipecolic acid
+SCORE: -2
+UP: 0
+DOWN: 2
+node updated!
+
+NODE: n-Butylamine
+SCORE: 0
+UP: 1
+DOWN: 1
+score == 0, node to be removed
+
+NODE: Arachidonic acid
+SCORE: -3
+UP: 0
+DOWN: 3
+node updated!
+
+NODE: 1-Phenyl-1,2-ethanediol
+SCORE: -2
+UP: 0
+DOWN: 2
+node updated!
+
+NODE: Dodecane, 4,6-dimethyl-
+SCORE: -7
+UP: 0
+DOWN: 7
+node updated!
+
+NODE: cis-4,5-Dihydroxy-o-dithiane, 2O-
+SCORE: 0
+UP: 1
+DOWN: 1
+score == 0, node to be removed
+
+NODE: L-5-Oxoproline
+SCORE: -3
+UP: 1
+DOWN: 4
+removing edge L-5-Oxoproline - ENSMUSG00000055681-P
+node updated!
+
+NODE: Adipoyl-L-carnitine
+SCORE: -3
+UP: 0
+DOWN: 3
+node updated!
+
+NODE: Neostigmine 
+SCORE: -1
+UP: 0
+DOWN: 1
+node updated!
+
+NODE: Galactopyranose
+SCORE: 1
+UP: 1
+DOWN: 0
+node updated!
+
+NODE: alpha-Linolenic acid
+SCORE: 1
+UP: 1
+DOWN: 0
+node updated!
+
+NODE: 2-Allyl-1,4-dimethoxybenzene
+SCORE: -3
+UP: 0
+DOWN: 3
+node updated!
+
+NODE: 9-Octadecenoic acid
+SCORE: 0
+UP: 2
+DOWN: 2
+score == 0, node to be removed
+
+NODE: 1,2,2-Trimethyl-1-aza-spiro[2.3]hexane
+SCORE: 0
+UP: 1
+DOWN: 1
+score == 0, node to be removed
+
+NODE: Guanidine, N,N-dimethyl-
+SCORE: 0
+UP: 1
+DOWN: 1
+score == 0, node to be removed
+
+NODE: Glucopyranose
+SCORE: -1
+UP: 0
+DOWN: 1
+node updated!
+
+NODE: 5-Hydroxyquinoline
+SCORE: -4
+UP: 0
+DOWN: 4
+node updated!
+
+NODE: Dodecanamide, N-(2-hydroxyethyl)-
+SCORE: 1
+UP: 2
+DOWN: 1
+removing edge Dodecanamide, N-(2-hydroxyethyl)- - ENSMUSG00000036613-P
+0.3333333333333333 > 0.2, node to be removed
+
+NODE: Stigmast-5-ene, 3beta-
+SCORE: -2
+UP: 0
+DOWN: 2
+node updated!
+
+NODE: cis-4-Trimethylsilyloxy-cyclohexyl(trimethylsilyl)carboxylate
+SCORE: -3
+UP: 0
+DOWN: 3
+node updated!
+
+NODE: Acetamide, N,N-diethyl-
+SCORE: -3
+UP: 1
+DOWN: 4
+removing edge Acetamide, N,N-diethyl- - Morpholine, 4-[2,3,4,6-tetrakis-O-(trimethylsilyl)-alpha-d-mannopyranosyl]-
+node updated!
+
+NODE: Methyl isovanillate
+SCORE: -3
+UP: 0
+DOWN: 3
+node updated!
+
+NODE: 2-Acetyl-5-chloro-3-methylbenzo(b)thiophene
+SCORE: -17
+UP: 1
+DOWN: 18
+removing edge 2-Acetyl-5-chloro-3-methylbenzo(b)thiophene - Carfentrazone-ethyl
+node updated!
+
+NODE: 6-Methoxy-1-methyl-1,2,3,4-tetrahydroisoquinolin-7-ol 
+SCORE: -3
+UP: 0
+DOWN: 3
+node updated!
+
+NODE: Nonanal
+SCORE: -30
+UP: 2
+DOWN: 32
+removing edge Nonanal - 2-Hydroxy-5-methoxybenzaldehyde
+removing edge Nonanal - Propanoic acid, 2-methyl-
+node updated!
+
+NODE: L-Methionine
+SCORE: 0
+UP: 1
+DOWN: 1
+score == 0, node to be removed
 
 NODE: Tetradecanenitrile
 SCORE: 1
@@ -2112,40 +1998,223 @@ UP: 1
 DOWN: 0
 node updated!
 
-NODE: 3-Indolepropionic acid
-SCORE: -3
-UP: 1
-DOWN: 4
-removing edge 3-Indolepropionic acid - 1-Piperazineethanol, 4-dibenzo[b,f][1,4]thiazepin-11-yl-
+NODE: Glucose
+SCORE: -1
+UP: 0
+DOWN: 1
 node updated!
 
-NODE: 4-Cumylphenol
-SCORE: -11
+NODE: Lactic Acid
+SCORE: 3
 UP: 3
-DOWN: 14
-removing edge 4-Cumylphenol - Cholest-7-en-3-ol, (3beta,5alpha)-
-removing edge 4-Cumylphenol - Phosalone
-removing edge 4-Cumylphenol - Ser-Leu
+DOWN: 0
 node updated!
 
-NODE: Petroselinic acid
+NODE: 2-Propanone, bis(1-methylethyl)hydrazone
+SCORE: -13
+UP: 4
+DOWN: 17
+removing edge 2-Propanone, bis(1-methylethyl)hydrazone - (CH3)2C=NC2H558
+removing edge 2-Propanone, bis(1-methylethyl)hydrazone - 2-Hydroxy-5-methoxybenzaldehyde
+removing edge 2-Propanone, bis(1-methylethyl)hydrazone - 3-Buten-2-one, 3-trimethylsilyloxy-
+removing edge 2-Propanone, bis(1-methylethyl)hydrazone - Benzoic acid, methyl ester
+node updated!
+
+NODE: S-Methyl-L-cysteine
+SCORE: -13
+UP: 1
+DOWN: 14
+removing edge S-Methyl-L-cysteine - Benzenemethanamine, 2,3-dimethoxy-
+node updated!
+
+NODE: 7-(Trimethylsilyl)amino-4-methylcoumarin
+SCORE: -13
+UP: 0
+DOWN: 13
+node updated!
+
+NODE: 6-Hydroxyflavone-beta-D-glucoside
+SCORE: -1
+UP: 0
+DOWN: 1
+node updated!
+
+NODE: Phenol, 3,5-bis(1,1-dimethylethyl)-
+SCORE: 1
+UP: 1
+DOWN: 0
+node updated!
+
+NODE: Isonicotinic Acid
+SCORE: 2
+UP: 2
+DOWN: 0
+node updated!
+
+NODE: 2,4-Decadienal
+SCORE: -3
+UP: 2
+DOWN: 5
+removing edge 2,4-Decadienal - Benzene, 1-acetoxy-2,6-dimethoxy-4-(2-propenyl)-
+removing edge 2,4-Decadienal - Propanoic acid, 2-methyl-
+0.2857142857142857 > 0.2, node to be removed
+
+NODE: Pregn-16-en-20-one, 3,18-bis(acetyloxy)-14,15-epoxy-, (3beta,5alpha,14beta,15beta)-
+SCORE: -1
+UP: 0
+DOWN: 1
+node updated!
+
+NODE: Phenol
+SCORE: 0
+UP: 2
+DOWN: 2
+score == 0, node to be removed
+
+NODE: Phlorizin
+SCORE: -13
+UP: 4
+DOWN: 17
+removing edge Phlorizin - (CH3)2C=NC2H558
+removing edge Phlorizin - 1,2-Benzenedicarboxylic acid
+removing edge Phlorizin - Arsenous acid
+removing edge Phlorizin - Benzenemethanamine, 2,3-dimethoxy-
+node updated!
+
+NODE: L-Glutamine
+SCORE: 1
+UP: 1
+DOWN: 0
+node updated!
+
+NODE: 5-Androsten-17alpha-methyl-3beta,17beta-diol
+SCORE: -7
+UP: 2
+DOWN: 9
+removing edge 5-Androsten-17alpha-methyl-3beta,17beta-diol - 1,4-diazabicyclo[4.3.0]nonan-2,5-dione, 3-methyl 
+removing edge 5-Androsten-17alpha-methyl-3beta,17beta-diol - Carfentrazone-ethyl
+node updated!
+
+NODE: Heptanoic acid
+SCORE: -3
+UP: 3
+DOWN: 6
+removing edge Heptanoic acid - 1-Hexadecanol
+removing edge Heptanoic acid - Decanoic acid
+removing edge Heptanoic acid - Octanoic acid
+0.3333333333333333 > 0.2, node to be removed
+
+NODE: meso-Erythritol
 SCORE: 0
 UP: 1
 DOWN: 1
 score == 0, node to be removed
 
-NODE: Ornithine
-SCORE: -4
-UP: 0
-DOWN: 4
+NODE: 2',2,3,6'-Tetramethoxychalcone
+SCORE: 1
+UP: 1
+DOWN: 0
 node updated!
 
-NODE: Benzenepropanoic acid
+NODE: Pentylone
 SCORE: 1
-UP: 2
+UP: 1
+DOWN: 0
+node updated!
+
+NODE: Pentanedioic acid, 2-[(trimethylsilyl)oxy]-
+SCORE: 4
+UP: 5
 DOWN: 1
-removing edge Benzenepropanoic acid - Ethanone, 1-(5-methoxy-2-methyl-3(1H)-indolyl)-
-0.3333333333333333 > 0.2, node to be removed
+removing edge Pentanedioic acid, 2-[(trimethylsilyl)oxy]- - Ribitol
+node updated!
+
+NODE: Ethyl cis-2-trimethylsilyl-cyclopropane-1-carboxylate
+SCORE: -1
+UP: 0
+DOWN: 1
+node updated!
+
+NODE: Pentanedioic acid, 2,4-bis[(trimethylsilyl)oxy]
+SCORE: 0
+UP: 1
+DOWN: 1
+score == 0, node to be removed
+
+NODE: 1-Monoacetin
+SCORE: -18
+UP: 1
+DOWN: 19
+removing edge 1-Monoacetin - Propanoic acid, 2-methyl-
+node updated!
+
+NODE: Trimethylsilyl oct-2-enoate 
+SCORE: -1
+UP: 0
+DOWN: 1
+node updated!
+
+NODE: Dimethyl fumarate
+SCORE: -2
+UP: 0
+DOWN: 2
+node updated!
+
+NODE: alpha-Tocopherol
+SCORE: -22
+UP: 0
+DOWN: 22
+node updated!
+
+NODE: Luteolin 
+SCORE: 0
+UP: 1
+DOWN: 1
+score == 0, node to be removed
+
+NODE: (2S,3R)-3-[(4E,7E)-Nona-4,7-dienoyl]-N,N-bis(trimethylsilyl)oxirane-2-carboxamide 
+SCORE: -3
+UP: 1
+DOWN: 4
+removing edge (2S,3R)-3-[(4E,7E)-Nona-4,7-dienoyl]-N,N-bis(trimethylsilyl)oxirane-2-carboxamide  - 2,5-di-tert-Butyl-1,4-benzoquinone
+node updated!
+
+NODE: Pyroglutamic acid
+SCORE: 0
+UP: 1
+DOWN: 1
+score == 0, node to be removed
+
+NODE: 3-Methyl-2-butenoic acid, tridec-2-ynyl ester
+SCORE: 0
+UP: 1
+DOWN: 1
+score == 0, node to be removed
+
+NODE: Arabinaric acid
+SCORE: -12
+UP: 2
+DOWN: 14
+removing edge Arabinaric acid - Atrazine desethyl
+removing edge Arabinaric acid - Doconexent
+node updated!
+
+NODE: Picolinic acid
+SCORE: -2
+UP: 3
+DOWN: 5
+removing edge Picolinic acid - 2-Hydroxy-5-methoxybenzaldehyde
+removing edge Picolinic acid - 2-Hydroxybutyric acid
+removing edge Picolinic acid - Propanoic acid, 2-methyl-
+0.375 > 0.2, node to be removed
+
+NODE: 3beta-TRIMETHYLSILOXY-5alpha,6alpha-EPOXYCHOLESTANE
+SCORE: -26
+UP: 2
+DOWN: 28
+removing edge 3beta-TRIMETHYLSILOXY-5alpha,6alpha-EPOXYCHOLESTANE - 2,5-di-tert-Butyl-1,4-benzoquinone
+removing edge 3beta-TRIMETHYLSILOXY-5alpha,6alpha-EPOXYCHOLESTANE - Carfentrazone-ethyl
+node updated!
 
 NODE: Dodecanoic acid
 SCORE: -3
@@ -2154,16 +2223,131 @@ DOWN: 4
 removing edge Dodecanoic acid - (CH3)2C=NC2H558
 node updated!
 
-NODE: Bis(trimethylsilyl)acetylene
-SCORE: -1
-UP: 0
+NODE: 3,4-Dihydrocoumarin, 4,4-dimethyl-6-dimethylamino-
+SCORE: 1
+UP: 1
+DOWN: 0
+node updated!
+
+NODE: 2-Acetyl-3-(1-methyl-2-pyrrolyl)-1,4-benzenediol
+SCORE: 2
+UP: 2
+DOWN: 0
+node updated!
+
+NODE: beta-D-Glucopyranose
+SCORE: 1
+UP: 1
+DOWN: 0
+node updated!
+
+NODE: 4-[2-(4,7-Dimethoxy-2H-1,3-benzodioxol-5-yl)ethenyl]-2-methoxyphenol
+SCORE: 2
+UP: 3
 DOWN: 1
+removing edge 4-[2-(4,7-Dimethoxy-2H-1,3-benzodioxol-5-yl)ethenyl]-2-methoxyphenol - Ser-Leu
+0.25 > 0.2, node to be removed
+
+NODE: L-Threonine
+SCORE: 0
+UP: 1
+DOWN: 1
+score == 0, node to be removed
+
+NODE: 5alpha-Pregnane-3,20-dione
+SCORE: -4
+UP: 0
+DOWN: 4
+node updated!
+
+NODE: Benzene, 1,1'-(1,2-cyclobutanediyl)bis-
+SCORE: 2
+UP: 2
+DOWN: 0
+node updated!
+
+NODE: 1-Phenylethanol
+SCORE: 14
+UP: 14
+DOWN: 0
+node updated!
+
+NODE: 4-Hydroxybenzaldehyde
+SCORE: 1
+UP: 1
+DOWN: 0
+node updated!
+
+NODE: 1-Pentene, 3,3-dimethyl-
+SCORE: 2
+UP: 4
+DOWN: 2
+removing edge 1-Pentene, 3,3-dimethyl- - 2,5-Dimethoxymandelic acid
+removing edge 1-Pentene, 3,3-dimethyl- - Hydroquinone
+0.3333333333333333 > 0.2, node to be removed
+
+NODE: D-Leucylglycylglycine
+SCORE: 1
+UP: 1
+DOWN: 0
+node updated!
+
+NODE: Ethanamine, N,N-diethyl-2,2-dimethyl-2-[(3,5-dimethoxy)phenyl]-
+SCORE: -4
+UP: 0
+DOWN: 4
+node updated!
+
+NODE: Valylglycine
+SCORE: -1
+UP: 1
+DOWN: 2
+removing edge Valylglycine - 1-Piperazineethanol, 4-dibenzo[b,f][1,4]thiazepin-11-yl-
+0.3333333333333333 > 0.2, node to be removed
+
+NODE: Phloroglucinol
+SCORE: -15
+UP: 0
+DOWN: 15
+node updated!
+
+NODE: Pentadecanoic acid
+SCORE: -7
+UP: 1
+DOWN: 8
+removing edge Pentadecanoic acid - 3-Buten-2-one, 3-trimethylsilyloxy-
+node updated!
+
+NODE: D-(-)-Ribofuranose, tetrakis
+SCORE: 1
+UP: 1
+DOWN: 0
+node updated!
+
+NODE: 5-Aminovaleric acid
+SCORE: 3
+UP: 3
+DOWN: 0
 node updated!
 
 NODE: Octopamine
 SCORE: 4
 UP: 4
 DOWN: 0
+node updated!
+
+NODE: Cholesta-3,5-dien-7-one
+SCORE: -3
+UP: 0
+DOWN: 3
+node updated!
+
+NODE: Acetohydrazide, 2-(2-isopropyl-5-methylphenoxy)-N2-benzylideno-
+SCORE: -8
+UP: 2
+DOWN: 10
+removing edge Acetohydrazide, 2-(2-isopropyl-5-methylphenoxy)-N2-benzylideno- - 2,5-Dimethoxymandelic acid
+removing edge Acetohydrazide, 2-(2-isopropyl-5-methylphenoxy)-N2-benzylideno- - Aziridine, 1-(2-buten-2-yl)-
 node updated!
 
 NODE: 2-Naphthol
@@ -2174,17 +2358,60 @@ removing edge 2-Naphthol - (CH3)2C=NC2H558
 removing edge 2-Naphthol - 2-(2,5-Dimethoxy-phenyl)-propionaldehyde
 node updated!
 
-NODE: Quazodine
-SCORE: 1
-UP: 1
-DOWN: 0
-node updated!
-
-NODE: Propanoic acid, 2-oxo-
+NODE: 1,3-Cyclohexanebis(methylamine)
 SCORE: -1
 UP: 0
 DOWN: 1
 node updated!
+
+NODE: 2-Pentenoic acid
+SCORE: -1
+UP: 0
+DOWN: 1
+node updated!
+
+NODE: 3-Hydroxybutyric acid
+SCORE: -1
+UP: 0
+DOWN: 1
+node updated!
+
+NODE: Cyclohexanone, 3,3,5-trimethyl-
+SCORE: 0
+UP: 6
+DOWN: 6
+score == 0, node to be removed
+
+NODE: 3-Indolepropionic acid
+SCORE: -3
+UP: 1
+DOWN: 4
+removing edge 3-Indolepropionic acid - 1-Piperazineethanol, 4-dibenzo[b,f][1,4]thiazepin-11-yl-
+node updated!
+
+NODE: (pm)-alpha-Tocopherol acetate
+SCORE: -31
+UP: 1
+DOWN: 32
+removing edge (pm)-alpha-Tocopherol acetate - alpha-Linolenic acid
+node updated!
+
+NODE: Salsoline
+SCORE: -19
+UP: 0
+DOWN: 19
+node updated!
+
+NODE: 5,10-Diethoxy-2,3,7,8-tetrahydro-1H,6H-dipyrrolo[1,2-a:1',2'-d]pyrazine 
+SCORE: -10
+UP: 5
+DOWN: 15
+removing edge 5,10-Diethoxy-2,3,7,8-tetrahydro-1H,6H-dipyrrolo[1,2-a:1',2'-d]pyrazine  - 1-Phenyl-1,2-ethanediol
+removing edge 5,10-Diethoxy-2,3,7,8-tetrahydro-1H,6H-dipyrrolo[1,2-a:1',2'-d]pyrazine  - 2-Hydroxybutyric acid
+removing edge 5,10-Diethoxy-2,3,7,8-tetrahydro-1H,6H-dipyrrolo[1,2-a:1',2'-d]pyrazine  - 3-Aminobutanoic acid
+removing edge 5,10-Diethoxy-2,3,7,8-tetrahydro-1H,6H-dipyrrolo[1,2-a:1',2'-d]pyrazine  - D-(+)-Talofuranose, pentakis
+removing edge 5,10-Diethoxy-2,3,7,8-tetrahydro-1H,6H-dipyrrolo[1,2-a:1',2'-d]pyrazine  - Malic acid
+0.25 > 0.2, node to be removed
 
 NODE: 4-Fluoroaniline, N-trimethylsilyl-
 SCORE: -1
@@ -2195,10 +2422,166 @@ removing edge 4-Fluoroaniline, N-trimethylsilyl- - 3-Buten-2-one, 3-trimethylsil
 removing edge 4-Fluoroaniline, N-trimethylsilyl- - 3'-(Trimethylsilyl)oxy-beta-naphthoflavone
 0.42857142857142855 > 0.2, node to be removed
 
-NODE: D-Threitol
+NODE: 1-Tetradecanol
+SCORE: -5
+UP: 1
+DOWN: 6
+removing edge 1-Tetradecanol - Benzeneethanamine, N-[(pentafluorophenyl)methylene]-4-[(trimethylsilyl)oxy]-
+node updated!
+
+NODE: 4,4,5,8-Tetramethyl-chroman-2-one
+SCORE: 0
+UP: 1
+DOWN: 1
+score == 0, node to be removed
+
+NODE: Xylose
+SCORE: -2
+UP: 0
+DOWN: 2
+node updated!
+
+NODE: D-Ornithine
+SCORE: -1
+UP: 2
+DOWN: 3
+removing edge D-Ornithine - 2,5-Cyclohexadiene-1,4-dione, 2,6-bis(1,1-dimethylethyl)-
+removing edge D-Ornithine - Ser-Leu
+0.4 > 0.2, node to be removed
+
+NODE: 7-Acetyl-6-ethyl-1,1,4,4-tetramethyltetralin 
 SCORE: 1
 UP: 1
 DOWN: 0
+node updated!
+
+NODE: L-Lysine
+SCORE: -1
+UP: 0
+DOWN: 1
+node updated!
+
+NODE: L-Tyrosine
+SCORE: -15
+UP: 0
+DOWN: 15
+node updated!
+
+NODE: phenoxyethanol
+SCORE: 0
+UP: 2
+DOWN: 2
+score == 0, node to be removed
+
+NODE: Piperidine, 1-(1-methylpentyl)-
+SCORE: -1
+UP: 2
+DOWN: 3
+removing edge Piperidine, 1-(1-methylpentyl)- - Acetic acid, bis[(trimethylsilyl)oxyl]-
+removing edge Piperidine, 1-(1-methylpentyl)- - L-Aspartic acid
+0.4 > 0.2, node to be removed
+
+NODE:  5-Hydroxyhexanoic acid
+SCORE: -10
+UP: 1
+DOWN: 11
+removing edge  5-Hydroxyhexanoic acid - Carfentrazone-ethyl
+node updated!
+
+NODE: DL-Proline, 5-oxo-
+SCORE: -2
+UP: 0
+DOWN: 2
+node updated!
+
+NODE: O-Methyl-N,N'-diisopropylisourea 
+SCORE: 1
+UP: 1
+DOWN: 0
+node updated!
+
+NODE: D-Arabinose
+SCORE: 1
+UP: 1
+DOWN: 0
+node updated!
+
+NODE: Pentanoic acid
+SCORE: -1
+UP: 1
+DOWN: 2
+removing edge Pentanoic acid - 2,5-Cyclohexadiene-1,4-dione, 2,6-bis(1,1-dimethylethyl)-
+0.3333333333333333 > 0.2, node to be removed
+
+NODE: Diphenyl ether
+SCORE: -25
+UP: 1
+DOWN: 26
+removing edge Diphenyl ether - Cholest-7-en-3-ol, (3beta,5alpha)-
+node updated!
+
+NODE: Benzene, 1,3-bis(1,1-dimethylethyl)-
+SCORE: 2
+UP: 2
+DOWN: 0
+node updated!
+
+NODE: 2,5-Dimethoxy-4-methylamphetamine
+SCORE: -1
+UP: 0
+DOWN: 1
+node updated!
+
+NODE: 1,2-Dimethoxy-4-(1-methoxyethenyl)benzene
+SCORE: -2
+UP: 4
+DOWN: 6
+removing edge 1,2-Dimethoxy-4-(1-methoxyethenyl)benzene - 4-(Methoxycarbonyl)phenol
+removing edge 1,2-Dimethoxy-4-(1-methoxyethenyl)benzene - Hydroquinone
+removing edge 1,2-Dimethoxy-4-(1-methoxyethenyl)benzene - N-(Trimethylsilyl)hexanamide
+removing edge 1,2-Dimethoxy-4-(1-methoxyethenyl)benzene - n-Pentadecanol
+0.4 > 0.2, node to be removed
+
+NODE: Delorazepam
+SCORE: -2
+UP: 0
+DOWN: 2
+node updated!
+
+NODE: L-Glutamic acid
+SCORE: -3
+UP: 0
+DOWN: 3
+node updated!
+
+NODE: Naphthofluorescein
+SCORE: -2
+UP: 0
+DOWN: 2
+node updated!
+
+NODE: 2,5-Piperazinedione, 3-methyl-6-(phenylmethyl)-
+SCORE: 0
+UP: 1
+DOWN: 1
+score == 0, node to be removed
+
+NODE: Cyclohexene, 3-butyl-3-methyl-1-trimethylsilyloxy-
+SCORE: -5
+UP: 0
+DOWN: 5
+node updated!
+
+NODE: 3,4-Dihydroxymandelic acid, ethyl ester
+SCORE: -1
+UP: 0
+DOWN: 1
+node updated!
+
+NODE: 9H-Purine, 9-(trimethylsilyl)-2,6,8-tris[(trimethylsilyl)oxy]-
+SCORE: -2
+UP: 0
+DOWN: 2
 node updated!
 
 NODE: 4-Methoxyphenol
@@ -2210,11 +2593,68 @@ removing edge 4-Methoxyphenol - 2-Hydroxy-5-methoxybenzaldehyde
 removing edge 4-Methoxyphenol - Propanoic acid, 2-methyl-
 0.42857142857142855 > 0.2, node to be removed
 
-NODE: 3-Hydroxybutyric acid
+NODE: Petroselinic acid
+SCORE: 0
+UP: 1
+DOWN: 1
+score == 0, node to be removed
+
+NODE: 1-(4-Hydroxybenzylidene)acetone
+SCORE: -27
+UP: 2
+DOWN: 29
+removing edge 1-(4-Hydroxybenzylidene)acetone - 1,5-Anhydroglucitol
+removing edge 1-(4-Hydroxybenzylidene)acetone - Acetic acid, bis[(trimethylsilyl)oxyl]-
+node updated!
+
+NODE: Pyrrole-2-carboxylic acid
 SCORE: -1
 UP: 0
 DOWN: 1
 node updated!
+
+NODE: 3-Methylpiperazine-2,5-dione, (R)-
+SCORE: -18
+UP: 4
+DOWN: 22
+removing edge 3-Methylpiperazine-2,5-dione, (R)- - 2-Hydroxybutyric acid
+removing edge 3-Methylpiperazine-2,5-dione, (R)- - Doconexent
+removing edge 3-Methylpiperazine-2,5-dione, (R)- - Propanoic acid, 2-methyl-
+removing edge 3-Methylpiperazine-2,5-dione, (R)- - Ser-Leu
+node updated!
+
+NODE: Butylmethylamine
+SCORE: -16
+UP: 2
+DOWN: 18
+removing edge Butylmethylamine - (CH3)2C=NC2H558
+removing edge Butylmethylamine - Benzenemethanamine, 2,3-dimethoxy-
+node updated!
+
+NODE: 1,3-bis[(Trimethylsilyl)ethynyl]benzene
+SCORE: -1
+UP: 0
+DOWN: 1
+node updated!
+
+NODE: Bis(trimethylsilyl)histidine
+SCORE: 0
+UP: 1
+DOWN: 1
+score == 0, node to be removed
+
+NODE: 2,5-Dimethyl-1-aza-bicyclo[2.2.1]heptane
+SCORE: 3
+UP: 3
+DOWN: 0
+node updated!
+
+NODE: Isoquinoline, 3,4-dihydro-6,7-dimethoxy-1-[4-hydroxybenzyl]-
+SCORE: 1
+UP: 2
+DOWN: 1
+removing edge Isoquinoline, 3,4-dihydro-6,7-dimethoxy-1-[4-hydroxybenzyl]- - 2-(Decanoyloxy)propane-1,3-diyl dioctanoate
+0.3333333333333333 > 0.2, node to be removed
 
 NODE: 2,5-Dimethoxybenzhydrazide
 SCORE: 1
@@ -2223,12 +2663,163 @@ DOWN: 1
 removing edge 2,5-Dimethoxybenzhydrazide - 13-Docosenamide
 0.3333333333333333 > 0.2, node to be removed
 
-NODE: 5-Androsten-17alpha-methyl-3beta,17beta-diol
-SCORE: -7
+NODE: Indole-3-carboxaldehyde
+SCORE: -2
+UP: 0
+DOWN: 2
+node updated!
+
+NODE: 2-Ethyl-3-hydroxypropionic acid
+SCORE: -21
+UP: 0
+DOWN: 21
+node updated!
+
+NODE: Metanephrine
+SCORE: -14
+UP: 0
+DOWN: 14
+node updated!
+
+NODE: 3-Aminobenzoic acid
+SCORE: -4
+UP: 0
+DOWN: 4
+node updated!
+
+NODE: 1,2-Butanediol
+SCORE: 1
 UP: 2
-DOWN: 9
-removing edge 5-Androsten-17alpha-methyl-3beta,17beta-diol - 1,4-diazabicyclo[4.3.0]nonan-2,5-dione, 3-methyl 
-removing edge 5-Androsten-17alpha-methyl-3beta,17beta-diol - Carfentrazone-ethyl
+DOWN: 1
+removing edge 1,2-Butanediol - Nitrosothymol
+0.3333333333333333 > 0.2, node to be removed
+
+NODE: N-Acetyl-L-glutamic acid
+SCORE: -2
+UP: 0
+DOWN: 2
+node updated!
+
+NODE: Propanoic acid, 2-oxo-
+SCORE: -1
+UP: 0
+DOWN: 1
+node updated!
+
+NODE: Thymine, 1,3-dimethyl-6-(trimethylsilyloxymethyl)-
+SCORE: -13
+UP: 3
+DOWN: 16
+removing edge Thymine, 1,3-dimethyl-6-(trimethylsilyloxymethyl)- - 4-Hydroxybutanoic acid
+removing edge Thymine, 1,3-dimethyl-6-(trimethylsilyloxymethyl)- - Cholest-7-en-3-ol, (3beta,5alpha)-
+removing edge Thymine, 1,3-dimethyl-6-(trimethylsilyloxymethyl)- - Cyclo-(l-leucyl-l-phenylalanyl) 
+node updated!
+
+NODE: 1,3,5-Trimethyl-1H-pyrazol-4-amine
+SCORE: -3
+UP: 1
+DOWN: 4
+removing edge 1,3,5-Trimethyl-1H-pyrazol-4-amine - 2-Ketoisocaproic acid
+node updated!
+
+NODE: 2-Amino-4,6-dihydroxypyrimidine
+SCORE: 4
+UP: 5
+DOWN: 1
+removing edge 2-Amino-4,6-dihydroxypyrimidine - Propanoic acid, 2-methyl-
+node updated!
+
+NODE: (pm)-Phenylpropanolamine
+SCORE: 1
+UP: 1
+DOWN: 0
+node updated!
+
+NODE: 2-Butenedioic acid
+SCORE: 0
+UP: 2
+DOWN: 2
+score == 0, node to be removed
+
+NODE: 1-Cyclohexanone, 3-butyl-3-methyl-
+SCORE: 0
+UP: 2
+DOWN: 2
+score == 0, node to be removed
+
+NODE: Benzenepropanoic acid
+SCORE: 1
+UP: 2
+DOWN: 1
+removing edge Benzenepropanoic acid - Ethanone, 1-(5-methoxy-2-methyl-3(1H)-indolyl)-
+0.3333333333333333 > 0.2, node to be removed
+
+NODE: Hexanedioic acid
+SCORE: -2
+UP: 0
+DOWN: 2
+node updated!
+
+NODE: 3,4,5-Trihydroxypentanoic acid, tetrakis(trimethylsilyl)-
+SCORE: -6
+UP: 0
+DOWN: 6
+node updated!
+
+NODE: 2-Hexen-1-ol
+SCORE: -1
+UP: 0
+DOWN: 1
+node updated!
+
+NODE: 1-(4-Methoxyphenyl)-4,6-dimethyl-2(1H)-pyrimidinone
+SCORE: -2
+UP: 0
+DOWN: 2
+node updated!
+
+NODE: Trimethylsilyl 3-((trimethylsilyl)thio)propanoate
+SCORE: -1
+UP: 0
+DOWN: 1
+node updated!
+
+NODE: Niacinamide
+SCORE: 2
+UP: 2
+DOWN: 0
+node updated!
+
+NODE: Dicyclohexylamine
+SCORE: 0
+UP: 1
+DOWN: 1
+score == 0, node to be removed
+
+NODE: 2,5-Di-tert-butylhydroquinone
+SCORE: 1
+UP: 1
+DOWN: 0
+node updated!
+
+NODE: Serine
+SCORE: -2
+UP: 1
+DOWN: 3
+removing edge Serine - Malic acid
+0.25 > 0.2, node to be removed
+
+NODE: Bis(trimethylsilyl)acetylene
+SCORE: -1
+UP: 0
+DOWN: 1
+node updated!
+
+NODE: Itaconic acid
+SCORE: -15
+UP: 1
+DOWN: 16
+removing edge Itaconic acid - Doconexent
 node updated!
 
 NODE: Supraene
@@ -2242,11 +2833,206 @@ removing edge Supraene - Decanoic acid
 removing edge Supraene - Octanoic acid
 0.29411764705882354 > 0.2, node to be removed
 
+NODE: D-Fucitol
+SCORE: 0
+UP: 2
+DOWN: 2
+score == 0, node to be removed
+
+NODE: 1-Propanamine, N,N-diethyl- 
+SCORE: 0
+UP: 6
+DOWN: 6
+score == 0, node to be removed
+
+NODE: 2-Hexenoic acid, 2-[(trimethylsilyl)oxy]-
+SCORE: -18
+UP: 0
+DOWN: 18
+node updated!
+
+NODE: 4-(Trimethylsilyoxy)-3-penten-2-one
+SCORE: -2
+UP: 4
+DOWN: 6
+removing edge 4-(Trimethylsilyoxy)-3-penten-2-one - (CH3)2C=NC2H558
+removing edge 4-(Trimethylsilyoxy)-3-penten-2-one - 2-Hydroxy-5-methoxybenzaldehyde
+removing edge 4-(Trimethylsilyoxy)-3-penten-2-one - 3-Buten-2-one, 3-trimethylsilyloxy-
+removing edge 4-(Trimethylsilyoxy)-3-penten-2-one - Octanoic acid
+0.4 > 0.2, node to be removed
+
+NODE: N-Isobutyl-sec-butylamine
+SCORE: 1
+UP: 2
+DOWN: 1
+removing edge N-Isobutyl-sec-butylamine - Dodecylcyclohexane
+0.3333333333333333 > 0.2, node to be removed
+
+NODE: 4-Pyridinol
+SCORE: -1
+UP: 0
+DOWN: 1
+node updated!
+
+NODE: Ornithine
+SCORE: -4
+UP: 0
+DOWN: 4
+node updated!
+
+NODE: L-Threitol
+SCORE: -9
+UP: 0
+DOWN: 9
+node updated!
+
+NODE: 7,9-Di-tert-butyl-1-oxaspiro(4,5)deca-6,9-diene-2,8-dione
+SCORE: 1
+UP: 2
+DOWN: 1
+removing edge 7,9-Di-tert-butyl-1-oxaspiro(4,5)deca-6,9-diene-2,8-dione - Nonadecanoic acid
+0.3333333333333333 > 0.2, node to be removed
+
+NODE: Vanillylmandelic acid
+SCORE: -1
+UP: 0
+DOWN: 1
+node updated!
+
 NODE: 1-Octene, 2-methyl-
 SCORE: -4
 UP: 1
 DOWN: 5
 removing edge 1-Octene, 2-methyl- - 1,2-Benzenedicarboxylic acid
+node updated!
+
+NODE: Ketamine 
+SCORE: 2
+UP: 2
+DOWN: 0
+node updated!
+
+NODE: Tricine
+SCORE: 0
+UP: 5
+DOWN: 5
+score == 0, node to be removed
+
+NODE: Spiro[cyclopenta[d]-1,3,2-dioxaborin-4(5H),1'-cyclopentane], 2-ethyl-6,7-dihydro-
+SCORE: 0
+UP: 2
+DOWN: 2
+score == 0, node to be removed
+
+NODE: Dopamine
+SCORE: 2
+UP: 2
+DOWN: 0
+node updated!
+
+NODE: 2,3,4,5-Tetrahydroxypentanoic acid-1,4-lactone
+SCORE: 4
+UP: 6
+DOWN: 2
+removing edge 2,3,4,5-Tetrahydroxypentanoic acid-1,4-lactone - Cholest-7-en-3-ol, (3beta,5alpha)-
+removing edge 2,3,4,5-Tetrahydroxypentanoic acid-1,4-lactone - D-(+)-Ribono-1,4-lactone (R,S,R)-
+0.25 > 0.2, node to be removed
+
+NODE: Acetin, bis-1,3-trimethylsilyl ether
+SCORE: -5
+UP: 1
+DOWN: 6
+removing edge Acetin, bis-1,3-trimethylsilyl ether - Octane, 1-propoxy-
+node updated!
+
+NODE: Eicosapentaenoic acid
+SCORE: -3
+UP: 1
+DOWN: 4
+removing edge Eicosapentaenoic acid - (CH3)2C=NC2H558
+node updated!
+
+NODE: 1H-Pyrazole, 3,4-bis(trimethylsilyl)-
+SCORE: -2
+UP: 0
+DOWN: 2
+node updated!
+
+NODE: Boric acid
+SCORE: 1
+UP: 1
+DOWN: 0
+node updated!
+
+NODE: 2-Oxooctanoic acid
+SCORE: 1
+UP: 2
+DOWN: 1
+removing edge 2-Oxooctanoic acid - 3-Aminobutanoic acid
+0.3333333333333333 > 0.2, node to be removed
+
+NODE: 3-Amino-5-morpholinomethyl-2-oxazolidinone
+SCORE: -14
+UP: 1
+DOWN: 15
+removing edge 3-Amino-5-morpholinomethyl-2-oxazolidinone - Acetic acid, bis[(trimethylsilyl)oxyl]-
+node updated!
+
+NODE: 3'-Hydroxyacetophenone
+SCORE: -8
+UP: 0
+DOWN: 8
+node updated!
+
+NODE: 3,5-Di-tert-butyl-2-trimethylsilyloxybenzaldehyde
+SCORE: -2
+UP: 2
+DOWN: 4
+removing edge 3,5-Di-tert-butyl-2-trimethylsilyloxybenzaldehyde - 2-(2,5-Dimethoxy-phenyl)-propionaldehyde
+removing edge 3,5-Di-tert-butyl-2-trimethylsilyloxybenzaldehyde - 2-Hydroxy-5-methoxybenzaldehyde
+0.3333333333333333 > 0.2, node to be removed
+
+NODE: 15-Oxo-11Z,13E-eicosadienoic acid
+SCORE: -13
+UP: 2
+DOWN: 15
+removing edge 15-Oxo-11Z,13E-eicosadienoic acid - 1,4-diazabicyclo[4.3.0]nonan-2,5-dione, 3-methyl 
+removing edge 15-Oxo-11Z,13E-eicosadienoic acid - 2-Ketoisocaproic acid
+node updated!
+
+NODE: Cholesta-3,5-diene 
+SCORE: -2
+UP: 0
+DOWN: 2
+node updated!
+
+NODE: 9,12-Octadecadienoic acid
+SCORE: -2
+UP: 0
+DOWN: 2
+node updated!
+
+NODE: 5-Ethyluracil
+SCORE: -1
+UP: 0
+DOWN: 1
+node updated!
+
+NODE: 2-Pentenedioic acid, 3-methyl-
+SCORE: -2
+UP: 2
+DOWN: 4
+removing edge 2-Pentenedioic acid, 3-methyl- - D-(+)-Talofuranose, pentakis
+removing edge 2-Pentenedioic acid, 3-methyl- - Propanoic acid, 2-methyl-
+0.3333333333333333 > 0.2, node to be removed
+
+NODE: 4-Cumylphenol
+SCORE: -11
+UP: 3
+DOWN: 14
+removing edge 4-Cumylphenol - Cholest-7-en-3-ol, (3beta,5alpha)-
+removing edge 4-Cumylphenol - Phosalone
+removing edge 4-Cumylphenol - Ser-Leu
 node updated!
 
 NODE: (7a-Isopropenyl-4,5-dimethyloctahydroinden-4-yl)methanol
@@ -2261,192 +3047,104 @@ removing edge (7a-Isopropenyl-4,5-dimethyloctahydroinden-4-yl)methanol - Cholest
 removing edge (7a-Isopropenyl-4,5-dimethyloctahydroinden-4-yl)methanol - Doconexent
 node updated!
 
+NODE: Cetaben, N,O-bis(trimethylsilyl)-
+SCORE: -4
+UP: 0
+DOWN: 4
+node updated!
+
+NODE: N-alpha-Acetyl-L-Lysine
+SCORE: -2
+UP: 1
+DOWN: 3
+removing edge N-alpha-Acetyl-L-Lysine - 2,5-di-tert-Butyl-1,4-benzoquinone
+0.25 > 0.2, node to be removed
+
+NODE: 5-(2-Aminopropyl)-2-methylphenol
+SCORE: 13
+UP: 14
+DOWN: 1
+removing edge 5-(2-Aminopropyl)-2-methylphenol - Latanoprost lactone diol
+node updated!
+
+NODE: 2-Pyrrolidinone
+SCORE: 1
+UP: 1
+DOWN: 0
+node updated!
+
+NODE: L-Ornithine
+SCORE: -2
+UP: 1
+DOWN: 3
+removing edge L-Ornithine - Hydroquinone
+0.25 > 0.2, node to be removed
+
 NODE: N-(Trifluoroacetyl)-N,O,O'-tris(trimethylsilyl)normetanephrine
 SCORE: -14
 UP: 0
 DOWN: 14
 node updated!
 
-NODE: 2,2'-Biphenyldiol
-SCORE: 2
-UP: 3
-DOWN: 1
-removing edge 2,2'-Biphenyldiol - Pipecolic acid
-0.25 > 0.2, node to be removed
-
-NODE: S-Methyl-L-cysteine
-SCORE: -13
-UP: 1
-DOWN: 14
-removing edge S-Methyl-L-cysteine - Benzenemethanamine, 2,3-dimethoxy-
-node updated!
-
-NODE: 2,3,4,5-Tetrahydroxypentanoic acid-1,4-lactone
-SCORE: 4
-UP: 6
-DOWN: 2
-removing edge 2,3,4,5-Tetrahydroxypentanoic acid-1,4-lactone - Cholest-7-en-3-ol, (3beta,5alpha)-
-removing edge 2,3,4,5-Tetrahydroxypentanoic acid-1,4-lactone - D-(+)-Ribono-1,4-lactone (R,S,R)-
-0.25 > 0.2, node to be removed
-
-NODE: 3'-Hydroxyacetophenone
-SCORE: -8
-UP: 0
-DOWN: 8
-node updated!
-
-NODE: Butanal, 2,3,4-tris[(trimethylsilyl)oxy]-, O-methyloxime, [R-(R*,R*)]-
-SCORE: -7
-UP: 2
-DOWN: 9
-removing edge Butanal, 2,3,4-tris[(trimethylsilyl)oxy]-, O-methyloxime, [R-(R*,R*)]- - Erythrono-1,4-lactone, (Z)-
-removing edge Butanal, 2,3,4-tris[(trimethylsilyl)oxy]-, O-methyloxime, [R-(R*,R*)]- - N,9-bis(Trimethylsilyl)-6-[(trimethylsilyl)oxy]-9H-purin-2-amine
-node updated!
-
-NODE: Methyl isovanillate
-SCORE: -3
-UP: 0
+NODE: Tris(trimethylsilyl)carbamate
+SCORE: 1
+UP: 4
 DOWN: 3
-node updated!
+removing edge Tris(trimethylsilyl)carbamate - 1-Butanamine, N,N-diethyl-
+removing edge Tris(trimethylsilyl)carbamate - 3-Hydroxyisovaleric acid
+removing edge Tris(trimethylsilyl)carbamate - Myristic acid
+0.42857142857142855 > 0.2, node to be removed
 
-NODE: Phloroglucinol
-SCORE: -15
-UP: 0
-DOWN: 15
-node updated!
-
-NODE: Xylose
+NODE: 12-Hydroxyoctadecanoic acid
 SCORE: -2
 UP: 0
 DOWN: 2
 node updated!
 
-NODE: (2S,3R)-3-[(4E,7E)-Nona-4,7-dienoyl]-N,N-bis(trimethylsilyl)oxirane-2-carboxamide 
-SCORE: -3
-UP: 1
-DOWN: 4
-removing edge (2S,3R)-3-[(4E,7E)-Nona-4,7-dienoyl]-N,N-bis(trimethylsilyl)oxirane-2-carboxamide  - 2,5-di-tert-Butyl-1,4-benzoquinone
-node updated!
-
-NODE: Thymine, 1,3-dimethyl-6-(trimethylsilyloxymethyl)-
-SCORE: -13
-UP: 3
-DOWN: 16
-removing edge Thymine, 1,3-dimethyl-6-(trimethylsilyloxymethyl)- - 4-Hydroxybutanoic acid
-removing edge Thymine, 1,3-dimethyl-6-(trimethylsilyloxymethyl)- - Cholest-7-en-3-ol, (3beta,5alpha)-
-removing edge Thymine, 1,3-dimethyl-6-(trimethylsilyloxymethyl)- - Cyclo-(l-leucyl-l-phenylalanyl) 
-node updated!
-
-NODE: 3-Methylpiperazine-2,5-dione, (R)-
-SCORE: -18
-UP: 4
-DOWN: 22
-removing edge 3-Methylpiperazine-2,5-dione, (R)- - 2-Hydroxybutyric acid
-removing edge 3-Methylpiperazine-2,5-dione, (R)- - Doconexent
-removing edge 3-Methylpiperazine-2,5-dione, (R)- - Propanoic acid, 2-methyl-
-removing edge 3-Methylpiperazine-2,5-dione, (R)- - Ser-Leu
-node updated!
-
-NODE: Methanone, [1-(4-chloropentyl)-1H-indol-3-yl](2,2,3,3-tetramethylcyclopropyl)-
-SCORE: 0
-UP: 1
-DOWN: 1
-score == 0, node to be removed
-
-NODE: Fenitrothion
-SCORE: 0
-UP: 1
-DOWN: 1
-score == 0, node to be removed
-
-NODE: L-Threonine
-SCORE: 0
-UP: 1
-DOWN: 1
-score == 0, node to be removed
-
-NODE: Guanidine, N,N-dimethyl-
-SCORE: -1
-UP: 1
-DOWN: 2
-removing edge Guanidine, N,N-dimethyl- - 1,2-Benzenedicarboxylic acid
-0.3333333333333333 > 0.2, node to be removed
-
-NODE: Valylglycine
-SCORE: -1
-UP: 1
-DOWN: 2
-removing edge Valylglycine - 1-Piperazineethanol, 4-dibenzo[b,f][1,4]thiazepin-11-yl-
-0.3333333333333333 > 0.2, node to be removed
-
-NODE: 2-Oxooctanoic acid
-SCORE: 1
-UP: 2
-DOWN: 1
-removing edge 2-Oxooctanoic acid - 3-Aminobutanoic acid
-0.3333333333333333 > 0.2, node to be removed
-
-NODE:  5-Hydroxyhexanoic acid
-SCORE: -10
-UP: 1
-DOWN: 11
-removing edge  5-Hydroxyhexanoic acid - Carfentrazone-ethyl
-node updated!
-
-NODE: L-Methionine
-SCORE: 0
-UP: 1
-DOWN: 1
-score == 0, node to be removed
-
-NODE: Luteolin 
-SCORE: 0
-UP: 1
-DOWN: 1
-score == 0, node to be removed
-
-NODE: 3,4-Dihydrocoumarin, 4,4-dimethyl-6-dimethylamino-
-SCORE: 1
-UP: 1
-DOWN: 0
-node updated!
-
-NODE: 1-Octanol
-SCORE: -10
-UP: 2
-DOWN: 12
-removing edge 1-Octanol - Acetic acid, bis[(trimethylsilyl)oxyl]-
-removing edge 1-Octanol - Benzenemethanamine, 2,3-dimethoxy-
-node updated!
-
-NODE: L-Threitol
-SCORE: -9
+NODE: 3-Ureidopropionic acid
+SCORE: -14
 UP: 0
-DOWN: 9
+DOWN: 14
 node updated!
 
-NODE: 3-Methyladenine
-SCORE: -16
-UP: 0
-DOWN: 16
-node updated!
-
-NODE: Cholesta-3,5-dien-7-one
-SCORE: -3
-UP: 0
-DOWN: 3
-node updated!
-
-NODE: Isoxaben
+NODE: Cinnamic acid
 SCORE: -6
 UP: 0
 DOWN: 6
 node updated!
 
-NODE: Dimethyl hexopyranosiduronate, alpha-D-
-SCORE: 1
+NODE: 2,6-Dimethoxybenzylamine
+SCORE: 0
 UP: 1
-DOWN: 0
+DOWN: 1
+score == 0, node to be removed
+
+NODE: Trimethylsilyl (5-benzyl-3,6-dioxopiperazin-2-yl)acetate
+SCORE: -9
+UP: 1
+DOWN: 10
+removing edge Trimethylsilyl (5-benzyl-3,6-dioxopiperazin-2-yl)acetate - 1,5-Anhydroglucitol
+node updated!
+
+NODE: Butanedioic acid
+SCORE: -2
+UP: 1
+DOWN: 3
+removing edge Butanedioic acid - 1,4-diazabicyclo[4.3.0]nonan-2,5-dione, 3-methyl 
+0.25 > 0.2, node to be removed
+
+NODE: Cyclohexanol
+SCORE: -30
+UP: 1
+DOWN: 31
+removing edge Cyclohexanol - 2-Hydroxy-5-methoxybenzaldehyde
+node updated!
+
+NODE: Uridine
+SCORE: -5
+UP: 1
+DOWN: 6
+removing edge Uridine - Malic acid
 node updated!
 
 NODE: Benzeneacetamide
@@ -2455,69 +3153,16 @@ UP: 1
 DOWN: 0
 node updated!
 
-NODE: 5-Ethyluracil
-SCORE: -1
-UP: 0
-DOWN: 1
-node updated!
-
-NODE: 9,12-Octadecadienoic acid
-SCORE: -2
-UP: 0
-DOWN: 2
-node updated!
-
-NODE: L-Glutamine
+NODE: 4-Methylvaleric acid
 SCORE: 1
 UP: 1
 DOWN: 0
 node updated!
 
-NODE: 3,4,5-Trihydroxypentanoic acid, tetrakis(trimethylsilyl)-
-SCORE: -6
+NODE: p-Hydroxydiisopropylbenzene
+SCORE: -7
 UP: 0
-DOWN: 6
-node updated!
-
-NODE: N-Acetyltyrosine
-SCORE: -3
-UP: 1
-DOWN: 4
-removing edge N-Acetyltyrosine - Stearic acid
-node updated!
-
-NODE: Diphenyl ether
-SCORE: -25
-UP: 1
-DOWN: 26
-removing edge Diphenyl ether - Cholest-7-en-3-ol, (3beta,5alpha)-
-node updated!
-
-NODE: Metanephrine
-SCORE: -14
-UP: 0
-DOWN: 14
-node updated!
-
-NODE: 1-(4-Hydroxybenzylidene)acetone
-SCORE: -27
-UP: 2
-DOWN: 29
-removing edge 1-(4-Hydroxybenzylidene)acetone - 1,5-Anhydroglucitol
-removing edge 1-(4-Hydroxybenzylidene)acetone - Acetic acid, bis[(trimethylsilyl)oxyl]-
-node updated!
-
-NODE: Acetamide, N,N-diethyl-
-SCORE: -3
-UP: 1
-DOWN: 4
-removing edge Acetamide, N,N-diethyl- - Morpholine, 4-[2,3,4,6-tetrakis-O-(trimethylsilyl)-alpha-d-mannopyranosyl]-
-node updated!
-
-NODE: Pyrrole-2-carboxylic acid
-SCORE: -1
-UP: 0
-DOWN: 1
+DOWN: 7
 node updated!
 
 NODE: Ethyl alpha-D-glucopyranoside
@@ -2527,65 +3172,105 @@ DOWN: 2
 removing edge Ethyl alpha-D-glucopyranoside - Octane, 1-propoxy-
 0.3333333333333333 > 0.2, node to be removed
 
-NODE: 15-Oxo-11Z,13E-eicosadienoic acid
-SCORE: -13
+NODE: Sinomenin
+SCORE: -1
 UP: 2
-DOWN: 15
-removing edge 15-Oxo-11Z,13E-eicosadienoic acid - 1,4-diazabicyclo[4.3.0]nonan-2,5-dione, 3-methyl 
-removing edge 15-Oxo-11Z,13E-eicosadienoic acid - 2-Ketoisocaproic acid
+DOWN: 3
+removing edge Sinomenin - 2,2-Diallylpyrrolidine
+removing edge Sinomenin - L-Isoleucine
+0.4 > 0.2, node to be removed
+
+NODE: Niacin
+SCORE: 1
+UP: 1
+DOWN: 0
 node updated!
 
-NODE: phenoxyethanol
+NODE: Campesterol
+SCORE: -1
+UP: 0
+DOWN: 1
+node updated!
+
+NODE: Benzene, 3-cyclohexen-1-yl-
+SCORE: 2
+UP: 2
+DOWN: 0
+node updated!
+
+NODE: Benzoic Acid
 SCORE: 0
 UP: 2
 DOWN: 2
 score == 0, node to be removed
 
-NODE: 9H-Purine, 9-(trimethylsilyl)-2,6,8-tris[(trimethylsilyl)oxy]-
-SCORE: -2
+NODE: Isoxaben
+SCORE: -6
 UP: 0
-DOWN: 2
-node updated!
-
-NODE: Cetaben, N,O-bis(trimethylsilyl)-
-SCORE: -4
-UP: 0
-DOWN: 4
-node updated!
-
-NODE: 4-(Trimethylsilyoxy)-3-penten-2-one
-SCORE: -2
-UP: 4
 DOWN: 6
-removing edge 4-(Trimethylsilyoxy)-3-penten-2-one - (CH3)2C=NC2H558
-removing edge 4-(Trimethylsilyoxy)-3-penten-2-one - 2-Hydroxy-5-methoxybenzaldehyde
-removing edge 4-(Trimethylsilyoxy)-3-penten-2-one - 3-Buten-2-one, 3-trimethylsilyloxy-
-removing edge 4-(Trimethylsilyoxy)-3-penten-2-one - Octanoic acid
-0.4 > 0.2, node to be removed
-
-NODE: 12-Hydroxyoctadecanoic acid
-SCORE: -2
-UP: 0
-DOWN: 2
 node updated!
 
-NODE: Mirin
-SCORE: -3
-UP: 0
-DOWN: 3
-node updated!
-
-NODE: Dodecanoic acid, 1-methylethyl ester
-SCORE: -8
-UP: 0
-DOWN: 8
-node updated!
-
-NODE: Benzeneacetic acid
-SCORE: -9
+NODE: 1-Hexanol
+SCORE: 1
 UP: 1
-DOWN: 10
-removing edge Benzeneacetic acid - 1,4-diazabicyclo[4.3.0]nonan-2,5-dione, 3-methyl 
+DOWN: 0
+node updated!
+
+NODE: Citric acid
+SCORE: 2
+UP: 2
+DOWN: 0
+node updated!
+
+NODE: Methanone, [1-(4-chloropentyl)-1H-indol-3-yl](2,2,3,3-tetramethylcyclopropyl)-
+SCORE: 0
+UP: 1
+DOWN: 1
+score == 0, node to be removed
+
+NODE: Ethanol, 2-(9-octadecenyloxy)-
+SCORE: -2
+UP: 1
+DOWN: 3
+removing edge Ethanol, 2-(9-octadecenyloxy)- - 4-Hydroxybutanoic acid
+0.25 > 0.2, node to be removed
+
+NODE: L-Valine
+SCORE: 0
+UP: 1
+DOWN: 1
+score == 0, node to be removed
+
+NODE: 2,5-Dimethoxyphenol
+SCORE: -1
+UP: 0
+DOWN: 1
+node updated!
+
+NODE: Ecgonine
+SCORE: 1
+UP: 2
+DOWN: 1
+removing edge Ecgonine - Dihydrouracil
+0.3333333333333333 > 0.2, node to be removed
+
+NODE: Dimethyl hexopyranosiduronate, alpha-D-
+SCORE: 1
+UP: 1
+DOWN: 0
+node updated!
+
+NODE: cis-4,5-Dihydroxy-o-dithiane, 2O-
+SCORE: -2
+UP: 1
+DOWN: 3
+removing edge cis-4,5-Dihydroxy-o-dithiane, 2O- - Trisaminol
+0.25 > 0.2, node to be removed
+
+NODE: 3-Methyladenine
+SCORE: -16
+UP: 0
+DOWN: 16
 node updated!
 
 NODE: 1,4-Butanediol
@@ -2596,179 +3281,79 @@ removing edge 1,4-Butanediol - 2-Ketoisocaproic acid
 removing edge 1,4-Butanediol - Cholest-7-en-3-ol, (3beta,5alpha)-
 0.3333333333333333 > 0.2, node to be removed
 
-NODE: N-Acetyl-L-glutamic acid
+NODE: Fenitrothion
+SCORE: 0
+UP: 1
+DOWN: 1
+score == 0, node to be removed
+
+NODE: 5-Hydroxytryptophan
+SCORE: -13
+UP: 0
+DOWN: 13
+node updated!
+
+NODE: Hexanoylglycine
+SCORE: 0
+UP: 1
+DOWN: 1
+score == 0, node to be removed
+
+NODE: 2-Furoic acid
 SCORE: -2
 UP: 0
 DOWN: 2
 node updated!
 
-NODE: Pentadecanoic acid
-SCORE: -7
-UP: 1
-DOWN: 8
-removing edge Pentadecanoic acid - 3-Buten-2-one, 3-trimethylsilyloxy-
+NODE: DL-Phenylalanine
+SCORE: -3
+UP: 0
+DOWN: 3
 node updated!
 
-NODE: Cyclohexene, 3,3-dimethyl-1-(trimethylsilyloxy)-
-SCORE: 2
-UP: 3
+NODE: Acetamide, 2,2,2-trifluoro-
+SCORE: -1
+UP: 0
 DOWN: 1
-removing edge Cyclohexene, 3,3-dimethyl-1-(trimethylsilyloxy)- - Benzoic acid, methyl ester
-0.25 > 0.2, node to be removed
+node updated!
 
-NODE: (pm)-Phenylpropanolamine
+NODE: Quazodine
 SCORE: 1
 UP: 1
 DOWN: 0
 node updated!
 
-NODE: 1,2-Dimethoxy-4-(1-methoxyethenyl)benzene
-SCORE: -2
-UP: 4
-DOWN: 6
-removing edge 1,2-Dimethoxy-4-(1-methoxyethenyl)benzene - 4-(Methoxycarbonyl)phenol
-removing edge 1,2-Dimethoxy-4-(1-methoxyethenyl)benzene - Hydroquinone
-removing edge 1,2-Dimethoxy-4-(1-methoxyethenyl)benzene - N-(Trimethylsilyl)hexanamide
-removing edge 1,2-Dimethoxy-4-(1-methoxyethenyl)benzene - n-Pentadecanol
-0.4 > 0.2, node to be removed
-
-NODE: 2-Amino-4,6-dihydroxypyrimidine
-SCORE: 4
-UP: 5
+NODE: Butyrovanillone
+SCORE: 0
+UP: 1
 DOWN: 1
-removing edge 2-Amino-4,6-dihydroxypyrimidine - Propanoic acid, 2-methyl-
-node updated!
+score == 0, node to be removed
 
-NODE: Cinnamic acid
-SCORE: -6
-UP: 0
-DOWN: 6
-node updated!
-
-NODE: Nonanal
-SCORE: -30
+NODE: 3,4-dimethyl-5-(3,4-methylenedioxy)phenyloxazolidine
+SCORE: 2
 UP: 2
-DOWN: 32
-removing edge Nonanal - 2-Hydroxy-5-methoxybenzaldehyde
-removing edge Nonanal - Propanoic acid, 2-methyl-
+DOWN: 0
 node updated!
 
-NODE: 1,3-Dioxane-4-methanol, 4,5-dimethyl-
+NODE: 2-(Bis[2-(trimethylsilyl)oxyethyl]amino)acetic acid
+SCORE: -2
+UP: 2
+DOWN: 4
+removing edge 2-(Bis[2-(trimethylsilyl)oxyethyl]amino)acetic acid - Benzoic acid, methyl ester
+removing edge 2-(Bis[2-(trimethylsilyl)oxyethyl]amino)acetic acid - N-isobutyl-2-(trimethylsilyloxy]-4,5-dihydro-1H-imidazole-1-carboxamide
+0.3333333333333333 > 0.2, node to be removed
+
+NODE: N-Acetyltyrosine
 SCORE: -3
 UP: 1
 DOWN: 4
-removing edge 1,3-Dioxane-4-methanol, 4,5-dimethyl- - Tributyl acetylcitrate
+removing edge N-Acetyltyrosine - Stearic acid
 node updated!
 
-NODE: Palmitic Acid
-SCORE: 1
-UP: 1
-DOWN: 0
-node updated!
-
-NODE: alpha-Tocopherol
-SCORE: -22
-UP: 0
-DOWN: 22
-node updated!
-
-NODE: Pyroglutamic acid
-SCORE: 0
-UP: 1
-DOWN: 1
-score == 0, node to be removed
-
-NODE: Acetin, bis-1,3-trimethylsilyl ether
-SCORE: -5
-UP: 1
-DOWN: 6
-removing edge Acetin, bis-1,3-trimethylsilyl ether - Octane, 1-propoxy-
-node updated!
-
-NODE: D-Leucylglycylglycine
-SCORE: 1
-UP: 1
-DOWN: 0
-node updated!
-
-NODE: D-Ornithine
+NODE: 9H-Fluorene, 9-methylene-
 SCORE: -1
-UP: 2
-DOWN: 3
-removing edge D-Ornithine - 2,5-Cyclohexadiene-1,4-dione, 2,6-bis(1,1-dimethylethyl)-
-removing edge D-Ornithine - Ser-Leu
-0.4 > 0.2, node to be removed
-
-NODE: 1-Cyclohexanone, 3-butyl-3-methyl-
-SCORE: 0
-UP: 2
-DOWN: 2
-score == 0, node to be removed
-
-NODE: Picolinic acid
-SCORE: -2
-UP: 3
-DOWN: 5
-removing edge Picolinic acid - 2-Hydroxy-5-methoxybenzaldehyde
-removing edge Picolinic acid - 2-Hydroxybutyric acid
-removing edge Picolinic acid - Propanoic acid, 2-methyl-
-0.375 > 0.2, node to be removed
-
-NODE: Pentanedioic acid, 2,4-bis[(trimethylsilyl)oxy]
-SCORE: 0
-UP: 1
+UP: 0
 DOWN: 1
-score == 0, node to be removed
-
-NODE: 5alpha-Pregnane-3,20-dione
-SCORE: -4
-UP: 0
-DOWN: 4
-node updated!
-
-NODE: 4-Methylvaleric acid
-SCORE: 1
-UP: 1
-DOWN: 0
-node updated!
-
-NODE: 2,5-Dimethyl-1-aza-bicyclo[2.2.1]heptane
-SCORE: 3
-UP: 3
-DOWN: 0
-node updated!
-
-NODE: 9-Octadecenoic acid
-SCORE: -27
-UP: 2
-DOWN: 29
-removing edge 9-Octadecenoic acid - 1,4-diazabicyclo[4.3.0]nonan-2,5-dione, 3-methyl 
-removing edge 9-Octadecenoic acid - 2,5-di-tert-Butyl-1,4-benzoquinone
-node updated!
-
-NODE: 6,8-Dioxapentadecane
-SCORE: -10
-UP: 1
-DOWN: 11
-removing edge 6,8-Dioxapentadecane - Carfentrazone-ethyl
-node updated!
-
-NODE: Benzoic Acid
-SCORE: 0
-UP: 2
-DOWN: 2
-score == 0, node to be removed
-
-NODE: 3-Ureidopropionic acid
-SCORE: -14
-UP: 0
-DOWN: 14
-node updated!
-
-NODE: DL-Proline, 5-oxo-
-SCORE: -2
-UP: 0
-DOWN: 2
 node updated!
 
 NODE: 2,4-Diamino-6,7-dimethylpteridine
@@ -2781,677 +3366,59 @@ removing edge 2,4-Diamino-6,7-dimethylpteridine - 2-Hydroxy-5-methoxybenzaldehyd
 removing edge 2,4-Diamino-6,7-dimethylpteridine - 3-Nonen-1-ol
 0.36363636363636365 > 0.2, node to be removed
 
-NODE: 4-Pyridinol
-SCORE: -1
-UP: 0
-DOWN: 1
-node updated!
-
-NODE: 2-Pentenoic acid
-SCORE: -1
-UP: 0
-DOWN: 1
-node updated!
-
-NODE: Acetohydrazide, 2-(2-isopropyl-5-methylphenoxy)-N2-benzylideno-
-SCORE: -8
-UP: 2
-DOWN: 10
-removing edge Acetohydrazide, 2-(2-isopropyl-5-methylphenoxy)-N2-benzylideno- - 2,5-Dimethoxymandelic acid
-removing edge Acetohydrazide, 2-(2-isopropyl-5-methylphenoxy)-N2-benzylideno- - Aziridine, 1-(2-buten-2-yl)-
-node updated!
-
-NODE: Benzene, 3-cyclohexen-1-yl-
-SCORE: 2
-UP: 2
-DOWN: 0
-node updated!
-
-NODE: 5-(2-Aminopropyl)-2-methylphenol
-SCORE: 13
-UP: 14
-DOWN: 1
-removing edge 5-(2-Aminopropyl)-2-methylphenol - Latanoprost lactone diol
-node updated!
-
-NODE: Trimethylsilyl (5-benzyl-3,6-dioxopiperazin-2-yl)acetate
-SCORE: -9
-UP: 1
-DOWN: 10
-removing edge Trimethylsilyl (5-benzyl-3,6-dioxopiperazin-2-yl)acetate - 1,5-Anhydroglucitol
-node updated!
-
-NODE: 1-Phenylethanol
-SCORE: 14
-UP: 14
-DOWN: 0
-node updated!
-
-NODE: DL-Phenylalanine
-SCORE: -3
-UP: 0
-DOWN: 3
-node updated!
-
-NODE: 1,3,5-Trimethyl-1H-pyrazol-4-amine
-SCORE: -3
-UP: 1
-DOWN: 4
-removing edge 1,3,5-Trimethyl-1H-pyrazol-4-amine - 2-Ketoisocaproic acid
-node updated!
-
-NODE: 1,2-Butanediol
-SCORE: 1
-UP: 2
-DOWN: 1
-removing edge 1,2-Butanediol - Nitrosothymol
-0.3333333333333333 > 0.2, node to be removed
-
-NODE: Butylmethylamine
-SCORE: -16
-UP: 2
-DOWN: 18
-removing edge Butylmethylamine - (CH3)2C=NC2H558
-removing edge Butylmethylamine - Benzenemethanamine, 2,3-dimethoxy-
-node updated!
-
-NODE: 3,4-dimethyl-5-(3,4-methylenedioxy)phenyloxazolidine
-SCORE: 2
-UP: 2
-DOWN: 0
-node updated!
-
-NODE: 7-Acetyl-6-ethyl-1,1,4,4-tetramethyltetralin 
-SCORE: 1
-UP: 1
-DOWN: 0
-node updated!
-
-NODE: Benzene, 1,1'-(1,2-cyclobutanediyl)bis-
-SCORE: 2
-UP: 2
-DOWN: 0
-node updated!
-
-NODE: (S,S)-(-)-Hydrobenzoin
-SCORE: -2
-UP: 0
-DOWN: 2
-node updated!
-
-NODE: 1-Propanamine, N,N-diethyl- 
-SCORE: 0
-UP: 6
-DOWN: 6
-score == 0, node to be removed
-
-NODE: 1-Tetradecanol
-SCORE: -5
-UP: 1
-DOWN: 6
-removing edge 1-Tetradecanol - Benzeneethanamine, N-[(pentafluorophenyl)methylene]-4-[(trimethylsilyl)oxy]-
-node updated!
-
-NODE: Acetamide, 2,2,2-trifluoro-
-SCORE: -1
-UP: 0
-DOWN: 1
-node updated!
-
-NODE: D-(-)-Ribofuranose, tetrakis
-SCORE: 1
-UP: 1
-DOWN: 0
-node updated!
-
-NODE: Glucose
-SCORE: -1
-UP: 0
-DOWN: 1
-node updated!
-
-NODE: Cholest-22-ene-21-ol, 3,5-dehydro-6-methoxy-, pivalate
-SCORE: -4
-UP: 0
-DOWN: 4
-node updated!
-
-NODE: Ecgonine
-SCORE: 1
-UP: 2
-DOWN: 1
-removing edge Ecgonine - Dihydrouracil
-0.3333333333333333 > 0.2, node to be removed
-
-NODE: 6-Hydroxyflavone-beta-D-glucoside
-SCORE: -1
-UP: 0
-DOWN: 1
-node updated!
-
-NODE: 3beta-TRIMETHYLSILOXY-5alpha,6alpha-EPOXYCHOLESTANE
-SCORE: -26
-UP: 2
-DOWN: 28
-removing edge 3beta-TRIMETHYLSILOXY-5alpha,6alpha-EPOXYCHOLESTANE - 2,5-di-tert-Butyl-1,4-benzoquinone
-removing edge 3beta-TRIMETHYLSILOXY-5alpha,6alpha-EPOXYCHOLESTANE - Carfentrazone-ethyl
-node updated!
-
-NODE: Cholesta-3,5-diene 
-SCORE: -2
-UP: 0
-DOWN: 2
-node updated!
-
-NODE: Bis(trimethylsilyl)histidine
-SCORE: 0
-UP: 1
-DOWN: 1
-score == 0, node to be removed
-
-NODE: 3-Amino-5-morpholinomethyl-2-oxazolidinone
-SCORE: -14
-UP: 1
-DOWN: 15
-removing edge 3-Amino-5-morpholinomethyl-2-oxazolidinone - Acetic acid, bis[(trimethylsilyl)oxyl]-
-node updated!
-
-NODE: 2,5-Dimethoxyphenol
-SCORE: -1
-UP: 0
-DOWN: 1
-node updated!
-
-NODE: Isoquinoline, 3,4-dihydro-6,7-dimethoxy-1-[4-hydroxybenzyl]-
-SCORE: 1
-UP: 2
-DOWN: 1
-removing edge Isoquinoline, 3,4-dihydro-6,7-dimethoxy-1-[4-hydroxybenzyl]- - 2-(Decanoyloxy)propane-1,3-diyl dioctanoate
-0.3333333333333333 > 0.2, node to be removed
-
-NODE: Pentanedioic acid, 2-[(trimethylsilyl)oxy]-
-SCORE: 4
-UP: 5
-DOWN: 1
-removing edge Pentanedioic acid, 2-[(trimethylsilyl)oxy]- - Ribitol
-node updated!
-
-NODE: Dopamine
-SCORE: 2
-UP: 2
-DOWN: 0
-node updated!
-
-NODE: 4-[2-(4,7-Dimethoxy-2H-1,3-benzodioxol-5-yl)ethenyl]-2-methoxyphenol
-SCORE: 2
-UP: 3
-DOWN: 1
-removing edge 4-[2-(4,7-Dimethoxy-2H-1,3-benzodioxol-5-yl)ethenyl]-2-methoxyphenol - Ser-Leu
-0.25 > 0.2, node to be removed
-
-NODE: Arabinaric acid
-SCORE: -12
-UP: 2
-DOWN: 14
-removing edge Arabinaric acid - Atrazine desethyl
-removing edge Arabinaric acid - Doconexent
-node updated!
-
-NODE: Dodecanamide, N-(2-hydroxyethyl)-
-SCORE: 1
-UP: 1
-DOWN: 0
-node updated!
-
-NODE: Butanedioic acid
-SCORE: -2
-UP: 1
-DOWN: 3
-removing edge Butanedioic acid - 1,4-diazabicyclo[4.3.0]nonan-2,5-dione, 3-methyl 
-0.25 > 0.2, node to be removed
-
-NODE: Ethanol, 2-(9-octadecenyloxy)-
-SCORE: -2
-UP: 1
-DOWN: 3
-removing edge Ethanol, 2-(9-octadecenyloxy)- - 4-Hydroxybutanoic acid
-0.25 > 0.2, node to be removed
-
-NODE: N-alpha-Acetyl-L-Lysine
-SCORE: -2
-UP: 1
-DOWN: 3
-removing edge N-alpha-Acetyl-L-Lysine - 2,5-di-tert-Butyl-1,4-benzoquinone
-0.25 > 0.2, node to be removed
-
-NODE: Heptanoic acid
-SCORE: -3
-UP: 3
-DOWN: 6
-removing edge Heptanoic acid - 1-Hexadecanol
-removing edge Heptanoic acid - Decanoic acid
-removing edge Heptanoic acid - Octanoic acid
-0.3333333333333333 > 0.2, node to be removed
-
-NODE: L-Valine
-SCORE: 0
-UP: 1
-DOWN: 1
-score == 0, node to be removed
-
-NODE: (pm)-alpha-Tocopherol acetate
-SCORE: -31
-UP: 1
-DOWN: 32
-removing edge (pm)-alpha-Tocopherol acetate - alpha-Linolenic acid
-node updated!
-
-NODE: Pentanoic acid
-SCORE: -1
-UP: 1
-DOWN: 2
-removing edge Pentanoic acid - 2,5-Cyclohexadiene-1,4-dione, 2,6-bis(1,1-dimethylethyl)-
-0.3333333333333333 > 0.2, node to be removed
-
-NODE: 1H-Pyrazole, 3,4-bis(trimethylsilyl)-
-SCORE: -2
-UP: 0
-DOWN: 2
-node updated!
-
-NODE: 9(E),11(E)-Conjugated linoleic acid
-SCORE: -2
-UP: 2
-DOWN: 4
-removing edge 9(E),11(E)-Conjugated linoleic acid - 4-(Methoxycarbonyl)phenol
-removing edge 9(E),11(E)-Conjugated linoleic acid - L-Isoleucine
-0.3333333333333333 > 0.2, node to be removed
-
-NODE: D-Fucitol
-SCORE: 0
-UP: 2
-DOWN: 2
-score == 0, node to be removed
-
-NODE: 3-Aminobenzoic acid
-SCORE: -4
-UP: 0
-DOWN: 4
-node updated!
-
-NODE: 2,5-Piperazinedione, 3-methyl-6-(phenylmethyl)-
-SCORE: 0
-UP: 1
-DOWN: 1
-score == 0, node to be removed
-
-NODE: 4-Hydroxybenzaldehyde
-SCORE: 1
-UP: 1
-DOWN: 0
-node updated!
-
-NODE: 3-Ethylphenol
-SCORE: 0
-UP: 2
-DOWN: 2
-score == 0, node to be removed
-
-NODE: 2,4-Decadienal
-SCORE: -3
-UP: 2
-DOWN: 5
-removing edge 2,4-Decadienal - Benzene, 1-acetoxy-2,6-dimethoxy-4-(2-propenyl)-
-removing edge 2,4-Decadienal - Propanoic acid, 2-methyl-
-0.2857142857142857 > 0.2, node to be removed
-
-NODE: Quinolin-4-one, 1-[2-(3,4-dimethoxyphenyl)ethyl]-octahydro-
-SCORE: 1
-UP: 1
-DOWN: 0
-node updated!
-
-NODE: Niacin
-SCORE: 1
-UP: 1
-DOWN: 0
-node updated!
-
-NODE: 3,4-Dihydroxymandelic acid, ethyl ester
-SCORE: -1
-UP: 0
-DOWN: 1
-node updated!
-
 NODE: D-Proline
 SCORE: -1
 UP: 0
 DOWN: 1
 node updated!
 
-NODE: 2-Ethyl-3-hydroxypropionic acid
-SCORE: -21
-UP: 0
-DOWN: 21
-node updated!
-
-NODE: Dicyclohexylamine
-SCORE: 0
-UP: 1
-DOWN: 1
-score == 0, node to be removed
-
-NODE: meso-Erythritol
-SCORE: 0
-UP: 1
-DOWN: 1
-score == 0, node to be removed
-
-NODE: 2-Hexenoic acid, 2-[(trimethylsilyl)oxy]-
-SCORE: -18
-UP: 0
-DOWN: 18
-node updated!
-
-NODE: 9H-Fluorene, 9-methylene-
-SCORE: -1
-UP: 0
-DOWN: 1
-node updated!
-
-NODE: 1-Pentene, 3,3-dimethyl-
-SCORE: 2
-UP: 4
-DOWN: 2
-removing edge 1-Pentene, 3,3-dimethyl- - 2,5-Dimethoxymandelic acid
-removing edge 1-Pentene, 3,3-dimethyl- - Hydroquinone
-0.3333333333333333 > 0.2, node to be removed
-
-NODE: Benzoin
-SCORE: 1
-UP: 2
-DOWN: 1
-removing edge Benzoin - Benzeneethanamine, N-[(pentafluorophenyl)methylene]-4-[(trimethylsilyl)oxy]-
-0.3333333333333333 > 0.2, node to be removed
-
-NODE: Hexanedioic acid
-SCORE: -2
-UP: 0
-DOWN: 2
-node updated!
-
-NODE: L-Proline
-SCORE: 0
-UP: 1
-DOWN: 1
-score == 0, node to be removed
-
-NODE: Trimethylsilyl oct-2-enoate 
-SCORE: -1
-UP: 0
-DOWN: 1
-node updated!
-
-NODE: Ethanamine, N,N-diethyl-2,2-dimethyl-2-[(3,5-dimethoxy)phenyl]-
-SCORE: -4
-UP: 0
-DOWN: 4
-node updated!
-
-NODE: 2-Pyrrolidinone
-SCORE: 1
-UP: 1
-DOWN: 0
-node updated!
-
-NODE: 6-Methoxy-1-methyl-1,2,3,4-tetrahydroisoquinolin-7-ol 
+NODE: Mirin
 SCORE: -3
 UP: 0
 DOWN: 3
 node updated!
 
-NODE: 4-Hydroxy-5-(hydroxymethyl)oxolan-2-one
-SCORE: 2
-UP: 2
-DOWN: 0
-node updated!
-
-NODE: 1,3-bis[(Trimethylsilyl)ethynyl]benzene
-SCORE: -1
-UP: 0
-DOWN: 1
-node updated!
-
-NODE: 2-(Bis[2-(trimethylsilyl)oxyethyl]amino)acetic acid
-SCORE: -2
-UP: 2
-DOWN: 4
-removing edge 2-(Bis[2-(trimethylsilyl)oxyethyl]amino)acetic acid - Benzoic acid, methyl ester
-removing edge 2-(Bis[2-(trimethylsilyl)oxyethyl]amino)acetic acid - N-isobutyl-2-(trimethylsilyloxy]-4,5-dihydro-1H-imidazole-1-carboxamide
-0.3333333333333333 > 0.2, node to be removed
-
-NODE: (R*,S*)-2,3-Dihydroxybutanoic acid
-SCORE: -10
-UP: 1
-DOWN: 11
-removing edge (R*,S*)-2,3-Dihydroxybutanoic acid - 3-(3-Cyclohexylaminopropionylamino)-5-ethylthiophene-2-carboxylic acid, ethyl ester
-node updated!
-
-NODE: 1,3-Cyclohexanebis(methylamine)
-SCORE: -1
-UP: 0
-DOWN: 1
-node updated!
-
-NODE: Trimethylsilyl 3-((trimethylsilyl)thio)propanoate
-SCORE: -1
-UP: 0
-DOWN: 1
-node updated!
-
-NODE: Citric acid
-SCORE: 2
-UP: 2
-DOWN: 0
-node updated!
-
-NODE: Isonicotinic Acid
-SCORE: 2
-UP: 2
-DOWN: 0
-node updated!
-
-NODE: 2,5-Dimethoxy-4-methylamphetamine
-SCORE: -1
-UP: 0
-DOWN: 1
-node updated!
-
-NODE: Pregn-16-en-20-one, 3,18-bis(acetyloxy)-14,15-epoxy-, (3beta,5alpha,14beta,15beta)-
-SCORE: -1
-UP: 0
-DOWN: 1
-node updated!
-
-NODE: Cyclohexanone, 3,3,5-trimethyl-
-SCORE: 0
-UP: 6
-DOWN: 6
-score == 0, node to be removed
-
-NODE: 5-Aminovaleric acid
-SCORE: 3
-UP: 3
-DOWN: 0
-node updated!
-
-NODE: Cyclo(L-prolyl-L-valine) 
-SCORE: -2
-UP: 0
-DOWN: 2
-node updated!
-
-NODE: Lactic Acid
-SCORE: 3
-UP: 3
-DOWN: 0
-node updated!
-
-NODE: Thymidine
-SCORE: -3
-UP: 2
-DOWN: 5
-removing edge Thymidine - 7-Isoquinolinol, 1,2,3,4-tetrahydro-1-[(4-hydroxyphenyl)methyl]-6-methoxy-
-removing edge Thymidine - Benzoic acid, methyl ester
-0.2857142857142857 > 0.2, node to be removed
-
-NODE: Benzene, 1,3-bis(1,1-dimethylethyl)-
-SCORE: 2
-UP: 2
-DOWN: 0
-node updated!
-
-NODE: Cyclohexanol
-SCORE: -30
-UP: 1
-DOWN: 31
-removing edge Cyclohexanol - 2-Hydroxy-5-methoxybenzaldehyde
-node updated!
-
-NODE: Butyrovanillone
-SCORE: 0
-UP: 1
-DOWN: 1
-score == 0, node to be removed
-
-NODE: Serine
-SCORE: -2
-UP: 1
-DOWN: 3
-removing edge Serine - Malic acid
-0.25 > 0.2, node to be removed
-
-NODE: 1-(4-Methoxyphenyl)-4,6-dimethyl-2(1H)-pyrimidinone
-SCORE: -2
-UP: 0
-DOWN: 2
-node updated!
-
-NODE: beta-D-Glucopyranose
+NODE: Palmitic Acid
 SCORE: 1
 UP: 1
 DOWN: 0
 node updated!
 
-NODE: 7-(Trimethylsilyl)amino-4-methylcoumarin
-SCORE: -13
-UP: 0
-DOWN: 13
-node updated!
-
-NODE: 4,4,5,8-Tetramethyl-chroman-2-one
-SCORE: 0
-UP: 1
-DOWN: 1
-score == 0, node to be removed
-
-NODE: 3,5-Di-tert-butyl-2-trimethylsilyloxybenzaldehyde
-SCORE: -2
+NODE: Butanal, 2,3,4-tris[(trimethylsilyl)oxy]-, O-methyloxime, [R-(R*,R*)]-
+SCORE: -7
 UP: 2
-DOWN: 4
-removing edge 3,5-Di-tert-butyl-2-trimethylsilyloxybenzaldehyde - 2-(2,5-Dimethoxy-phenyl)-propionaldehyde
-removing edge 3,5-Di-tert-butyl-2-trimethylsilyloxybenzaldehyde - 2-Hydroxy-5-methoxybenzaldehyde
-0.3333333333333333 > 0.2, node to be removed
-
-NODE: Phlorizin
-SCORE: -13
-UP: 4
-DOWN: 17
-removing edge Phlorizin - (CH3)2C=NC2H558
-removing edge Phlorizin - 1,2-Benzenedicarboxylic acid
-removing edge Phlorizin - Arsenous acid
-removing edge Phlorizin - Benzenemethanamine, 2,3-dimethoxy-
+DOWN: 9
+removing edge Butanal, 2,3,4-tris[(trimethylsilyl)oxy]-, O-methyloxime, [R-(R*,R*)]- - Erythrono-1,4-lactone, (Z)-
+removing edge Butanal, 2,3,4-tris[(trimethylsilyl)oxy]-, O-methyloxime, [R-(R*,R*)]- - N,9-bis(Trimethylsilyl)-6-[(trimethylsilyl)oxy]-9H-purin-2-amine
 node updated!
 
-NODE: Ethyl cis-2-trimethylsilyl-cyclopropane-1-carboxylate
-SCORE: -1
-UP: 0
-DOWN: 1
+NODE: 9-Octadecenoic acid
+SCORE: -27
+UP: 2
+DOWN: 29
+removing edge 9-Octadecenoic acid - 1,4-diazabicyclo[4.3.0]nonan-2,5-dione, 3-methyl 
+removing edge 9-Octadecenoic acid - 2,5-di-tert-Butyl-1,4-benzoquinone
 node updated!
 
-NODE: Dimethyl fumarate
-SCORE: -2
-UP: 0
-DOWN: 2
-node updated!
-
-NODE: 5-Hydroxytryptophan
-SCORE: -13
-UP: 0
-DOWN: 13
-node updated!
-
-NODE: Naphthofluorescein
-SCORE: -2
-UP: 0
-DOWN: 2
-node updated!
-
-NODE: L-Lysine
-SCORE: -1
-UP: 0
-DOWN: 1
-node updated!
-
-NODE: 2',2,3,6'-Tetramethoxychalcone
+NODE: D-Threitol
 SCORE: 1
 UP: 1
 DOWN: 0
 node updated!
 
-NODE: Piperidine, 1-(1-methylpentyl)-
-SCORE: -1
-UP: 2
-DOWN: 3
-removing edge Piperidine, 1-(1-methylpentyl)- - Acetic acid, bis[(trimethylsilyl)oxyl]-
-removing edge Piperidine, 1-(1-methylpentyl)- - L-Aspartic acid
-0.4 > 0.2, node to be removed
-
-NODE: 2-Acetyl-5-chloro-3-methylbenzo(b)thiophene
-SCORE: -17
-UP: 1
-DOWN: 18
-removing edge 2-Acetyl-5-chloro-3-methylbenzo(b)thiophene - Carfentrazone-ethyl
+NODE: Cephalotaxine, 3-deoxy-3,11-epoxy-, (3alpha,11alpha)-
+SCORE: 3
+UP: 3
+DOWN: 0
 node updated!
 
-NODE: 2-Hexen-1-ol
-SCORE: -1
+NODE: Gln-Ala
+SCORE: -2
 UP: 0
-DOWN: 1
+DOWN: 2
 node updated!
 
-NODE: Vanillylmandelic acid
-SCORE: -1
-UP: 0
-DOWN: 1
-node updated!
-
-NODE: 1-Monoacetin
-SCORE: -18
-UP: 1
-DOWN: 19
-removing edge 1-Monoacetin - Propanoic acid, 2-methyl-
-node updated!
-
-NODE: Pantolactone
-SCORE: -5
-UP: 2
-DOWN: 7
-removing edge Pantolactone - (CH3)2C=NC2H558
-removing edge Pantolactone - Benzoic acid, methyl ester
-0.2222222222222222 > 0.2, node to be removed
-
-NODE: Phenol, 3,5-bis(1,1-dimethylethyl)-
+NODE: Nonanoic acid
 SCORE: 1
 UP: 1
 DOWN: 0
@@ -3464,20 +3431,99 @@ DOWN: 10
 removing edge beta-d-Fructopyranose, 1-deoxy-1-(4-morpholinyl)-2,3,4,5-tetrakis-O-(trimethylsilyl)- - Trimidox
 node updated!
 
-NODE: Cholesterol
+NODE: 9(E),11(E)-Conjugated linoleic acid
+SCORE: -2
+UP: 2
+DOWN: 4
+removing edge 9(E),11(E)-Conjugated linoleic acid - 4-(Methoxycarbonyl)phenol
+removing edge 9(E),11(E)-Conjugated linoleic acid - L-Isoleucine
+0.3333333333333333 > 0.2, node to be removed
+
+NODE: Benzeneacetic acid
+SCORE: -9
+UP: 1
+DOWN: 10
+removing edge Benzeneacetic acid - 1,4-diazabicyclo[4.3.0]nonan-2,5-dione, 3-methyl 
+node updated!
+
+NODE: 3-Ethylphenol
+SCORE: 0
+UP: 2
+DOWN: 2
+score == 0, node to be removed
+
+NODE: (S,S)-(-)-Hydrobenzoin
 SCORE: -2
 UP: 0
 DOWN: 2
 node updated!
 
-NODE: 2-Propanone, bis(1-methylethyl)hydrazone
-SCORE: -13
-UP: 4
-DOWN: 17
-removing edge 2-Propanone, bis(1-methylethyl)hydrazone - (CH3)2C=NC2H558
-removing edge 2-Propanone, bis(1-methylethyl)hydrazone - 2-Hydroxy-5-methoxybenzaldehyde
-removing edge 2-Propanone, bis(1-methylethyl)hydrazone - 3-Buten-2-one, 3-trimethylsilyloxy-
-removing edge 2-Propanone, bis(1-methylethyl)hydrazone - Benzoic acid, methyl ester
+NODE: L-Proline
+SCORE: 0
+UP: 1
+DOWN: 1
+score == 0, node to be removed
+
+NODE: 1-(2,4-Dimethoxyphenyl)-propan-2-one
+SCORE: -2
+UP: 1
+DOWN: 3
+removing edge 1-(2,4-Dimethoxyphenyl)-propan-2-one - 2-Hydroxy-5-methoxybenzaldehyde
+0.25 > 0.2, node to be removed
+
+NODE: Guanidine, N,N-dimethyl-
+SCORE: -1
+UP: 1
+DOWN: 2
+removing edge Guanidine, N,N-dimethyl- - 1,2-Benzenedicarboxylic acid
+0.3333333333333333 > 0.2, node to be removed
+
+NODE: 1,3-Dioxane-4-methanol, 4,5-dimethyl-
+SCORE: -3
+UP: 1
+DOWN: 4
+removing edge 1,3-Dioxane-4-methanol, 4,5-dimethyl- - Tributyl acetylcitrate
+node updated!
+
+NODE: 1-Octanol
+SCORE: -10
+UP: 2
+DOWN: 12
+removing edge 1-Octanol - Acetic acid, bis[(trimethylsilyl)oxyl]-
+removing edge 1-Octanol - Benzenemethanamine, 2,3-dimethoxy-
+node updated!
+
+NODE: Cyclohexene, 3,3-dimethyl-1-(trimethylsilyloxy)-
+SCORE: 2
+UP: 3
+DOWN: 1
+removing edge Cyclohexene, 3,3-dimethyl-1-(trimethylsilyloxy)- - Benzoic acid, methyl ester
+0.25 > 0.2, node to be removed
+
+NODE: Quinolin-4-one, 1-[2-(3,4-dimethoxyphenyl)ethyl]-octahydro-
+SCORE: 1
+UP: 1
+DOWN: 0
+node updated!
+
+NODE: Dodecanoic acid, 1-methylethyl ester
+SCORE: -8
+UP: 0
+DOWN: 8
+node updated!
+
+NODE: Pantolactone
+SCORE: -5
+UP: 2
+DOWN: 7
+removing edge Pantolactone - (CH3)2C=NC2H558
+removing edge Pantolactone - Benzoic acid, methyl ester
+0.2222222222222222 > 0.2, node to be removed
+
+NODE: 4-Hydroxy-5-(hydroxymethyl)oxolan-2-one
+SCORE: 2
+UP: 2
+DOWN: 0
 node updated!
 
 NODE: Succinic anhydride
@@ -3486,59 +3532,52 @@ UP: 0
 DOWN: 1
 node updated!
 
-NODE: Phenol
-SCORE: 0
-UP: 2
-DOWN: 2
-score == 0, node to be removed
-
-NODE: Itaconic acid
-SCORE: -15
-UP: 1
-DOWN: 16
-removing edge Itaconic acid - Doconexent
-node updated!
-
-NODE: Niacinamide
-SCORE: 2
-UP: 2
-DOWN: 0
-node updated!
-
-NODE: 3-Methyl-2-butenoic acid, tridec-2-ynyl ester
-SCORE: 0
-UP: 1
-DOWN: 1
-score == 0, node to be removed
-
-NODE: 5,10-Diethoxy-2,3,7,8-tetrahydro-1H,6H-dipyrrolo[1,2-a:1',2'-d]pyrazine 
-SCORE: -10
-UP: 5
-DOWN: 15
-removing edge 5,10-Diethoxy-2,3,7,8-tetrahydro-1H,6H-dipyrrolo[1,2-a:1',2'-d]pyrazine  - 1-Phenyl-1,2-ethanediol
-removing edge 5,10-Diethoxy-2,3,7,8-tetrahydro-1H,6H-dipyrrolo[1,2-a:1',2'-d]pyrazine  - 2-Hydroxybutyric acid
-removing edge 5,10-Diethoxy-2,3,7,8-tetrahydro-1H,6H-dipyrrolo[1,2-a:1',2'-d]pyrazine  - 3-Aminobutanoic acid
-removing edge 5,10-Diethoxy-2,3,7,8-tetrahydro-1H,6H-dipyrrolo[1,2-a:1',2'-d]pyrazine  - D-(+)-Talofuranose, pentakis
-removing edge 5,10-Diethoxy-2,3,7,8-tetrahydro-1H,6H-dipyrrolo[1,2-a:1',2'-d]pyrazine  - Malic acid
-0.25 > 0.2, node to be removed
-
-NODE: Nonanoic acid
+NODE: Dodecanamide, N-(2-hydroxyethyl)-
 SCORE: 1
 UP: 1
 DOWN: 0
 node updated!
 
-NODE: Gln-Ala
+NODE: Cholest-22-ene-21-ol, 3,5-dehydro-6-methoxy-, pivalate
+SCORE: -4
+UP: 0
+DOWN: 4
+node updated!
+
+NODE: 1-Octadecanol
+SCORE: 1
+UP: 3
+DOWN: 2
+removing edge 1-Octadecanol - Glyoxime
+removing edge 1-Octadecanol - Sertraline carbamoyl glucuronide
+0.4 > 0.2, node to be removed
+
+NODE: Benzoin
+SCORE: 1
+UP: 2
+DOWN: 1
+removing edge Benzoin - Benzeneethanamine, N-[(pentafluorophenyl)methylene]-4-[(trimethylsilyl)oxy]-
+0.3333333333333333 > 0.2, node to be removed
+
+NODE: Cyclo(L-prolyl-L-valine) 
 SCORE: -2
 UP: 0
 DOWN: 2
 node updated!
 
-NODE: 2,5-Di-tert-butylhydroquinone
-SCORE: 1
+NODE: (R*,S*)-2,3-Dihydroxybutanoic acid
+SCORE: -10
 UP: 1
-DOWN: 0
+DOWN: 11
+removing edge (R*,S*)-2,3-Dihydroxybutanoic acid - 3-(3-Cyclohexylaminopropionylamino)-5-ethylthiophene-2-carboxylic acid, ethyl ester
 node updated!
+
+NODE: 2,2'-Biphenyldiol
+SCORE: 2
+UP: 3
+DOWN: 1
+removing edge 2,2'-Biphenyldiol - Pipecolic acid
+0.25 > 0.2, node to be removed
 
 NODE: 2,5-Dimethoxybenzonitrile
 SCORE: -2
@@ -3546,76 +3585,55 @@ UP: 0
 DOWN: 2
 node updated!
 
-NODE: Uridine
-SCORE: -5
-UP: 1
-DOWN: 6
-removing edge Uridine - Malic acid
-node updated!
-
-NODE: Spiro[cyclopenta[d]-1,3,2-dioxaborin-4(5H),1'-cyclopentane], 2-ethyl-6,7-dihydro-
-SCORE: 0
-UP: 2
-DOWN: 2
-score == 0, node to be removed
-
-NODE: Sinomenin
-SCORE: -1
-UP: 2
-DOWN: 3
-removing edge Sinomenin - 2,2-Diallylpyrrolidine
-removing edge Sinomenin - L-Isoleucine
-0.4 > 0.2, node to be removed
-
-NODE: Cyclohexene, 3-butyl-3-methyl-1-trimethylsilyloxy-
-SCORE: -5
-UP: 0
-DOWN: 5
-node updated!
-
-NODE: L-Glutamic acid
-SCORE: -3
-UP: 0
-DOWN: 3
-node updated!
-
-NODE: cis-4,5-Dihydroxy-o-dithiane, 2O-
+NODE: Cholesterol
 SCORE: -2
-UP: 1
-DOWN: 3
-removing edge cis-4,5-Dihydroxy-o-dithiane, 2O- - Trisaminol
-0.25 > 0.2, node to be removed
-
-NODE: Eicosapentaenoic acid
-SCORE: -3
-UP: 1
-DOWN: 4
-removing edge Eicosapentaenoic acid - (CH3)2C=NC2H558
+UP: 0
+DOWN: 2
 node updated!
 
-NODE: O-Methyl-N,N'-diisopropylisourea 
+NODE: Thymidine
+SCORE: -3
+UP: 2
+DOWN: 5
+removing edge Thymidine - 7-Isoquinolinol, 1,2,3,4-tetrahydro-1-[(4-hydroxyphenyl)methyl]-6-methoxy-
+removing edge Thymidine - Benzoic acid, methyl ester
+0.2857142857142857 > 0.2, node to be removed
+
+NODE: 6,8-Dioxapentadecane
+SCORE: -10
+UP: 1
+DOWN: 11
+removing edge 6,8-Dioxapentadecane - Carfentrazone-ethyl
+node updated!
+
+NODE: Palmitelaidic acid
+SCORE: -1
+UP: 0
+DOWN: 1
+node updated!
+
+NODE: D-Erythro-Pentofuranose, 2-deoxy-1,3-bis-O-
+SCORE: -1
+UP: 0
+DOWN: 1
+node updated!
+
+NODE: L-Norleucine
 SCORE: 1
 UP: 1
 DOWN: 0
 node updated!
 
-NODE: Delorazepam
-SCORE: -2
-UP: 0
-DOWN: 2
+NODE: Ribonic acid, 2,3,4,5-tetrakis-
+SCORE: 2
+UP: 2
+DOWN: 0
 node updated!
 
-NODE: 7,9-Di-tert-butyl-1-oxaspiro(4,5)deca-6,9-diene-2,8-dione
-SCORE: 1
-UP: 2
-DOWN: 1
-removing edge 7,9-Di-tert-butyl-1-oxaspiro(4,5)deca-6,9-diene-2,8-dione - Nonadecanoic acid
-0.3333333333333333 > 0.2, node to be removed
-
-NODE: Methyl (3,4-dimethoxyphenyl)(hydroxy)acetate
-SCORE: -3
+NODE: 2,2,8,8-Tetramethyl-3,7-dioxa-4-aza-2,8-disilanon-4-ene
+SCORE: -1
 UP: 0
-DOWN: 3
+DOWN: 1
 node updated!
 
 NODE: beta-Hydroxypyruvic acid
@@ -3624,108 +3642,11 @@ UP: 0
 DOWN: 1
 node updated!
 
-NODE: Syringaldehyde
-SCORE: 0
-UP: 2
-DOWN: 2
-score == 0, node to be removed
-
-NODE: 5,6-Dimethyl-4-phenyl-3-cyanopyridine-2(1H)-thione
-SCORE: 1
-UP: 1
-DOWN: 0
-node updated!
-
-NODE: 5-Cholesten-3beta, 7alpha-bis[(trimethylsilyl)oxy]- 
-SCORE: -1
-UP: 0
-DOWN: 1
-node updated!
-
-NODE: Norketamine
-SCORE: 3
-UP: 3
-DOWN: 0
-node updated!
-
-NODE: 3-(2-Hydroxyethyl)imidazole-2-thione
-SCORE: 0
-UP: 1
-DOWN: 1
-score == 0, node to be removed
-
-NODE: Phenylpropanolamine
-SCORE: 1
-UP: 1
-DOWN: 0
-node updated!
-
-NODE: Pyrazine, 3,6-dimethyl-2,5-bis(trimethylsilyloxy)-
-SCORE: 1
-UP: 1
-DOWN: 0
-node updated!
-
-NODE: D-(-)-Lyxose, tetrakis
-SCORE: -1
-UP: 0
-DOWN: 1
-node updated!
-
-NODE: Arabinofuranose, 1,2,3,5-tetrakis-O-
-SCORE: -4
-UP: 0
-DOWN: 4
-node updated!
-
-NODE: 1,2,2-Trimethyl-1-aza-spiro[2.3]hexane
-SCORE: 0
-UP: 1
-DOWN: 1
-score == 0, node to be removed
-
-NODE: (pm)-Norketamine
-SCORE: 1
-UP: 1
-DOWN: 0
-node updated!
-
-NODE: n-Butylamine
-SCORE: 0
-UP: 1
-DOWN: 1
-score == 0, node to be removed
-
-NODE: Alloxanic acid
-SCORE: -1
-UP: 0
-DOWN: 1
-node updated!
-
-NODE: D-Xylofuranose, 1,2,3,5-tetrakis-O-
-SCORE: -1
-UP: 0
-DOWN: 1
-node updated!
-
-NODE: 3-Methylvaleric acid
-SCORE: 1
-UP: 2
-DOWN: 1
-removing edge 3-Methylvaleric acid - Vanillylmandelic acid
-0.3333333333333333 > 0.2, node to be removed
-
 NODE: 2-Hydroxy-2-methylbutyric acid
 SCORE: -1
 UP: 0
 DOWN: 1
 node updated!
-
-NODE: 5,6-Dihydro-5-methyluracil
-SCORE: 0
-UP: 1
-DOWN: 1
-score == 0, node to be removed
 
 NODE: l-Histidine ethyl ester
 SCORE: -2
@@ -3733,7 +3654,7 @@ UP: 0
 DOWN: 2
 node updated!
 
-NODE: Ammeline
+NODE: D-(-)-Lyxose, tetrakis
 SCORE: -1
 UP: 0
 DOWN: 1
@@ -3745,17 +3666,54 @@ UP: 1
 DOWN: 0
 node updated!
 
-NODE: D-Psicofuranose, pentakis
-SCORE: 0
-UP: 1
+NODE: 3-Methylvaleric acid
+SCORE: 1
+UP: 2
 DOWN: 1
-score == 0, node to be removed
+removing edge 3-Methylvaleric acid - Vanillylmandelic acid
+0.3333333333333333 > 0.2, node to be removed
 
-NODE: Hippuric acid
-SCORE: 0
+NODE: Methyl (3,4-dimethoxyphenyl)(hydroxy)acetate
+SCORE: -3
+UP: 0
+DOWN: 3
+node updated!
+
+NODE: Pyrazine, 3,6-dimethyl-2,5-bis(trimethylsilyloxy)-
+SCORE: 1
 UP: 1
+DOWN: 0
+node updated!
+
+NODE: Pyrazine, 3,6-dihydro-3,6-dimethyl-
+SCORE: 2
+UP: 2
+DOWN: 0
+node updated!
+
+NODE: Alloxanic acid
+SCORE: -1
+UP: 0
 DOWN: 1
-score == 0, node to be removed
+node updated!
+
+NODE: DL-Ornithine
+SCORE: -2
+UP: 0
+DOWN: 2
+node updated!
+
+NODE: Norketamine
+SCORE: 3
+UP: 3
+DOWN: 0
+node updated!
+
+NODE: Benzene, 4-ethenyl-1,2-dimethoxy-
+SCORE: -3
+UP: 0
+DOWN: 3
+node updated!
 
 NODE: D-Ribose
 SCORE: -2
@@ -3763,28 +3721,16 @@ UP: 0
 DOWN: 2
 node updated!
 
-NODE: Docosyl octyl ether
-SCORE: 0
-UP: 1
-DOWN: 1
-score == 0, node to be removed
-
-NODE: 3-Methoxyamphetamine, 4-Trimethylsilyloxy, N,N-bis(Trimethylsilyloxy)-
+NODE: (pm)-Norketamine
 SCORE: 1
 UP: 1
 DOWN: 0
 node updated!
 
-NODE: D-Erythro-Pentofuranose, 2-deoxy-1,3-bis-O-
+NODE: 5-Cholesten-3beta, 7alpha-bis[(trimethylsilyl)oxy]- 
 SCORE: -1
 UP: 0
 DOWN: 1
-node updated!
-
-NODE: Dobutamine
-SCORE: 1
-UP: 1
-DOWN: 0
 node updated!
 
 NODE: (pm)-N-Propylamphetamine
@@ -3793,7 +3739,7 @@ UP: 1
 DOWN: 0
 node updated!
 
-NODE: Talonic acid, gamma-lactone
+NODE: 1,2,2-Trimethyl-1-aza-spiro[2.3]hexane
 SCORE: 0
 UP: 1
 DOWN: 1
@@ -3806,11 +3752,65 @@ DOWN: 1
 removing edge Methyl alpha-Lyxofuranoside - 3-Methylpiperazine-2,5-dione, (R)-
 0.3333333333333333 > 0.2, node to be removed
 
-NODE: DL-Ornithine
-SCORE: -2
+NODE: D-Psicofuranose, pentakis
+SCORE: 0
+UP: 1
+DOWN: 1
+score == 0, node to be removed
+
+NODE: D-Xylofuranose, 1,2,3,5-tetrakis-O-
+SCORE: -1
 UP: 0
-DOWN: 2
+DOWN: 1
 node updated!
+
+NODE: Phenylpropanolamine
+SCORE: 1
+UP: 1
+DOWN: 0
+node updated!
+
+NODE: Syringaldehyde
+SCORE: 0
+UP: 2
+DOWN: 2
+score == 0, node to be removed
+
+NODE: 5,6-Dihydro-5-methyluracil
+SCORE: 0
+UP: 1
+DOWN: 1
+score == 0, node to be removed
+
+NODE: Talonic acid, gamma-lactone
+SCORE: 0
+UP: 1
+DOWN: 1
+score == 0, node to be removed
+
+NODE: Docosyl octyl ether
+SCORE: 0
+UP: 1
+DOWN: 1
+score == 0, node to be removed
+
+NODE: Arabinofuranose, 1,2,3,5-tetrakis-O-
+SCORE: -4
+UP: 0
+DOWN: 4
+node updated!
+
+NODE: 5,6-Dimethyl-4-phenyl-3-cyanopyridine-2(1H)-thione
+SCORE: 1
+UP: 1
+DOWN: 0
+node updated!
+
+NODE: 3-(2-Hydroxyethyl)imidazole-2-thione
+SCORE: 0
+UP: 1
+DOWN: 1
+score == 0, node to be removed
 
 NODE: 3,5-di-tert-Butyl-4-hydroxyacetophenone
 SCORE: -2
@@ -3818,27 +3818,33 @@ UP: 0
 DOWN: 2
 node updated!
 
-NODE: Benzene, 4-ethenyl-1,2-dimethoxy-
-SCORE: -3
-UP: 0
-DOWN: 3
-node updated!
+NODE: Hippuric acid
+SCORE: 0
+UP: 1
+DOWN: 1
+score == 0, node to be removed
 
-NODE: Albizziin
+NODE: Ammeline
 SCORE: -1
 UP: 0
 DOWN: 1
 node updated!
 
-NODE: 2,2,8,8-Tetramethyl-3,7-dioxa-4-aza-2,8-disilanon-4-ene
-SCORE: -1
-UP: 0
-DOWN: 1
+NODE: Dobutamine
+SCORE: 1
+UP: 1
+DOWN: 0
 node updated!
 
-NODE: Pyrazine, 3,6-dihydro-3,6-dimethyl-
-SCORE: 2
-UP: 2
+NODE: n-Butylamine
+SCORE: 0
+UP: 1
+DOWN: 1
+score == 0, node to be removed
+
+NODE: 3-Methoxyamphetamine, 4-Trimethylsilyloxy, N,N-bis(Trimethylsilyloxy)-
+SCORE: 1
+UP: 1
 DOWN: 0
 node updated!
 
@@ -3848,16 +3854,10 @@ UP: 1
 DOWN: 1
 score == 0, node to be removed
 
-NODE: L-Norleucine
-SCORE: 1
-UP: 1
-DOWN: 0
-node updated!
-
-NODE: Ribonic acid, 2,3,4,5-tetrakis-
-SCORE: 2
-UP: 2
-DOWN: 0
+NODE: Albizziin
+SCORE: -1
+UP: 0
+DOWN: 1
 node updated!
 
 NODE: L-Leucine
