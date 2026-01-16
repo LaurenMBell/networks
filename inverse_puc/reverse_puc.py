@@ -22,14 +22,14 @@ def define_next_layer(G, ln, visited):
     for node in ln:
         neighbors = set(G.neighbors(node))
         for neighbor in neighbors:
-            if neighbor not in visited and neighbor not in ln: 
+            if neighbor not in visited: 
                 #SHOULD ONLY BE NEIGHBORS IN THE NEXT LAYER, NOT VISITED OR CURRENT LAYER
                 lm.add(neighbor)
                 
     return lm
 
 
-def reverse_puc(G, ln, visited, f=None, thresh=0.2, first=False):
+def reverse_puc(G, ln, visited, i, f=None, thresh=0.2, first=False):
     #function to take each node in a layer and find directionality for it
     to_remove_nodes = set() #set to collect nodes to remove instead of during iteration
     #to_remove_edges = set()
@@ -38,6 +38,7 @@ def reverse_puc(G, ln, visited, f=None, thresh=0.2, first=False):
 
     for node in lm:
         if f: f.write(f"NODE: {node}\n")
+        if f: f.write(f"LAYER: {i}\n")
 
         up = 0
         up_e = []
@@ -143,16 +144,16 @@ def pls_cpx_rpuc(f):
     # GET L1 FROM L0
     visited = set(l0)
 
-    l1 = reverse_puc(G, l0, visited, f, first=True)
+    l1 = reverse_puc(G, l0, visited, 0, f, first=True)
 
     visited |= l1 #visited = visited | l1
 
     layers = [set(l0), set(l1)] #list of sets of nodes
 
     ln = l1
-
+    i = 1
     while True:
-        lm = reverse_puc(G, ln, visited, f, first=False) #START WiTH L1 AS PLS 'L0'
+        lm = reverse_puc(G, ln, visited, i, f, first=False) #START WiTH L1 AS PLS 'L0'
         if not lm:
             #end of network
             break
@@ -160,6 +161,8 @@ def pls_cpx_rpuc(f):
         layers.append(lm)
         visited |= lm
         ln = lm #ln+1
+
+        i+=1
 
     f.write("FINAL NETWORK NODES:\n")
 
@@ -190,6 +193,11 @@ def pls_cpx_rpuc(f):
             except:
                 print(f"{n} - no dir\n")
     pd.DataFrame(nodes).to_csv("pls_rpuc_nodes.csv", index=False) 
+
+    count = 0
+    for layer in layers:
+        f.write(f"LAYER {count}: \n{layer}\n\n\n")
+        count+=1
 
 def feci_cpx_rpuc(f):
     f.write(time.strftime("CURRENT TIME: %Y-%m-%d %H:%M:%S\n\n"))
@@ -230,16 +238,17 @@ def feci_cpx_rpuc(f):
     # GET L1 FROM L0
     visited = set(l0)
 
-    l1 = reverse_puc(G, l0, visited, f, first=True)
+    l1 = reverse_puc(G, l0, visited, 0, f, first=True)
 
     visited |= l1 #visited = visited | l1
 
     layers = [set(l0), set(l1)] #list of sets of nodes
 
     ln = l1
+    i = 1
 
     while True:
-        lm = reverse_puc(G, ln, visited, f, first=False) #START WiTH L1 AS FECI 'L0'
+        lm = reverse_puc(G, ln, visited, i, f, first=False) #START WiTH L1 AS FECI 'L0'
         if not lm:
             #end of network
             break
@@ -247,6 +256,7 @@ def feci_cpx_rpuc(f):
         layers.append(lm)
         visited |= lm
         ln = lm #ln+1
+        i+=1
 
     f.write("FINAL NETWORK NODES:\n")
 
@@ -278,12 +288,17 @@ def feci_cpx_rpuc(f):
                 print(f"{n} - no dir\n")
     pd.DataFrame(nodes).to_csv("feci_rpuc_nodes.csv", index=False) 
 
+    count = 0
+    for layer in layers:
+        f.write(f"LAYER {count}: \n{layer}\n\n\n")
+        count+=1
+
 def main():
     f = open("pls_report.txt", 'w')
     pls_cpx_rpuc(f)
 
-    f = open("feci_report.txt", 'w')
-    feci_cpx_rpuc(f)
+    #f = open("feci_report.txt", 'w')
+    #feci_cpx_rpuc(f)
 
 if __name__=="__main__":
     main()

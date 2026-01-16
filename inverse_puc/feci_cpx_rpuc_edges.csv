@@ -42,7 +42,6 @@ L-Valine,D-(+)-Glucosamine,1
 L-Valine,Menthol,-1
 ENSMUSG00000025979-P,Deoxyglucose,-1
 Deoxyglucose,ENSMUSG00000023046-P,-1
-Deoxyglucose,L-(-)-Sorbofuranose,-1
 Vanillin,ENSMUSG00000094002-P,-1
 Vanillin,ENSMUSG00000005580-P,-1
 Vanillin,ENSMUSG00000037664-P,1
@@ -105,7 +104,6 @@ Methylsuccinic acid,9H-Purin-6-ol,1
 Methylsuccinic acid,Cyclohexanemethanol,-1
 Methylsuccinic acid,D-(+)-Glucosamine,1
 Methylsuccinic acid,Hydracrylic acid,1
-Methylsuccinic acid,L-(-)-Sorbofuranose,1
 Methylsuccinic acid,L-Glutamic acid,1
 ENSMUSG00000016495-P,2-Pyrrolidinone,1
 ENSMUSG00000016495-P,Decyl oleate,1
@@ -203,11 +201,7 @@ ENSMUSG00000027536-P,"2-Butenoic acid, 2-hydroxy-",-1
 "2-Butenoic acid, 2-hydroxy-",ENSMUSG00000038836-P,1
 "2-Butenoic acid, 2-hydroxy-",ENSMUSG00000006800-P,-1
 "2-Butenoic acid, 2-hydroxy-",ENSMUSG00000044617-P,-1
-"2-Butenoic acid, 2-hydroxy-",1-Tetradecanol,1
-"2-Butenoic acid, 2-hydroxy-","2',2,3,6'-Tetramethoxychalcone",-1
-"2-Butenoic acid, 2-hydroxy-",3-Deoxyhexitol,1
 "2-Butenoic acid, 2-hydroxy-",Butyl Succinate,1
-"2-Butenoic acid, 2-hydroxy-","Hexadecanoic acid, 4-hydroxybutyl ester",1
 "2-Butenoic acid, 2-hydroxy-","Xylonic acid, delta-lactone",1
 ENSMUSG00000069727-P,1-Hexacosene,1
 ENSMUSG00000069727-P,"2,5-Dimethoxyphenol",1
@@ -218,8 +212,6 @@ ENSMUSG00000069727-P,3-Hexenedioic acid,1
 1-Hexacosene,ENSMUSG00000035011-P,1
 1-Hexacosene,ENSMUSG00000022085-P,1
 "2,5-Dimethoxyphenol",ENSMUSG00000039253-P,1
-"2,5-Dimethoxyphenol",2-Hydroxy-3-methylbutyric acid,1
-"2,5-Dimethoxyphenol",L-Valyl-L-leucine,1
 "2,5-Dimethoxyphenol",Syringaldehyde,1
 "2-Allyl-1,4-dimethoxybenzene",ENSMUSG00000039253-P,1
 "2-Allyl-1,4-dimethoxybenzene",ENSMUSG00000030060-P,-1
@@ -227,16 +219,12 @@ ENSMUSG00000069727-P,3-Hexenedioic acid,1
 "2-Allyl-1,4-dimethoxybenzene",ENSMUSG00000025016-P,1
 "2-Allyl-1,4-dimethoxybenzene",ENSMUSG00000032348-P,1
 "2-Butenoic acid, 2-methyl-, 2-methyl-2-propenyl ester",ENSMUSG00000056735-P,1
-"2-Butenoic acid, 2-methyl-, 2-methyl-2-propenyl ester",Cyclohexanecarboxylic acid,1
-"2-Butenoic acid, 2-methyl-, 2-methyl-2-propenyl ester","Hexadecanoic acid, 4-hydroxybutyl ester",1
 "2-Butenoic acid, 2-methyl-, 2-methyl-2-propenyl ester",Myristic acid,1
 "2-Butenoic acid, 2-methyl-, 2-methyl-2-propenyl ester",Pentanoic acid,1
 "2-Butenoic acid, 2-methyl-, 2-methyl-2-propenyl ester",Tetrahydrogeranyl formate,1
 3-Hexenedioic acid,ENSMUSG00000043467-P,1
-3-Hexenedioic acid,5-Hydroxymethyl-2-furoic acid,1
 3-Hexenedioic acid,beta-Arabinopyranose,1
 3-Hexenedioic acid,L-5-Oxoproline,1
-3-Hexenedioic acid,L-Valyl-L-leucine,1
 3-Hexenedioic acid,Syringaldehyde,1
 ENSMUSG00000039253-P,2-Ethylhexanoic acid,1
 ENSMUSG00000039253-P,pyrazole,1
@@ -270,7 +258,6 @@ pyrazole,ENSMUSG00000045930-P,1
 pyrazole,ENSMUSG00000052584-P,-1
 pyrazole,ENSMUSG00000048330-P,1
 pyrazole,ENSMUSG00000024800-P,1
-pyrazole,Isonicotinic Acid,1
 beta-Alanine,ENSMUSG00000035941-P,1
 beta-Alanine,ENSMUSG00000033411-P,1
 beta-Alanine,ENSMUSG00000062044-P,-1
@@ -296,11 +283,9 @@ L-5-Oxoproline,ENSMUSG00000024873-P,-1
 L-5-Oxoproline,ENSMUSG00000032602-P,1
 L-5-Oxoproline,ENSMUSG00000025862-P,1
 L-5-Oxoproline,ENSMUSG00000071369-P,1
-L-5-Oxoproline,L-(-)-Sorbofuranose,1
 L-5-Oxoproline,L-Glutamic acid,1
 Niacin,Niacinamide,1
 Niacin,3-(3-Hydroxyphenyl)propanoic acid,-1
-Niacin,L-(-)-Sorbofuranose,1
 Niacin,N-Acetyl-L-glutamic acid,1
 Phenol,ENSMUSG00000036371-P,1
 Phenol,ENSMUSG00000004698-P,-1
@@ -317,7 +302,6 @@ Phenol,ENSMUSG00000027957-P,1
 Phenol,ENSMUSG00000003190-P,1
 Phenol,ENSMUSG00000045284-P,1
 Phenol,ENSMUSG00000045098-P,1
-Phenol,Xanthine,1
 Phenol,Cholesterol,1
 Syringaldehyde,ENSMUSG00000035941-P,1
 Syringaldehyde,ENSMUSG00000014075-P,1
@@ -333,7 +317,6 @@ Syringaldehyde,ENSMUSG00000025862-P,1
 Syringaldehyde,ENSMUSG00000032348-P,1
 Syringaldehyde,beta-D-(-)-Ribopyranose,1
 Syringaldehyde,"Erythrono-1,4-lactone",1
-Syringaldehyde,L-Valyl-L-leucine,1
 Urea,ENSMUSG00000035941-P,1
 Urea,ENSMUSG00000062937-P,1
 Urea,ENSMUSG00000001687-P,1
@@ -370,7 +353,6 @@ ENSMUSG00000036371-P,D-Allofuranose,1
 1-Dodecanol,ENSMUSG00000045098-P,1
 1-Dodecanol,2'-Deoxyribolactone,1
 1-Dodecanol,3-Deoxyhexitol,1
-1-Dodecanol,"Hexadecanoic acid, 4-hydroxybutyl ester",1
 1-Dodecanol,Undecanoic acid,1
 Benzoic Acid,ENSMUSG00000043991-P,1
 Benzoic Acid,ENSMUSG00000035011-P,1
@@ -381,7 +363,6 @@ Benzoic Acid,ENSMUSG00000048330-P,1
 Benzoic Acid,13-Docosenamide,1
 Benzoic Acid,Pentanoic acid,1
 Benzoic Acid,"Propane, 2-methyl",1
-Benzoic Acid,Pyridoxic acid,1
 D-Allofuranose,ENSMUSG00000043991-P,1
 D-Allofuranose,ENSMUSG00000027706-P,1
 D-Allofuranose,ENSMUSG00000027957-P,1
@@ -396,9 +377,6 @@ L-Valyl-L-leucine,ENSMUSG00000065799-P,-1
 L-Valyl-L-leucine,ENSMUSG00000052584-P,1
 L-Valyl-L-leucine,ENSMUSG00000070643-P,-1
 L-Valyl-L-leucine,ENSMUSG00000019088-P,-1
-L-Valyl-L-leucine,3-(3-Hydroxyphenyl)propanoic acid,-1
-L-Valyl-L-leucine,Cyclohexanemethanol,-1
-L-Valyl-L-leucine,"Xylonic acid, delta-lactone",1
 ENSMUSG00000041126-P,Azelaic acid,1
 ENSMUSG00000041126-P,l-Leucyl-l-valine,1
 2-Piperidinone,ENSMUSG00000062044-P,-1
@@ -413,8 +391,6 @@ ENSMUSG00000041126-P,l-Leucyl-l-valine,1
 2-Piperidinone,ENSMUSG00000006476-P,-1
 2-Piperidinone,ENSMUSG00000045284-P,1
 2-Piperidinone,ENSMUSG00000025016-P,1
-2-Piperidinone,Butanedioic acid,1
-2-Piperidinone,N-Acetyl-L-glutamic acid,-1
 l-Leucyl-l-valine,ENSMUSG00000020777-P,1
 l-Leucyl-l-valine,ENSMUSG00000072772-P,1
 l-Leucyl-l-valine,ENSMUSG00000058351-P,1
@@ -431,7 +407,6 @@ ENSMUSG00000035295-P,3-Buten-2-one,1
 3-Buten-2-one,ENSMUSG00000027782-P,-1
 3-Buten-2-one,ENSMUSG00000104682-P,-1
 3-Buten-2-one,ENSMUSG00000055239-P,-1
-3-Buten-2-one,Hydroquinone,1
 ENSMUSG00000022781-P,D-Ribose,1
 D-Ribose,ENSMUSG00000038859-P,1
 D-Ribose,ENSMUSG00000032301-P,1
@@ -439,7 +414,6 @@ D-Ribose,ENSMUSG00000036641-P,1
 D-Ribose,ENSMUSG00000024576-P,1
 D-Ribose,ENSMUSG00000011831-P,1
 D-Ribose,ENSMUSG00000040586-P,1
-D-Ribose,L-Glutamine,-1
 ENSMUSG00000027642-P,D-(-)-Ribofuranose,1
 D-(-)-Ribofuranose,Lignoceric acid,-1
 ENSMUSG00000105382-P,1-Tetradecanol,1
@@ -456,10 +430,7 @@ ENSMUSG00000105382-P,Tripropylene glycol monomethyl ether,1
 1-Tetradecanol,ENSMUSG00000027957-P,1
 1-Tetradecanol,ENSMUSG00000030616-P,1
 1-Tetradecanol,ENSMUSG00000041649-P,-1
-1-Tetradecanol,"Hexadecanoic acid, 4-hydroxybutyl ester",1
 1-Tetradecanol,Palmitic Acid,1
-Pyrogallol,Xanthine,1
-Pyrogallol,"Hexadecanoic acid, 4-hydroxybutyl ester",1
 Tripropylene glycol monomethyl ether,ENSMUSG00000035941-P,1
 Tripropylene glycol monomethyl ether,ENSMUSG00000032301-P,1
 Tripropylene glycol monomethyl ether,ENSMUSG00000019897-P,1
@@ -479,7 +450,6 @@ Tripropylene glycol monomethyl ether,ENSMUSG00000057440-P,1
 Tripropylene glycol monomethyl ether,ENSMUSG00000072763-P,1
 Tripropylene glycol monomethyl ether,ENSMUSG00000021929-P,1
 Tripropylene glycol monomethyl ether,ENSMUSG00000032348-P,1
-Tripropylene glycol monomethyl ether,Isonicotinic Acid,1
 ENSMUSG00000030094-P,Supraene,-1
 Supraene,ENSMUSG00000086825-P,-1
 Supraene,Myristic acid,1
@@ -487,8 +457,6 @@ Supraene,Myristic acid,1
 6-Hydroxyhexanoic acid,ENSMUSG00000038717-P,1
 6-Hydroxyhexanoic acid,ENSMUSG00000085945-P,1
 6-Hydroxyhexanoic acid,ENSMUSG00000045098-P,1
-6-Hydroxyhexanoic acid,2-Hydroxy-3-methylbutyric acid,1
-6-Hydroxyhexanoic acid,"beta-D-Galactopyranoside, methyl-, acetate",1
 ENSMUSG00000046711-P,Pentadecanoic acid,-1
 Octanoic acid,ENSMUSG00000023030-P,1
 Octanoic acid,ENSMUSG00000022561-P,1
@@ -498,8 +466,6 @@ Octanoic acid,Decanoic acid,1
 Pentadecanoic acid,ENSMUSG00000002455-P,1
 Pentadecanoic acid,ENSMUSG00000027706-P,1
 Pentadecanoic acid,ENSMUSG00000031838-P,1
-Pentadecanoic acid,1-Monopalmitin,1
-Pentadecanoic acid,Cyclohexanecarboxylic acid,1
 Pentadecanoic acid,Myristic acid,1
 ENSMUSG00000034647-P,11-Hydroxy-.DELTA.-9-tetrahydrocannabinol,1
 11-Hydroxy-.DELTA.-9-tetrahydrocannabinol,ENSMUSG00000046351-P,1
@@ -507,7 +473,6 @@ ENSMUSG00000034647-P,11-Hydroxy-.DELTA.-9-tetrahydrocannabinol,1
 11-Hydroxy-.DELTA.-9-tetrahydrocannabinol,ENSMUSG00000032560-P,1
 11-Hydroxy-.DELTA.-9-tetrahydrocannabinol,ENSMUSG00000048330-P,1
 11-Hydroxy-.DELTA.-9-tetrahydrocannabinol,ENSMUSG00000016487-P,1
-11-Hydroxy-.DELTA.-9-tetrahydrocannabinol,2'-Deoxyribolactone,1
 11-Hydroxy-.DELTA.-9-tetrahydrocannabinol,Pimelic acid,1
 "2,3-Butanediol",ENSMUSG00000024168-P,1
 "2,3-Butanediol",ENSMUSG00000020135-P,-1
@@ -525,7 +490,6 @@ L-Glutamic acid,ENSMUSG00000054364-P,-1
 L-Glutamic acid,"2-Pentenedioic acid, 2-hydroxy-",1
 L-Glutamic acid,3-(3-Hydroxyphenyl)propanoic acid,-1
 L-Glutamic acid,Cyclohexanemethanol,-1
-L-Glutamic acid,L-(-)-Sorbofuranose,1
 L-Glutamic acid,N-Acetyl-L-glutamic acid,1
 ENSMUSG00000022246-P,L-Rhamnose,1
 L-Rhamnose,ENSMUSG00000024168-P,1
@@ -535,7 +499,6 @@ L-Rhamnose,ENSMUSG00000038717-P,1
 L-Rhamnose,ENSMUSG00000052566-P,1
 L-Rhamnose,ENSMUSG00000061838-P,1
 L-Rhamnose,ENSMUSG00000025789-P,-1
-L-Rhamnose,L-(-)-Sorbofuranose,-1
 ENSMUSG00000102840-P,"2,3,4,5-Tetrahydroxypentanoic acid-1,4-lactone",1
 "2,3,4,5-Tetrahydroxypentanoic acid-1,4-lactone",Octadecyl octyl ether,1
 ENSMUSG00000004698-P,alpha-Linolenic acid,-1
@@ -558,9 +521,7 @@ Monomethyl succinate,ENSMUSG00000031513-P,1
 Monomethyl succinate,ENSMUSG00000039000-P,1
 Monomethyl succinate,ENSMUSG00000020546-P,1
 Monomethyl succinate,ENSMUSG00000041649-P,-1
-Monomethyl succinate,1-Octanol,1
 Monomethyl succinate,4-Hydroxybenzaldehyde,-1
-Monomethyl succinate,L-(-)-Sorbofuranose,-1
 N-(2-hydroxyethyl)-succinimide,ENSMUSG00000005514-P,1
 N-(2-hydroxyethyl)-succinimide,ENSMUSG00000038836-P,1
 N-(2-hydroxyethyl)-succinimide,ENSMUSG00000028826-P,1
@@ -572,15 +533,12 @@ N-(2-hydroxyethyl)-succinimide,ENSMUSG00000027957-P,1
 N-(2-hydroxyethyl)-succinimide,ENSMUSG00000030201-P,1
 N-(2-hydroxyethyl)-succinimide,ENSMUSG00000057440-P,1
 N-(2-hydroxyethyl)-succinimide,ENSMUSG00000020546-P,1
-N-(2-hydroxyethyl)-succinimide,Phloretic acid,1
 ENSMUSG00000086610-P,Cyclohexanecarboxylic acid,1
 Cyclohexanecarboxylic acid,ENSMUSG00000024805-P,1
 Cyclohexanecarboxylic acid,ENSMUSG00000003527-P,1
 Cyclohexanecarboxylic acid,ENSMUSG00000030691-P,1
 Cyclohexanecarboxylic acid,ENSMUSG00000031657-P,1
 Cyclohexanecarboxylic acid,ENSMUSG00000038827-P,-1
-Cyclohexanecarboxylic acid,4-Methyl-5-thiazoleethanol,1
-Cyclohexanecarboxylic acid,"Inosose-2, myo",1
 ENSMUSG00000021903-P,Glyceric acid,1
 Glyceric acid,ENSMUSG00000028626-P,1
 Glyceric acid,ENSMUSG00000038058-P,1
@@ -596,9 +554,7 @@ Hymexazole,ENSMUSG00000039194-P,1
 Hymexazole,ENSMUSG00000030403-P,1
 ENSMUSG00000029198-P,Thr-Leu,1
 Thr-Leu,ENSMUSG00000042831-P,1
-Thr-Leu,Niacinamide,1
 Thr-Leu,N-Methyl-alpha-aminoisobutyric acid,1
-Thr-Leu,L-(+)-Lactic acid,-1
 Thr-Leu,Pimelic acid,-1
 ENSMUSG00000032482-P,"1,3-Dioxane, 2,2-dimethyl-5-hydroxy-",-1
 "1,3-Dioxane, 2,2-dimethyl-5-hydroxy-",ENSMUSG00000059495-P,1
@@ -621,10 +577,7 @@ ENSMUSG00000023243-P,"2',2,3,6'-Tetramethoxychalcone",-1
 "2',2,3,6'-Tetramethoxychalcone",ENSMUSG00000022361-P,-1
 "2',2,3,6'-Tetramethoxychalcone",ENSMUSG00000071637-P,1
 "2',2,3,6'-Tetramethoxychalcone",ENSMUSG00000024098-P,1
-"2',2,3,6'-Tetramethoxychalcone","beta-D-Galactopyranoside, methyl-, acetate",1
 "2',2,3,6'-Tetramethoxychalcone",Glycolic acid,1
-"2',2,3,6'-Tetramethoxychalcone",Pyridoxic acid,1
-"2',2,3,6'-Tetramethoxychalcone",Xylazine,1
 ENSMUSG00000052751-P,D-(+)-Talofuranose,1
 D-(+)-Talofuranose,Decanoic acid,-1
 ENSMUSG00000035941-P,9H-Purin-6-ol,1
@@ -666,9 +619,7 @@ D-(+)-Glucosamine,ENSMUSG00000064340-P,-1
 D-(+)-Glucosamine,ENSMUSG00000025862-P,1
 D-(+)-Glucosamine,ENSMUSG00000048776-P,1
 D-(+)-Glucosamine,ENSMUSG00000026315-P,1
-D-(+)-Glucosamine,1-Hexanol,1
 D-(+)-Glucosamine,4-Hydroxybenzaldehyde,1
-D-(+)-Glucosamine,Aconitic acid,1
 D-(+)-Glucosamine,Butanedioic acid,-1
 Hydracrylic acid,ENSMUSG00000062937-P,1
 Hydracrylic acid,ENSMUSG00000041408-P,1
@@ -677,9 +628,7 @@ Hydracrylic acid,ENSMUSG00000046157-P,-1
 Hydracrylic acid,ENSMUSG00000021709-P,1
 Hydracrylic acid,ENSMUSG00000025862-P,1
 Hydracrylic acid,ENSMUSG00000062866-P,1
-Hydracrylic acid,5-Methyluridine,1
 Hydracrylic acid,Dihydrouracil,1
-Hydracrylic acid,L-(-)-Sorbofuranose,1
 L-Threonine,ENSMUSG00000037664-P,1
 L-Threonine,ENSMUSG00000051579-P,1
 L-Threonine,Myristic acid,-1
@@ -727,9 +676,7 @@ Uracil,ENSMUSG00000064340-P,-1
 Uracil,ENSMUSG00000025862-P,1
 Uracil,ENSMUSG00000062866-P,1
 Uracil,ENSMUSG00000026315-P,1
-Uracil,Xanthine,-1
 ENSMUSG00000036501-P,5-Hydroxymethyl-2-furoic acid,1
-5-Hydroxymethyl-2-furoic acid,3-O-methyl-beta-D-Glucopyranose,1
 ENSMUSG00000033411-P,4-Hydroxybenzoic acid,1
 4-Hydroxybenzoic acid,ENSMUSG00000015839-P,1
 4-Hydroxybenzoic acid,ENSMUSG00000022561-P,-1
@@ -740,11 +687,9 @@ ENSMUSG00000033411-P,4-Hydroxybenzoic acid,1
 4-Hydroxybenzoic acid,ENSMUSG00000051579-P,1
 4-Hydroxybenzoic acid,L-Norvaline,1
 4-Hydroxybenzoic acid,N-Methyl-alpha-aminoisobutyric acid,1
-4-Hydroxybenzoic acid,1-Octanol,-1
 ENSMUSG00000019907-P,Pyridoxic acid,1
 Pyridoxic acid,ENSMUSG00000029550-P,-1
 ENSMUSG00000025410-P,Cyclohexanol,1
-Cyclohexanol,"Hexadecanoic acid, 4-hydroxybutyl ester",1
 "2,5-Cyclohexadiene-1,4-dione, 2,6-bis(1,1-dimethylethyl)",ENSMUSG00000041012-P,1
 "2,5-Cyclohexadiene-1,4-dione, 2,6-bis(1,1-dimethylethyl)",ENSMUSG00000106365-P,1
 "2,5-Cyclohexadiene-1,4-dione, 2,6-bis(1,1-dimethylethyl)",ENSMUSG00000044927-P,-1
@@ -766,15 +711,10 @@ Hydroquinone,ENSMUSG00000045284-P,1
 ENSMUSG00000008690-P,Monolaurin,1
 Monolaurin,ENSMUSG00000050822-P,1
 Monolaurin,ENSMUSG00000003949-P,-1
-Monolaurin,"2,5-Dimethoxybenzhydrazide",1
-Monolaurin,beta-Arabinopyranose,1
-Monolaurin,"Xylonic acid, delta-lactone",1
-Monolaurin,Xylose,1
 9-Octadecenamide,ENSMUSG00000001687-P,1
 9-Octadecenamide,ENSMUSG00000065799-P,1
 9-Octadecenamide,ENSMUSG00000035293-P,-1
 9-Octadecenamide,ENSMUSG00000052584-P,-1
-9-Octadecenamide,5-Methyluridine,-1
 ENSMUSG00000028273-P,Serine,1
 Serine,ENSMUSG00000029178-P,1
 Serine,ENSMUSG00000037664-P,1
@@ -793,7 +733,6 @@ Serine,ENSMUSG00000019971-P,1
 Serine,ENSMUSG00000021149-P,1
 Serine,ENSMUSG00000020546-P,1
 Serine,ENSMUSG00000021000-P,1
-Serine,"2-Furanacetaldehyde, tetrahydro-alpha",-1
 Serine,L-Leucine,1
 Serine,Phenylalanine,1
 ENSMUSG00000021585-P,Picolinic acid,1
@@ -823,10 +762,7 @@ Xanthine,ENSMUSG00000029550-P,-1
 Xanthine,ENSMUSG00000064294-P,1
 Xanthine,ENSMUSG00000034786-P,1
 Xanthine,ENSMUSG00000024772-P,-1
-Xanthine,Citric acid,1
-Xanthine,Pentanoic acid,1
 13-Docosenamide,ENSMUSG00000064294-P,1
-13-Docosenamide,5-Methyluridine,-1
 ENSMUSG00000057367-P,4-Methyl-5-thiazoleethanol,1
 4-Methyl-5-thiazoleethanol,ENSMUSG00000041012-P,1
 4-Methyl-5-thiazoleethanol,ENSMUSG00000024253-P,1
@@ -840,8 +776,6 @@ ENSMUSG00000057367-P,4-Methyl-5-thiazoleethanol,1
 ENSMUSG00000031010-P,1-Monopalmitin,-1
 1-Monopalmitin,ENSMUSG00000023960-P,1
 1-Monopalmitin,ENSMUSG00000062040-P,1
-1-Monopalmitin,D-Mannopyranose,-1
-1-Monopalmitin,Pipecolic acid,-1
 ENSMUSG00000015839-P,L-Norvaline,1
 L-Norvaline,ENSMUSG00000055239-P,1
 L-Norvaline,ENSMUSG00000054792-P,-1
@@ -850,18 +784,15 @@ ENSMUSG00000038859-P,Pyrrole-2-carboxylic acid,1
 Pipecolic acid,ENSMUSG00000038717-P,1
 Pipecolic acid,ENSMUSG00000034579-P,-1
 Pipecolic acid,ENSMUSG00000025789-P,-1
-Pipecolic acid,1-Octanol,-1
 Pyrrole-2-carboxylic acid,ENSMUSG00000004098-P,-1
 Pyrrole-2-carboxylic acid,ENSMUSG00000043535-P,1
 Pyrrole-2-carboxylic acid,ENSMUSG00000051579-P,1
 Pyrrole-2-carboxylic acid,ENSMUSG00000042699-P,1
-Pyrrole-2-carboxylic acid,1-Octanol,-1
 Pyrrole-2-carboxylic acid,Butanedioic acid,-1
 Pyrrole-2-carboxylic acid,Menthol,-1
 ENSMUSG00000032724-P,Myristic acid,1
 Myristic acid,ENSMUSG00000038717-P,1
 Myristic acid,2'-Deoxyribolactone,1
-Myristic acid,"Hexadecanoic acid, 4-hydroxybutyl ester",1
 ENSMUSG00000024235-P,"Inosose-2, myo",1
 "Inosose-2, myo",ENSMUSG00000036478-P,1
 "Inosose-2, myo",ENSMUSG00000085945-P,1
@@ -958,7 +889,6 @@ Cyclohexanemethanol,ENSMUSG00000030403-P,1
 Cyclohexanemethanol,ENSMUSG00000066595-P,1
 Cyclohexanemethanol,ENSMUSG00000041649-P,-1
 Cyclohexanemethanol,3-(3-Hydroxyphenyl)propanoic acid,1
-Cyclohexanemethanol,L-(-)-Sorbofuranose,-1
 "Guanidine, N,N-dimethyl",ENSMUSG00000064246-P,1
 "Guanidine, N,N-dimethyl",ENSMUSG00000068196-P,1
 "Guanidine, N,N-dimethyl",ENSMUSG00000031838-P,1
@@ -966,7 +896,6 @@ Cyclohexanemethanol,L-(-)-Sorbofuranose,-1
 "Guanidine, N,N-dimethyl",ENSMUSG00000045098-P,1
 "Guanidine, N,N-dimethyl",3-Undecene,1
 "Guanidine, N,N-dimethyl",4-Hydroxybenzaldehyde,-1
-"Guanidine, N,N-dimethyl","Hexadecanoic acid, 4-hydroxybutyl ester",1
 "Guanidine, N,N-dimethyl",Menthol,1
 N-Acetyl glucosamine methoxime,ENSMUSG00000035640-P,-1
 N-Acetyl glucosamine methoxime,ENSMUSG00000026029-P,1
@@ -976,8 +905,6 @@ N-Acetyl glucosamine methoxime,ENSMUSG00000020330-P,1
 N-Acetyl glucosamine methoxime,Uridine,1
 ENSMUSG00000013858-P,2-Hydroxy-3-methylbutyric acid,-1
 2-Hydroxy-3-methylbutyric acid,ENSMUSG00000026820-P,-1
-2-Hydroxy-3-methylbutyric acid,3-Aminobutanoic acid,1
-2-Hydroxy-3-methylbutyric acid,Decanoic acid,1
 ENSMUSG00000057722-P,L-Leucine,1
 L-Leucine,ENSMUSG00000037664-P,1
 L-Leucine,ENSMUSG00000022361-P,1
@@ -995,11 +922,9 @@ Decanoic acid,ENSMUSG00000042797-P,1
 Decanoic acid,ENSMUSG00000027957-P,1
 Decanoic acid,ENSMUSG00000000127-P,1
 Decanoic acid,ENSMUSG00000041649-P,-1
-Decanoic acid,3-Aminobutanoic acid,1
 ENSMUSG00000020102-P,Butyl caprylate,-1
 Butyl caprylate,ENSMUSG00000020227-P,1
 Butyl caprylate,ENSMUSG00000009076-P,-1
-Butyl caprylate,Arabinitol,1
 ENSMUSG00000050493-P,9-Octadecenoic acid,1
 9-Octadecenoic acid,ENSMUSG00000026784-P,1
 9-Octadecenoic acid,4-Pyridinol,-1
@@ -1046,7 +971,6 @@ Dihydrouracil,ENSMUSG00000006777-P,1
 Dihydrouracil,ENSMUSG00000055239-P,1
 Dihydrouracil,ENSMUSG00000064338-P,-1
 Dihydrouracil,ENSMUSG00000025862-P,1
-Dihydrouracil,Isonicotinic Acid,1
 ENSMUSG00000004040-P,Methylmaleic acid,1
 Methylmaleic acid,ENSMUSG00000026029-P,-1
 Methylmaleic acid,ENSMUSG00000055239-P,-1
@@ -1060,7 +984,6 @@ ENSMUSG00000017405-P,"Hexadecanoic acid, tetradecyl ester",1
 2'-Desoxyuridine,ENSMUSG00000030801-P,-1
 2'-Desoxyuridine,ENSMUSG00000028057-P,-1
 2'-Desoxyuridine,ENSMUSG00000025862-P,1
-2'-Desoxyuridine,L-(+)-Lactic acid,-1
 2'-Desoxyuridine,Thymidine,1
 "Hexadecanoic acid, tetradecyl ester",ENSMUSG00000001687-P,1
 "Hexadecanoic acid, tetradecyl ester",ENSMUSG00000047264-P,-1
@@ -1068,13 +991,9 @@ ENSMUSG00000017405-P,"Hexadecanoic acid, tetradecyl ester",1
 ENSMUSG00000024253-P,Butyl Succinate,1
 Butyl Succinate,ENSMUSG00000032172-P,-1
 Butyl Succinate,ENSMUSG00000032348-P,1
-Butyl Succinate,"Hexadecanoic acid, 4-hydroxybutyl ester",1
-Butyl Succinate,L-(+)-Lactic acid,1
 ENSMUSG00000031751-P,alpha-Tocopheryl acetate,1
 alpha-Tocopheryl acetate,ENSMUSG00000038646-P,-1
 alpha-Tocopheryl acetate,ENSMUSG00000007570-P,1
-alpha-Tocopheryl acetate,L-Glutamine,1
-alpha-Tocopheryl acetate,4-Hydroxy-5-(hydroxymethyl)oxolan-2-one,-1
 ENSMUSG00000030691-P,Ribonic acid,1
 Ribonic acid,ENSMUSG00000072704-P,1
 Ribonic acid,ENSMUSG00000025862-P,1
@@ -1104,7 +1023,6 @@ N-Methyl-alpha-aminoisobutyric acid,ENSMUSG00000043535-P,1
 N-Methyl-alpha-aminoisobutyric acid,ENSMUSG00000040586-P,1
 N-Methyl-alpha-aminoisobutyric acid,4-Hydroxybenzaldehyde,1
 N-Methyl-alpha-aminoisobutyric acid,Palmitic Acid,-1
-N-Methyl-alpha-aminoisobutyric acid,Phloretic acid,1
 ENSMUSG00000036478-P,Xylazine,1
 ENSMUSG00000022463-P,Niacinamide,-1
 ENSMUSG00000022463-P,"2-Pentenedioic acid, 2-hydroxy-",-1
@@ -1118,7 +1036,6 @@ Thymidine,ENSMUSG00000030605-P,-1
 Thymidine,ENSMUSG00000033436-P,-1
 Thymidine,ENSMUSG00000030801-P,-1
 ENSMUSG00000033487-P,"D-Erythro-Pentitol, 2-deoxy-",-1
-"D-Erythro-Pentitol, 2-deoxy-",1-Hexanol,1
 ENSMUSG00000037664-P,Phenylalanine,1
 Phenylalanine,ENSMUSG00000022561-P,-1
 Phenylalanine,ENSMUSG00000054364-P,-1
@@ -1133,7 +1050,6 @@ ENSMUSG00000002455-P,1-Octadecanol,1
 1-Octadecanol,ENSMUSG00000027860-P,1
 1-Octadecanol,ENSMUSG00000003190-P,1
 1-Octadecanol,ENSMUSG00000048330-P,1
-1-Octadecanol,"2-Furanacetaldehyde, tetrahydro-alpha",-1
 ENSMUSG00000030079-P,N-Methyl-L-proline,1
 N-Methyl-L-proline,ENSMUSG00000047547-P,1
 N-Methyl-L-proline,L-Glutamine,1
@@ -1146,11 +1062,8 @@ ENSMUSG00000026029-P,3-Undecene,1
 3-Undecene,ENSMUSG00000027860-P,1
 3-Undecene,ENSMUSG00000055022-P,1
 3-Undecene,ENSMUSG00000041649-P,-1
-3-Undecene,1-Octanol,1
-3-Undecene,"Hexadecanoic acid, 4-hydroxybutyl ester",1
 3-Undecene,Menthol,1
 ENSMUSG00000026896-P,Menthol,1
-Menthol,1-Octanol,1
 Menthol,4-Hydroxybenzaldehyde,-1
 ENSMUSG00000020248-P,4-Hydroxy-5-(hydroxymethyl)oxolan-2-one,1
 ENSMUSG00000020135-P,Itaconic acid,1
@@ -1158,7 +1071,6 @@ ENSMUSG00000046947-P,"D-Erythro-Pentofuranose, 2-deoxy-1,3-bis-O-posphate",-1
 "D-Erythro-Pentofuranose, 2-deoxy-1,3-bis-O-posphate",ENSMUSG00000068335-P,1
 ENSMUSG00000031918-P,L-Glutamine,1
 ENSMUSG00000104339-P,L-(+)-Lactic acid,-1
-L-(+)-Lactic acid,Pimelic acid,1
 ENSMUSG00000021686-P,"2,5-Dimethoxybenzhydrazide",1
 "2,5-Dimethoxybenzhydrazide",ENSMUSG00000025862-P,1
 ENSMUSG00000017697-P,Arabinose,1
@@ -1174,7 +1086,6 @@ ENSMUSG00000031112-P,"3-Hydroxy-2,3-dihydromaltol",1
 ENSMUSG00000054364-P,Uridine,-1
 Uridine,ENSMUSG00000033453-P,-1
 ENSMUSG00000028383-P,"2-Furanacetaldehyde, tetrahydro-alpha",1
-"2-Furanacetaldehyde, tetrahydro-alpha",beta-Arabinopyranose,1
 ENSMUSG00000021676-P,Citric acid,1
 Citric acid,ENSMUSG00000048330-P,1
 Citric acid,ENSMUSG00000031637-P,1
@@ -1190,7 +1101,6 @@ ENSMUSG00000021904-P,"Hexadecanoic acid, 4-hydroxybutyl ester",1
 ENSMUSG00000030268-P,Palmitic Acid,-1
 Palmitic Acid,ENSMUSG00000048330-P,1
 Palmitic Acid,ENSMUSG00000030616-P,1
-Palmitic Acid,1-Octanol,1
 ENSMUSG00000031967-P,3-Hydroxyisovaleric acid,1
 ENSMUSG00000031967-P,"Erythrono-1,4-lactone",1
 3-Hydroxyisovaleric acid,ENSMUSG00000041649-P,-1
@@ -1212,15 +1122,12 @@ ENSMUSG00000029034-P,1-Tetracosene,-1
 ENSMUSG00000027598-P,L-(-)-Sorbofuranose,1
 L-(-)-Sorbofuranose,ENSMUSG00000038555-P,-1
 L-(-)-Sorbofuranose,ENSMUSG00000025862-P,1
-L-(-)-Sorbofuranose,Pimelic acid,-1
-L-(-)-Sorbofuranose,Xylose,1
 ENSMUSG00000030697-P,Idoxuridine,-1
 ENSMUSG00000030286-P,"1-Propanamine, N,N-diethyl-",-1
 "1-Propanamine, N,N-diethyl-",ENSMUSG00000008348-P,-1
 ENSMUSG00000039715-P,Ketamine,-1
 ENSMUSG00000007379-P,4-Hydroxybenzaldehyde,1
 4-Hydroxybenzaldehyde,ENSMUSG00000025862-P,1
-4-Hydroxybenzaldehyde,1-Octanol,-1
 ENSMUSG00000023064-P,Arabinitol,-1
 ENSMUSG00000026820-P,Xylose,1
 Xylose,ENSMUSG00000031776-P,1
@@ -1232,17 +1139,13 @@ Pimelic acid,ENSMUSG00000027957-P,1
 Pimelic acid,ENSMUSG00000039000-P,1
 Pimelic acid,ENSMUSG00000041649-P,-1
 ENSMUSG00000056735-P,Lignoceric acid,1
-Lignoceric acid,"beta-D-Galactopyranoside, methyl-, acetate",-1
-Lignoceric acid,Phloretic acid,-1
 ENSMUSG00000042129-P,Isonicotinic Acid,1
 ENSMUSG00000020297-P,1-Octanol,1
-1-Octanol,Sebacic acid,1
 ENSMUSG00000031198-P,L-Proline,1
 ENSMUSG00000071637-P,Erythritol,1
 Erythritol,ENSMUSG00000063801-P,1
 Erythritol,ENSMUSG00000034563-P,1
 ENSMUSG00000025894-P,3-Deoxyhexitol,1
-3-Deoxyhexitol,Phloretic acid,1
 ENSMUSG00000043614-P,Sebacic acid,-1
 Sebacic acid,ENSMUSG00000031256-P,-1
 Sebacic acid,ENSMUSG00000031079-P,-1
