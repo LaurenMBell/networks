@@ -2,6 +2,7 @@ import networkx as nx
 import pandas as pd
 import matplotlib.pyplot as plt
 import time
+import argparse
 
 #predictr/predictdir
 #direction of change 
@@ -28,7 +29,6 @@ def define_next_layer(G, ln, visited):
                 
     return lm
 
-
 def reverse_puc(G, ln, visited, i, f=None, thresh=0.2, first=False):
     #function to take each node in a layer and find directionality for it
     to_remove_nodes = set() #set to collect nodes to remove instead of during iteration
@@ -38,7 +38,7 @@ def reverse_puc(G, ln, visited, i, f=None, thresh=0.2, first=False):
 
     for node in lm:
         if f: f.write(f"NODE: {node}\n")
-        if f: f.write(f"LAYER: {i}\n")
+        if f: f.write(f"LAYER: {i+1}\n")
 
         up = 0
         up_e = []
@@ -67,7 +67,7 @@ def reverse_puc(G, ln, visited, i, f=None, thresh=0.2, first=False):
             to_remove_nodes.add(node)
             if f: f.write("score == 0, node to be removed\n\n")
 
-            if first: 
+            if first:
                 for n in n_lm:
                     G.remove_edge(node, n)
             continue
@@ -136,8 +136,6 @@ def pls_cpx_rpuc(f):
     #init edges for rest of PLS
     for i, r in pls.iterrows(): 
         G.add_edge(r["Metabolite 1"], r["Metabolite 2"], dir=r["edge_dir"])
-
-
     # ==================== PERFORMING INVERSE PUC =====================================
     # reverse_puc(G, ln, visited, f=None, thresh=0.2, first=False) -> lm - to_remove
     
@@ -199,18 +197,33 @@ def pls_cpx_rpuc(f):
         f.write(f"LAYER {count}: \n{layer}\n\n\n")
         count+=1
 
+    G.clear()
+
 def feci_cpx_rpuc(f):
     f.write(time.strftime("CURRENT TIME: %Y-%m-%d %H:%M:%S\n\n"))
     f.write("Started FECI-CPX!\n")
-    pls_cpx = pd.read_csv("FECI-CPX_edges.csv")
-    pls_cpx = pls_cpx[pls_cpx["Pooled FDR"] <= 0.1]
+    feci_cpx = pd.read_csv("FECI/FECI-CPX_edges.csv")
+    print("d-Erythrotetrofuranose" in feci_cpx["feci_metabolite"] ,"- d-Erythrotetrofuranose in feci-pls, expected FALSE")
+    feci_cpx = feci_cpx[feci_cpx["Pooled FDR"] <= .1]
 
-    pls = pd.read_csv("FECI_edges.csv")
-    pls = pls[(pls["FDR"] <= 0.05) & (pls[["VECPAC p-values", "DSS p-values", "LPS p-values"]].abs().max(axis=1) <= 0.2)]
+    feci = pd.read_csv("FECI/FECI_edges.csv")
+    #print(("d-Erythrotetrofuranose" in feci["Metabolite 1"]) or ("d-Erythrotetrofuranose" in feci["Metabolite 2"]), "- expected TRUE")
+
+    feci = feci[(feci["FDR"] <= 0.05) & (feci[["VECPAC p-values", "DSS p-values", "LPS p-values"]].max(axis=1) <= 0.2)]
+    m = feci[
+        (feci["Metabolite 1"] == "d-Erythrotetrofuranose") |
+        (feci["Metabolite 2"] == "d-Erythrotetrofuranose")]
+    print(m)
+    
+    print(f"{"d-Erythrotetrofuranose"} edges: {len(m)}")
+        
+
     cpx_node_dir = pd.read_csv("network_nodes.csv")
     
-    l0 = set(pls_cpx['cpx_gene']) #going to be the cpx nodes in feci-cpx
-    l1 =  set(pls_cpx['feci_metabolite']) #going to be feci nodes in feci-cpx
+    l0 = set(feci_cpx['cpx_gene']) #going to be the cpx nodes in feci-cpx
+    l1 =  set(feci_cpx['feci_metabolite']) #going to be feci nodes in feci-cpx
+    print("d-Erythrotetrofuranose" in l1, "- d-Erythrotetrofuranose in l1, expected FALSE")
+
 
     #node direction hash table (gene:dir)
     dirs = dict(zip(cpx_node_dir["ID"], cpx_node_dir["Mean Log2 Fold Change Direction (DSS)"]))
@@ -219,7 +232,7 @@ def feci_cpx_rpuc(f):
     G = nx.Graph()
 
     #init L0 and L1 from the FECI-CPX file
-    for i, r in pls_cpx.iterrows():
+    for i, r in feci_cpx.iterrows():
         G.add_edge(r["cpx_gene"], r["feci_metabolite"], dir=r["edge_dir"]) 
 
     #add node DOC from netwrok_nodes
@@ -227,9 +240,11 @@ def feci_cpx_rpuc(f):
         if node in l0:
             G.nodes[node]["dir"] = dirs.get(node, None)
 
-    #init edges for rest of feces
-    for i, r in pls.iterrows(): 
+    #init edges for rest of feci
+    for i, r in feci.iterrows(): 
         G.add_edge(r["Metabolite 1"], r["Metabolite 2"], dir=r["edge_dir"])
+
+    print("d-Erythrotetrofuranose" in list(G.nodes), "- d-Erythrotetrofuranose in G.nodes, expected TRUE")
 
 
     # ==================== PERFORMING INVERSE PUC =====================================
@@ -246,9 +261,8 @@ def feci_cpx_rpuc(f):
 
     ln = l1
     i = 1
-
     while True:
-        lm = reverse_puc(G, ln, visited, i, f, first=False) #START WiTH L1 AS FECI 'L0'
+        lm = reverse_puc(G, ln, visited, i, f, first=False) #START WiTH L1 AS PLS 'L0'
         if not lm:
             #end of network
             break
@@ -256,6 +270,7 @@ def feci_cpx_rpuc(f):
         layers.append(lm)
         visited |= lm
         ln = lm #ln+1
+
         i+=1
 
     f.write("FINAL NETWORK NODES:\n")
@@ -271,11 +286,19 @@ def feci_cpx_rpuc(f):
     for node in G.nodes:
         f.write(f"{node}: {G.nodes[node]}\n")
 
+    try:
+        for n in G.neighbors("d-Erythrotetrofuranose"):
+            print(n)
+    except:
+        print("d-Erythrotetrofuranose not in network")
+
+    
+
     #save edge table 
     edges = []
     for u, v, d in G.edges(data=True):
         edges.append({"n1": u,"n2": v,"edge_dir": d.get("dir", None)})
-    pd.DataFrame(edges).to_csv("feci_cpx_rpuc_edges.csv", index=False)
+    pd.DataFrame(edges).to_csv("FECI/feci_cpx_rpuc_edges.csv", index=False)
     
     
     #save node table 
@@ -286,22 +309,29 @@ def feci_cpx_rpuc(f):
                 nodes.append({"node": n,"node_dir": G.nodes[n]["dir"]})
             except:
                 print(f"{n} - no dir\n")
-    pd.DataFrame(nodes).to_csv("feci_rpuc_nodes.csv", index=False) 
+    pd.DataFrame(nodes).to_csv("FECI/feci_rpuc_nodes.csv", index=False) 
 
     count = 0
     for layer in layers:
         f.write(f"LAYER {count}: \n{layer}\n\n\n")
         count+=1
 
-def main():
-    f = open("pls_report.txt", 'w')
-    pls_cpx_rpuc(f)
+    G.clear()
 
-    #f = open("feci_report.txt", 'w')
-    #feci_cpx_rpuc(f)
+
+def main():
+    parser = argparse.ArgumentParser()
+    parser.add_argument("-pls", action="store_true")
+    parser.add_argument("-feci", action="store_true")
+    args = parser.parse_args()
+
+    if args.pls:
+        f = open("PLS/pls_report.txt", 'w')
+        pls_cpx_rpuc(f)
+    
+    if args.feci:
+        m = open("FECI/feci_report.txt", 'w')
+        feci_cpx_rpuc(m)
 
 if __name__=="__main__":
     main()
-
-
-# L-LEUCINE SHOULD BE IN FINAL NETWORK 

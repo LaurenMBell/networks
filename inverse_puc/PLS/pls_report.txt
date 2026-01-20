@@ -1,0 +1,5314 @@
+CURRENT TIME: 2026-01-17 14:11:54
+
+Started PLS-CPX!
+NODE: Tartronic acid
+LAYER: 0
+SCORE: -2
+UP: 0
+DOWN: 2
+node updated!
+
+NODE: Benzaldehyde, 2,5-dimethyl-
+LAYER: 0
+SCORE: -10
+UP: 0
+DOWN: 10
+node updated!
+
+NODE: Glycine, N-[4-[(trimethylsilyl)oxy]benzoyl]-
+LAYER: 0
+SCORE: -1
+UP: 0
+DOWN: 1
+node updated!
+
+NODE: Dopamine
+LAYER: 0
+SCORE: 0
+UP: 1
+DOWN: 1
+score == 0, node to be removed
+
+NODE: N-isobutyl-2-(trimethylsilyloxy]-4,5-dihydro-1H-imidazole-1-carboxamide
+LAYER: 0
+SCORE: -1
+UP: 0
+DOWN: 1
+node updated!
+
+NODE: Benzenepropanoic acid
+LAYER: 0
+SCORE: 0
+UP: 1
+DOWN: 1
+score == 0, node to be removed
+
+NODE: 2,5-Dimethoxy-4-methylamphetamine
+LAYER: 0
+SCORE: 0
+UP: 1
+DOWN: 1
+score == 0, node to be removed
+
+NODE: 1-Phenethylamine
+LAYER: 0
+SCORE: -2
+UP: 0
+DOWN: 2
+node updated!
+
+NODE: Malic acid
+LAYER: 0
+SCORE: 1
+UP: 1
+DOWN: 0
+node updated!
+
+NODE: Sertraline carbamoyl glucuronide
+LAYER: 0
+SCORE: -5
+UP: 0
+DOWN: 5
+node updated!
+
+NODE: L-Cysteine
+LAYER: 0
+SCORE: 1
+UP: 1
+DOWN: 0
+node updated!
+
+NODE: Pentanedioic acid, 3-methyl-3-[(trimethylsilyl)oxy]-
+LAYER: 0
+SCORE: -5
+UP: 1
+DOWN: 6
+removing edge Pentanedioic acid, 3-methyl-3-[(trimethylsilyl)oxy]- - ENSMUSG00000105302-P
+node updated!
+
+NODE: L-Lysine, ethyl ester 
+LAYER: 0
+SCORE: -1
+UP: 0
+DOWN: 1
+node updated!
+
+NODE: 3,5-di-tert-Butyl-4-hydroxyacetophenone
+LAYER: 0
+SCORE: 1
+UP: 2
+DOWN: 1
+removing edge 3,5-di-tert-Butyl-4-hydroxyacetophenone - ENSMUSG00000015970-P
+0.3333333333333333 > 0.2, node to be removed
+
+NODE: Butanedioic acid
+LAYER: 0
+SCORE: -2
+UP: 1
+DOWN: 3
+removing edge Butanedioic acid - ENSMUSG00000017314-P
+0.25 > 0.2, node to be removed
+
+NODE: Heptanoic acid
+LAYER: 0
+SCORE: -2
+UP: 1
+DOWN: 3
+removing edge Heptanoic acid - ENSMUSG00000054484-P
+0.25 > 0.2, node to be removed
+
+NODE: 3,4,5-Trihydroxypentanoic acid, tetrakis(trimethylsilyl)-
+LAYER: 0
+SCORE: -2
+UP: 1
+DOWN: 3
+removing edge 3,4,5-Trihydroxypentanoic acid, tetrakis(trimethylsilyl)- - ENSMUSG00000020752-P
+0.25 > 0.2, node to be removed
+
+NODE: Phenylalanine
+LAYER: 0
+SCORE: -2
+UP: 0
+DOWN: 2
+node updated!
+
+NODE: 2-(2,5-Dimethoxy-phenyl)-propionaldehyde
+LAYER: 0
+SCORE: 1
+UP: 1
+DOWN: 0
+node updated!
+
+NODE: N-Isobutyl-sec-butylamine
+LAYER: 0
+SCORE: 2
+UP: 3
+DOWN: 1
+removing edge N-Isobutyl-sec-butylamine - ENSMUSG00000038545-P
+0.25 > 0.2, node to be removed
+
+NODE: 2,6-Dimethoxybenzylamine
+LAYER: 0
+SCORE: -1
+UP: 1
+DOWN: 2
+removing edge 2,6-Dimethoxybenzylamine - ENSMUSG00000062040-P
+0.3333333333333333 > 0.2, node to be removed
+
+NODE: Cyclopentanone, 2,2,4-trimethyl-
+LAYER: 0
+SCORE: -4
+UP: 0
+DOWN: 4
+node updated!
+
+NODE: 2-Ethyl-3-hydroxypropionic acid
+LAYER: 0
+SCORE: -1
+UP: 1
+DOWN: 2
+removing edge 2-Ethyl-3-hydroxypropionic acid - ENSMUSG00000031489-P
+0.3333333333333333 > 0.2, node to be removed
+
+NODE: N-Acetyltyrosine
+LAYER: 0
+SCORE: 1
+UP: 2
+DOWN: 1
+removing edge N-Acetyltyrosine - ENSMUSG00000036501-P
+0.3333333333333333 > 0.2, node to be removed
+
+NODE: N-Isovaleroylglycine
+LAYER: 0
+SCORE: -2
+UP: 0
+DOWN: 2
+node updated!
+
+NODE: L-Proline
+LAYER: 0
+SCORE: -1
+UP: 2
+DOWN: 3
+removing edge L-Proline - ENSMUSG00000050321-P
+removing edge L-Proline - ENSMUSG00000038545-P
+0.4 > 0.2, node to be removed
+
+NODE: Glyceric acid
+LAYER: 0
+SCORE: -3
+UP: 0
+DOWN: 3
+node updated!
+
+NODE: 4-(Trimethylsilyoxy)-3-penten-2-one
+LAYER: 0
+SCORE: 0
+UP: 1
+DOWN: 1
+score == 0, node to be removed
+
+NODE: Morpholine, 4-[2,3,4,6-tetrakis-O-(trimethylsilyl)-alpha-d-mannopyranosyl]-
+LAYER: 0
+SCORE: 3
+UP: 3
+DOWN: 0
+node updated!
+
+NODE: 3-Aminobenzoic acid
+LAYER: 0
+SCORE: -3
+UP: 3
+DOWN: 6
+removing edge 3-Aminobenzoic acid - ENSMUSG00000030265-P
+removing edge 3-Aminobenzoic acid - ENSMUSG00000040167-P
+removing edge 3-Aminobenzoic acid - ENSMUSG00000004263-P
+0.3333333333333333 > 0.2, node to be removed
+
+NODE: Isopropyl palmitate
+LAYER: 0
+SCORE: -17
+UP: 0
+DOWN: 17
+node updated!
+
+NODE: 2-Hydroxybutyric acid
+LAYER: 0
+SCORE: 5
+UP: 6
+DOWN: 1
+removing edge 2-Hydroxybutyric acid - ENSMUSG00000025231-P
+node updated!
+
+NODE: Ethanone, 1-(5-methoxy-2-methyl-3(1H)-indolyl)-
+LAYER: 0
+SCORE: -1
+UP: 0
+DOWN: 1
+node updated!
+
+NODE: 13-Docosenamide
+LAYER: 0
+SCORE: 1
+UP: 1
+DOWN: 0
+node updated!
+
+NODE: 3-Methyladenine
+LAYER: 0
+SCORE: 1
+UP: 2
+DOWN: 1
+removing edge 3-Methyladenine - ENSMUSG00000013858-P
+0.3333333333333333 > 0.2, node to be removed
+
+NODE: N,N-Dimethyl-2-cyclohexyloxyethylamine
+LAYER: 0
+SCORE: -5
+UP: 1
+DOWN: 6
+removing edge N,N-Dimethyl-2-cyclohexyloxyethylamine - ENSMUSG00000038827-P
+node updated!
+
+NODE: 3-Methylpiperazine-2,5-dione, (R)-
+LAYER: 0
+SCORE: -2
+UP: 1
+DOWN: 3
+removing edge 3-Methylpiperazine-2,5-dione, (R)- - ENSMUSG00000056735-P
+0.25 > 0.2, node to be removed
+
+NODE: L-Hydroxyproline
+LAYER: 0
+SCORE: -2
+UP: 0
+DOWN: 2
+node updated!
+
+NODE: beta-D-Glucopyranose
+LAYER: 0
+SCORE: 0
+UP: 1
+DOWN: 1
+score == 0, node to be removed
+
+NODE: 1,2,3,10,11,11a-Hexahydro-6,7,8-trimethoxy-3-oxo-5H-dibenzo(a,d)cycloheptene
+LAYER: 0
+SCORE: -1
+UP: 0
+DOWN: 1
+node updated!
+
+NODE: 2-Oxooctanoic acid
+LAYER: 0
+SCORE: 2
+UP: 3
+DOWN: 1
+removing edge 2-Oxooctanoic acid - ENSMUSG00000031511-P
+0.25 > 0.2, node to be removed
+
+NODE: Allylescaline 
+LAYER: 0
+SCORE: -1
+UP: 0
+DOWN: 1
+node updated!
+
+NODE: Uridine
+LAYER: 0
+SCORE: 1
+UP: 2
+DOWN: 1
+removing edge Uridine - ENSMUSG00000043614-P
+0.3333333333333333 > 0.2, node to be removed
+
+NODE: Supraene
+LAYER: 0
+SCORE: -1
+UP: 1
+DOWN: 2
+removing edge Supraene - ENSMUSG00000026483-P
+0.3333333333333333 > 0.2, node to be removed
+
+NODE: Aziridine, 1-(2-buten-2-yl)-
+LAYER: 0
+SCORE: -1
+UP: 0
+DOWN: 1
+node updated!
+
+NODE: Octan-2-yl palmitate
+LAYER: 0
+SCORE: 2
+UP: 2
+DOWN: 0
+node updated!
+
+NODE: Decanoic acid
+LAYER: 0
+SCORE: 2
+UP: 2
+DOWN: 0
+node updated!
+
+NODE: Trisaminol
+LAYER: 0
+SCORE: 1
+UP: 1
+DOWN: 0
+node updated!
+
+NODE: N-(Trifluoroacetyl)-N,O,O'-tris(trimethylsilyl)normetanephrine
+LAYER: 0
+SCORE: 0
+UP: 2
+DOWN: 2
+score == 0, node to be removed
+
+NODE: L-Alanine
+LAYER: 0
+SCORE: 1
+UP: 1
+DOWN: 0
+node updated!
+
+NODE: 3,4-Dihydrocoumarin, 4,4-dimethyl-6-dimethylamino-
+LAYER: 0
+SCORE: -2
+UP: 1
+DOWN: 3
+removing edge 3,4-Dihydrocoumarin, 4,4-dimethyl-6-dimethylamino- - ENSMUSG00000026527-P
+0.25 > 0.2, node to be removed
+
+NODE: 2-Heptenoic acid
+LAYER: 0
+SCORE: -2
+UP: 0
+DOWN: 2
+node updated!
+
+NODE: 2,5-Di-tert-butylhydroquinone
+LAYER: 0
+SCORE: 2
+UP: 3
+DOWN: 1
+removing edge 2,5-Di-tert-butylhydroquinone - ENSMUSG00000038545-P
+0.25 > 0.2, node to be removed
+
+NODE: Methylmalonic monoamide
+LAYER: 0
+SCORE: -6
+UP: 0
+DOWN: 6
+node updated!
+
+NODE: D-Arabinose
+LAYER: 0
+SCORE: 0
+UP: 1
+DOWN: 1
+score == 0, node to be removed
+
+NODE: N,N-Diethyl-2-aminoethanol
+LAYER: 0
+SCORE: -4
+UP: 1
+DOWN: 5
+removing edge N,N-Diethyl-2-aminoethanol - ENSMUSG00000041012-P
+node updated!
+
+NODE: 1-Propanamine, N,N-diethyl- 
+LAYER: 0
+SCORE: -2
+UP: 1
+DOWN: 3
+removing edge 1-Propanamine, N,N-diethyl-  - ENSMUSG00000046711-P
+0.25 > 0.2, node to be removed
+
+NODE: Adipoyl-L-carnitine
+LAYER: 0
+SCORE: -3
+UP: 0
+DOWN: 3
+node updated!
+
+NODE: 1-(3-Methylphenyl)piperazine
+LAYER: 0
+SCORE: -4
+UP: 0
+DOWN: 4
+node updated!
+
+NODE: Dodecylcyclohexane
+LAYER: 0
+SCORE: -7
+UP: 0
+DOWN: 7
+node updated!
+
+NODE: 4-(Methoxycarbonyl)phenol
+LAYER: 0
+SCORE: 1
+UP: 1
+DOWN: 0
+node updated!
+
+NODE: Benzoic acid, methyl ester
+LAYER: 0
+SCORE: 1
+UP: 1
+DOWN: 0
+node updated!
+
+NODE: Benzyl alcohol
+LAYER: 0
+SCORE: 1
+UP: 1
+DOWN: 0
+node updated!
+
+NODE: Tributyl acetylcitrate
+LAYER: 0
+SCORE: 3
+UP: 3
+DOWN: 0
+node updated!
+
+NODE: 9-Octadecenoic acid
+LAYER: 0
+SCORE: 0
+UP: 2
+DOWN: 2
+score == 0, node to be removed
+
+NODE: Isonicotinic Acid
+LAYER: 0
+SCORE: 0
+UP: 2
+DOWN: 2
+score == 0, node to be removed
+
+NODE: Hydroquinone
+LAYER: 0
+SCORE: 1
+UP: 1
+DOWN: 0
+node updated!
+
+NODE: 1,2-Butadiene, 1,1,4-triphenyl-3-trimethylsilyl-4-trimethylsilyloxy-
+LAYER: 0
+SCORE: -1
+UP: 0
+DOWN: 1
+node updated!
+
+NODE: 3beta,4beta-Bis(trimethylsiloxy)cholest-5-ene
+LAYER: 0
+SCORE: -7
+UP: 0
+DOWN: 7
+node updated!
+
+NODE: Benzophenone
+LAYER: 0
+SCORE: -5
+UP: 0
+DOWN: 5
+node updated!
+
+NODE: 3-Hydroxy-2,3-dihydromaltol
+LAYER: 0
+SCORE: -3
+UP: 0
+DOWN: 3
+node updated!
+
+NODE: n-Pentadecanol
+LAYER: 0
+SCORE: 1
+UP: 1
+DOWN: 0
+node updated!
+
+NODE: Hexanoic acid
+LAYER: 0
+SCORE: -1
+UP: 0
+DOWN: 1
+node updated!
+
+NODE: 2,3-Butanediol
+LAYER: 0
+SCORE: -2
+UP: 0
+DOWN: 2
+node updated!
+
+NODE: D-(-)-Fructofuranose, pentakis
+LAYER: 0
+SCORE: 5
+UP: 5
+DOWN: 0
+node updated!
+
+NODE: Serine
+LAYER: 0
+SCORE: -1
+UP: 1
+DOWN: 2
+removing edge Serine - ENSMUSG00000056735-P
+0.3333333333333333 > 0.2, node to be removed
+
+NODE: Acetoacetic acid
+LAYER: 0
+SCORE: -1
+UP: 0
+DOWN: 1
+node updated!
+
+NODE: D-Isoleucine, N-acetyl-
+LAYER: 0
+SCORE: -1
+UP: 0
+DOWN: 1
+node updated!
+
+NODE: Methyl-3-methoxy-5-methyl benzoate
+LAYER: 0
+SCORE: -3
+UP: 0
+DOWN: 3
+node updated!
+
+NODE: 3,5-Dimethylpyrazole
+LAYER: 0
+SCORE: -3
+UP: 0
+DOWN: 3
+node updated!
+
+NODE: Dihydrouracil
+LAYER: 0
+SCORE: -4
+UP: 1
+DOWN: 5
+removing edge Dihydrouracil - ENSMUSG00000038545-P
+node updated!
+
+NODE: Acetamide, 2,2,2-trifluoro-
+LAYER: 0
+SCORE: 0
+UP: 1
+DOWN: 1
+score == 0, node to be removed
+
+NODE: Desmosterol
+LAYER: 0
+SCORE: -1
+UP: 0
+DOWN: 1
+node updated!
+
+NODE: 6-Methoxy-1-methyl-1,2,3,4-tetrahydroisoquinolin-7-ol 
+LAYER: 0
+SCORE: 1
+UP: 2
+DOWN: 1
+removing edge 6-Methoxy-1-methyl-1,2,3,4-tetrahydroisoquinolin-7-ol  - ENSMUSG00000038084-P
+0.3333333333333333 > 0.2, node to be removed
+
+NODE: Pimelic acid
+LAYER: 0
+SCORE: -6
+UP: 1
+DOWN: 7
+removing edge Pimelic acid - ENSMUSG00000101059-P
+node updated!
+
+NODE: 1,2,2-Trimethyl-1-aza-spiro[2.3]hexane
+LAYER: 0
+SCORE: 0
+UP: 1
+DOWN: 1
+score == 0, node to be removed
+
+NODE: Glyoxime
+LAYER: 0
+SCORE: -1
+UP: 0
+DOWN: 1
+node updated!
+
+NODE: 2-Heptanone, 4,6-dimethyl-
+LAYER: 0
+SCORE: -5
+UP: 0
+DOWN: 5
+node updated!
+
+NODE: Erythrono-1,4-lactone, (Z)-
+LAYER: 0
+SCORE: -3
+UP: 1
+DOWN: 4
+removing edge Erythrono-1,4-lactone, (Z)- - ENSMUSG00000022427-P
+node updated!
+
+NODE: Atrazine desethyl
+LAYER: 0
+SCORE: -1
+UP: 0
+DOWN: 1
+node updated!
+
+NODE: Aceturic acid
+LAYER: 0
+SCORE: -2
+UP: 0
+DOWN: 2
+node updated!
+
+NODE: Hydracrylic acid
+LAYER: 0
+SCORE: -4
+UP: 1
+DOWN: 5
+removing edge Hydracrylic acid - ENSMUSG00000056735-P
+node updated!
+
+NODE: 3,5-Dimethyl-1,4-diallylpyrazole
+LAYER: 0
+SCORE: 0
+UP: 1
+DOWN: 1
+score == 0, node to be removed
+
+NODE: Cholest-7-en-3-ol, (3beta,5alpha)-
+LAYER: 0
+SCORE: 1
+UP: 1
+DOWN: 0
+node updated!
+
+NODE: Neostigmine 
+LAYER: 0
+SCORE: -1
+UP: 0
+DOWN: 1
+node updated!
+
+NODE: 2-Propenamide, 3-phenyl-N-2-propenyl-
+LAYER: 0
+SCORE: -2
+UP: 0
+DOWN: 2
+node updated!
+
+NODE: beta-Lyxopyranose
+LAYER: 0
+SCORE: -9
+UP: 1
+DOWN: 10
+removing edge beta-Lyxopyranose - ENSMUSG00000022427-P
+node updated!
+
+NODE: 3'-(Trimethylsilyl)oxy-beta-naphthoflavone
+LAYER: 0
+SCORE: 3
+UP: 4
+DOWN: 1
+removing edge 3'-(Trimethylsilyl)oxy-beta-naphthoflavone - ENSMUSG00000020297-P
+node updated!
+
+NODE: 1-Octene, 2-methyl-
+LAYER: 0
+SCORE: 0
+UP: 1
+DOWN: 1
+score == 0, node to be removed
+
+NODE: 2-Methylglutaconic acid
+LAYER: 0
+SCORE: -1
+UP: 0
+DOWN: 1
+node updated!
+
+NODE: L-Isoleucine
+LAYER: 0
+SCORE: -1
+UP: 0
+DOWN: 1
+node updated!
+
+NODE: 2,5-Dimethoxymandelic acid
+LAYER: 0
+SCORE: 2
+UP: 2
+DOWN: 0
+node updated!
+
+NODE: Valylglycine
+LAYER: 0
+SCORE: 0
+UP: 1
+DOWN: 1
+score == 0, node to be removed
+
+NODE: 2,2-Diallylpyrrolidine
+LAYER: 0
+SCORE: -2
+UP: 0
+DOWN: 2
+node updated!
+
+NODE: 15-Oxo-11Z,13E-eicosadienoic acid
+LAYER: 0
+SCORE: 1
+UP: 2
+DOWN: 1
+removing edge 15-Oxo-11Z,13E-eicosadienoic acid - ENSMUSG00000025474-P
+0.3333333333333333 > 0.2, node to be removed
+
+NODE: Docosyl octyl ether
+LAYER: 0
+SCORE: -1
+UP: 1
+DOWN: 2
+removing edge Docosyl octyl ether - ENSMUSG00000007892-P
+0.3333333333333333 > 0.2, node to be removed
+
+NODE: Trimidox
+LAYER: 0
+SCORE: 4
+UP: 4
+DOWN: 0
+node updated!
+
+NODE: Isofucosterol
+LAYER: 0
+SCORE: -10
+UP: 1
+DOWN: 11
+removing edge Isofucosterol - ENSMUSG00000032633-P
+node updated!
+
+NODE: 2,5-Cyclohexadiene-1,4-dione, 2,6-bis(1,1-dimethylethyl)-
+LAYER: 0
+SCORE: 2
+UP: 2
+DOWN: 0
+node updated!
+
+NODE: Pentenoic acid, 4-[(trimethylsilyl)oxy]-
+LAYER: 0
+SCORE: -1
+UP: 0
+DOWN: 1
+node updated!
+
+NODE: Pentadecanoic acid
+LAYER: 0
+SCORE: 1
+UP: 2
+DOWN: 1
+removing edge Pentadecanoic acid - ENSMUSG00000004285-P
+0.3333333333333333 > 0.2, node to be removed
+
+NODE: Indole-3-lactic acid
+LAYER: 0
+SCORE: -2
+UP: 0
+DOWN: 2
+node updated!
+
+NODE: 9-Octadecenamide
+LAYER: 0
+SCORE: -1
+UP: 0
+DOWN: 1
+node updated!
+
+NODE: 1-(4-Methoxyphenyl)-4,6-dimethyl-2(1H)-pyrimidinone
+LAYER: 0
+SCORE: 0
+UP: 1
+DOWN: 1
+score == 0, node to be removed
+
+NODE: Butylmethylamine
+LAYER: 0
+SCORE: -1
+UP: 1
+DOWN: 2
+removing edge Butylmethylamine - ENSMUSG00000062040-P
+0.3333333333333333 > 0.2, node to be removed
+
+NODE: 9-Hexadecenoic acid
+LAYER: 0
+SCORE: 1
+UP: 1
+DOWN: 0
+node updated!
+
+NODE: 1-Butanamine, N,N-diethyl-
+LAYER: 0
+SCORE: -5
+UP: 1
+DOWN: 6
+removing edge 1-Butanamine, N,N-diethyl- - ENSMUSG00000030703-P
+node updated!
+
+NODE: Arachidonic acid
+LAYER: 0
+SCORE: -3
+UP: 0
+DOWN: 3
+node updated!
+
+NODE: Pyrimidine, 5-methyl-2,4-bis[(trimethylsilyl)oxy]-
+LAYER: 0
+SCORE: -3
+UP: 0
+DOWN: 3
+node updated!
+
+NODE: Pyroglutamic acid
+LAYER: 0
+SCORE: -1
+UP: 1
+DOWN: 2
+removing edge Pyroglutamic acid - ENSMUSG00000056735-P
+0.3333333333333333 > 0.2, node to be removed
+
+NODE: Urea
+LAYER: 0
+SCORE: 2
+UP: 3
+DOWN: 1
+removing edge Urea - ENSMUSG00000031511-P
+0.25 > 0.2, node to be removed
+
+NODE: 3-Amino-2-piperidone
+LAYER: 0
+SCORE: -2
+UP: 0
+DOWN: 2
+node updated!
+
+NODE: Cyclohexene, 3-butyl-3-methyl-1-trimethylsilyloxy-
+LAYER: 0
+SCORE: -2
+UP: 1
+DOWN: 3
+removing edge Cyclohexene, 3-butyl-3-methyl-1-trimethylsilyloxy- - ENSMUSG00000039450-P
+0.25 > 0.2, node to be removed
+
+NODE: Ser-Leu
+LAYER: 0
+SCORE: 1
+UP: 1
+DOWN: 0
+node updated!
+
+NODE: 1,4-diazabicyclo[4.3.0]nonan-2,5-dione, 3-methyl 
+LAYER: 0
+SCORE: 1
+UP: 1
+DOWN: 0
+node updated!
+
+NODE: Quinolin-4-one, 1-[2-(3,4-dimethoxyphenyl)ethyl]-octahydro-
+LAYER: 0
+SCORE: 0
+UP: 1
+DOWN: 1
+score == 0, node to be removed
+
+NODE: 2-Aminobutanoic acid
+LAYER: 0
+SCORE: 1
+UP: 1
+DOWN: 0
+node updated!
+
+NODE: Cyclobutanol
+LAYER: 0
+SCORE: -1
+UP: 0
+DOWN: 1
+node updated!
+
+NODE: 9H-Purine, 9-(trimethylsilyl)-2,6,8-tris[(trimethylsilyl)oxy]-
+LAYER: 0
+SCORE: -1
+UP: 1
+DOWN: 2
+removing edge 9H-Purine, 9-(trimethylsilyl)-2,6,8-tris[(trimethylsilyl)oxy]- - ENSMUSG00000036815-P
+0.3333333333333333 > 0.2, node to be removed
+
+NODE: Benzeneethanamine, N-[(pentafluorophenyl)methylene]-4-[(trimethylsilyl)oxy]-
+LAYER: 0
+SCORE: 1
+UP: 1
+DOWN: 0
+node updated!
+
+NODE: 3-Nonen-1-ol
+LAYER: 0
+SCORE: 1
+UP: 1
+DOWN: 0
+node updated!
+
+NODE: cyclobutanecarboxylic acid
+LAYER: 0
+SCORE: -1
+UP: 0
+DOWN: 1
+node updated!
+
+NODE: Hydantoic acid
+LAYER: 0
+SCORE: -1
+UP: 0
+DOWN: 1
+node updated!
+
+NODE: L-Lysine
+LAYER: 0
+SCORE: 2
+UP: 3
+DOWN: 1
+removing edge L-Lysine - ENSMUSG00000030403-P
+0.25 > 0.2, node to be removed
+
+NODE: 1-Octadecanol
+LAYER: 0
+SCORE: 0
+UP: 1
+DOWN: 1
+score == 0, node to be removed
+
+NODE: 3-Indoleacetic acid
+LAYER: 0
+SCORE: -6
+UP: 0
+DOWN: 6
+node updated!
+
+NODE: Octane, 1-propoxy-
+LAYER: 0
+SCORE: 1
+UP: 1
+DOWN: 0
+node updated!
+
+NODE: Carbonic acid, eicosyl vinyl ester 
+LAYER: 0
+SCORE: 0
+UP: 2
+DOWN: 2
+score == 0, node to be removed
+
+NODE: Deoxycholic Acid
+LAYER: 0
+SCORE: -2
+UP: 0
+DOWN: 2
+node updated!
+
+NODE: Glycolic acid
+LAYER: 0
+SCORE: -2
+UP: 0
+DOWN: 2
+node updated!
+
+NODE: Propanetriol, 2-methyl-
+LAYER: 0
+SCORE: -3
+UP: 0
+DOWN: 3
+node updated!
+
+NODE: Ethyl cis-2-trimethylsilyl-cyclopropane-1-carboxylate
+LAYER: 0
+SCORE: 0
+UP: 1
+DOWN: 1
+score == 0, node to be removed
+
+NODE: Azetidine, 1-acetyl-2-methyl-
+LAYER: 0
+SCORE: -2
+UP: 0
+DOWN: 2
+node updated!
+
+NODE: L-Tryptophan, N-acetyl-1
+LAYER: 0
+SCORE: -2
+UP: 0
+DOWN: 2
+node updated!
+
+NODE: Propanoic acid, 2-methyl-
+LAYER: 0
+SCORE: 1
+UP: 1
+DOWN: 0
+node updated!
+
+NODE: N-(Trimethylsilyl)hexanamide
+LAYER: 0
+SCORE: -1
+UP: 0
+DOWN: 1
+node updated!
+
+NODE: Phosalone
+LAYER: 0
+SCORE: 1
+UP: 1
+DOWN: 0
+node updated!
+
+NODE: D-(-)-Citramalic acid
+LAYER: 0
+SCORE: -4
+UP: 0
+DOWN: 4
+node updated!
+
+NODE: Propanoic acid, 2-oxo-
+LAYER: 0
+SCORE: 1
+UP: 3
+DOWN: 2
+removing edge Propanoic acid, 2-oxo- - ENSMUSG00000032238-P
+removing edge Propanoic acid, 2-oxo- - ENSMUSG00000031079-P
+0.4 > 0.2, node to be removed
+
+NODE: 1-Hydroxy-3-methoxy-6-methylanthraquinone
+LAYER: 0
+SCORE: 8
+UP: 10
+DOWN: 2
+removing edge 1-Hydroxy-3-methoxy-6-methylanthraquinone - ENSMUSG00000032633-P
+removing edge 1-Hydroxy-3-methoxy-6-methylanthraquinone - ENSMUSG00000007892-P
+node updated!
+
+NODE: 5-Henicosylresorcinol
+LAYER: 0
+SCORE: -1
+UP: 0
+DOWN: 1
+node updated!
+
+NODE: 1-Deoxypentitol
+LAYER: 0
+SCORE: -7
+UP: 2
+DOWN: 9
+removing edge 1-Deoxypentitol - ENSMUSG00000027374-P
+removing edge 1-Deoxypentitol - ENSMUSG00000024191-P
+node updated!
+
+NODE: D-Fructose
+LAYER: 0
+SCORE: -4
+UP: 0
+DOWN: 4
+node updated!
+
+NODE: Ribitol
+LAYER: 0
+SCORE: -1
+UP: 0
+DOWN: 1
+node updated!
+
+NODE: Dodecanamide, N-(2-hydroxyethyl)-
+LAYER: 0
+SCORE: 1
+UP: 2
+DOWN: 1
+removing edge Dodecanamide, N-(2-hydroxyethyl)- - ENSMUSG00000036613-P
+0.3333333333333333 > 0.2, node to be removed
+
+NODE: Methyl aminoacetate
+LAYER: 0
+SCORE: -16
+UP: 0
+DOWN: 16
+node updated!
+
+NODE: Nonanal
+LAYER: 0
+SCORE: -2
+UP: 1
+DOWN: 3
+removing edge Nonanal - ENSMUSG00000010607-P
+0.25 > 0.2, node to be removed
+
+NODE: Tacrine, N-trimethylsilyl-
+LAYER: 0
+SCORE: -1
+UP: 0
+DOWN: 1
+node updated!
+
+NODE: 6,8-Dioxapentadecane
+LAYER: 0
+SCORE: -1
+UP: 1
+DOWN: 2
+removing edge 6,8-Dioxapentadecane - ENSMUSG00000024191-P
+0.3333333333333333 > 0.2, node to be removed
+
+NODE: Uracil
+LAYER: 0
+SCORE: -1
+UP: 0
+DOWN: 1
+node updated!
+
+NODE: phenoxyethanol
+LAYER: 0
+SCORE: 2
+UP: 3
+DOWN: 1
+removing edge phenoxyethanol - ENSMUSG00000052751-P
+0.25 > 0.2, node to be removed
+
+NODE: (CH3)2C=NC2H558
+LAYER: 0
+SCORE: 1
+UP: 1
+DOWN: 0
+node updated!
+
+NODE: 1H-Pyrazole, 3,4-bis(trimethylsilyl)-
+LAYER: 0
+SCORE: -1
+UP: 1
+DOWN: 2
+removing edge 1H-Pyrazole, 3,4-bis(trimethylsilyl)- - ENSMUSG00000058351-P
+0.3333333333333333 > 0.2, node to be removed
+
+NODE: Carfentrazone-ethyl
+LAYER: 0
+SCORE: 1
+UP: 1
+DOWN: 0
+node updated!
+
+NODE: 1-Decene, 8-methyl-
+LAYER: 0
+SCORE: -2
+UP: 0
+DOWN: 2
+node updated!
+
+NODE: L-Glutamine
+LAYER: 0
+SCORE: -1
+UP: 1
+DOWN: 2
+removing edge L-Glutamine - ENSMUSG00000098113-P
+0.3333333333333333 > 0.2, node to be removed
+
+NODE: Arsenous acid
+LAYER: 0
+SCORE: 1
+UP: 1
+DOWN: 0
+node updated!
+
+NODE: Indole-5-carboxylic acid
+LAYER: 0
+SCORE: -3
+UP: 1
+DOWN: 4
+removing edge Indole-5-carboxylic acid - ENSMUSG00000105729-P
+node updated!
+
+NODE: 5,6-Dimethyl-4-phenyl-3-cyanopyridine-2(1H)-thione
+LAYER: 0
+SCORE: 1
+UP: 2
+DOWN: 1
+removing edge 5,6-Dimethyl-4-phenyl-3-cyanopyridine-2(1H)-thione - ENSMUSG00000031513-P
+0.3333333333333333 > 0.2, node to be removed
+
+NODE: D-(+)-Talofuranose, pentakis
+LAYER: 0
+SCORE: 2
+UP: 2
+DOWN: 0
+node updated!
+
+NODE: Levulinic acid
+LAYER: 0
+SCORE: -8
+UP: 0
+DOWN: 8
+node updated!
+
+NODE: 2-Pentenoic acid
+LAYER: 0
+SCORE: 0
+UP: 1
+DOWN: 1
+score == 0, node to be removed
+
+NODE: 3-Hydroxyisovaleric acid
+LAYER: 0
+SCORE: -2
+UP: 0
+DOWN: 2
+node updated!
+
+NODE: 1-Octanol, 2-butyl-
+LAYER: 0
+SCORE: 1
+UP: 1
+DOWN: 0
+node updated!
+
+NODE: Suberic acid
+LAYER: 0
+SCORE: -2
+UP: 0
+DOWN: 2
+node updated!
+
+NODE: 1-(2,4-Dimethoxyphenyl)-propan-2-one
+LAYER: 0
+SCORE: 0
+UP: 2
+DOWN: 2
+score == 0, node to be removed
+
+NODE: 2-Aminoadipic acid
+LAYER: 0
+SCORE: -2
+UP: 0
+DOWN: 2
+node updated!
+
+NODE: 2,5-Dimethyl-1-aza-bicyclo[2.2.1]heptane
+LAYER: 0
+SCORE: 1
+UP: 2
+DOWN: 1
+removing edge 2,5-Dimethyl-1-aza-bicyclo[2.2.1]heptane - ENSMUSG00000061533-P
+0.3333333333333333 > 0.2, node to be removed
+
+NODE: 2-Methyl-4-pentenoic acid
+LAYER: 0
+SCORE: -3
+UP: 0
+DOWN: 3
+node updated!
+
+NODE: 2,5-di-tert-Butyl-1,4-benzoquinone
+LAYER: 0
+SCORE: 1
+UP: 1
+DOWN: 0
+node updated!
+
+NODE: D-(+)-Ribono-1,4-lactone (R,S,R)-
+LAYER: 0
+SCORE: -4
+UP: 0
+DOWN: 4
+node updated!
+
+NODE: 2,6-Dimethyl-N-[3-(trimethylsilyl)-1,3-thiazinan-2-ylidene]aniline
+LAYER: 0
+SCORE: -5
+UP: 0
+DOWN: 5
+node updated!
+
+NODE: Triethanolamine
+LAYER: 0
+SCORE: -7
+UP: 1
+DOWN: 8
+removing edge Triethanolamine - ENSMUSG00000105302-P
+node updated!
+
+NODE: Glycine
+LAYER: 0
+SCORE: -1
+UP: 0
+DOWN: 1
+node updated!
+
+NODE: N,O-Bis(trimethylsilyl)carbamate
+LAYER: 0
+SCORE: -6
+UP: 0
+DOWN: 6
+node updated!
+
+NODE: Propylamine
+LAYER: 0
+SCORE: -5
+UP: 0
+DOWN: 5
+node updated!
+
+NODE: 4-Methylvaleric acid
+LAYER: 0
+SCORE: 0
+UP: 1
+DOWN: 1
+score == 0, node to be removed
+
+NODE: Glycine, N-(1-oxobutyl)-
+LAYER: 0
+SCORE: -3
+UP: 0
+DOWN: 3
+node updated!
+
+NODE: 1-Phenyl-1,2-ethanediol
+LAYER: 0
+SCORE: -2
+UP: 0
+DOWN: 2
+node updated!
+
+NODE: Dodecanoic acid, 1-methylethyl ester
+LAYER: 0
+SCORE: 0
+UP: 1
+DOWN: 1
+score == 0, node to be removed
+
+NODE: Furan, 2-pentyl-
+LAYER: 0
+SCORE: -1
+UP: 0
+DOWN: 1
+node updated!
+
+NODE: 2,3,4-Trihydroxybutyric acid tetrakis
+LAYER: 0
+SCORE: -3
+UP: 0
+DOWN: 3
+node updated!
+
+NODE: L-Aspartic acid
+LAYER: 0
+SCORE: -3
+UP: 1
+DOWN: 4
+removing edge L-Aspartic acid - ENSMUSG00000022427-P
+node updated!
+
+NODE: Azatadine
+LAYER: 0
+SCORE: -2
+UP: 0
+DOWN: 2
+node updated!
+
+NODE: 2-Allyl-1,4-dimethoxybenzene
+LAYER: 0
+SCORE: -3
+UP: 0
+DOWN: 3
+node updated!
+
+NODE: alpha-Linolenic acid
+LAYER: 0
+SCORE: 1
+UP: 1
+DOWN: 0
+node updated!
+
+NODE: beta-Methylphenethylamine
+LAYER: 0
+SCORE: 0
+UP: 2
+DOWN: 2
+score == 0, node to be removed
+
+NODE: Arabinofuranose, 1,2,3,5-tetrakis-O-
+LAYER: 0
+SCORE: -1
+UP: 1
+DOWN: 2
+removing edge Arabinofuranose, 1,2,3,5-tetrakis-O- - ENSMUSG00000038827-P
+0.3333333333333333 > 0.2, node to be removed
+
+NODE: Erythritol
+LAYER: 0
+SCORE: -1
+UP: 0
+DOWN: 1
+node updated!
+
+NODE: L-Valine
+LAYER: 0
+SCORE: 0
+UP: 1
+DOWN: 1
+score == 0, node to be removed
+
+NODE: Guanabenz
+LAYER: 0
+SCORE: -4
+UP: 0
+DOWN: 4
+node updated!
+
+NODE: Nonadecanoic acid
+LAYER: 0
+SCORE: -2
+UP: 0
+DOWN: 2
+node updated!
+
+NODE: 3-Aminobutanoic acid
+LAYER: 0
+SCORE: -1
+UP: 0
+DOWN: 1
+node updated!
+
+NODE: Benzimidazole, 5-trifluoromethyl-2-methyl-
+LAYER: 0
+SCORE: -8
+UP: 0
+DOWN: 8
+node updated!
+
+NODE: 2-Isopropyl-5-methyl-1-heptanol 
+LAYER: 0
+SCORE: -3
+UP: 0
+DOWN: 3
+node updated!
+
+NODE: Stearic acid
+LAYER: 0
+SCORE: -1
+UP: 0
+DOWN: 1
+node updated!
+
+NODE: Benzene, 1-acetoxy-2,6-dimethoxy-4-(2-propenyl)-
+LAYER: 0
+SCORE: 3
+UP: 3
+DOWN: 0
+node updated!
+
+NODE: Dodecane, 4,6-dimethyl-
+LAYER: 0
+SCORE: -7
+UP: 0
+DOWN: 7
+node updated!
+
+NODE: Campesterol
+LAYER: 0
+SCORE: 0
+UP: 1
+DOWN: 1
+score == 0, node to be removed
+
+NODE: 1-(1-Hydroxybutyl)-2,5-dimethoxybenzene 
+LAYER: 0
+SCORE: 0
+UP: 1
+DOWN: 1
+score == 0, node to be removed
+
+NODE: 2,5-Piperazinedione, 3-benzyl-6-isopropyl-
+LAYER: 0
+SCORE: -11
+UP: 0
+DOWN: 11
+node updated!
+
+NODE: 2-Hydroxy-5-methoxybenzaldehyde
+LAYER: 0
+SCORE: 1
+UP: 1
+DOWN: 0
+node updated!
+
+NODE: Doconexent
+LAYER: 0
+SCORE: 1
+UP: 1
+DOWN: 0
+node updated!
+
+NODE: Butanoic acid, 2,4-bis[(trimethylsilyl)oxy]-
+LAYER: 0
+SCORE: -2
+UP: 0
+DOWN: 2
+node updated!
+
+NODE: 3-(3-Cyclohexylaminopropionylamino)-5-ethylthiophene-2-carboxylic acid, ethyl ester
+LAYER: 0
+SCORE: -2
+UP: 0
+DOWN: 2
+node updated!
+
+NODE: 6,7,4'-Trihydroxyisoflavone
+LAYER: 0
+SCORE: -8
+UP: 0
+DOWN: 8
+node updated!
+
+NODE: D-Mannose
+LAYER: 0
+SCORE: -3
+UP: 1
+DOWN: 4
+removing edge D-Mannose - ENSMUSG00000020308-P
+node updated!
+
+NODE: cis-4,5-Dihydroxy-o-dithiane, 2O-
+LAYER: 0
+SCORE: 0
+UP: 1
+DOWN: 1
+score == 0, node to be removed
+
+NODE: Dehydronorketamine
+LAYER: 0
+SCORE: -1
+UP: 0
+DOWN: 1
+node updated!
+
+NODE: Propiophenone, 3',4'-dimethoxy-
+LAYER: 0
+SCORE: 1
+UP: 1
+DOWN: 0
+node updated!
+
+NODE: Niclosamide
+LAYER: 0
+SCORE: -1
+UP: 0
+DOWN: 1
+node updated!
+
+NODE: Dinoseb 
+LAYER: 0
+SCORE: -10
+UP: 0
+DOWN: 10
+node updated!
+
+NODE: 1-Cyclopentylethanol
+LAYER: 0
+SCORE: -3
+UP: 0
+DOWN: 3
+node updated!
+
+NODE: Heptadecanoic acid
+LAYER: 0
+SCORE: -1
+UP: 0
+DOWN: 1
+node updated!
+
+NODE: Latanoprost lactone diol
+LAYER: 0
+SCORE: 1
+UP: 1
+DOWN: 0
+node updated!
+
+NODE: Cholesta-3,5-dien-7-one
+LAYER: 0
+SCORE: -1
+UP: 1
+DOWN: 2
+removing edge Cholesta-3,5-dien-7-one - ENSMUSG00000031079-P
+0.3333333333333333 > 0.2, node to be removed
+
+NODE: 1-Piperazineethanol, 4-dibenzo[b,f][1,4]thiazepin-11-yl-
+LAYER: 0
+SCORE: 1
+UP: 1
+DOWN: 0
+node updated!
+
+NODE: 1,3,5-Benzetriol
+LAYER: 0
+SCORE: -3
+UP: 1
+DOWN: 4
+removing edge 1,3,5-Benzetriol - ENSMUSG00000051074-P
+node updated!
+
+NODE: Octanoic acid
+LAYER: 0
+SCORE: 1
+UP: 1
+DOWN: 0
+node updated!
+
+NODE: Phenoxyacetic acid
+LAYER: 0
+SCORE: -2
+UP: 0
+DOWN: 2
+node updated!
+
+NODE: 7-Isoquinolinol, 1,2,3,4-tetrahydro-1-[(4-hydroxyphenyl)methyl]-6-methoxy-
+LAYER: 0
+SCORE: 1
+UP: 1
+DOWN: 0
+node updated!
+
+NODE: N-Valerylglycine
+LAYER: 0
+SCORE: -1
+UP: 0
+DOWN: 1
+node updated!
+
+NODE: Xylazine
+LAYER: 0
+SCORE: -1
+UP: 0
+DOWN: 1
+node updated!
+
+NODE: Alloxanic acid
+LAYER: 0
+SCORE: -2
+UP: 3
+DOWN: 5
+removing edge Alloxanic acid - ENSMUSG00000021215-P
+removing edge Alloxanic acid - ENSMUSG00000040167-P
+removing edge Alloxanic acid - ENSMUSG00000038884-P
+0.375 > 0.2, node to be removed
+
+NODE: 9H-Fluorene, 9-methylene-
+LAYER: 0
+SCORE: 0
+UP: 1
+DOWN: 1
+score == 0, node to be removed
+
+NODE: 4-Hydroxybutanoic acid
+LAYER: 0
+SCORE: 1
+UP: 1
+DOWN: 0
+node updated!
+
+NODE: 3-Buten-2-one, 4-(4-methoxyphenyl)-
+LAYER: 0
+SCORE: 1
+UP: 1
+DOWN: 0
+node updated!
+
+NODE: 1,3,5-Trimethyl-1H-pyrazol-4-amine
+LAYER: 0
+SCORE: 1
+UP: 2
+DOWN: 1
+removing edge 1,3,5-Trimethyl-1H-pyrazol-4-amine - ENSMUSG00000038545-P
+0.3333333333333333 > 0.2, node to be removed
+
+NODE: Cyclopentaneacetic acid, 3-oxo-2-pentyl-
+LAYER: 0
+SCORE: -1
+UP: 0
+DOWN: 1
+node updated!
+
+NODE: 1,5-Anhydroglucitol
+LAYER: 0
+SCORE: 1
+UP: 1
+DOWN: 0
+node updated!
+
+NODE: Benzoic acid, pentadecyl ester
+LAYER: 0
+SCORE: -15
+UP: 0
+DOWN: 15
+node updated!
+
+NODE: 3-Hexenedinitrile
+LAYER: 0
+SCORE: -2
+UP: 0
+DOWN: 2
+node updated!
+
+NODE: 4-Hydroxybenzoic acid
+LAYER: 0
+SCORE: -2
+UP: 0
+DOWN: 2
+node updated!
+
+NODE: Benzenemethanamine, 2,3-dimethoxy-
+LAYER: 0
+SCORE: 1
+UP: 1
+DOWN: 0
+node updated!
+
+NODE: Ethanone, 1-(2,5-dimethoxyphenyl)-
+LAYER: 0
+SCORE: -1
+UP: 0
+DOWN: 1
+node updated!
+
+NODE: 5-Hydroxyquinoline
+LAYER: 0
+SCORE: -4
+UP: 0
+DOWN: 4
+node updated!
+
+NODE: Thiazolo[4,5-f]quinoline, 2,9-dimethyl-
+LAYER: 0
+SCORE: 1
+UP: 1
+DOWN: 0
+node updated!
+
+NODE: Aspartic acid
+LAYER: 0
+SCORE: 1
+UP: 1
+DOWN: 0
+node updated!
+
+NODE: 2,6-Bis[2-[2-S-thiosulfuroethylamino]ethoxy]pyrazine
+LAYER: 0
+SCORE: -2
+UP: 0
+DOWN: 2
+node updated!
+
+NODE: p-Toluic acid
+LAYER: 0
+SCORE: -9
+UP: 1
+DOWN: 10
+removing edge p-Toluic acid - ENSMUSG00000022427-P
+node updated!
+
+NODE: Oxalic acid
+LAYER: 0
+SCORE: 1
+UP: 1
+DOWN: 0
+node updated!
+
+NODE: beta-D-Galactofuranose, 1,2,3,5,6-pentakis-O-(trimethylsilyl)-
+LAYER: 0
+SCORE: -2
+UP: 0
+DOWN: 2
+node updated!
+
+NODE: Hexanoylglycine
+LAYER: 0
+SCORE: -1
+UP: 2
+DOWN: 3
+removing edge Hexanoylglycine - ENSMUSG00000033948-P
+removing edge Hexanoylglycine - ENSMUSG00000007892-P
+0.4 > 0.2, node to be removed
+
+NODE: 1,2-Benzenedicarboxylic acid
+LAYER: 0
+SCORE: 1
+UP: 1
+DOWN: 0
+node updated!
+
+NODE: Benzo[b]fluorene, 5-amino-7-methyl-1,2,3,4,6,7,8,9-octahydro-11-thia-10-aza-
+LAYER: 0
+SCORE: -1
+UP: 0
+DOWN: 1
+node updated!
+
+NODE: 4-Pyridinol
+LAYER: 0
+SCORE: -2
+UP: 1
+DOWN: 3
+removing edge 4-Pyridinol - ENSMUSG00000026527-P
+0.25 > 0.2, node to be removed
+
+NODE: 2-(Decanoyloxy)propane-1,3-diyl dioctanoate
+LAYER: 0
+SCORE: -6
+UP: 0
+DOWN: 6
+node updated!
+
+NODE: Ethanolamine
+LAYER: 0
+SCORE: -3
+UP: 0
+DOWN: 3
+node updated!
+
+NODE: (9H-fluoren-9-yl)methanol, O-methoxycarbonyl-
+LAYER: 0
+SCORE: -2
+UP: 0
+DOWN: 2
+node updated!
+
+NODE: Benzene, 4-ethenyl-1,2-dimethoxy-
+LAYER: 0
+SCORE: 1
+UP: 2
+DOWN: 1
+removing edge Benzene, 4-ethenyl-1,2-dimethoxy- - ENSMUSG00000036718-P
+0.3333333333333333 > 0.2, node to be removed
+
+NODE: L-5-Oxoproline
+LAYER: 0
+SCORE: -3
+UP: 1
+DOWN: 4
+removing edge L-5-Oxoproline - ENSMUSG00000055681-P
+node updated!
+
+NODE: Pipecolic acid
+LAYER: 0
+SCORE: -2
+UP: 0
+DOWN: 2
+node updated!
+
+NODE: 2-Acetyl-5-chloro-3-methylbenzo(b)thiophene
+LAYER: 0
+SCORE: -5
+UP: 2
+DOWN: 7
+removing edge 2-Acetyl-5-chloro-3-methylbenzo(b)thiophene - ENSMUSG00000004895-P
+removing edge 2-Acetyl-5-chloro-3-methylbenzo(b)thiophene - ENSMUSG00000051074-P
+0.2222222222222222 > 0.2, node to be removed
+
+NODE: Butylated Hydroxytoluene
+LAYER: 0
+SCORE: -4
+UP: 0
+DOWN: 4
+node updated!
+
+NODE: 3-Ureidopropionic acid
+LAYER: 0
+SCORE: -1
+UP: 1
+DOWN: 2
+removing edge 3-Ureidopropionic acid - ENSMUSG00000049739-P
+0.3333333333333333 > 0.2, node to be removed
+
+NODE: Xylitol
+LAYER: 0
+SCORE: 1
+UP: 1
+DOWN: 0
+node updated!
+
+NODE: Nonanoic acid
+LAYER: 0
+SCORE: 0
+UP: 1
+DOWN: 1
+score == 0, node to be removed
+
+NODE: N-Methyl-N-(tetrahydro-2-furanylmethyl)-4-piperidinamine
+LAYER: 0
+SCORE: -9
+UP: 0
+DOWN: 9
+node updated!
+
+NODE: 1-Aminocyclopropanecarboxylic acid
+LAYER: 0
+SCORE: -1
+UP: 0
+DOWN: 1
+node updated!
+
+NODE: 2,5-Dimethoxybenzhydrazide
+LAYER: 0
+SCORE: 0
+UP: 2
+DOWN: 2
+score == 0, node to be removed
+
+NODE: Cyclo-(l-leucyl-l-phenylalanyl) 
+LAYER: 0
+SCORE: 2
+UP: 2
+DOWN: 0
+node updated!
+
+NODE: Bis(trimethylsilyl)histidine
+LAYER: 0
+SCORE: -2
+UP: 1
+DOWN: 3
+removing edge Bis(trimethylsilyl)histidine - ENSMUSG00000049097-P
+0.25 > 0.2, node to be removed
+
+NODE: 3beta-TRIMETHYLSILOXY-5alpha,6alpha-EPOXYCHOLESTANE
+LAYER: 0
+SCORE: 0
+UP: 1
+DOWN: 1
+score == 0, node to be removed
+
+NODE: 1,1'-Biphenyl, 3,4-diethyl-
+LAYER: 0
+SCORE: -1
+UP: 0
+DOWN: 1
+node updated!
+
+NODE: 3-Methoxysalicylic acid
+LAYER: 0
+SCORE: 4
+UP: 5
+DOWN: 1
+removing edge 3-Methoxysalicylic acid - ENSMUSG00000024191-P
+node updated!
+
+NODE: Butanoic acid, 2-methyl-3-[(trimethylsilyl)oxy]-
+LAYER: 0
+SCORE: -2
+UP: 0
+DOWN: 2
+node updated!
+
+NODE: N,9-bis(Trimethylsilyl)-6-[(trimethylsilyl)oxy]-9H-purin-2-amine
+LAYER: 0
+SCORE: -1
+UP: 0
+DOWN: 1
+node updated!
+
+NODE: (7a-Isopropenyl-4,5-dimethyloctahydroinden-4-yl)methanol
+LAYER: 0
+SCORE: -1
+UP: 2
+DOWN: 3
+removing edge (7a-Isopropenyl-4,5-dimethyloctahydroinden-4-yl)methanol - ENSMUSG00000048612-P
+removing edge (7a-Isopropenyl-4,5-dimethyloctahydroinden-4-yl)methanol - ENSMUSG00000052584-P
+0.4 > 0.2, node to be removed
+
+NODE: Acetic acid, bis[(trimethylsilyl)oxyl]-
+LAYER: 0
+SCORE: 1
+UP: 1
+DOWN: 0
+node updated!
+
+NODE: 4-Hydroxybenzeneacetic acid
+LAYER: 0
+SCORE: -5
+UP: 0
+DOWN: 5
+node updated!
+
+NODE: 2,2,4-Trimethyl-1,3-pentanediol diisobutyrate
+LAYER: 0
+SCORE: -1
+UP: 0
+DOWN: 1
+node updated!
+
+NODE: 3-Buten-2-one, 3-trimethylsilyloxy-
+LAYER: 0
+SCORE: 1
+UP: 1
+DOWN: 0
+node updated!
+
+NODE: Galactopyranose
+LAYER: 0
+SCORE: 1
+UP: 1
+DOWN: 0
+node updated!
+
+NODE: cis-4-Trimethylsilyloxy-cyclohexyl(trimethylsilyl)carboxylate
+LAYER: 0
+SCORE: -3
+UP: 0
+DOWN: 3
+node updated!
+
+NODE: 1-Hexadecanol
+LAYER: 0
+SCORE: 2
+UP: 2
+DOWN: 0
+node updated!
+
+NODE: L-Asparagine
+LAYER: 0
+SCORE: -2
+UP: 0
+DOWN: 2
+node updated!
+
+NODE: L-Threonine
+LAYER: 0
+SCORE: -2
+UP: 1
+DOWN: 3
+removing edge L-Threonine - ENSMUSG00000056735-P
+0.25 > 0.2, node to be removed
+
+NODE: 2-Amino-4-methylphenol
+LAYER: 0
+SCORE: -5
+UP: 0
+DOWN: 5
+node updated!
+
+NODE: 10-Heptadecenoic acid
+LAYER: 0
+SCORE: -8
+UP: 0
+DOWN: 8
+node updated!
+
+NODE: n-Butylamine
+LAYER: 0
+SCORE: 0
+UP: 1
+DOWN: 1
+score == 0, node to be removed
+
+NODE: 2,4-Imidazolidinedione, 5,5-dimethyl-
+LAYER: 0
+SCORE: -5
+UP: 1
+DOWN: 6
+removing edge 2,4-Imidazolidinedione, 5,5-dimethyl- - ENSMUSG00000038990-P
+node updated!
+
+NODE: Inosose-2, 1,3,4,5,6-pentakis-
+LAYER: 0
+SCORE: -3
+UP: 0
+DOWN: 3
+node updated!
+
+NODE: Hydroquinidine
+LAYER: 0
+SCORE: -1
+UP: 0
+DOWN: 1
+node updated!
+
+NODE: Guanidine, N,N-dimethyl-
+LAYER: 0
+SCORE: 0
+UP: 1
+DOWN: 1
+score == 0, node to be removed
+
+NODE: 3-Cyclohexyl-L-alanine amide, N,N,N'N'-tetramethyl-
+LAYER: 0
+SCORE: -1
+UP: 0
+DOWN: 1
+node updated!
+
+NODE: Glucopyranose
+LAYER: 0
+SCORE: -1
+UP: 0
+DOWN: 1
+node updated!
+
+NODE: Cadaverine
+LAYER: 0
+SCORE: -3
+UP: 0
+DOWN: 3
+node updated!
+
+NODE: Glycine, N-(N-DL-leucylglycyl)-
+LAYER: 0
+SCORE: -1
+UP: 0
+DOWN: 1
+node updated!
+
+NODE: alpha-L-Galactopyranoside, methyl 6-deoxy-, (R,R,R,S,S)-
+LAYER: 0
+SCORE: -1
+UP: 0
+DOWN: 1
+node updated!
+
+NODE: 2-Hydroxy-3-methylbutyric acid
+LAYER: 0
+SCORE: -5
+UP: 0
+DOWN: 5
+node updated!
+
+NODE: Octocrylene
+LAYER: 0
+SCORE: -2
+UP: 0
+DOWN: 2
+node updated!
+
+NODE: Nitrosothymol
+LAYER: 0
+SCORE: -10
+UP: 1
+DOWN: 11
+removing edge Nitrosothymol - ENSMUSG00000027374-P
+node updated!
+
+NODE: 1-Methyl-N,N-bis(trimethylsilyl)-4-[(trimethylsilyl)oxy]-1H-imidazol-2-amine
+LAYER: 0
+SCORE: -1
+UP: 0
+DOWN: 1
+node updated!
+
+NODE: 2-Ketoisocaproic acid
+LAYER: 0
+SCORE: 1
+UP: 1
+DOWN: 0
+node updated!
+
+NODE: DL-Glyceraldehyde
+LAYER: 0
+SCORE: -9
+UP: 0
+DOWN: 9
+node updated!
+
+NODE: L-Tryptophan
+LAYER: 0
+SCORE: -2
+UP: 0
+DOWN: 2
+node updated!
+
+NODE: 12-Oxooctadecanoate
+LAYER: 0
+SCORE: -8
+UP: 0
+DOWN: 8
+node updated!
+
+NODE: Stigmast-5-ene, 3beta-
+LAYER: 0
+SCORE: -2
+UP: 0
+DOWN: 2
+node updated!
+
+NODE: Cyclohexanol
+LAYER: 0
+SCORE: 0
+UP: 1
+DOWN: 1
+score == 0, node to be removed
+
+NODE: 4-Hydroxyphenyllactic acid
+LAYER: 0
+SCORE: -2
+UP: 0
+DOWN: 2
+node updated!
+
+NODE: Myristic acid
+LAYER: 0
+SCORE: -1
+UP: 0
+DOWN: 1
+node updated!
+
+NODE: Palmitic Acid
+LAYER: 1
+SCORE: 1
+UP: 1
+DOWN: 0
+node updated!
+
+NODE: 6,8-Dioxapentadecane
+LAYER: 1
+SCORE: -10
+UP: 1
+DOWN: 11
+removing edge 6,8-Dioxapentadecane - Carfentrazone-ethyl
+node updated!
+
+NODE: Naphthofluorescein
+LAYER: 1
+SCORE: -2
+UP: 0
+DOWN: 2
+node updated!
+
+NODE: 12-Hydroxyoctadecanoic acid
+LAYER: 1
+SCORE: -2
+UP: 0
+DOWN: 2
+node updated!
+
+NODE: D-Threitol
+LAYER: 1
+SCORE: 1
+UP: 1
+DOWN: 0
+node updated!
+
+NODE: 6-Methoxy-1-methyl-1,2,3,4-tetrahydroisoquinolin-7-ol 
+LAYER: 1
+SCORE: -3
+UP: 0
+DOWN: 3
+node updated!
+
+NODE: phenoxyethanol
+LAYER: 1
+SCORE: 0
+UP: 2
+DOWN: 2
+score == 0, node to be removed
+
+NODE: 2-Furoic acid
+LAYER: 1
+SCORE: -2
+UP: 0
+DOWN: 2
+node updated!
+
+NODE: Pregn-16-en-20-one, 3,18-bis(acetyloxy)-14,15-epoxy-, (3beta,5alpha,14beta,15beta)-
+LAYER: 1
+SCORE: -1
+UP: 0
+DOWN: 1
+node updated!
+
+NODE: S-Methyl-L-cysteine
+LAYER: 1
+SCORE: -13
+UP: 1
+DOWN: 14
+removing edge S-Methyl-L-cysteine - Benzenemethanamine, 2,3-dimethoxy-
+node updated!
+
+NODE: 1H-Pyrazole, 3,4-bis(trimethylsilyl)-
+LAYER: 1
+SCORE: -2
+UP: 0
+DOWN: 2
+node updated!
+
+NODE: Dopamine
+LAYER: 1
+SCORE: 2
+UP: 2
+DOWN: 0
+node updated!
+
+NODE: 2-Hexenoic acid, 2-[(trimethylsilyl)oxy]-
+LAYER: 1
+SCORE: -18
+UP: 0
+DOWN: 18
+node updated!
+
+NODE: Itaconic acid
+LAYER: 1
+SCORE: -15
+UP: 1
+DOWN: 16
+removing edge Itaconic acid - Doconexent
+node updated!
+
+NODE: 9,12-Octadecadienoic acid
+LAYER: 1
+SCORE: -2
+UP: 0
+DOWN: 2
+node updated!
+
+NODE: Phlorizin
+LAYER: 1
+SCORE: -13
+UP: 4
+DOWN: 17
+removing edge Phlorizin - (CH3)2C=NC2H558
+removing edge Phlorizin - 1,2-Benzenedicarboxylic acid
+removing edge Phlorizin - Arsenous acid
+removing edge Phlorizin - Benzenemethanamine, 2,3-dimethoxy-
+node updated!
+
+NODE: Metanephrine
+LAYER: 1
+SCORE: -14
+UP: 0
+DOWN: 14
+node updated!
+
+NODE: L-Glutamine
+LAYER: 1
+SCORE: 1
+UP: 1
+DOWN: 0
+node updated!
+
+NODE: Petroselinic acid
+LAYER: 1
+SCORE: 0
+UP: 1
+DOWN: 1
+score == 0, node to be removed
+
+NODE: Benzenepropanoic acid
+LAYER: 1
+SCORE: 1
+UP: 2
+DOWN: 1
+removing edge Benzenepropanoic acid - Ethanone, 1-(5-methoxy-2-methyl-3(1H)-indolyl)-
+0.3333333333333333 > 0.2, node to be removed
+
+NODE: Ketamine 
+LAYER: 1
+SCORE: 2
+UP: 2
+DOWN: 0
+node updated!
+
+NODE: 9H-Fluorene, 9-methylene-
+LAYER: 1
+SCORE: -1
+UP: 0
+DOWN: 1
+node updated!
+
+NODE: 2-Pentenedioic acid, 3-methyl-
+LAYER: 1
+SCORE: -2
+UP: 2
+DOWN: 4
+removing edge 2-Pentenedioic acid, 3-methyl- - D-(+)-Talofuranose, pentakis
+removing edge 2-Pentenedioic acid, 3-methyl- - Propanoic acid, 2-methyl-
+0.3333333333333333 > 0.2, node to be removed
+
+NODE: 3-Amino-5-morpholinomethyl-2-oxazolidinone
+LAYER: 1
+SCORE: -14
+UP: 1
+DOWN: 15
+removing edge 3-Amino-5-morpholinomethyl-2-oxazolidinone - Acetic acid, bis[(trimethylsilyl)oxyl]-
+node updated!
+
+NODE: Quazodine
+LAYER: 1
+SCORE: 1
+UP: 1
+DOWN: 0
+node updated!
+
+NODE: 2-Acetyl-3-(1-methyl-2-pyrrolyl)-1,4-benzenediol
+LAYER: 1
+SCORE: 2
+UP: 2
+DOWN: 0
+node updated!
+
+NODE: 3,4-dimethyl-5-(3,4-methylenedioxy)phenyloxazolidine
+LAYER: 1
+SCORE: 2
+UP: 2
+DOWN: 0
+node updated!
+
+NODE: Hexanedioic acid
+LAYER: 1
+SCORE: -2
+UP: 0
+DOWN: 2
+node updated!
+
+NODE: 2,5-Dimethoxy-4-methylamphetamine
+LAYER: 1
+SCORE: -1
+UP: 0
+DOWN: 1
+node updated!
+
+NODE: Benzeneacetic acid
+LAYER: 1
+SCORE: -9
+UP: 1
+DOWN: 10
+removing edge Benzeneacetic acid - 1,4-diazabicyclo[4.3.0]nonan-2,5-dione, 3-methyl 
+node updated!
+
+NODE: 2-Pentenoic acid
+LAYER: 1
+SCORE: -1
+UP: 0
+DOWN: 1
+node updated!
+
+NODE: Ornithine
+LAYER: 1
+SCORE: -4
+UP: 0
+DOWN: 4
+node updated!
+
+NODE: p-Hydroxydiisopropylbenzene
+LAYER: 1
+SCORE: -7
+UP: 0
+DOWN: 7
+node updated!
+
+NODE: Phloroglucinol
+LAYER: 1
+SCORE: -15
+UP: 0
+DOWN: 15
+node updated!
+
+NODE: Pentanedioic acid, 2-[(trimethylsilyl)oxy]-
+LAYER: 1
+SCORE: 4
+UP: 5
+DOWN: 1
+removing edge Pentanedioic acid, 2-[(trimethylsilyl)oxy]- - Ribitol
+node updated!
+
+NODE: Eicosapentaenoic acid
+LAYER: 1
+SCORE: -3
+UP: 1
+DOWN: 4
+removing edge Eicosapentaenoic acid - (CH3)2C=NC2H558
+node updated!
+
+NODE: Picolinic acid
+LAYER: 1
+SCORE: -2
+UP: 3
+DOWN: 5
+removing edge Picolinic acid - 2-Hydroxy-5-methoxybenzaldehyde
+removing edge Picolinic acid - 2-Hydroxybutyric acid
+removing edge Picolinic acid - Propanoic acid, 2-methyl-
+0.375 > 0.2, node to be removed
+
+NODE: 2,5-Dimethoxyphenol
+LAYER: 1
+SCORE: -1
+UP: 0
+DOWN: 1
+node updated!
+
+NODE: 1,3,5-Trimethyl-1H-pyrazol-4-amine
+LAYER: 1
+SCORE: -3
+UP: 1
+DOWN: 4
+removing edge 1,3,5-Trimethyl-1H-pyrazol-4-amine - 2-Ketoisocaproic acid
+node updated!
+
+NODE: Acetin, bis-1,3-trimethylsilyl ether
+LAYER: 1
+SCORE: -5
+UP: 1
+DOWN: 6
+removing edge Acetin, bis-1,3-trimethylsilyl ether - Octane, 1-propoxy-
+node updated!
+
+NODE: 1-(2,4-Dimethoxyphenyl)-propan-2-one
+LAYER: 1
+SCORE: -2
+UP: 1
+DOWN: 3
+removing edge 1-(2,4-Dimethoxyphenyl)-propan-2-one - 2-Hydroxy-5-methoxybenzaldehyde
+0.25 > 0.2, node to be removed
+
+NODE: Butanal, 2,3,4-tris[(trimethylsilyl)oxy]-, O-methyloxime, [R-(R*,R*)]-
+LAYER: 1
+SCORE: -7
+UP: 2
+DOWN: 9
+removing edge Butanal, 2,3,4-tris[(trimethylsilyl)oxy]-, O-methyloxime, [R-(R*,R*)]- - Erythrono-1,4-lactone, (Z)-
+removing edge Butanal, 2,3,4-tris[(trimethylsilyl)oxy]-, O-methyloxime, [R-(R*,R*)]- - N,9-bis(Trimethylsilyl)-6-[(trimethylsilyl)oxy]-9H-purin-2-amine
+node updated!
+
+NODE: Butanedioic acid
+LAYER: 1
+SCORE: -2
+UP: 1
+DOWN: 3
+removing edge Butanedioic acid - 1,4-diazabicyclo[4.3.0]nonan-2,5-dione, 3-methyl 
+0.25 > 0.2, node to be removed
+
+NODE: 2,5-Dimethoxybenzonitrile
+LAYER: 1
+SCORE: -2
+UP: 0
+DOWN: 2
+node updated!
+
+NODE: Heptanoic acid
+LAYER: 1
+SCORE: -3
+UP: 3
+DOWN: 6
+removing edge Heptanoic acid - 1-Hexadecanol
+removing edge Heptanoic acid - Decanoic acid
+removing edge Heptanoic acid - Octanoic acid
+0.3333333333333333 > 0.2, node to be removed
+
+NODE: Cephalotaxine, 3-deoxy-3,11-epoxy-, (3alpha,11alpha)-
+LAYER: 1
+SCORE: 3
+UP: 3
+DOWN: 0
+node updated!
+
+NODE: 3,4,5-Trihydroxypentanoic acid, tetrakis(trimethylsilyl)-
+LAYER: 1
+SCORE: -6
+UP: 0
+DOWN: 6
+node updated!
+
+NODE: Diphenyl ether
+LAYER: 1
+SCORE: -25
+UP: 1
+DOWN: 26
+removing edge Diphenyl ether - Cholest-7-en-3-ol, (3beta,5alpha)-
+node updated!
+
+NODE: 5-Aminovaleric acid
+LAYER: 1
+SCORE: 3
+UP: 3
+DOWN: 0
+node updated!
+
+NODE: 5-Ethyluracil
+LAYER: 1
+SCORE: -1
+UP: 0
+DOWN: 1
+node updated!
+
+NODE: 2,5-Dimethyl-1-aza-bicyclo[2.2.1]heptane
+LAYER: 1
+SCORE: 3
+UP: 3
+DOWN: 0
+node updated!
+
+NODE: Benzene, 1,1'-(1,2-cyclobutanediyl)bis-
+LAYER: 1
+SCORE: 2
+UP: 2
+DOWN: 0
+node updated!
+
+NODE: L-Tyrosine
+LAYER: 1
+SCORE: -15
+UP: 0
+DOWN: 15
+node updated!
+
+NODE: Benzoic Acid
+LAYER: 1
+SCORE: 0
+UP: 2
+DOWN: 2
+score == 0, node to be removed
+
+NODE: Methanone, [1-(4-chloropentyl)-1H-indol-3-yl](2,2,3,3-tetramethylcyclopropyl)-
+LAYER: 1
+SCORE: 0
+UP: 1
+DOWN: 1
+score == 0, node to be removed
+
+NODE: Trimethylsilyl 3-((trimethylsilyl)thio)propanoate
+LAYER: 1
+SCORE: -1
+UP: 0
+DOWN: 1
+node updated!
+
+NODE: (pm)-alpha-Tocopherol acetate
+LAYER: 1
+SCORE: -31
+UP: 1
+DOWN: 32
+removing edge (pm)-alpha-Tocopherol acetate - alpha-Linolenic acid
+node updated!
+
+NODE: 6-Hydroxyflavone-beta-D-glucoside
+LAYER: 1
+SCORE: -1
+UP: 0
+DOWN: 1
+node updated!
+
+NODE: 1-Hexanol
+LAYER: 1
+SCORE: 1
+UP: 1
+DOWN: 0
+node updated!
+
+NODE: Ethanol, 2-(9-octadecenyloxy)-
+LAYER: 1
+SCORE: -2
+UP: 1
+DOWN: 3
+removing edge Ethanol, 2-(9-octadecenyloxy)- - 4-Hydroxybutanoic acid
+0.25 > 0.2, node to be removed
+
+NODE: Mirin
+LAYER: 1
+SCORE: -3
+UP: 0
+DOWN: 3
+node updated!
+
+NODE: 4,4,5,8-Tetramethyl-chroman-2-one
+LAYER: 1
+SCORE: 0
+UP: 1
+DOWN: 1
+score == 0, node to be removed
+
+NODE: N-Isobutyl-sec-butylamine
+LAYER: 1
+SCORE: 1
+UP: 2
+DOWN: 1
+removing edge N-Isobutyl-sec-butylamine - Dodecylcyclohexane
+0.3333333333333333 > 0.2, node to be removed
+
+NODE: Palmitelaidic acid
+LAYER: 1
+SCORE: -1
+UP: 0
+DOWN: 1
+node updated!
+
+NODE: 2,6-Dimethoxybenzylamine
+LAYER: 1
+SCORE: 0
+UP: 1
+DOWN: 1
+score == 0, node to be removed
+
+NODE: 1-Octene, 2-methyl-
+LAYER: 1
+SCORE: -4
+UP: 1
+DOWN: 5
+removing edge 1-Octene, 2-methyl- - 1,2-Benzenedicarboxylic acid
+node updated!
+
+NODE: 2-Propanone, bis(1-methylethyl)hydrazone
+LAYER: 1
+SCORE: -13
+UP: 4
+DOWN: 17
+removing edge 2-Propanone, bis(1-methylethyl)hydrazone - (CH3)2C=NC2H558
+removing edge 2-Propanone, bis(1-methylethyl)hydrazone - 2-Hydroxy-5-methoxybenzaldehyde
+removing edge 2-Propanone, bis(1-methylethyl)hydrazone - 3-Buten-2-one, 3-trimethylsilyloxy-
+removing edge 2-Propanone, bis(1-methylethyl)hydrazone - Benzoic acid, methyl ester
+node updated!
+
+NODE: D-Proline
+LAYER: 1
+SCORE: -1
+UP: 0
+DOWN: 1
+node updated!
+
+NODE: Luteolin 
+LAYER: 1
+SCORE: 0
+UP: 1
+DOWN: 1
+score == 0, node to be removed
+
+NODE: 2-Pyrrolidinone
+LAYER: 1
+SCORE: 1
+UP: 1
+DOWN: 0
+node updated!
+
+NODE: 4-Hydroxybenzaldehyde
+LAYER: 1
+SCORE: 1
+UP: 1
+DOWN: 0
+node updated!
+
+NODE: 3-Indolepropionic acid
+LAYER: 1
+SCORE: -3
+UP: 1
+DOWN: 4
+removing edge 3-Indolepropionic acid - 1-Piperazineethanol, 4-dibenzo[b,f][1,4]thiazepin-11-yl-
+node updated!
+
+NODE: 2-(Bis[2-(trimethylsilyl)oxyethyl]amino)acetic acid
+LAYER: 1
+SCORE: -2
+UP: 2
+DOWN: 4
+removing edge 2-(Bis[2-(trimethylsilyl)oxyethyl]amino)acetic acid - Benzoic acid, methyl ester
+removing edge 2-(Bis[2-(trimethylsilyl)oxyethyl]amino)acetic acid - N-isobutyl-2-(trimethylsilyloxy]-4,5-dihydro-1H-imidazole-1-carboxamide
+0.3333333333333333 > 0.2, node to be removed
+
+NODE: 7-Acetyl-6-ethyl-1,1,4,4-tetramethyltetralin 
+LAYER: 1
+SCORE: 1
+UP: 1
+DOWN: 0
+node updated!
+
+NODE: Valylglycine
+LAYER: 1
+SCORE: -1
+UP: 1
+DOWN: 2
+removing edge Valylglycine - 1-Piperazineethanol, 4-dibenzo[b,f][1,4]thiazepin-11-yl-
+0.3333333333333333 > 0.2, node to be removed
+
+NODE: Spiro[cyclopenta[d]-1,3,2-dioxaborin-4(5H),1'-cyclopentane], 2-ethyl-6,7-dihydro-
+LAYER: 1
+SCORE: 0
+UP: 2
+DOWN: 2
+score == 0, node to be removed
+
+NODE: Hexanoylglycine
+LAYER: 1
+SCORE: 0
+UP: 1
+DOWN: 1
+score == 0, node to be removed
+
+NODE: Glucose
+LAYER: 1
+SCORE: -1
+UP: 0
+DOWN: 1
+node updated!
+
+NODE: 15-Oxo-11Z,13E-eicosadienoic acid
+LAYER: 1
+SCORE: -13
+UP: 2
+DOWN: 15
+removing edge 15-Oxo-11Z,13E-eicosadienoic acid - 1,4-diazabicyclo[4.3.0]nonan-2,5-dione, 3-methyl 
+removing edge 15-Oxo-11Z,13E-eicosadienoic acid - 2-Ketoisocaproic acid
+node updated!
+
+NODE: 2-Ethyl-3-hydroxypropionic acid
+LAYER: 1
+SCORE: -21
+UP: 0
+DOWN: 21
+node updated!
+
+NODE: 4-[2-(4,7-Dimethoxy-2H-1,3-benzodioxol-5-yl)ethenyl]-2-methoxyphenol
+LAYER: 1
+SCORE: 2
+UP: 3
+DOWN: 1
+removing edge 4-[2-(4,7-Dimethoxy-2H-1,3-benzodioxol-5-yl)ethenyl]-2-methoxyphenol - Ser-Leu
+0.25 > 0.2, node to be removed
+
+NODE: 1-Tetradecanol
+LAYER: 1
+SCORE: -5
+UP: 1
+DOWN: 6
+removing edge 1-Tetradecanol - Benzeneethanamine, N-[(pentafluorophenyl)methylene]-4-[(trimethylsilyl)oxy]-
+node updated!
+
+NODE: N-Acetyltyrosine
+LAYER: 1
+SCORE: -3
+UP: 1
+DOWN: 4
+removing edge N-Acetyltyrosine - Stearic acid
+node updated!
+
+NODE: Pentadecanoic acid
+LAYER: 1
+SCORE: -7
+UP: 1
+DOWN: 8
+removing edge Pentadecanoic acid - 3-Buten-2-one, 3-trimethylsilyloxy-
+node updated!
+
+NODE: L-Proline
+LAYER: 1
+SCORE: 0
+UP: 1
+DOWN: 1
+score == 0, node to be removed
+
+NODE: 7,9-Di-tert-butyl-1-oxaspiro(4,5)deca-6,9-diene-2,8-dione
+LAYER: 1
+SCORE: 1
+UP: 2
+DOWN: 1
+removing edge 7,9-Di-tert-butyl-1-oxaspiro(4,5)deca-6,9-diene-2,8-dione - Nonadecanoic acid
+0.3333333333333333 > 0.2, node to be removed
+
+NODE: 4-Pyridinol
+LAYER: 1
+SCORE: -1
+UP: 0
+DOWN: 1
+node updated!
+
+NODE: D-Leucylglycylglycine
+LAYER: 1
+SCORE: 1
+UP: 1
+DOWN: 0
+node updated!
+
+NODE: DL-Proline, 5-oxo-
+LAYER: 1
+SCORE: -2
+UP: 0
+DOWN: 2
+node updated!
+
+NODE: 3-Hydroxybutyric acid
+LAYER: 1
+SCORE: -1
+UP: 0
+DOWN: 1
+node updated!
+
+NODE: Vanillylmandelic acid
+LAYER: 1
+SCORE: -1
+UP: 0
+DOWN: 1
+node updated!
+
+NODE: 1,2-Dimethoxy-4-(1-methoxyethenyl)benzene
+LAYER: 1
+SCORE: -2
+UP: 4
+DOWN: 6
+removing edge 1,2-Dimethoxy-4-(1-methoxyethenyl)benzene - 4-(Methoxycarbonyl)phenol
+removing edge 1,2-Dimethoxy-4-(1-methoxyethenyl)benzene - Hydroquinone
+removing edge 1,2-Dimethoxy-4-(1-methoxyethenyl)benzene - N-(Trimethylsilyl)hexanamide
+removing edge 1,2-Dimethoxy-4-(1-methoxyethenyl)benzene - n-Pentadecanol
+0.4 > 0.2, node to be removed
+
+NODE: Indole-3-carboxaldehyde
+LAYER: 1
+SCORE: -2
+UP: 0
+DOWN: 2
+node updated!
+
+NODE: D-Fucitol
+LAYER: 1
+SCORE: 0
+UP: 2
+DOWN: 2
+score == 0, node to be removed
+
+NODE: Cholesta-3,5-diene 
+LAYER: 1
+SCORE: -2
+UP: 0
+DOWN: 2
+node updated!
+
+NODE: Citric acid
+LAYER: 1
+SCORE: 2
+UP: 2
+DOWN: 0
+node updated!
+
+NODE: 4-(Trimethylsilyoxy)-3-penten-2-one
+LAYER: 1
+SCORE: -2
+UP: 4
+DOWN: 6
+removing edge 4-(Trimethylsilyoxy)-3-penten-2-one - (CH3)2C=NC2H558
+removing edge 4-(Trimethylsilyoxy)-3-penten-2-one - 2-Hydroxy-5-methoxybenzaldehyde
+removing edge 4-(Trimethylsilyoxy)-3-penten-2-one - 3-Buten-2-one, 3-trimethylsilyloxy-
+removing edge 4-(Trimethylsilyoxy)-3-penten-2-one - Octanoic acid
+0.4 > 0.2, node to be removed
+
+NODE: Arabinaric acid
+LAYER: 1
+SCORE: -12
+UP: 2
+DOWN: 14
+removing edge Arabinaric acid - Atrazine desethyl
+removing edge Arabinaric acid - Doconexent
+node updated!
+
+NODE: 1-(4-Hydroxybenzylidene)acetone
+LAYER: 1
+SCORE: -27
+UP: 2
+DOWN: 29
+removing edge 1-(4-Hydroxybenzylidene)acetone - 1,5-Anhydroglucitol
+removing edge 1-(4-Hydroxybenzylidene)acetone - Acetic acid, bis[(trimethylsilyl)oxyl]-
+node updated!
+
+NODE: 1-Monoacetin
+LAYER: 1
+SCORE: -18
+UP: 1
+DOWN: 19
+removing edge 1-Monoacetin - Propanoic acid, 2-methyl-
+node updated!
+
+NODE: 3-Aminobenzoic acid
+LAYER: 1
+SCORE: -4
+UP: 0
+DOWN: 4
+node updated!
+
+NODE: Dimethyl fumarate
+LAYER: 1
+SCORE: -2
+UP: 0
+DOWN: 2
+node updated!
+
+NODE: 7-(Trimethylsilyl)amino-4-methylcoumarin
+LAYER: 1
+SCORE: -13
+UP: 0
+DOWN: 13
+node updated!
+
+NODE: 4-Methylvaleric acid
+LAYER: 1
+SCORE: 1
+UP: 1
+DOWN: 0
+node updated!
+
+NODE: 2-Acetyl-5-chloro-3-methylbenzo(b)thiophene
+LAYER: 1
+SCORE: -17
+UP: 1
+DOWN: 18
+removing edge 2-Acetyl-5-chloro-3-methylbenzo(b)thiophene - Carfentrazone-ethyl
+node updated!
+
+NODE: Trimethylsilyl (5-benzyl-3,6-dioxopiperazin-2-yl)acetate
+LAYER: 1
+SCORE: -9
+UP: 1
+DOWN: 10
+removing edge Trimethylsilyl (5-benzyl-3,6-dioxopiperazin-2-yl)acetate - 1,5-Anhydroglucitol
+node updated!
+
+NODE: 3-Ureidopropionic acid
+LAYER: 1
+SCORE: -14
+UP: 0
+DOWN: 14
+node updated!
+
+NODE: N-Acetyl-L-glutamic acid
+LAYER: 1
+SCORE: -2
+UP: 0
+DOWN: 2
+node updated!
+
+NODE: Succinic anhydride
+LAYER: 1
+SCORE: -1
+UP: 0
+DOWN: 1
+node updated!
+
+NODE: 1,2-Butanediol
+LAYER: 1
+SCORE: 1
+UP: 2
+DOWN: 1
+removing edge 1,2-Butanediol - Nitrosothymol
+0.3333333333333333 > 0.2, node to be removed
+
+NODE: Isoxaben
+LAYER: 1
+SCORE: -6
+UP: 0
+DOWN: 6
+node updated!
+
+NODE: Tetradecanenitrile
+LAYER: 1
+SCORE: 1
+UP: 1
+DOWN: 0
+node updated!
+
+NODE: 1-(4-Methoxyphenyl)-4,6-dimethyl-2(1H)-pyrimidinone
+LAYER: 1
+SCORE: -2
+UP: 0
+DOWN: 2
+node updated!
+
+NODE: Pentylone
+LAYER: 1
+SCORE: 1
+UP: 1
+DOWN: 0
+node updated!
+
+NODE: Butylmethylamine
+LAYER: 1
+SCORE: -16
+UP: 2
+DOWN: 18
+removing edge Butylmethylamine - (CH3)2C=NC2H558
+removing edge Butylmethylamine - Benzenemethanamine, 2,3-dimethoxy-
+node updated!
+
+NODE: Methyl isovanillate
+LAYER: 1
+SCORE: -3
+UP: 0
+DOWN: 3
+node updated!
+
+NODE: 2',2,3,6'-Tetramethoxychalcone
+LAYER: 1
+SCORE: 1
+UP: 1
+DOWN: 0
+node updated!
+
+NODE: Nonanoic acid
+LAYER: 1
+SCORE: 1
+UP: 1
+DOWN: 0
+node updated!
+
+NODE: Dodecanoic acid, 1-methylethyl ester
+LAYER: 1
+SCORE: -8
+UP: 0
+DOWN: 8
+node updated!
+
+NODE: 3-Methyladenine
+LAYER: 1
+SCORE: -16
+UP: 0
+DOWN: 16
+node updated!
+
+NODE: 4-Fluoroaniline, N-trimethylsilyl-
+LAYER: 1
+SCORE: -1
+UP: 3
+DOWN: 4
+removing edge 4-Fluoroaniline, N-trimethylsilyl- - 2-Hydroxy-5-methoxybenzaldehyde
+removing edge 4-Fluoroaniline, N-trimethylsilyl- - 3-Buten-2-one, 3-trimethylsilyloxy-
+removing edge 4-Fluoroaniline, N-trimethylsilyl- - 3'-(Trimethylsilyl)oxy-beta-naphthoflavone
+0.42857142857142855 > 0.2, node to be removed
+
+NODE: 3'-Hydroxyacetophenone
+LAYER: 1
+SCORE: -8
+UP: 0
+DOWN: 8
+node updated!
+
+NODE: 5alpha-Pregnane-3,20-dione
+LAYER: 1
+SCORE: -4
+UP: 0
+DOWN: 4
+node updated!
+
+NODE: Ethanamine, N,N-diethyl-2,2-dimethyl-2-[(3,5-dimethoxy)phenyl]-
+LAYER: 1
+SCORE: -4
+UP: 0
+DOWN: 4
+node updated!
+
+NODE: 3-Methyl-2-butenoic acid, tridec-2-ynyl ester
+LAYER: 1
+SCORE: 0
+UP: 1
+DOWN: 1
+score == 0, node to be removed
+
+NODE: Dicyclohexylamine
+LAYER: 1
+SCORE: 0
+UP: 1
+DOWN: 1
+score == 0, node to be removed
+
+NODE: 3-Methylpiperazine-2,5-dione, (R)-
+LAYER: 1
+SCORE: -18
+UP: 4
+DOWN: 22
+removing edge 3-Methylpiperazine-2,5-dione, (R)- - 2-Hydroxybutyric acid
+removing edge 3-Methylpiperazine-2,5-dione, (R)- - Doconexent
+removing edge 3-Methylpiperazine-2,5-dione, (R)- - Propanoic acid, 2-methyl-
+removing edge 3-Methylpiperazine-2,5-dione, (R)- - Ser-Leu
+node updated!
+
+NODE: beta-d-Fructopyranose, 1-deoxy-1-(4-morpholinyl)-2,3,4,5-tetrakis-O-(trimethylsilyl)-
+LAYER: 1
+SCORE: -9
+UP: 1
+DOWN: 10
+removing edge beta-d-Fructopyranose, 1-deoxy-1-(4-morpholinyl)-2,3,4,5-tetrakis-O-(trimethylsilyl)- - Trimidox
+node updated!
+
+NODE: 2,5-Dimethoxybenzhydrazide
+LAYER: 1
+SCORE: 1
+UP: 2
+DOWN: 1
+removing edge 2,5-Dimethoxybenzhydrazide - 13-Docosenamide
+0.3333333333333333 > 0.2, node to be removed
+
+NODE: L-Threitol
+LAYER: 1
+SCORE: -9
+UP: 0
+DOWN: 9
+node updated!
+
+NODE: L-Valine
+LAYER: 1
+SCORE: 0
+UP: 1
+DOWN: 1
+score == 0, node to be removed
+
+NODE: Thymine, 1,3-dimethyl-6-(trimethylsilyloxymethyl)-
+LAYER: 1
+SCORE: -13
+UP: 3
+DOWN: 16
+removing edge Thymine, 1,3-dimethyl-6-(trimethylsilyloxymethyl)- - 4-Hydroxybutanoic acid
+removing edge Thymine, 1,3-dimethyl-6-(trimethylsilyloxymethyl)- - Cholest-7-en-3-ol, (3beta,5alpha)-
+removing edge Thymine, 1,3-dimethyl-6-(trimethylsilyloxymethyl)- - Cyclo-(l-leucyl-l-phenylalanyl) 
+node updated!
+
+NODE: (pm)-Phenylpropanolamine
+LAYER: 1
+SCORE: 1
+UP: 1
+DOWN: 0
+node updated!
+
+NODE: Phenol, 3,5-bis(1,1-dimethylethyl)-
+LAYER: 1
+SCORE: 1
+UP: 1
+DOWN: 0
+node updated!
+
+NODE: 4-Methoxyphenol
+LAYER: 1
+SCORE: -1
+UP: 3
+DOWN: 4
+removing edge 4-Methoxyphenol - (CH3)2C=NC2H558
+removing edge 4-Methoxyphenol - 2-Hydroxy-5-methoxybenzaldehyde
+removing edge 4-Methoxyphenol - Propanoic acid, 2-methyl-
+0.42857142857142855 > 0.2, node to be removed
+
+NODE: beta-D-Glucopyranose
+LAYER: 1
+SCORE: 1
+UP: 1
+DOWN: 0
+node updated!
+
+NODE: Octopamine
+LAYER: 1
+SCORE: 4
+UP: 4
+DOWN: 0
+node updated!
+
+NODE: Acetamide, N,N-diethyl-
+LAYER: 1
+SCORE: -3
+UP: 1
+DOWN: 4
+removing edge Acetamide, N,N-diethyl- - Morpholine, 4-[2,3,4,6-tetrakis-O-(trimethylsilyl)-alpha-d-mannopyranosyl]-
+node updated!
+
+NODE: 2-Oxooctanoic acid
+LAYER: 1
+SCORE: 1
+UP: 2
+DOWN: 1
+removing edge 2-Oxooctanoic acid - 3-Aminobutanoic acid
+0.3333333333333333 > 0.2, node to be removed
+
+NODE: Pyroglutamic acid
+LAYER: 1
+SCORE: 0
+UP: 1
+DOWN: 1
+score == 0, node to be removed
+
+NODE: Uridine
+LAYER: 1
+SCORE: -5
+UP: 1
+DOWN: 6
+removing edge Uridine - Malic acid
+node updated!
+
+NODE: alpha-Tocopherol
+LAYER: 1
+SCORE: -22
+UP: 0
+DOWN: 22
+node updated!
+
+NODE: Bis(trimethylsilyl)histidine
+LAYER: 1
+SCORE: 0
+UP: 1
+DOWN: 1
+score == 0, node to be removed
+
+NODE: Supraene
+LAYER: 1
+SCORE: -7
+UP: 5
+DOWN: 12
+removing edge Supraene - 1-Octanol, 2-butyl-
+removing edge Supraene - 1,2-Benzenedicarboxylic acid
+removing edge Supraene - Benzenemethanamine, 2,3-dimethoxy-
+removing edge Supraene - Decanoic acid
+removing edge Supraene - Octanoic acid
+0.29411764705882354 > 0.2, node to be removed
+
+NODE: O-Methyl-N,N'-diisopropylisourea 
+LAYER: 1
+SCORE: 1
+UP: 1
+DOWN: 0
+node updated!
+
+NODE: 1,3-Cyclohexanebis(methylamine)
+LAYER: 1
+SCORE: -1
+UP: 0
+DOWN: 1
+node updated!
+
+NODE: L-Ornithine
+LAYER: 1
+SCORE: -2
+UP: 1
+DOWN: 3
+removing edge L-Ornithine - Hydroquinone
+0.25 > 0.2, node to be removed
+
+NODE: 3beta-TRIMETHYLSILOXY-5alpha,6alpha-EPOXYCHOLESTANE
+LAYER: 1
+SCORE: -26
+UP: 2
+DOWN: 28
+removing edge 3beta-TRIMETHYLSILOXY-5alpha,6alpha-EPOXYCHOLESTANE - 2,5-di-tert-Butyl-1,4-benzoquinone
+removing edge 3beta-TRIMETHYLSILOXY-5alpha,6alpha-EPOXYCHOLESTANE - Carfentrazone-ethyl
+node updated!
+
+NODE: N-(Trifluoroacetyl)-N,O,O'-tris(trimethylsilyl)normetanephrine
+LAYER: 1
+SCORE: -14
+UP: 0
+DOWN: 14
+node updated!
+
+NODE: Benzoin
+LAYER: 1
+SCORE: 1
+UP: 2
+DOWN: 1
+removing edge Benzoin - Benzeneethanamine, N-[(pentafluorophenyl)methylene]-4-[(trimethylsilyl)oxy]-
+0.3333333333333333 > 0.2, node to be removed
+
+NODE: Cyclohexene, 3-butyl-3-methyl-1-trimethylsilyloxy-
+LAYER: 1
+SCORE: -5
+UP: 0
+DOWN: 5
+node updated!
+
+NODE: Cyclo(L-prolyl-L-valine) 
+LAYER: 1
+SCORE: -2
+UP: 0
+DOWN: 2
+node updated!
+
+NODE: Xylose
+LAYER: 1
+SCORE: -2
+UP: 0
+DOWN: 2
+node updated!
+
+NODE: 3,4-Dihydrocoumarin, 4,4-dimethyl-6-dimethylamino-
+LAYER: 1
+SCORE: 1
+UP: 1
+DOWN: 0
+node updated!
+
+NODE: Ecgonine
+LAYER: 1
+SCORE: 1
+UP: 2
+DOWN: 1
+removing edge Ecgonine - Dihydrouracil
+0.3333333333333333 > 0.2, node to be removed
+
+NODE: Isoquinoline, 3,4-dihydro-6,7-dimethoxy-1-[4-hydroxybenzyl]-
+LAYER: 1
+SCORE: 1
+UP: 2
+DOWN: 1
+removing edge Isoquinoline, 3,4-dihydro-6,7-dimethoxy-1-[4-hydroxybenzyl]- - 2-(Decanoyloxy)propane-1,3-diyl dioctanoate
+0.3333333333333333 > 0.2, node to be removed
+
+NODE: Niacin
+LAYER: 1
+SCORE: 1
+UP: 1
+DOWN: 0
+node updated!
+
+NODE: Cetaben, N,O-bis(trimethylsilyl)-
+LAYER: 1
+SCORE: -4
+UP: 0
+DOWN: 4
+node updated!
+
+NODE: 5-Hydroxytryptophan
+LAYER: 1
+SCORE: -13
+UP: 0
+DOWN: 13
+node updated!
+
+NODE: Cyclohexene, 3,3-dimethyl-1-(trimethylsilyloxy)-
+LAYER: 1
+SCORE: 2
+UP: 3
+DOWN: 1
+removing edge Cyclohexene, 3,3-dimethyl-1-(trimethylsilyloxy)- - Benzoic acid, methyl ester
+0.25 > 0.2, node to be removed
+
+NODE: 2,4-Decadienal
+LAYER: 1
+SCORE: -3
+UP: 2
+DOWN: 5
+removing edge 2,4-Decadienal - Benzene, 1-acetoxy-2,6-dimethoxy-4-(2-propenyl)-
+removing edge 2,4-Decadienal - Propanoic acid, 2-methyl-
+0.2857142857142857 > 0.2, node to be removed
+
+NODE: 9(E),11(E)-Conjugated linoleic acid
+LAYER: 1
+SCORE: -2
+UP: 2
+DOWN: 4
+removing edge 9(E),11(E)-Conjugated linoleic acid - 4-(Methoxycarbonyl)phenol
+removing edge 9(E),11(E)-Conjugated linoleic acid - L-Isoleucine
+0.3333333333333333 > 0.2, node to be removed
+
+NODE: 3-Ethylphenol
+LAYER: 1
+SCORE: 0
+UP: 2
+DOWN: 2
+score == 0, node to be removed
+
+NODE: Fenitrothion
+LAYER: 1
+SCORE: 0
+UP: 1
+DOWN: 1
+score == 0, node to be removed
+
+NODE: Campesterol
+LAYER: 1
+SCORE: -1
+UP: 0
+DOWN: 1
+node updated!
+
+NODE: 2,5-Di-tert-butylhydroquinone
+LAYER: 1
+SCORE: 1
+UP: 1
+DOWN: 0
+node updated!
+
+NODE: 2,3,4,5-Tetrahydroxypentanoic acid-1,4-lactone
+LAYER: 1
+SCORE: 4
+UP: 6
+DOWN: 2
+removing edge 2,3,4,5-Tetrahydroxypentanoic acid-1,4-lactone - Cholest-7-en-3-ol, (3beta,5alpha)-
+removing edge 2,3,4,5-Tetrahydroxypentanoic acid-1,4-lactone - D-(+)-Ribono-1,4-lactone (R,S,R)-
+0.25 > 0.2, node to be removed
+
+NODE: (7a-Isopropenyl-4,5-dimethyloctahydroinden-4-yl)methanol
+LAYER: 1
+SCORE: -18
+UP: 6
+DOWN: 24
+removing edge (7a-Isopropenyl-4,5-dimethyloctahydroinden-4-yl)methanol - 2-(2,5-Dimethoxy-phenyl)-propionaldehyde
+removing edge (7a-Isopropenyl-4,5-dimethyloctahydroinden-4-yl)methanol - 2-Hydroxy-5-methoxybenzaldehyde
+removing edge (7a-Isopropenyl-4,5-dimethyloctahydroinden-4-yl)methanol - 3-Nonen-1-ol
+removing edge (7a-Isopropenyl-4,5-dimethyloctahydroinden-4-yl)methanol - Carfentrazone-ethyl
+removing edge (7a-Isopropenyl-4,5-dimethyloctahydroinden-4-yl)methanol - Cholest-7-en-3-ol, (3beta,5alpha)-
+removing edge (7a-Isopropenyl-4,5-dimethyloctahydroinden-4-yl)methanol - Doconexent
+node updated!
+
+NODE: 2,5-Piperazinedione, 3-methyl-6-(phenylmethyl)-
+LAYER: 1
+SCORE: 0
+UP: 1
+DOWN: 1
+score == 0, node to be removed
+
+NODE: 2,2'-Biphenyldiol
+LAYER: 1
+SCORE: 2
+UP: 3
+DOWN: 1
+removing edge 2,2'-Biphenyldiol - Pipecolic acid
+0.25 > 0.2, node to be removed
+
+NODE: D-Arabinose
+LAYER: 1
+SCORE: 1
+UP: 1
+DOWN: 0
+node updated!
+
+NODE: 1,3-bis[(Trimethylsilyl)ethynyl]benzene
+LAYER: 1
+SCORE: -1
+UP: 0
+DOWN: 1
+node updated!
+
+NODE: Benzene, 3-cyclohexen-1-yl-
+LAYER: 1
+SCORE: 2
+UP: 2
+DOWN: 0
+node updated!
+
+NODE: 2-Hexen-1-ol
+LAYER: 1
+SCORE: -1
+UP: 0
+DOWN: 1
+node updated!
+
+NODE: 1-Propanamine, N,N-diethyl- 
+LAYER: 1
+SCORE: 0
+UP: 6
+DOWN: 6
+score == 0, node to be removed
+
+NODE: Quinolin-4-one, 1-[2-(3,4-dimethoxyphenyl)ethyl]-octahydro-
+LAYER: 1
+SCORE: 1
+UP: 1
+DOWN: 0
+node updated!
+
+NODE: Dodecanoic acid
+LAYER: 1
+SCORE: -3
+UP: 1
+DOWN: 4
+removing edge Dodecanoic acid - (CH3)2C=NC2H558
+node updated!
+
+NODE: Cholest-22-ene-21-ol, 3,5-dehydro-6-methoxy-, pivalate
+LAYER: 1
+SCORE: -4
+UP: 0
+DOWN: 4
+node updated!
+
+NODE: D-Ornithine
+LAYER: 1
+SCORE: -1
+UP: 2
+DOWN: 3
+removing edge D-Ornithine - 2,5-Cyclohexadiene-1,4-dione, 2,6-bis(1,1-dimethylethyl)-
+removing edge D-Ornithine - Ser-Leu
+0.4 > 0.2, node to be removed
+
+NODE: L-Methionine
+LAYER: 1
+SCORE: 0
+UP: 1
+DOWN: 1
+score == 0, node to be removed
+
+NODE: 2-Amino-4,6-dihydroxypyrimidine
+LAYER: 1
+SCORE: 4
+UP: 5
+DOWN: 1
+removing edge 2-Amino-4,6-dihydroxypyrimidine - Propanoic acid, 2-methyl-
+node updated!
+
+NODE: meso-Erythritol
+LAYER: 1
+SCORE: 0
+UP: 1
+DOWN: 1
+score == 0, node to be removed
+
+NODE: L-Threonine
+LAYER: 1
+SCORE: 0
+UP: 1
+DOWN: 1
+score == 0, node to be removed
+
+NODE: Benzene, 1,3-bis(1,1-dimethylethyl)-
+LAYER: 1
+SCORE: 2
+UP: 2
+DOWN: 0
+node updated!
+
+NODE: Cinnamic acid
+LAYER: 1
+SCORE: -6
+UP: 0
+DOWN: 6
+node updated!
+
+NODE: 1-Octanol
+LAYER: 1
+SCORE: -10
+UP: 2
+DOWN: 12
+removing edge 1-Octanol - Acetic acid, bis[(trimethylsilyl)oxyl]-
+removing edge 1-Octanol - Benzenemethanamine, 2,3-dimethoxy-
+node updated!
+
+NODE: Trimethylsilyl oct-2-enoate 
+LAYER: 1
+SCORE: -1
+UP: 0
+DOWN: 1
+node updated!
+
+NODE: (S,S)-(-)-Hydrobenzoin
+LAYER: 1
+SCORE: -2
+UP: 0
+DOWN: 2
+node updated!
+
+NODE: Acetohydrazide, 2-(2-isopropyl-5-methylphenoxy)-N2-benzylideno-
+LAYER: 1
+SCORE: -8
+UP: 2
+DOWN: 10
+removing edge Acetohydrazide, 2-(2-isopropyl-5-methylphenoxy)-N2-benzylideno- - 2,5-Dimethoxymandelic acid
+removing edge Acetohydrazide, 2-(2-isopropyl-5-methylphenoxy)-N2-benzylideno- - Aziridine, 1-(2-buten-2-yl)-
+node updated!
+
+NODE: Dimethyl hexopyranosiduronate, alpha-D-
+LAYER: 1
+SCORE: 1
+UP: 1
+DOWN: 0
+node updated!
+
+NODE: Ethyl alpha-D-glucopyranoside
+LAYER: 1
+SCORE: -1
+UP: 1
+DOWN: 2
+removing edge Ethyl alpha-D-glucopyranoside - Octane, 1-propoxy-
+0.3333333333333333 > 0.2, node to be removed
+
+NODE: Delorazepam
+LAYER: 1
+SCORE: -2
+UP: 0
+DOWN: 2
+node updated!
+
+NODE: DL-Phenylalanine
+LAYER: 1
+SCORE: -3
+UP: 0
+DOWN: 3
+node updated!
+
+NODE: (R*,S*)-2,3-Dihydroxybutanoic acid
+LAYER: 1
+SCORE: -10
+UP: 1
+DOWN: 11
+removing edge (R*,S*)-2,3-Dihydroxybutanoic acid - 3-(3-Cyclohexylaminopropionylamino)-5-ethylthiophene-2-carboxylic acid, ethyl ester
+node updated!
+
+NODE: 1-Cyclohexanone, 3-butyl-3-methyl-
+LAYER: 1
+SCORE: 0
+UP: 2
+DOWN: 2
+score == 0, node to be removed
+
+NODE: 9H-Purine, 9-(trimethylsilyl)-2,6,8-tris[(trimethylsilyl)oxy]-
+LAYER: 1
+SCORE: -2
+UP: 0
+DOWN: 2
+node updated!
+
+NODE: Pentanedioic acid, 2,4-bis[(trimethylsilyl)oxy]
+LAYER: 1
+SCORE: 0
+UP: 1
+DOWN: 1
+score == 0, node to be removed
+
+NODE: N-alpha-Acetyl-L-Lysine
+LAYER: 1
+SCORE: -2
+UP: 1
+DOWN: 3
+removing edge N-alpha-Acetyl-L-Lysine - 2,5-di-tert-Butyl-1,4-benzoquinone
+0.25 > 0.2, node to be removed
+
+NODE: Boric acid
+LAYER: 1
+SCORE: 1
+UP: 1
+DOWN: 0
+node updated!
+
+NODE: Thymidine
+LAYER: 1
+SCORE: -3
+UP: 2
+DOWN: 5
+removing edge Thymidine - 7-Isoquinolinol, 1,2,3,4-tetrahydro-1-[(4-hydroxyphenyl)methyl]-6-methoxy-
+removing edge Thymidine - Benzoic acid, methyl ester
+0.2857142857142857 > 0.2, node to be removed
+
+NODE: 2,4-Diamino-6,7-dimethylpteridine
+LAYER: 1
+SCORE: -3
+UP: 4
+DOWN: 7
+removing edge 2,4-Diamino-6,7-dimethylpteridine - (CH3)2C=NC2H558
+removing edge 2,4-Diamino-6,7-dimethylpteridine - 2-(2,5-Dimethoxy-phenyl)-propionaldehyde
+removing edge 2,4-Diamino-6,7-dimethylpteridine - 2-Hydroxy-5-methoxybenzaldehyde
+removing edge 2,4-Diamino-6,7-dimethylpteridine - 3-Nonen-1-ol
+0.36363636363636365 > 0.2, node to be removed
+
+NODE: L-Lysine
+LAYER: 1
+SCORE: -1
+UP: 0
+DOWN: 1
+node updated!
+
+NODE: Bis(trimethylsilyl)acetylene
+LAYER: 1
+SCORE: -1
+UP: 0
+DOWN: 1
+node updated!
+
+NODE: D-(-)-Ribofuranose, tetrakis
+LAYER: 1
+SCORE: 1
+UP: 1
+DOWN: 0
+node updated!
+
+NODE: Guanidine, N,N-dimethyl-
+LAYER: 1
+SCORE: -1
+UP: 1
+DOWN: 2
+removing edge Guanidine, N,N-dimethyl- - 1,2-Benzenedicarboxylic acid
+0.3333333333333333 > 0.2, node to be removed
+
+NODE: 9-Octadecenoic acid
+LAYER: 1
+SCORE: -27
+UP: 2
+DOWN: 29
+removing edge 9-Octadecenoic acid - 1,4-diazabicyclo[4.3.0]nonan-2,5-dione, 3-methyl 
+removing edge 9-Octadecenoic acid - 2,5-di-tert-Butyl-1,4-benzoquinone
+node updated!
+
+NODE: Piperidine, 1-(1-methylpentyl)-
+LAYER: 1
+SCORE: -1
+UP: 2
+DOWN: 3
+removing edge Piperidine, 1-(1-methylpentyl)- - Acetic acid, bis[(trimethylsilyl)oxyl]-
+removing edge Piperidine, 1-(1-methylpentyl)- - L-Aspartic acid
+0.4 > 0.2, node to be removed
+
+NODE: 1-Octadecanol
+LAYER: 1
+SCORE: 1
+UP: 3
+DOWN: 2
+removing edge 1-Octadecanol - Glyoxime
+removing edge 1-Octadecanol - Sertraline carbamoyl glucuronide
+0.4 > 0.2, node to be removed
+
+NODE: 5,10-Diethoxy-2,3,7,8-tetrahydro-1H,6H-dipyrrolo[1,2-a:1',2'-d]pyrazine 
+LAYER: 1
+SCORE: -10
+UP: 5
+DOWN: 15
+removing edge 5,10-Diethoxy-2,3,7,8-tetrahydro-1H,6H-dipyrrolo[1,2-a:1',2'-d]pyrazine  - 1-Phenyl-1,2-ethanediol
+removing edge 5,10-Diethoxy-2,3,7,8-tetrahydro-1H,6H-dipyrrolo[1,2-a:1',2'-d]pyrazine  - 2-Hydroxybutyric acid
+removing edge 5,10-Diethoxy-2,3,7,8-tetrahydro-1H,6H-dipyrrolo[1,2-a:1',2'-d]pyrazine  - 3-Aminobutanoic acid
+removing edge 5,10-Diethoxy-2,3,7,8-tetrahydro-1H,6H-dipyrrolo[1,2-a:1',2'-d]pyrazine  - D-(+)-Talofuranose, pentakis
+removing edge 5,10-Diethoxy-2,3,7,8-tetrahydro-1H,6H-dipyrrolo[1,2-a:1',2'-d]pyrazine  - Malic acid
+0.25 > 0.2, node to be removed
+
+NODE: Isonicotinic Acid
+LAYER: 1
+SCORE: 2
+UP: 2
+DOWN: 0
+node updated!
+
+NODE: 4-Hydroxy-5-(hydroxymethyl)oxolan-2-one
+LAYER: 1
+SCORE: 2
+UP: 2
+DOWN: 0
+node updated!
+
+NODE: Cyclohexanone, 3,3,5-trimethyl-
+LAYER: 1
+SCORE: 0
+UP: 6
+DOWN: 6
+score == 0, node to be removed
+
+NODE: Tris(trimethylsilyl)carbamate
+LAYER: 1
+SCORE: 1
+UP: 4
+DOWN: 3
+removing edge Tris(trimethylsilyl)carbamate - 1-Butanamine, N,N-diethyl-
+removing edge Tris(trimethylsilyl)carbamate - 3-Hydroxyisovaleric acid
+removing edge Tris(trimethylsilyl)carbamate - Myristic acid
+0.42857142857142855 > 0.2, node to be removed
+
+NODE: Cholesterol
+LAYER: 1
+SCORE: -2
+UP: 0
+DOWN: 2
+node updated!
+
+NODE: Ethyl cis-2-trimethylsilyl-cyclopropane-1-carboxylate
+LAYER: 1
+SCORE: -1
+UP: 0
+DOWN: 1
+node updated!
+
+NODE: (2S,3R)-3-[(4E,7E)-Nona-4,7-dienoyl]-N,N-bis(trimethylsilyl)oxirane-2-carboxamide 
+LAYER: 1
+SCORE: -3
+UP: 1
+DOWN: 4
+removing edge (2S,3R)-3-[(4E,7E)-Nona-4,7-dienoyl]-N,N-bis(trimethylsilyl)oxirane-2-carboxamide  - 2,5-di-tert-Butyl-1,4-benzoquinone
+node updated!
+
+NODE: 4-Cumylphenol
+LAYER: 1
+SCORE: -11
+UP: 3
+DOWN: 14
+removing edge 4-Cumylphenol - Cholest-7-en-3-ol, (3beta,5alpha)-
+removing edge 4-Cumylphenol - Phosalone
+removing edge 4-Cumylphenol - Ser-Leu
+node updated!
+
+NODE: 1-Pentene, 3,3-dimethyl-
+LAYER: 1
+SCORE: 2
+UP: 4
+DOWN: 2
+removing edge 1-Pentene, 3,3-dimethyl- - 2,5-Dimethoxymandelic acid
+removing edge 1-Pentene, 3,3-dimethyl- - Hydroquinone
+0.3333333333333333 > 0.2, node to be removed
+
+NODE: 2-Butenedioic acid
+LAYER: 1
+SCORE: 0
+UP: 2
+DOWN: 2
+score == 0, node to be removed
+
+NODE: cis-4,5-Dihydroxy-o-dithiane, 2O-
+LAYER: 1
+SCORE: -2
+UP: 1
+DOWN: 3
+removing edge cis-4,5-Dihydroxy-o-dithiane, 2O- - Trisaminol
+0.25 > 0.2, node to be removed
+
+NODE: Lactic Acid
+LAYER: 1
+SCORE: 3
+UP: 3
+DOWN: 0
+node updated!
+
+NODE: 3,5-Di-tert-butyl-2-trimethylsilyloxybenzaldehyde
+LAYER: 1
+SCORE: -2
+UP: 2
+DOWN: 4
+removing edge 3,5-Di-tert-butyl-2-trimethylsilyloxybenzaldehyde - 2-(2,5-Dimethoxy-phenyl)-propionaldehyde
+removing edge 3,5-Di-tert-butyl-2-trimethylsilyloxybenzaldehyde - 2-Hydroxy-5-methoxybenzaldehyde
+0.3333333333333333 > 0.2, node to be removed
+
+NODE: Phenol
+LAYER: 1
+SCORE: 0
+UP: 2
+DOWN: 2
+score == 0, node to be removed
+
+NODE: Sinomenin
+LAYER: 1
+SCORE: -1
+UP: 2
+DOWN: 3
+removing edge Sinomenin - 2,2-Diallylpyrrolidine
+removing edge Sinomenin - L-Isoleucine
+0.4 > 0.2, node to be removed
+
+NODE: Propanoic acid, 2-oxo-
+LAYER: 1
+SCORE: -1
+UP: 0
+DOWN: 1
+node updated!
+
+NODE: Gln-Ala
+LAYER: 1
+SCORE: -2
+UP: 0
+DOWN: 2
+node updated!
+
+NODE: Salsoline
+LAYER: 1
+SCORE: -19
+UP: 0
+DOWN: 19
+node updated!
+
+NODE: 2-Naphthol
+LAYER: 1
+SCORE: -7
+UP: 2
+DOWN: 9
+removing edge 2-Naphthol - (CH3)2C=NC2H558
+removing edge 2-Naphthol - 2-(2,5-Dimethoxy-phenyl)-propionaldehyde
+node updated!
+
+NODE: Niacinamide
+LAYER: 1
+SCORE: 2
+UP: 2
+DOWN: 0
+node updated!
+
+NODE: Pyrrole-2-carboxylic acid
+LAYER: 1
+SCORE: -1
+UP: 0
+DOWN: 1
+node updated!
+
+NODE: 3,4-Dihydroxymandelic acid, ethyl ester
+LAYER: 1
+SCORE: -1
+UP: 0
+DOWN: 1
+node updated!
+
+NODE: L-Glutamic acid
+LAYER: 1
+SCORE: -3
+UP: 0
+DOWN: 3
+node updated!
+
+NODE: Pentanoic acid
+LAYER: 1
+SCORE: -1
+UP: 1
+DOWN: 2
+removing edge Pentanoic acid - 2,5-Cyclohexadiene-1,4-dione, 2,6-bis(1,1-dimethylethyl)-
+0.3333333333333333 > 0.2, node to be removed
+
+NODE: 1-Phenylethanol
+LAYER: 1
+SCORE: 14
+UP: 14
+DOWN: 0
+node updated!
+
+NODE:  5-Hydroxyhexanoic acid
+LAYER: 1
+SCORE: -10
+UP: 1
+DOWN: 11
+removing edge  5-Hydroxyhexanoic acid - Carfentrazone-ethyl
+node updated!
+
+NODE: Cholesta-3,5-dien-7-one
+LAYER: 1
+SCORE: -3
+UP: 0
+DOWN: 3
+node updated!
+
+NODE: 1,4-Butanediol
+LAYER: 1
+SCORE: -2
+UP: 2
+DOWN: 4
+removing edge 1,4-Butanediol - 2-Ketoisocaproic acid
+removing edge 1,4-Butanediol - Cholest-7-en-3-ol, (3beta,5alpha)-
+0.3333333333333333 > 0.2, node to be removed
+
+NODE: Butyrovanillone
+LAYER: 1
+SCORE: 0
+UP: 1
+DOWN: 1
+score == 0, node to be removed
+
+NODE: 1,3-Dioxane-4-methanol, 4,5-dimethyl-
+LAYER: 1
+SCORE: -3
+UP: 1
+DOWN: 4
+removing edge 1,3-Dioxane-4-methanol, 4,5-dimethyl- - Tributyl acetylcitrate
+node updated!
+
+NODE: Nonanal
+LAYER: 1
+SCORE: -30
+UP: 2
+DOWN: 32
+removing edge Nonanal - 2-Hydroxy-5-methoxybenzaldehyde
+removing edge Nonanal - Propanoic acid, 2-methyl-
+node updated!
+
+NODE: Serine
+LAYER: 1
+SCORE: -2
+UP: 1
+DOWN: 3
+removing edge Serine - Malic acid
+0.25 > 0.2, node to be removed
+
+NODE: Dodecanamide, N-(2-hydroxyethyl)-
+LAYER: 1
+SCORE: 1
+UP: 1
+DOWN: 0
+node updated!
+
+NODE: Pantolactone
+LAYER: 1
+SCORE: -5
+UP: 2
+DOWN: 7
+removing edge Pantolactone - (CH3)2C=NC2H558
+removing edge Pantolactone - Benzoic acid, methyl ester
+0.2222222222222222 > 0.2, node to be removed
+
+NODE: 5-(2-Aminopropyl)-2-methylphenol
+LAYER: 1
+SCORE: 13
+UP: 14
+DOWN: 1
+removing edge 5-(2-Aminopropyl)-2-methylphenol - Latanoprost lactone diol
+node updated!
+
+NODE: Benzeneacetamide
+LAYER: 1
+SCORE: 1
+UP: 1
+DOWN: 0
+node updated!
+
+NODE: Tricine
+LAYER: 1
+SCORE: 0
+UP: 5
+DOWN: 5
+score == 0, node to be removed
+
+NODE: 5-Androsten-17alpha-methyl-3beta,17beta-diol
+LAYER: 1
+SCORE: -7
+UP: 2
+DOWN: 9
+removing edge 5-Androsten-17alpha-methyl-3beta,17beta-diol - 1,4-diazabicyclo[4.3.0]nonan-2,5-dione, 3-methyl 
+removing edge 5-Androsten-17alpha-methyl-3beta,17beta-diol - Carfentrazone-ethyl
+node updated!
+
+NODE: Cyclohexanol
+LAYER: 1
+SCORE: -30
+UP: 1
+DOWN: 31
+removing edge Cyclohexanol - 2-Hydroxy-5-methoxybenzaldehyde
+node updated!
+
+NODE: Acetamide, 2,2,2-trifluoro-
+LAYER: 1
+SCORE: -1
+UP: 0
+DOWN: 1
+node updated!
+
+NODE: Pyrazine, 3,6-dimethyl-2,5-bis(trimethylsilyloxy)-
+LAYER: 2
+SCORE: 1
+UP: 1
+DOWN: 0
+node updated!
+
+NODE: 3-Methylvaleric acid
+LAYER: 2
+SCORE: 1
+UP: 2
+DOWN: 1
+removing edge 3-Methylvaleric acid - Vanillylmandelic acid
+0.3333333333333333 > 0.2, node to be removed
+
+NODE: Syringaldehyde
+LAYER: 2
+SCORE: 0
+UP: 2
+DOWN: 2
+score == 0, node to be removed
+
+NODE: DL-Ornithine
+LAYER: 2
+SCORE: -2
+UP: 0
+DOWN: 2
+node updated!
+
+NODE: Methyl alpha-Lyxofuranoside
+LAYER: 2
+SCORE: 1
+UP: 2
+DOWN: 1
+removing edge Methyl alpha-Lyxofuranoside - 3-Methylpiperazine-2,5-dione, (R)-
+0.3333333333333333 > 0.2, node to be removed
+
+NODE: Arabinofuranose, 1,2,3,5-tetrakis-O-
+LAYER: 2
+SCORE: -4
+UP: 0
+DOWN: 4
+node updated!
+
+NODE: 1,2,2-Trimethyl-1-aza-spiro[2.3]hexane
+LAYER: 2
+SCORE: 0
+UP: 1
+DOWN: 1
+score == 0, node to be removed
+
+NODE: Alloxanic acid
+LAYER: 2
+SCORE: -1
+UP: 0
+DOWN: 1
+node updated!
+
+NODE: D-Erythro-Pentofuranose, 2-deoxy-1,3-bis-O-
+LAYER: 2
+SCORE: -1
+UP: 0
+DOWN: 1
+node updated!
+
+NODE: 3-Methoxyamphetamine, 4-Trimethylsilyloxy, N,N-bis(Trimethylsilyloxy)-
+LAYER: 2
+SCORE: 1
+UP: 1
+DOWN: 0
+node updated!
+
+NODE: D-Ribose
+LAYER: 2
+SCORE: -2
+UP: 0
+DOWN: 2
+node updated!
+
+NODE: Docosyl octyl ether
+LAYER: 2
+SCORE: 0
+UP: 1
+DOWN: 1
+score == 0, node to be removed
+
+NODE: D-Xylofuranose, 1,2,3,5-tetrakis-O-
+LAYER: 2
+SCORE: -1
+UP: 0
+DOWN: 1
+node updated!
+
+NODE: L-Norleucine
+LAYER: 2
+SCORE: 1
+UP: 1
+DOWN: 0
+node updated!
+
+NODE: (pm)-N-Propylamphetamine
+LAYER: 2
+SCORE: 1
+UP: 1
+DOWN: 0
+node updated!
+
+NODE: 5,6-Dimethyl-4-phenyl-3-cyanopyridine-2(1H)-thione
+LAYER: 2
+SCORE: 1
+UP: 1
+DOWN: 0
+node updated!
+
+NODE: (pm)-Norketamine
+LAYER: 2
+SCORE: 1
+UP: 1
+DOWN: 0
+node updated!
+
+NODE: Albizziin
+LAYER: 2
+SCORE: -1
+UP: 0
+DOWN: 1
+node updated!
+
+NODE: 2-Hydroxy-2-methylbutyric acid
+LAYER: 2
+SCORE: -1
+UP: 0
+DOWN: 1
+node updated!
+
+NODE: Talonic acid, gamma-lactone
+LAYER: 2
+SCORE: 0
+UP: 1
+DOWN: 1
+score == 0, node to be removed
+
+NODE: Hippuric acid
+LAYER: 2
+SCORE: 0
+UP: 1
+DOWN: 1
+score == 0, node to be removed
+
+NODE: 2,5-Di-tert-butyl-4-((trimethylsilyl)oxy)phenol
+LAYER: 2
+SCORE: 0
+UP: 1
+DOWN: 1
+score == 0, node to be removed
+
+NODE: Benzene, 4-ethenyl-1,2-dimethoxy-
+LAYER: 2
+SCORE: -3
+UP: 0
+DOWN: 3
+node updated!
+
+NODE: D-(-)-Lyxose, tetrakis
+LAYER: 2
+SCORE: -1
+UP: 0
+DOWN: 1
+node updated!
+
+NODE: Dobutamine
+LAYER: 2
+SCORE: 1
+UP: 1
+DOWN: 0
+node updated!
+
+NODE: 3,5-di-tert-Butyl-4-hydroxyacetophenone
+LAYER: 2
+SCORE: -2
+UP: 0
+DOWN: 2
+node updated!
+
+NODE: Norketamine
+LAYER: 2
+SCORE: 3
+UP: 3
+DOWN: 0
+node updated!
+
+NODE: Pyrazine, 3,6-dihydro-3,6-dimethyl-
+LAYER: 2
+SCORE: 2
+UP: 2
+DOWN: 0
+node updated!
+
+NODE: 2,2,8,8-Tetramethyl-3,7-dioxa-4-aza-2,8-disilanon-4-ene
+LAYER: 2
+SCORE: -1
+UP: 0
+DOWN: 1
+node updated!
+
+NODE: Ribonic acid, 2,3,4,5-tetrakis-
+LAYER: 2
+SCORE: 2
+UP: 2
+DOWN: 0
+node updated!
+
+NODE: N-Isobutyrylglycine
+LAYER: 2
+SCORE: 1
+UP: 1
+DOWN: 0
+node updated!
+
+NODE: beta-Hydroxypyruvic acid
+LAYER: 2
+SCORE: -1
+UP: 0
+DOWN: 1
+node updated!
+
+NODE: n-Butylamine
+LAYER: 2
+SCORE: 0
+UP: 1
+DOWN: 1
+score == 0, node to be removed
+
+NODE: 5-Cholesten-3beta, 7alpha-bis[(trimethylsilyl)oxy]- 
+LAYER: 2
+SCORE: -1
+UP: 0
+DOWN: 1
+node updated!
+
+NODE: D-Psicofuranose, pentakis
+LAYER: 2
+SCORE: 0
+UP: 1
+DOWN: 1
+score == 0, node to be removed
+
+NODE: 3-(2-Hydroxyethyl)imidazole-2-thione
+LAYER: 2
+SCORE: 0
+UP: 1
+DOWN: 1
+score == 0, node to be removed
+
+NODE: Ammeline
+LAYER: 2
+SCORE: -1
+UP: 0
+DOWN: 1
+node updated!
+
+NODE: Methyl (3,4-dimethoxyphenyl)(hydroxy)acetate
+LAYER: 2
+SCORE: -3
+UP: 0
+DOWN: 3
+node updated!
+
+NODE: 5,6-Dihydro-5-methyluracil
+LAYER: 2
+SCORE: 0
+UP: 1
+DOWN: 1
+score == 0, node to be removed
+
+NODE: Phenylpropanolamine
+LAYER: 2
+SCORE: 1
+UP: 1
+DOWN: 0
+node updated!
+
+NODE: l-Histidine ethyl ester
+LAYER: 2
+SCORE: -2
+UP: 0
+DOWN: 2
+node updated!
+
+NODE: L-Leucine
+LAYER: 3
+SCORE: -1
+UP: 0
+DOWN: 1
+node updated!
+
+NODE: Phthalazin-1-one
+LAYER: 4
+SCORE: 1
+UP: 1
+DOWN: 0
+node updated!
+
+FINAL NETWORK NODES:
+ENSMUSG00000031451-P: {'dir': 1.0}
+(7a-Isopropenyl-4,5-dimethyloctahydroinden-4-yl)methanol: {'dir': -1}
+ENSMUSG00000042010-P: {'dir': 1.0}
+ENSMUSG00000038545-P: {'dir': 1.0}
+ENSMUSG00000048612-P: {'dir': -1.0}
+ENSMUSG00000052584-P: {'dir': 1.0}
+ENSMUSG00000061689-P: {'dir': 1.0}
+(9H-fluoren-9-yl)methanol, O-methoxycarbonyl-: {'dir': -1}
+ENSMUSG00000049287-P: {'dir': 1.0}
+ENSMUSG00000046711-P: {'dir': 1.0}
+(CH3)2C=NC2H558: {'dir': 1}
+ENSMUSG00000022246-P: {'dir': -1.0}
+ENSMUSG00000038324-P: {'dir': 1.0}
+ENSMUSG00000036613-P: {'dir': 1.0}
+ENSMUSG00000041012-P: {'dir': -1.0}
+ENSMUSG00000007892-P: {'dir': 1.0}
+ENSMUSG00000026341-P: {'dir': -1.0}
+ENSMUSG00000064294-P: {'dir': -1.0}
+1-(3-Methylphenyl)piperazine: {'dir': -1}
+ENSMUSG00000034377-P: {'dir': -1.0}
+ENSMUSG00000039959-P: {'dir': -1.0}
+ENSMUSG00000021990-P: {'dir': 1.0}
+ENSMUSG00000069631-P: {'dir': -1.0}
+1-(4-Methoxyphenyl)-4,6-dimethyl-2(1H)-pyrimidinone: {'dir': -1}
+ENSMUSG00000028811-P: {'dir': 1.0}
+ENSMUSG00000071637-P: {'dir': 1.0}
+1-Aminocyclopropanecarboxylic acid: {'dir': -1}
+ENSMUSG00000024740-P: {'dir': 1.0}
+1-Butanamine, N,N-diethyl-: {'dir': -1}
+ENSMUSG00000030703-P: {'dir': 1.0}
+ENSMUSG00000039323-P: {'dir': 1.0}
+ENSMUSG00000030605-P: {'dir': 1.0}
+ENSMUSG00000051043-P: {'dir': 1.0}
+ENSMUSG00000041720-P: {'dir': 1.0}
+ENSMUSG00000032288-P: {'dir': 1.0}
+1-Cyclopentylethanol: {'dir': -1}
+ENSMUSG00000008348-P: {'dir': 1.0}
+ENSMUSG00000026563-P: {'dir': 1.0}
+1-Decene, 8-methyl-: {'dir': -1}
+ENSMUSG00000022177-P: {'dir': -1.0}
+ENSMUSG00000027374-P: {'dir': -1.0}
+1-Deoxypentitol: {'dir': -1}
+ENSMUSG00000030216-P: {'dir': -1.0}
+ENSMUSG00000025410-P: {'dir': 1.0}
+ENSMUSG00000014195-P: {'dir': 1.0}
+ENSMUSG00000005510-P: {'dir': -1.0}
+ENSMUSG00000001687-P: {'dir': -1.0}
+ENSMUSG00000022312-P: {'dir': 1.0}
+ENSMUSG00000038084-P: {'dir': -1.0}
+ENSMUSG00000024191-P: {'dir': 1.0}
+ENSMUSG00000020235-P: {'dir': 1.0}
+ENSMUSG00000031617-P: {'dir': -1.0}
+ENSMUSG00000020135-P: {'dir': 1.0}
+1-Hexadecanol: {'dir': 1}
+ENSMUSG00000027782-P: {'dir': -1.0}
+ENSMUSG00000105382-P: {'dir': -1.0}
+1-Hydroxy-3-methoxy-6-methylanthraquinone: {'dir': 1}
+ENSMUSG00000005514-P: {'dir': -1.0}
+ENSMUSG00000026623-P: {'dir': -1.0}
+ENSMUSG00000032633-P: {'dir': 1.0}
+ENSMUSG00000024168-P: {'dir': -1.0}
+ENSMUSG00000042797-P: {'dir': -1.0}
+ENSMUSG00000068196-P: {'dir': -1.0}
+ENSMUSG00000048330-P: {'dir': -1.0}
+ENSMUSG00000045284-P: {'dir': -1.0}
+ENSMUSG00000017286-P: {'dir': -1.0}
+1-Methyl-N,N-bis(trimethylsilyl)-4-[(trimethylsilyl)oxy]-1H-imidazol-2-amine: {'dir': -1}
+ENSMUSG00000006777-P: {'dir': -1.0}
+ENSMUSG00000029878-P: {'dir': -1.0}
+ENSMUSG00000026483-P: {'dir': -1.0}
+1-Octanol, 2-butyl-: {'dir': 1}
+ENSMUSG00000025437-P: {'dir': 1.0}
+1-Octene, 2-methyl-: {'dir': -1}
+ENSMUSG00000051510-P: {'dir': -1.0}
+ENSMUSG00000014075-P: {'dir': -1.0}
+1-Phenethylamine: {'dir': -1}
+ENSMUSG00000064340-P: {'dir': 1.0}
+ENSMUSG00000055681-P: {'dir': 1.0}
+1-Phenyl-1,2-ethanediol: {'dir': -1}
+ENSMUSG00000032615-P: {'dir': 1.0}
+ENSMUSG00000028655-P: {'dir': 1.0}
+1-Piperazineethanol, 4-dibenzo[b,f][1,4]thiazepin-11-yl-: {'dir': 1}
+ENSMUSG00000026273-P: {'dir': 1.0}
+ENSMUSG00000056952-P: {'dir': 1.0}
+1,1'-Biphenyl, 3,4-diethyl-: {'dir': -1}
+1,2-Benzenedicarboxylic acid: {'dir': 1}
+ENSMUSG00000023967-P: {'dir': 1.0}
+1,2-Butadiene, 1,1,4-triphenyl-3-trimethylsilyl-4-trimethylsilyloxy-: {'dir': -1}
+ENSMUSG00000061838-P: {'dir': -1.0}
+ENSMUSG00000042745-P: {'dir': 1.0}
+ENSMUSG00000070643-P: {'dir': -1.0}
+1,2,3,10,11,11a-Hexahydro-6,7,8-trimethoxy-3-oxo-5H-dibenzo(a,d)cycloheptene: {'dir': -1}
+1,3,5-Benzetriol: {'dir': -1}
+ENSMUSG00000051074-P: {'dir': 1.0}
+ENSMUSG00000001054-P: {'dir': 1.0}
+ENSMUSG00000020491-P: {'dir': -1.0}
+ENSMUSG00000072763-P: {'dir': -1.0}
+1,3,5-Trimethyl-1H-pyrazol-4-amine: {'dir': -1}
+ENSMUSG00000051297-P: {'dir': 1.0}
+ENSMUSG00000035293-P: {'dir': 1.0}
+1,4-diazabicyclo[4.3.0]nonan-2,5-dione, 3-methyl : {'dir': 1}
+ENSMUSG00000030304-P: {'dir': -1.0}
+1,5-Anhydroglucitol: {'dir': 1}
+ENSMUSG00000035941-P: {'dir': -1.0}
+10-Heptadecenoic acid: {'dir': -1}
+ENSMUSG00000024687-P: {'dir': -1.0}
+ENSMUSG00000024800-P: {'dir': -1.0}
+ENSMUSG00000042594-P: {'dir': -1.0}
+ENSMUSG00000020546-P: {'dir': -1.0}
+ENSMUSG00000037408-P: {'dir': -1.0}
+ENSMUSG00000015461-P: {'dir': 1.0}
+12-Oxooctadecanoate: {'dir': -1}
+ENSMUSG00000031751-P: {'dir': 1.0}
+ENSMUSG00000029550-P: {'dir': 1.0}
+ENSMUSG00000017221-P: {'dir': 1.0}
+ENSMUSG00000004285-P: {'dir': 1.0}
+ENSMUSG00000030286-P: {'dir': 1.0}
+ENSMUSG00000066595-P: {'dir': -1.0}
+13-Docosenamide: {'dir': 1}
+ENSMUSG00000025474-P: {'dir': -1.0}
+15-Oxo-11Z,13E-eicosadienoic acid: {'dir': -1}
+ENSMUSG00000049739-P: {'dir': 1.0}
+ENSMUSG00000030060-P: {'dir': 1.0}
+1H-Pyrazole, 3,4-bis(trimethylsilyl)-: {'dir': -1}
+ENSMUSG00000058351-P: {'dir': 1.0}
+ENSMUSG00000071072-P: {'dir': -1.0}
+2-(2,5-Dimethoxy-phenyl)-propionaldehyde: {'dir': 1}
+ENSMUSG00000034647-P: {'dir': -1.0}
+2-(Decanoyloxy)propane-1,3-diyl dioctanoate: {'dir': -1}
+ENSMUSG00000102142-P: {'dir': -1.0}
+ENSMUSG00000029623-P: {'dir': -1.0}
+ENSMUSG00000046351-P: {'dir': -1.0}
+ENSMUSG00000031922-P: {'dir': -1.0}
+ENSMUSG00000021709-P: {'dir': -1.0}
+2-Acetyl-5-chloro-3-methylbenzo(b)thiophene: {'dir': -1}
+ENSMUSG00000004895-P: {'dir': 1.0}
+ENSMUSG00000039883-P: {'dir': 1.0}
+ENSMUSG00000040661-P: {'dir': -1.0}
+2-Allyl-1,4-dimethoxybenzene: {'dir': -1}
+ENSMUSG00000014846-P: {'dir': 1.0}
+ENSMUSG00000038135-P: {'dir': 1.0}
+ENSMUSG00000021585-P: {'dir': -1.0}
+2-Amino-4-methylphenol: {'dir': -1}
+2-Aminoadipic acid: {'dir': -1}
+ENSMUSG00000043263-P: {'dir': -1.0}
+2-Aminobutanoic acid: {'dir': 1}
+ENSMUSG00000032238-P: {'dir': -1.0}
+2-Ethyl-3-hydroxypropionic acid: {'dir': -1}
+ENSMUSG00000031489-P: {'dir': -1.0}
+ENSMUSG00000004098-P: {'dir': 1.0}
+2-Heptanone, 4,6-dimethyl-: {'dir': -1}
+ENSMUSG00000041642-P: {'dir': 1.0}
+ENSMUSG00000031590-P: {'dir': -1.0}
+ENSMUSG00000039145-P: {'dir': -1.0}
+ENSMUSG00000078201-P: {'dir': -1.0}
+ENSMUSG00000013858-P: {'dir': 1.0}
+2-Heptenoic acid: {'dir': -1}
+ENSMUSG00000078485-P: {'dir': -1.0}
+2-Hydroxy-3-methylbutyric acid: {'dir': -1}
+ENSMUSG00000022711-P: {'dir': -1.0}
+ENSMUSG00000029438-P: {'dir': -1.0}
+ENSMUSG00000041491-P: {'dir': -1.0}
+ENSMUSG00000046806-P: {'dir': -1.0}
+2-Hydroxy-5-methoxybenzaldehyde: {'dir': 1}
+2-Hydroxybutyric acid: {'dir': 1}
+ENSMUSG00000004040-P: {'dir': 1.0}
+ENSMUSG00000024335-P: {'dir': 1.0}
+ENSMUSG00000033792-P: {'dir': 1.0}
+ENSMUSG00000025231-P: {'dir': 1.0}
+2-Isopropyl-5-methyl-1-heptanol : {'dir': -1}
+ENSMUSG00000041408-P: {'dir': -1.0}
+2-Ketoisocaproic acid: {'dir': 1}
+2-Methyl-4-pentenoic acid: {'dir': -1}
+ENSMUSG00000030352-P: {'dir': 1.0}
+ENSMUSG00000024772-P: {'dir': 1.0}
+2-Methylglutaconic acid: {'dir': -1}
+ENSMUSG00000016495-P: {'dir': -1.0}
+ENSMUSG00000031511-P: {'dir': 1.0}
+ENSMUSG00000050822-P: {'dir': 1.0}
+2-Pentenoic acid: {'dir': -1}
+2-Propenamide, 3-phenyl-N-2-propenyl-: {'dir': -1}
+ENSMUSG00000066057-P: {'dir': -1.0}
+ENSMUSG00000040612-P: {'dir': -1.0}
+2,2-Diallylpyrrolidine: {'dir': -1}
+ENSMUSG00000021000-P: {'dir': -1.0}
+2,2,4-Trimethyl-1,3-pentanediol diisobutyrate: {'dir': -1}
+ENSMUSG00000028383-P: {'dir': 1.0}
+2,3-Butanediol: {'dir': -1}
+ENSMUSG00000022426-P: {'dir': 1.0}
+2,3,4-Trihydroxybutyric acid tetrakis: {'dir': -1}
+ENSMUSG00000032216-P: {'dir': -1.0}
+2,4-Imidazolidinedione, 5,5-dimethyl-: {'dir': -1}
+ENSMUSG00000026520-P: {'dir': 1.0}
+ENSMUSG00000028041-P: {'dir': 1.0}
+ENSMUSG00000038990-P: {'dir': 1.0}
+ENSMUSG00000054484-P: {'dir': 1.0}
+2,5-Cyclohexadiene-1,4-dione, 2,6-bis(1,1-dimethylethyl)-: {'dir': 1}
+ENSMUSG00000029265-P: {'dir': -1.0}
+2,5-di-tert-Butyl-1,4-benzoquinone: {'dir': 1}
+2,5-Di-tert-butylhydroquinone: {'dir': 1}
+ENSMUSG00000053746-P: {'dir': 1.0}
+ENSMUSG00000015970-P: {'dir': 1.0}
+2,5-Dimethoxy-4-methylamphetamine: {'dir': -1}
+ENSMUSG00000039000-P: {'dir': -1.0}
+ENSMUSG00000064246-P: {'dir': -1.0}
+ENSMUSG00000026527-P: {'dir': -1.0}
+ENSMUSG00000046714-P: {'dir': 1.0}
+2,5-Dimethoxymandelic acid: {'dir': 1}
+ENSMUSG00000042506-P: {'dir': 1.0}
+ENSMUSG00000061533-P: {'dir': -1.0}
+2,5-Dimethyl-1-aza-bicyclo[2.2.1]heptane: {'dir': 1}
+ENSMUSG00000035934-P: {'dir': -1.0}
+ENSMUSG00000028700-P: {'dir': -1.0}
+2,5-Piperazinedione, 3-benzyl-6-isopropyl-: {'dir': -1}
+ENSMUSG00000033487-P: {'dir': -1.0}
+ENSMUSG00000031246-P: {'dir': -1.0}
+ENSMUSG00000003949-P: {'dir': -1.0}
+ENSMUSG00000045817-P: {'dir': -1.0}
+2,6-Bis[2-[2-S-thiosulfuroethylamino]ethoxy]pyrazine: {'dir': -1}
+ENSMUSG00000062040-P: {'dir': 1.0}
+ENSMUSG00000031079-P: {'dir': 1.0}
+ENSMUSG00000001964-P: {'dir': 1.0}
+2,6-Dimethyl-N-[3-(trimethylsilyl)-1,3-thiazinan-2-ylidene]aniline: {'dir': -1}
+ENSMUSG00000097462-P: {'dir': -1.0}
+ENSMUSG00000030616-P: {'dir': -1.0}
+ENSMUSG00000030697-P: {'dir': 1.0}
+3-(3-Cyclohexylaminopropionylamino)-5-ethylthiophene-2-carboxylic acid, ethyl ester: {'dir': -1}
+ENSMUSG00000038555-P: {'dir': 1.0}
+3-Amino-2-piperidone: {'dir': -1}
+ENSMUSG00000042699-P: {'dir': -1.0}
+ENSMUSG00000063894-P: {'dir': -1.0}
+3-Aminobenzoic acid: {'dir': -1}
+ENSMUSG00000028133-P: {'dir': 1.0}
+ENSMUSG00000030265-P: {'dir': -1.0}
+ENSMUSG00000040167-P: {'dir': -1.0}
+ENSMUSG00000042129-P: {'dir': 1.0}
+ENSMUSG00000026096-P: {'dir': -1.0}
+ENSMUSG00000004263-P: {'dir': -1.0}
+ENSMUSG00000027349-P: {'dir': -1.0}
+ENSMUSG00000039194-P: {'dir': -1.0}
+3-Aminobutanoic acid: {'dir': -1}
+ENSMUSG00000030782-P: {'dir': -1.0}
+3-Buten-2-one, 3-trimethylsilyloxy-: {'dir': 1}
+3-Buten-2-one, 4-(4-methoxyphenyl)-: {'dir': 1}
+3-Cyclohexyl-L-alanine amide, N,N,N'N'-tetramethyl-: {'dir': -1}
+3-Hexenedinitrile: {'dir': -1}
+3-Hydroxy-2,3-dihydromaltol: {'dir': -1}
+ENSMUSG00000031657-P: {'dir': -1.0}
+3-Hydroxyisovaleric acid: {'dir': -1}
+ENSMUSG00000091183-P: {'dir': -1.0}
+3-Indoleacetic acid: {'dir': -1}
+ENSMUSG00000031583-P: {'dir': -1.0}
+ENSMUSG00000022023-P: {'dir': -1.0}
+ENSMUSG00000011831-P: {'dir': -1.0}
+ENSMUSG00000034349-P: {'dir': -1.0}
+ENSMUSG00000021243-P: {'dir': 1.0}
+3-Methoxysalicylic acid: {'dir': 1}
+ENSMUSG00000029790-P: {'dir': -1.0}
+ENSMUSG00000018707-P: {'dir': 1.0}
+3-Methyladenine: {'dir': -1}
+ENSMUSG00000090877-P: {'dir': 1.0}
+3-Methylpiperazine-2,5-dione, (R)-: {'dir': -1}
+ENSMUSG00000056735-P: {'dir': -1.0}
+ENSMUSG00000070527-P: {'dir': 1.0}
+ENSMUSG00000032560-P: {'dir': -1.0}
+3-Nonen-1-ol: {'dir': 1}
+3-Ureidopropionic acid: {'dir': -1}
+ENSMUSG00000022568-P: {'dir': 1.0}
+3,4-Dihydrocoumarin, 4,4-dimethyl-6-dimethylamino-: {'dir': 1}
+ENSMUSG00000032261-P: {'dir': -1.0}
+ENSMUSG00000023046-P: {'dir': 1.0}
+ENSMUSG00000030862-P: {'dir': -1.0}
+3,4,5-Trihydroxypentanoic acid, tetrakis(trimethylsilyl)-: {'dir': -1}
+ENSMUSG00000020752-P: {'dir': 1.0}
+ENSMUSG00000041134-P: {'dir': -1.0}
+3,5-di-tert-Butyl-4-hydroxyacetophenone: {'dir': -1}
+ENSMUSG00000028051-P: {'dir': 1.0}
+ENSMUSG00000034930-P: {'dir': -1.0}
+3,5-Dimethylpyrazole: {'dir': -1}
+ENSMUSG00000027523-P: {'dir': -1.0}
+ENSMUSG00000026803-P: {'dir': -1.0}
+3'-(Trimethylsilyl)oxy-beta-naphthoflavone: {'dir': 1}
+ENSMUSG00000064345-P: {'dir': -1.0}
+ENSMUSG00000006005-P: {'dir': -1.0}
+ENSMUSG00000020297-P: {'dir': 1.0}
+3beta-TRIMETHYLSILOXY-5alpha,6alpha-EPOXYCHOLESTANE: {'dir': -1}
+3beta,4beta-Bis(trimethylsiloxy)cholest-5-ene: {'dir': -1}
+ENSMUSG00000025060-P: {'dir': -1.0}
+ENSMUSG00000103731-P: {'dir': -1.0}
+4-(Methoxycarbonyl)phenol: {'dir': 1}
+4-Hydroxybenzeneacetic acid: {'dir': -1}
+4-Hydroxybenzoic acid: {'dir': -1}
+ENSMUSG00000070858-P: {'dir': 1.0}
+4-Hydroxybutanoic acid: {'dir': 1}
+4-Hydroxyphenyllactic acid: {'dir': -1}
+ENSMUSG00000031479-P: {'dir': -1.0}
+4-Methylvaleric acid: {'dir': 1}
+ENSMUSG00000083899-P: {'dir': 1.0}
+4-Pyridinol: {'dir': -1}
+ENSMUSG00000041649-P: {'dir': 1.0}
+ENSMUSG00000046947-P: {'dir': 1.0}
+5-Henicosylresorcinol: {'dir': -1}
+5-Hydroxyquinoline: {'dir': -1}
+ENSMUSG00000041685-P: {'dir': -1.0}
+ENSMUSG00000068762-P: {'dir': 1.0}
+5,6-Dimethyl-4-phenyl-3-cyanopyridine-2(1H)-thione: {'dir': 1}
+ENSMUSG00000031513-P: {'dir': -1.0}
+ENSMUSG00000032641-P: {'dir': 1.0}
+6-Methoxy-1-methyl-1,2,3,4-tetrahydroisoquinolin-7-ol : {'dir': -1}
+6,7,4'-Trihydroxyisoflavone: {'dir': -1}
+ENSMUSG00000094002-P: {'dir': 1.0}
+ENSMUSG00000030557-P: {'dir': -1.0}
+ENSMUSG00000038717-P: {'dir': -1.0}
+6,8-Dioxapentadecane: {'dir': -1}
+ENSMUSG00000064338-P: {'dir': 1.0}
+7-Isoquinolinol, 1,2,3,4-tetrahydro-1-[(4-hydroxyphenyl)methyl]-6-methoxy-: {'dir': 1}
+ENSMUSG00000002660-P: {'dir': 1.0}
+9-Hexadecenoic acid: {'dir': 1}
+9-Octadecenamide: {'dir': -1}
+9-Octadecenoic acid: {'dir': -1}
+9H-Fluorene, 9-methylene-: {'dir': -1}
+ENSMUSG00000023236-P: {'dir': 1.0}
+9H-Purine, 9-(trimethylsilyl)-2,6,8-tris[(trimethylsilyl)oxy]-: {'dir': -1}
+ENSMUSG00000036815-P: {'dir': -1.0}
+ENSMUSG00000037012-P: {'dir': 1.0}
+Acetamide, 2,2,2-trifluoro-: {'dir': -1}
+ENSMUSG00000031967-P: {'dir': -1.0}
+ENSMUSG00000005699-P: {'dir': 1.0}
+Acetic acid, bis[(trimethylsilyl)oxyl]-: {'dir': 1}
+Acetoacetic acid: {'dir': -1}
+Aceturic acid: {'dir': -1}
+ENSMUSG00000044224-P: {'dir': -1.0}
+Adipoyl-L-carnitine: {'dir': -1}
+ENSMUSG00000042426-P: {'dir': 1.0}
+ENSMUSG00000030016-P: {'dir': -1.0}
+Alloxanic acid: {'dir': -1}
+ENSMUSG00000021215-P: {'dir': -1.0}
+ENSMUSG00000032018-P: {'dir': -1.0}
+ENSMUSG00000038884-P: {'dir': 1.0}
+ENSMUSG00000026784-P: {'dir': 1.0}
+Allylescaline : {'dir': -1}
+ENSMUSG00000022843-P: {'dir': -1.0}
+alpha-L-Galactopyranoside, methyl 6-deoxy-, (R,R,R,S,S)-: {'dir': -1}
+alpha-Linolenic acid: {'dir': 1}
+Arabinofuranose, 1,2,3,5-tetrakis-O-: {'dir': -1}
+ENSMUSG00000038827-P: {'dir': 1.0}
+Arachidonic acid: {'dir': -1}
+ENSMUSG00000033047-P: {'dir': -1.0}
+Arsenous acid: {'dir': 1}
+ENSMUSG00000015932-P: {'dir': -1.0}
+Aspartic acid: {'dir': 1}
+Atrazine desethyl: {'dir': -1}
+Azatadine: {'dir': -1}
+Azetidine, 1-acetyl-2-methyl-: {'dir': -1}
+Aziridine, 1-(2-buten-2-yl)-: {'dir': -1}
+ENSMUSG00000059495-P: {'dir': -1.0}
+Benzaldehyde, 2,5-dimethyl-: {'dir': -1}
+ENSMUSG00000035133-P: {'dir': -1.0}
+ENSMUSG00000032372-P: {'dir': -1.0}
+ENSMUSG00000038064-P: {'dir': 1.0}
+ENSMUSG00000031715-P: {'dir': -1.0}
+ENSMUSG00000058756-P: {'dir': 1.0}
+Benzene, 1-acetoxy-2,6-dimethoxy-4-(2-propenyl)-: {'dir': 1}
+ENSMUSG00000027598-P: {'dir': -1.0}
+ENSMUSG00000018293-P: {'dir': -1.0}
+Benzene, 4-ethenyl-1,2-dimethoxy-: {'dir': -1}
+ENSMUSG00000036718-P: {'dir': 1.0}
+ENSMUSG00000034957-P: {'dir': 1.0}
+Benzeneethanamine, N-[(pentafluorophenyl)methylene]-4-[(trimethylsilyl)oxy]-: {'dir': 1}
+Benzenemethanamine, 2,3-dimethoxy-: {'dir': 1}
+ENSMUSG00000052751-P: {'dir': 1.0}
+ENSMUSG00000052951-P: {'dir': 1.0}
+Benzimidazole, 5-trifluoromethyl-2-methyl-: {'dir': -1}
+ENSMUSG00000067928-P: {'dir': -1.0}
+ENSMUSG00000029772-P: {'dir': -1.0}
+ENSMUSG00000025016-P: {'dir': -1.0}
+ENSMUSG00000002324-P: {'dir': 1.0}
+Benzo[b]fluorene, 5-amino-7-methyl-1,2,3,4,6,7,8,9-octahydro-11-thia-10-aza-: {'dir': -1}
+Benzoic acid, methyl ester: {'dir': 1}
+Benzoic acid, pentadecyl ester: {'dir': -1}
+ENSMUSG00000028273-P: {'dir': -1.0}
+ENSMUSG00000006476-P: {'dir': 1.0}
+ENSMUSG00000016487-P: {'dir': -1.0}
+ENSMUSG00000024975-P: {'dir': -1.0}
+Benzophenone: {'dir': -1}
+ENSMUSG00000029551-P: {'dir': 1.0}
+Benzyl alcohol: {'dir': 1}
+beta-D-Galactofuranose, 1,2,3,5,6-pentakis-O-(trimethylsilyl)-: {'dir': -1}
+beta-D-Glucopyranose: {'dir': 1}
+ENSMUSG00000029840-P: {'dir': -1.0}
+ENSMUSG00000070348-P: {'dir': -1.0}
+beta-Lyxopyranose: {'dir': -1}
+ENSMUSG00000045930-P: {'dir': -1.0}
+ENSMUSG00000022427-P: {'dir': 1.0}
+ENSMUSG00000030560-P: {'dir': 1.0}
+ENSMUSG00000027860-P: {'dir': -1.0}
+ENSMUSG00000049097-P: {'dir': -1.0}
+ENSMUSG00000053749-P: {'dir': 1.0}
+ENSMUSG00000085945-P: {'dir': -1.0}
+ENSMUSG00000017314-P: {'dir': -1.0}
+Butanoic acid, 2-methyl-3-[(trimethylsilyl)oxy]-: {'dir': -1}
+ENSMUSG00000031918-P: {'dir': -1.0}
+Butanoic acid, 2,4-bis[(trimethylsilyl)oxy]-: {'dir': -1}
+ENSMUSG00000099689-P: {'dir': -1.0}
+Butylated Hydroxytoluene: {'dir': -1}
+ENSMUSG00000047141-P: {'dir': -1.0}
+Butylmethylamine: {'dir': -1}
+ENSMUSG00000026820-P: {'dir': 1.0}
+Cadaverine: {'dir': -1}
+ENSMUSG00000029198-P: {'dir': 1.0}
+Campesterol: {'dir': -1}
+ENSMUSG00000039157-P: {'dir': 1.0}
+Carfentrazone-ethyl: {'dir': 1}
+ENSMUSG00000005580-P: {'dir': 1.0}
+Cholest-7-en-3-ol, (3beta,5alpha)-: {'dir': 1}
+Cholesta-3,5-dien-7-one: {'dir': -1}
+ENSMUSG00000087368-P: {'dir': -1.0}
+cis-4-Trimethylsilyloxy-cyclohexyl(trimethylsilyl)carboxylate: {'dir': -1}
+ENSMUSG00000021254-P: {'dir': 1.0}
+Cyclo-(l-leucyl-l-phenylalanyl) : {'dir': 1}
+cyclobutanecarboxylic acid: {'dir': -1}
+ENSMUSG00000019173-P: {'dir': 1.0}
+Cyclobutanol: {'dir': -1}
+Cyclohexanol: {'dir': -1}
+Cyclohexene, 3-butyl-3-methyl-1-trimethylsilyloxy-: {'dir': -1}
+ENSMUSG00000032172-P: {'dir': 1.0}
+ENSMUSG00000098098-P: {'dir': -1.0}
+ENSMUSG00000039450-P: {'dir': 1.0}
+Cyclopentaneacetic acid, 3-oxo-2-pentyl-: {'dir': -1}
+ENSMUSG00000062044-P: {'dir': 1.0}
+Cyclopentanone, 2,2,4-trimethyl-: {'dir': -1}
+ENSMUSG00000091475-P: {'dir': 1.0}
+D-(-)-Citramalic acid: {'dir': -1}
+ENSMUSG00000024947-P: {'dir': 1.0}
+ENSMUSG00000021676-P: {'dir': -1.0}
+D-(-)-Fructofuranose, pentakis: {'dir': 1}
+ENSMUSG00000042659-P: {'dir': -1.0}
+ENSMUSG00000024151-P: {'dir': 1.0}
+D-(+)-Ribono-1,4-lactone (R,S,R)-: {'dir': -1}
+ENSMUSG00000066113-P: {'dir': 1.0}
+D-(+)-Talofuranose, pentakis: {'dir': 1}
+D-Arabinose: {'dir': 1}
+ENSMUSG00000043411-P: {'dir': 1.0}
+D-Fructose: {'dir': -1}
+ENSMUSG00000105607-P: {'dir': -1.0}
+ENSMUSG00000012422-P: {'dir': -1.0}
+D-Isoleucine, N-acetyl-: {'dir': -1}
+ENSMUSG00000020308-P: {'dir': 1.0}
+D-Mannose: {'dir': -1}
+ENSMUSG00000030663-P: {'dir': -1.0}
+ENSMUSG00000015839-P: {'dir': -1.0}
+ENSMUSG00000072662-P: {'dir': -1.0}
+ENSMUSG00000024976-P: {'dir': -1.0}
+Decanoic acid: {'dir': 1}
+ENSMUSG00000037716-P: {'dir': 1.0}
+Dehydronorketamine: {'dir': -1}
+Deoxycholic Acid: {'dir': -1}
+ENSMUSG00000057738-P: {'dir': 1.0}
+Desmosterol: {'dir': -1}
+Dihydrouracil: {'dir': -1}
+Dinoseb : {'dir': -1}
+ENSMUSG00000022781-P: {'dir': -1.0}
+ENSMUSG00000021686-P: {'dir': -1.0}
+DL-Glyceraldehyde: {'dir': -1}
+ENSMUSG00000055447-P: {'dir': -1.0}
+ENSMUSG00000052534-P: {'dir': -1.0}
+ENSMUSG00000037646-P: {'dir': -1.0}
+ENSMUSG00000031027-P: {'dir': 1.0}
+Doconexent: {'dir': 1}
+ENSMUSG00000040158-P: {'dir': 1.0}
+Dodecanamide, N-(2-hydroxyethyl)-: {'dir': 1}
+Dodecane, 4,6-dimethyl-: {'dir': -1}
+ENSMUSG00000016018-P: {'dir': 1.0}
+Dodecanoic acid, 1-methylethyl ester: {'dir': -1}
+ENSMUSG00000014603-P: {'dir': -1.0}
+ENSMUSG00000008690-P: {'dir': 1.0}
+Dodecylcyclohexane: {'dir': -1}
+ENSMUSG00000030256-P: {'dir': -1.0}
+ENSMUSG00000046157-P: {'dir': 1.0}
+Dopamine: {'dir': 1}
+ENSMUSG00000067148-P: {'dir': 1.0}
+ENSMUSG00000039813-P: {'dir': 1.0}
+Erythritol: {'dir': -1}
+Erythrono-1,4-lactone, (Z)-: {'dir': -1}
+ENSMUSG00000085890-P: {'dir': 1.0}
+Ethanolamine: {'dir': -1}
+ENSMUSG00000025505-P: {'dir': -1.0}
+Ethanone, 1-(2,5-dimethoxyphenyl)-: {'dir': -1}
+Ethanone, 1-(5-methoxy-2-methyl-3(1H)-indolyl)-: {'dir': -1}
+ENSMUSG00000049295-P: {'dir': 1.0}
+Ethyl cis-2-trimethylsilyl-cyclopropane-1-carboxylate: {'dir': -1}
+Furan, 2-pentyl-: {'dir': -1}
+ENSMUSG00000058420-P: {'dir': 1.0}
+Galactopyranose: {'dir': 1}
+Glucopyranose: {'dir': -1}
+Glyceric acid: {'dir': -1}
+Glycine: {'dir': -1}
+Glycine, N-(1-oxobutyl)-: {'dir': -1}
+ENSMUSG00000049744-P: {'dir': 1.0}
+Glycine, N-(N-DL-leucylglycyl)-: {'dir': -1}
+ENSMUSG00000033021-P: {'dir': -1.0}
+Glycine, N-[4-[(trimethylsilyl)oxy]benzoyl]-: {'dir': -1}
+ENSMUSG00000035505-P: {'dir': 1.0}
+Glycolic acid: {'dir': -1}
+ENSMUSG00000104682-P: {'dir': -1.0}
+Glyoxime: {'dir': -1}
+Guanabenz: {'dir': -1}
+ENSMUSG00000030058-P: {'dir': 1.0}
+ENSMUSG00000031864-P: {'dir': -1.0}
+Heptadecanoic acid: {'dir': -1}
+ENSMUSG00000026509-P: {'dir': -1.0}
+ENSMUSG00000003190-P: {'dir': -1.0}
+ENSMUSG00000102664-P: {'dir': 1.0}
+Hexanoic acid: {'dir': -1}
+ENSMUSG00000033948-P: {'dir': 1.0}
+ENSMUSG00000028030-P: {'dir': 1.0}
+Hydantoic acid: {'dir': -1}
+Hydracrylic acid: {'dir': -1}
+ENSMUSG00000056054-P: {'dir': 1.0}
+ENSMUSG00000019907-P: {'dir': -1.0}
+Hydroquinidine: {'dir': -1}
+Hydroquinone: {'dir': 1}
+Indole-3-lactic acid: {'dir': -1}
+Indole-5-carboxylic acid: {'dir': -1}
+ENSMUSG00000008140-P: {'dir': 1.0}
+ENSMUSG00000105729-P: {'dir': -1.0}
+ENSMUSG00000024170-P: {'dir': 1.0}
+Inosose-2, 1,3,4,5,6-pentakis-: {'dir': -1}
+Isofucosterol: {'dir': -1}
+ENSMUSG00000039253-P: {'dir': -1.0}
+Isonicotinic Acid: {'dir': 1}
+ENSMUSG00000024098-P: {'dir': 1.0}
+ENSMUSG00000068284-P: {'dir': -1.0}
+Isopropyl palmitate: {'dir': -1}
+ENSMUSG00000096971-P: {'dir': -1.0}
+ENSMUSG00000024576-P: {'dir': -1.0}
+ENSMUSG00000042686-P: {'dir': -1.0}
+ENSMUSG00000051285-P: {'dir': -1.0}
+L-5-Oxoproline: {'dir': -1}
+ENSMUSG00000044296-P: {'dir': 1.0}
+L-Alanine: {'dir': 1}
+L-Asparagine: {'dir': -1}
+L-Aspartic acid: {'dir': -1}
+L-Cysteine: {'dir': 1}
+L-Glutamine: {'dir': 1}
+ENSMUSG00000098113-P: {'dir': 1.0}
+L-Hydroxyproline: {'dir': -1}
+ENSMUSG00000033453-P: {'dir': 1.0}
+L-Isoleucine: {'dir': -1}
+ENSMUSG00000030403-P: {'dir': -1.0}
+L-Lysine: {'dir': -1}
+ENSMUSG00000017670-P: {'dir': 1.0}
+L-Lysine, ethyl ester : {'dir': -1}
+ENSMUSG00000050321-P: {'dir': -1.0}
+ENSMUSG00000055044-P: {'dir': 1.0}
+L-Tryptophan: {'dir': -1}
+ENSMUSG00000051224-P: {'dir': -1.0}
+L-Tryptophan, N-acetyl-1: {'dir': -1}
+ENSMUSG00000024472-P: {'dir': -1.0}
+Latanoprost lactone diol: {'dir': 1}
+Levulinic acid: {'dir': -1}
+ENSMUSG00000087083-P: {'dir': -1.0}
+Malic acid: {'dir': 1}
+Methyl aminoacetate: {'dir': -1}
+ENSMUSG00000017697-P: {'dir': 1.0}
+ENSMUSG00000038390-P: {'dir': 1.0}
+ENSMUSG00000020886-P: {'dir': 1.0}
+ENSMUSG00000086825-P: {'dir': -1.0}
+Methyl-3-methoxy-5-methyl benzoate: {'dir': -1}
+Methylmalonic monoamide: {'dir': -1}
+Morpholine, 4-[2,3,4,6-tetrakis-O-(trimethylsilyl)-alpha-d-mannopyranosyl]-: {'dir': 1}
+Myristic acid: {'dir': -1}
+ENSMUSG00000022199-P: {'dir': 1.0}
+N-(Trifluoroacetyl)-N,O,O'-tris(trimethylsilyl)normetanephrine: {'dir': -1}
+ENSMUSG00000020553-P: {'dir': -1.0}
+ENSMUSG00000032763-P: {'dir': 1.0}
+N-(Trimethylsilyl)hexanamide: {'dir': -1}
+ENSMUSG00000036501-P: {'dir': -1.0}
+N-Acetyltyrosine: {'dir': -1}
+ENSMUSG00000106365-P: {'dir': -1.0}
+ENSMUSG00000046807-P: {'dir': 1.0}
+N-isobutyl-2-(trimethylsilyloxy]-4,5-dihydro-1H-imidazole-1-carboxamide: {'dir': -1}
+N-Isovaleroylglycine: {'dir': -1}
+N-Methyl-N-(tetrahydro-2-furanylmethyl)-4-piperidinamine: {'dir': -1}
+ENSMUSG00000077767-P: {'dir': -1.0}
+ENSMUSG00000015748-P: {'dir': -1.0}
+n-Pentadecanol: {'dir': 1}
+N-Valerylglycine: {'dir': -1}
+N,9-bis(Trimethylsilyl)-6-[(trimethylsilyl)oxy]-9H-purin-2-amine: {'dir': -1}
+N,N-Diethyl-2-aminoethanol: {'dir': -1}
+ENSMUSG00000060512-P: {'dir': 1.0}
+N,N-Dimethyl-2-cyclohexyloxyethylamine: {'dir': -1}
+ENSMUSG00000030591-P: {'dir': 1.0}
+ENSMUSG00000061718-P: {'dir': 1.0}
+N,O-Bis(trimethylsilyl)carbamate: {'dir': -1}
+ENSMUSG00000021957-P: {'dir': 1.0}
+Neostigmine : {'dir': -1}
+Niclosamide: {'dir': -1}
+Nitrosothymol: {'dir': -1}
+ENSMUSG00000030879-P: {'dir': 1.0}
+ENSMUSG00000041841-P: {'dir': 1.0}
+Nonadecanoic acid: {'dir': -1}
+ENSMUSG00000010607-P: {'dir': -1.0}
+Nonanal: {'dir': -1}
+Nonanoic acid: {'dir': 1}
+Octan-2-yl palmitate: {'dir': 1}
+Octane, 1-propoxy-: {'dir': 1}
+Octanoic acid: {'dir': 1}
+Octocrylene: {'dir': -1}
+ENSMUSG00000032306-P: {'dir': 1.0}
+Oxalic acid: {'dir': 1}
+p-Toluic acid: {'dir': -1}
+ENSMUSG00000024150-P: {'dir': -1.0}
+ENSMUSG00000027646-P: {'dir': -1.0}
+Pentadecanoic acid: {'dir': -1}
+Pentanedioic acid, 3-methyl-3-[(trimethylsilyl)oxy]-: {'dir': -1}
+ENSMUSG00000105302-P: {'dir': 1.0}
+Pentenoic acid, 4-[(trimethylsilyl)oxy]-: {'dir': -1}
+Phenoxyacetic acid: {'dir': -1}
+ENSMUSG00000021929-P: {'dir': -1.0}
+ENSMUSG00000019088-P: {'dir': -1.0}
+Phenylalanine: {'dir': -1}
+ENSMUSG00000030268-P: {'dir': 1.0}
+ENSMUSG00000017405-P: {'dir': -1.0}
+Phosalone: {'dir': 1}
+Pimelic acid: {'dir': -1}
+ENSMUSG00000101059-P: {'dir': 1.0}
+Pipecolic acid: {'dir': -1}
+Propanetriol, 2-methyl-: {'dir': -1}
+Propanoic acid, 2-methyl-: {'dir': 1}
+Propanoic acid, 2-oxo-: {'dir': -1}
+ENSMUSG00000057181-P: {'dir': -1.0}
+ENSMUSG00000043614-P: {'dir': 1.0}
+Propiophenone, 3',4'-dimethoxy-: {'dir': 1}
+Propylamine: {'dir': -1}
+Pyrimidine, 5-methyl-2,4-bis[(trimethylsilyl)oxy]-: {'dir': -1}
+Quinolin-4-one, 1-[2-(3,4-dimethoxyphenyl)ethyl]-octahydro-: {'dir': 1}
+Ribitol: {'dir': -1}
+Ser-Leu: {'dir': 1}
+Sertraline carbamoyl glucuronide: {'dir': -1}
+ENSMUSG00000034863-P: {'dir': 1.0}
+ENSMUSG00000034786-P: {'dir': -1.0}
+Stearic acid: {'dir': -1}
+ENSMUSG00000042626-P: {'dir': 1.0}
+Stigmast-5-ene, 3beta-: {'dir': -1}
+Suberic acid: {'dir': -1}
+ENSMUSG00000048175-P: {'dir': 1.0}
+Tacrine, N-trimethylsilyl-: {'dir': -1}
+Tartronic acid: {'dir': -1}
+ENSMUSG00000034768-P: {'dir': -1.0}
+Thiazolo[4,5-f]quinoline, 2,9-dimethyl-: {'dir': 1}
+Tributyl acetylcitrate: {'dir': 1}
+ENSMUSG00000024941-P: {'dir': 1.0}
+Triethanolamine: {'dir': -1}
+ENSMUSG00000034584-P: {'dir': -1.0}
+Trimidox: {'dir': 1}
+Trisaminol: {'dir': 1}
+Uracil: {'dir': -1}
+ENSMUSG00000065799-P: {'dir': -1.0}
+Uridine: {'dir': -1}
+ENSMUSG00000019647-P: {'dir': -1.0}
+Xylazine: {'dir': -1}
+Xylitol: {'dir': 1}
+(2S,3R)-3-[(4E,7E)-Nona-4,7-dienoyl]-N,N-bis(trimethylsilyl)oxirane-2-carboxamide : {'dir': -1}
+3-Amino-5-morpholinomethyl-2-oxazolidinone: {'dir': -1}
+(pm)-alpha-Tocopherol acetate: {'dir': -1}
+(R*,S*)-2,3-Dihydroxybutanoic acid: {'dir': -1}
+1-Monoacetin: {'dir': -1}
+2-Hexenoic acid, 2-[(trimethylsilyl)oxy]-: {'dir': -1}
+2-Hydroxy-2-methylbutyric acid: {'dir': -1}
+2-Propanone, bis(1-methylethyl)hydrazone: {'dir': -1}
+alpha-Tocopherol: {'dir': -1}
+ 5-Hydroxyhexanoic acid: {'dir': -1}
+Diphenyl ether: {'dir': -1}
+Phloroglucinol: {'dir': -1}
+Thymine, 1,3-dimethyl-6-(trimethylsilyloxymethyl)-: {'dir': -1}
+Trimethylsilyl (5-benzyl-3,6-dioxopiperazin-2-yl)acetate: {'dir': -1}
+2-Naphthol: {'dir': -1}
+Dodecanoic acid: {'dir': -1}
+Eicosapentaenoic acid: {'dir': -1}
+Phlorizin: {'dir': -1}
+4-Hydroxybenzaldehyde: {'dir': 1}
+5-Hydroxytryptophan: {'dir': -1}
+Benzeneacetic acid: {'dir': -1}
+Citric acid: {'dir': 1}
+Hexanedioic acid: {'dir': -1}
+Itaconic acid: {'dir': -1}
+p-Hydroxydiisopropylbenzene: {'dir': -1}
+L-Tyrosine: {'dir': -1}
+(pm)-N-Propylamphetamine: {'dir': 1}
+5alpha-Pregnane-3,20-dione: {'dir': -1}
+(pm)-Norketamine: {'dir': 1}
+L-Leucine: {'dir': -1}
+Naphthofluorescein: {'dir': -1}
+(pm)-Phenylpropanolamine: {'dir': 1}
+3-Indolepropionic acid: {'dir': -1}
+Vanillylmandelic acid: {'dir': -1}
+3,4-dimethyl-5-(3,4-methylenedioxy)phenyloxazolidine: {'dir': 1}
+Benzeneacetamide: {'dir': 1}
+(S,S)-(-)-Hydrobenzoin: {'dir': -1}
+1,3-Cyclohexanebis(methylamine): {'dir': -1}
+Dimethyl fumarate: {'dir': -1}
+1-(4-Hydroxybenzylidene)acetone: {'dir': -1}
+1,3-bis[(Trimethylsilyl)ethynyl]benzene: {'dir': -1}
+4-Hydroxy-5-(hydroxymethyl)oxolan-2-one: {'dir': 1}
+D-Threitol: {'dir': 1}
+L-Threitol: {'dir': -1}
+S-Methyl-L-cysteine: {'dir': -1}
+3'-Hydroxyacetophenone: {'dir': -1}
+Isoxaben: {'dir': -1}
+L-Glutamic acid: {'dir': -1}
+Niacin: {'dir': 1}
+Niacinamide: {'dir': 1}
+1-Octanol: {'dir': -1}
+Butanal, 2,3,4-tris[(trimethylsilyl)oxy]-, O-methyloxime, [R-(R*,R*)]-: {'dir': -1}
+Cholest-22-ene-21-ol, 3,5-dehydro-6-methoxy-, pivalate: {'dir': -1}
+2-Amino-4,6-dihydroxypyrimidine: {'dir': 1}
+1-Phenylethanol: {'dir': 1}
+1-Tetradecanol: {'dir': -1}
+Metanephrine: {'dir': -1}
+Salsoline: {'dir': -1}
+Bis(trimethylsilyl)acetylene: {'dir': -1}
+beta-d-Fructopyranose, 1-deoxy-1-(4-morpholinyl)-2,3,4,5-tetrakis-O-(trimethylsilyl)-: {'dir': -1}
+1-Hexanol: {'dir': 1}
+Benzene, 1,1'-(1,2-cyclobutanediyl)bis-: {'dir': 1}
+Benzene, 3-cyclohexen-1-yl-: {'dir': 1}
+Glucose: {'dir': -1}
+Methyl isovanillate: {'dir': -1}
+Cholesterol: {'dir': -1}
+Acetohydrazide, 2-(2-isopropyl-5-methylphenoxy)-N2-benzylideno-: {'dir': -1}
+Boric acid: {'dir': 1}
+Dimethyl hexopyranosiduronate, alpha-D-: {'dir': 1}
+Pregn-16-en-20-one, 3,18-bis(acetyloxy)-14,15-epoxy-, (3beta,5alpha,14beta,15beta)-: {'dir': -1}
+Trimethylsilyl 3-((trimethylsilyl)thio)propanoate: {'dir': -1}
+3-Hydroxybutyric acid: {'dir': -1}
+Methyl (3,4-dimethoxyphenyl)(hydroxy)acetate: {'dir': -1}
+Lactic Acid: {'dir': 1}
+Mirin: {'dir': -1}
+9,12-Octadecadienoic acid: {'dir': -1}
+4-Cumylphenol: {'dir': -1}
+7-(Trimethylsilyl)amino-4-methylcoumarin: {'dir': -1}
+Acetin, bis-1,3-trimethylsilyl ether: {'dir': -1}
+DL-Proline, 5-oxo-: {'dir': -1}
+5-Androsten-17alpha-methyl-3beta,17beta-diol: {'dir': -1}
+5-Aminovaleric acid: {'dir': 1}
+Cetaben, N,O-bis(trimethylsilyl)-: {'dir': -1}
+DL-Phenylalanine: {'dir': -1}
+1,3-Dioxane-4-methanol, 4,5-dimethyl-: {'dir': -1}
+Palmitelaidic acid: {'dir': -1}
+12-Hydroxyoctadecanoic acid: {'dir': -1}
+7-Acetyl-6-ethyl-1,1,4,4-tetramethyltetralin : {'dir': 1}
+Quazodine: {'dir': 1}
+2-Acetyl-3-(1-methyl-2-pyrrolyl)-1,4-benzenediol: {'dir': 1}
+Norketamine: {'dir': 1}
+Trimethylsilyl oct-2-enoate : {'dir': -1}
+2-Furoic acid: {'dir': -1}
+2-Hexen-1-ol: {'dir': -1}
+D-(-)-Ribofuranose, tetrakis: {'dir': 1}
+D-Ribose: {'dir': -1}
+Pyrrole-2-carboxylic acid: {'dir': -1}
+Albizziin: {'dir': -1}
+5-(2-Aminopropyl)-2-methylphenol: {'dir': 1}
+5-Ethyluracil: {'dir': -1}
+2',2,3,6'-Tetramethoxychalcone: {'dir': 1}
+N-Acetyl-L-glutamic acid: {'dir': -1}
+Phenol, 3,5-bis(1,1-dimethylethyl)-: {'dir': 1}
+Cephalotaxine, 3-deoxy-3,11-epoxy-, (3alpha,11alpha)-: {'dir': 1}
+2-Pyrrolidinone: {'dir': 1}
+L-Norleucine: {'dir': 1}
+Arabinaric acid: {'dir': -1}
+2,2,8,8-Tetramethyl-3,7-dioxa-4-aza-2,8-disilanon-4-ene: {'dir': -1}
+Pyrazine, 3,6-dimethyl-2,5-bis(trimethylsilyloxy)-: {'dir': 1}
+Ribonic acid, 2,3,4,5-tetrakis-: {'dir': 1}
+Ornithine: {'dir': -1}
+Ethanamine, N,N-diethyl-2,2-dimethyl-2-[(3,5-dimethoxy)phenyl]-: {'dir': -1}
+Cholesta-3,5-diene : {'dir': -1}
+Palmitic Acid: {'dir': 1}
+2,5-Dimethoxyphenol: {'dir': -1}
+2,5-Dimethoxybenzonitrile: {'dir': -1}
+l-Histidine ethyl ester: {'dir': -1}
+Acetamide, N,N-diethyl-: {'dir': -1}
+Cinnamic acid: {'dir': -1}
+Ketamine : {'dir': 1}
+3-Methoxyamphetamine, 4-Trimethylsilyloxy, N,N-bis(Trimethylsilyloxy)-: {'dir': 1}
+Xylose: {'dir': -1}
+3,4-Dihydroxymandelic acid, ethyl ester: {'dir': -1}
+Octopamine: {'dir': 1}
+Benzene, 1,3-bis(1,1-dimethylethyl)-: {'dir': 1}
+Cyclo(L-prolyl-L-valine) : {'dir': -1}
+Pyrazine, 3,6-dihydro-3,6-dimethyl-: {'dir': 1}
+D-Xylofuranose, 1,2,3,5-tetrakis-O-: {'dir': -1}
+5-Cholesten-3beta, 7alpha-bis[(trimethylsilyl)oxy]- : {'dir': -1}
+Pentanedioic acid, 2-[(trimethylsilyl)oxy]-: {'dir': 1}
+Delorazepam: {'dir': -1}
+6-Hydroxyflavone-beta-D-glucoside: {'dir': -1}
+D-Leucylglycylglycine: {'dir': 1}
+Ammeline: {'dir': -1}
+Tetradecanenitrile: {'dir': 1}
+Indole-3-carboxaldehyde: {'dir': -1}
+beta-Hydroxypyruvic acid: {'dir': -1}
+Succinic anhydride: {'dir': -1}
+D-(-)-Lyxose, tetrakis: {'dir': -1}
+D-Erythro-Pentofuranose, 2-deoxy-1,3-bis-O-: {'dir': -1}
+D-Proline: {'dir': -1}
+DL-Ornithine: {'dir': -1}
+Dobutamine: {'dir': 1}
+Gln-Ala: {'dir': -1}
+Phthalazin-1-one: {'dir': 1}
+Phenylpropanolamine: {'dir': 1}
+O-Methyl-N,N'-diisopropylisourea : {'dir': 1}
+Pentylone: {'dir': 1}
+N-Isobutyrylglycine: {'dir': 1}
+LAYER 0: 
+{'ENSMUSG00000014075-P', 'ENSMUSG00000053746-P', 'ENSMUSG00000027523-P', 'ENSMUSG00000003190-P', 'ENSMUSG00000085945-P', 'ENSMUSG00000038135-P', 'ENSMUSG00000030352-P', 'ENSMUSG00000034647-P', 'ENSMUSG00000077767-P', 'ENSMUSG00000012422-P', 'ENSMUSG00000031246-P', 'ENSMUSG00000041649-P', 'ENSMUSG00000028273-P', 'ENSMUSG00000021676-P', 'ENSMUSG00000038545-P', 'ENSMUSG00000024151-P', 'ENSMUSG00000048330-P', 'ENSMUSG00000030616-P', 'ENSMUSG00000051074-P', 'ENSMUSG00000040167-P', 'ENSMUSG00000015461-P', 'ENSMUSG00000030016-P', 'ENSMUSG00000067148-P', 'ENSMUSG00000051510-P', 'ENSMUSG00000097462-P', 'ENSMUSG00000029623-P', 'ENSMUSG00000030060-P', 'ENSMUSG00000062044-P', 'ENSMUSG00000030663-P', 'ENSMUSG00000086825-P', 'ENSMUSG00000030591-P', 'ENSMUSG00000032615-P', 'ENSMUSG00000033792-P', 'ENSMUSG00000026096-P', 'ENSMUSG00000037012-P', 'ENSMUSG00000024772-P', 'ENSMUSG00000015970-P', 'ENSMUSG00000029550-P', 'ENSMUSG00000066057-P', 'ENSMUSG00000040158-P', 'ENSMUSG00000024170-P', 'ENSMUSG00000028700-P', 'ENSMUSG00000022177-P', 'ENSMUSG00000014603-P', 'ENSMUSG00000028030-P', 'ENSMUSG00000041720-P', 'ENSMUSG00000026803-P', 'ENSMUSG00000044224-P', 'ENSMUSG00000029878-P', 'ENSMUSG00000010607-P', 'ENSMUSG00000066595-P', 'ENSMUSG00000030557-P', 'ENSMUSG00000091475-P', 'ENSMUSG00000039813-P', 'ENSMUSG00000028041-P', 'ENSMUSG00000004285-P', 'ENSMUSG00000032763-P', 'ENSMUSG00000029265-P', 'ENSMUSG00000031967-P', 'ENSMUSG00000034863-P', 'ENSMUSG00000020886-P', 'ENSMUSG00000022711-P', 'ENSMUSG00000025016-P', 'ENSMUSG00000098113-P', 'ENSMUSG00000030265-P', 'ENSMUSG00000030286-P', 'ENSMUSG00000039959-P', 'ENSMUSG00000020491-P', 'ENSMUSG00000017286-P', 'ENSMUSG00000049295-P', 'ENSMUSG00000106365-P', 'ENSMUSG00000067928-P', 'ENSMUSG00000020752-P', 'ENSMUSG00000018293-P', 'ENSMUSG00000019088-P', 'ENSMUSG00000026520-P', 'ENSMUSG00000038717-P', 'ENSMUSG00000027374-P', 'ENSMUSG00000031922-P', 'ENSMUSG00000031513-P', 'ENSMUSG00000038884-P', 'ENSMUSG00000105302-P', 'ENSMUSG00000061718-P', 'ENSMUSG00000098098-P', 'ENSMUSG00000029551-P', 'ENSMUSG00000038324-P', 'ENSMUSG00000019647-P', 'ENSMUSG00000022781-P', 'ENSMUSG00000038064-P', 'ENSMUSG00000064338-P', 'ENSMUSG00000049744-P', 'ENSMUSG00000078201-P', 'ENSMUSG00000040661-P', 'ENSMUSG00000027782-P', 'ENSMUSG00000064294-P', 'ENSMUSG00000030268-P', 'ENSMUSG00000032372-P', 'ENSMUSG00000038555-P', 'ENSMUSG00000024947-P', 'ENSMUSG00000022023-P', 'ENSMUSG00000030703-P', 'ENSMUSG00000057181-P', 'ENSMUSG00000005580-P', 'ENSMUSG00000024576-P', 'ENSMUSG00000044296-P', 'ENSMUSG00000033453-P', 'ENSMUSG00000023236-P', 'ENSMUSG00000047141-P', 'ENSMUSG00000045930-P', 'ENSMUSG00000031511-P', 'ENSMUSG00000022312-P', 'ENSMUSG00000068762-P', 'ENSMUSG00000039194-P', 'ENSMUSG00000020546-P', 'ENSMUSG00000046806-P', 'ENSMUSG00000105729-P', 'ENSMUSG00000039000-P', 'ENSMUSG00000015932-P', 'ENSMUSG00000102664-P', 'ENSMUSG00000031617-P', 'ENSMUSG00000036815-P', 'ENSMUSG00000043263-P', 'ENSMUSG00000033047-P', 'ENSMUSG00000001054-P', 'ENSMUSG00000032641-P', 'ENSMUSG00000033021-P', 'ENSMUSG00000034786-P', 'ENSMUSG00000036501-P', 'ENSMUSG00000035133-P', 'ENSMUSG00000026784-P', 'ENSMUSG00000070643-P', 'ENSMUSG00000027646-P', 'ENSMUSG00000061689-P', 'ENSMUSG00000005699-P', 'ENSMUSG00000028383-P', 'ENSMUSG00000087368-P', 'ENSMUSG00000101059-P', 'ENSMUSG00000023046-P', 'ENSMUSG00000020235-P', 'ENSMUSG00000066113-P', 'ENSMUSG00000028811-P', 'ENSMUSG00000035293-P', 'ENSMUSG00000038084-P', 'ENSMUSG00000049739-P', 'ENSMUSG00000004263-P', 'ENSMUSG00000031451-P', 'ENSMUSG00000071637-P', 'ENSMUSG00000031715-P', 'ENSMUSG00000004895-P', 'ENSMUSG00000048175-P', 'ENSMUSG00000015748-P', 'ENSMUSG00000034957-P', 'ENSMUSG00000030879-P', 'ENSMUSG00000041012-P', 'ENSMUSG00000091183-P', 'ENSMUSG00000034930-P', 'ENSMUSG00000052584-P', 'ENSMUSG00000030256-P', 'ENSMUSG00000021709-P', 'ENSMUSG00000102142-P', 'ENSMUSG00000031918-P', 'ENSMUSG00000030862-P', 'ENSMUSG00000103731-P', 'ENSMUSG00000024150-P', 'ENSMUSG00000057738-P', 'ENSMUSG00000054484-P', 'ENSMUSG00000051297-P', 'ENSMUSG00000051043-P', 'ENSMUSG00000032261-P', 'ENSMUSG00000034584-P', 'ENSMUSG00000020135-P', 'ENSMUSG00000005510-P', 'ENSMUSG00000032238-P', 'ENSMUSG00000062040-P', 'ENSMUSG00000053749-P', 'ENSMUSG00000017221-P', 'ENSMUSG00000056952-P', 'ENSMUSG00000031583-P', 'ENSMUSG00000059495-P', 'ENSMUSG00000038827-P', 'ENSMUSG00000042594-P', 'ENSMUSG00000008690-P', 'ENSMUSG00000041685-P', 'ENSMUSG00000004098-P', 'ENSMUSG00000069631-P', 'ENSMUSG00000004040-P', 'ENSMUSG00000029840-P', 'ENSMUSG00000024335-P', 'ENSMUSG00000018707-P', 'ENSMUSG00000035505-P', 'ENSMUSG00000039323-P', 'ENSMUSG00000056735-P', 'ENSMUSG00000024472-P', 'ENSMUSG00000024168-P', 'ENSMUSG00000034349-P', 'ENSMUSG00000029198-P', 'ENSMUSG00000041491-P', 'ENSMUSG00000028051-P', 'ENSMUSG00000025060-P', 'ENSMUSG00000031657-P', 'ENSMUSG00000051224-P', 'ENSMUSG00000030216-P', 'ENSMUSG00000030058-P', 'ENSMUSG00000024687-P', 'ENSMUSG00000087083-P', 'ENSMUSG00000064246-P', 'ENSMUSG00000008140-P', 'ENSMUSG00000021243-P', 'ENSMUSG00000039450-P', 'ENSMUSG00000007892-P', 'ENSMUSG00000042686-P', 'ENSMUSG00000014195-P', 'ENSMUSG00000041134-P', 'ENSMUSG00000042506-P', 'ENSMUSG00000031489-P', 'ENSMUSG00000035934-P', 'ENSMUSG00000065799-P', 'ENSMUSG00000036613-P', 'ENSMUSG00000016487-P', 'ENSMUSG00000024976-P', 'ENSMUSG00000033487-P', 'ENSMUSG00000055044-P', 'ENSMUSG00000039883-P', 'ENSMUSG00000058351-P', 'ENSMUSG00000017670-P', 'ENSMUSG00000061533-P', 'ENSMUSG00000039157-P', 'ENSMUSG00000021215-P', 'ENSMUSG00000042129-P', 'ENSMUSG00000068196-P', 'ENSMUSG00000037646-P', 'ENSMUSG00000027349-P', 'ENSMUSG00000029772-P', 'ENSMUSG00000072662-P', 'ENSMUSG00000078485-P', 'ENSMUSG00000026563-P', 'ENSMUSG00000016018-P', 'ENSMUSG00000025437-P', 'ENSMUSG00000055681-P', 'ENSMUSG00000030782-P', 'ENSMUSG00000026509-P', 'ENSMUSG00000052751-P', 'ENSMUSG00000025505-P', 'ENSMUSG00000050822-P', 'ENSMUSG00000061838-P', 'ENSMUSG00000042745-P', 'ENSMUSG00000063894-P', 'ENSMUSG00000042699-P', 'ENSMUSG00000017697-P', 'ENSMUSG00000030304-P', 'ENSMUSG00000043411-P', 'ENSMUSG00000026273-P', 'ENSMUSG00000104682-P', 'ENSMUSG00000021957-P', 'ENSMUSG00000022427-P', 'ENSMUSG00000019907-P', 'ENSMUSG00000029790-P', 'ENSMUSG00000037408-P', 'ENSMUSG00000022426-P', 'ENSMUSG00000020297-P', 'ENSMUSG00000042626-P', 'ENSMUSG00000032306-P', 'ENSMUSG00000049097-P', 'ENSMUSG00000049287-P', 'ENSMUSG00000016495-P', 'ENSMUSG00000046351-P', 'ENSMUSG00000030697-P', 'ENSMUSG00000026820-P', 'ENSMUSG00000039253-P', 'ENSMUSG00000022843-P', 'ENSMUSG00000025474-P', 'ENSMUSG00000042426-P', 'ENSMUSG00000005514-P', 'ENSMUSG00000041408-P', 'ENSMUSG00000042797-P', 'ENSMUSG00000017405-P', 'ENSMUSG00000023967-P', 'ENSMUSG00000032633-P', 'ENSMUSG00000011831-P', 'ENSMUSG00000064340-P', 'ENSMUSG00000048612-P', 'ENSMUSG00000021000-P', 'ENSMUSG00000030605-P', 'ENSMUSG00000070527-P', 'ENSMUSG00000026527-P', 'ENSMUSG00000021990-P', 'ENSMUSG00000050321-P', 'ENSMUSG00000027860-P', 'ENSMUSG00000027598-P', 'ENSMUSG00000002324-P', 'ENSMUSG00000024941-P', 'ENSMUSG00000045817-P', 'ENSMUSG00000001964-P', 'ENSMUSG00000090877-P', 'ENSMUSG00000021686-P', 'ENSMUSG00000031079-P', 'ENSMUSG00000026341-P', 'ENSMUSG00000046714-P', 'ENSMUSG00000029438-P', 'ENSMUSG00000072763-P', 'ENSMUSG00000036718-P', 'ENSMUSG00000024098-P', 'ENSMUSG00000042010-P', 'ENSMUSG00000085890-P', 'ENSMUSG00000031479-P', 'ENSMUSG00000046711-P', 'ENSMUSG00000021929-P', 'ENSMUSG00000017314-P', 'ENSMUSG00000022199-P', 'ENSMUSG00000013858-P', 'ENSMUSG00000058756-P', 'ENSMUSG00000070348-P', 'ENSMUSG00000006476-P', 'ENSMUSG00000028133-P', 'ENSMUSG00000038390-P', 'ENSMUSG00000043614-P', 'ENSMUSG00000008348-P', 'ENSMUSG00000083899-P', 'ENSMUSG00000022568-P', 'ENSMUSG00000021585-P', 'ENSMUSG00000006005-P', 'ENSMUSG00000042659-P', 'ENSMUSG00000025231-P', 'ENSMUSG00000071072-P', 'ENSMUSG00000022246-P', 'ENSMUSG00000030403-P', 'ENSMUSG00000046157-P', 'ENSMUSG00000024975-P', 'ENSMUSG00000032018-P', 'ENSMUSG00000094002-P', 'ENSMUSG00000052951-P', 'ENSMUSG00000038990-P', 'ENSMUSG00000032288-P', 'ENSMUSG00000046807-P', 'ENSMUSG00000039145-P', 'ENSMUSG00000024800-P', 'ENSMUSG00000024191-P', 'ENSMUSG00000014846-P', 'ENSMUSG00000021254-P', 'ENSMUSG00000026483-P', 'ENSMUSG00000019173-P', 'ENSMUSG00000035941-P', 'ENSMUSG00000041841-P', 'ENSMUSG00000070858-P', 'ENSMUSG00000037716-P', 'ENSMUSG00000034377-P', 'ENSMUSG00000105382-P', 'ENSMUSG00000032216-P', 'ENSMUSG00000020308-P', 'ENSMUSG00000034768-P', 'ENSMUSG00000015839-P', 'ENSMUSG00000068284-P', 'ENSMUSG00000032172-P', 'ENSMUSG00000051285-P', 'ENSMUSG00000025410-P', 'ENSMUSG00000046947-P', 'ENSMUSG00000024740-P', 'ENSMUSG00000002660-P', 'ENSMUSG00000031864-P', 'ENSMUSG00000026623-P', 'ENSMUSG00000006777-P', 'ENSMUSG00000055447-P', 'ENSMUSG00000096971-P', 'ENSMUSG00000040612-P', 'ENSMUSG00000060512-P', 'ENSMUSG00000003949-P', 'ENSMUSG00000031751-P', 'ENSMUSG00000033948-P', 'ENSMUSG00000031027-P', 'ENSMUSG00000030560-P', 'ENSMUSG00000031590-P', 'ENSMUSG00000020553-P', 'ENSMUSG00000045284-P', 'ENSMUSG00000032560-P', 'ENSMUSG00000099689-P', 'ENSMUSG00000052534-P', 'ENSMUSG00000064345-P', 'ENSMUSG00000041642-P', 'ENSMUSG00000105607-P', 'ENSMUSG00000001687-P', 'ENSMUSG00000028655-P', 'ENSMUSG00000056054-P', 'ENSMUSG00000058420-P'}
+
+
+LAYER 1: 
+{'Uracil', 'Phenoxyacetic acid', 'Tartronic acid', '7-Isoquinolinol, 1,2,3,4-tetrahydro-1-[(4-hydroxyphenyl)methyl]-6-methoxy-', 'Benzaldehyde, 2,5-dimethyl-', 'N-Valerylglycine', 'Desmosterol', 'Xylazine', 'Pimelic acid', '(CH3)2C=NC2H558', 'Glycine, N-[4-[(trimethylsilyl)oxy]benzoyl]-', 'Carfentrazone-ethyl', '1-Decene, 8-methyl-', 'N-isobutyl-2-(trimethylsilyloxy]-4,5-dihydro-1H-imidazole-1-carboxamide', 'Glyoxime', 'Arsenous acid', 'Indole-5-carboxylic acid', 'D-(+)-Talofuranose, pentakis', '2-Heptanone, 4,6-dimethyl-', '4-Hydroxybutanoic acid', '1-Phenethylamine', 'Levulinic acid', 'Erythrono-1,4-lactone, (Z)-', 'Malic acid', 'Sertraline carbamoyl glucuronide', '3-Hydroxyisovaleric acid', '1-Octanol, 2-butyl-', 'L-Cysteine', '3-Buten-2-one, 4-(4-methoxyphenyl)-', 'Pentanedioic acid, 3-methyl-3-[(trimethylsilyl)oxy]-', 'Suberic acid', 'Atrazine desethyl', 'Aceturic acid', 'L-Lysine, ethyl ester ', 'Cyclopentaneacetic acid, 3-oxo-2-pentyl-', '1,5-Anhydroglucitol', 'Hydracrylic acid', 'Benzoic acid, pentadecyl ester', '3-Hexenedinitrile', '4-Hydroxybenzoic acid', '2-Aminoadipic acid', 'Benzenemethanamine, 2,3-dimethoxy-', '2-Methyl-4-pentenoic acid', '2,5-di-tert-Butyl-1,4-benzoquinone', 'Ethanone, 1-(2,5-dimethoxyphenyl)-', 'Cholest-7-en-3-ol, (3beta,5alpha)-', 'D-(+)-Ribono-1,4-lactone (R,S,R)-', '5-Hydroxyquinoline', 'Thiazolo[4,5-f]quinoline, 2,9-dimethyl-', 'Phenylalanine', 'Neostigmine ', '2-Propenamide, 3-phenyl-N-2-propenyl-', 'beta-Lyxopyranose', "3'-(Trimethylsilyl)oxy-beta-naphthoflavone", '2,6-Dimethyl-N-[3-(trimethylsilyl)-1,3-thiazinan-2-ylidene]aniline', '2-(2,5-Dimethoxy-phenyl)-propionaldehyde', 'Aspartic acid', '2,6-Bis[2-[2-S-thiosulfuroethylamino]ethoxy]pyrazine', '2-Methylglutaconic acid', 'p-Toluic acid', 'Oxalic acid', 'L-Isoleucine', 'beta-D-Galactofuranose, 1,2,3,5,6-pentakis-O-(trimethylsilyl)-', 'Triethanolamine', '2,5-Dimethoxymandelic acid', 'Cyclopentanone, 2,2,4-trimethyl-', '2,2-Diallylpyrrolidine', 'Trimidox', 'Isofucosterol', 'Glycine', '2,5-Cyclohexadiene-1,4-dione, 2,6-bis(1,1-dimethylethyl)-', 'Pentenoic acid, 4-[(trimethylsilyl)oxy]-', 'N,O-Bis(trimethylsilyl)carbamate', '1,2-Benzenedicarboxylic acid', 'N-Isovaleroylglycine', 'Benzo[b]fluorene, 5-amino-7-methyl-1,2,3,4,6,7,8,9-octahydro-11-thia-10-aza-', '2-(Decanoyloxy)propane-1,3-diyl dioctanoate', 'Ethanolamine', 'Myristic acid', 'Glyceric acid', '(9H-fluoren-9-yl)methanol, O-methoxycarbonyl-', 'Morpholine, 4-[2,3,4,6-tetrakis-O-(trimethylsilyl)-alpha-d-mannopyranosyl]-', 'Indole-3-lactic acid', 'L-5-Oxoproline', '9-Octadecenamide', 'Pipecolic acid', 'Propylamine', 'Glycine, N-(1-oxobutyl)-', 'Butylated Hydroxytoluene', 'Xylitol', '1-Phenyl-1,2-ethanediol', 'Isopropyl palmitate', '2-Hydroxybutyric acid', 'Ethanone, 1-(5-methoxy-2-methyl-3(1H)-indolyl)-', '13-Docosenamide', 'Furan, 2-pentyl-', 'N,N-Dimethyl-2-cyclohexyloxyethylamine', '9-Hexadecenoic acid', '2,3,4-Trihydroxybutyric acid tetrakis', 'L-Aspartic acid', 'Azatadine', '2-Allyl-1,4-dimethoxybenzene', 'alpha-Linolenic acid', 'N-Methyl-N-(tetrahydro-2-furanylmethyl)-4-piperidinamine', '1-Aminocyclopropanecarboxylic acid', 'L-Hydroxyproline', 'Erythritol', '1-Butanamine, N,N-diethyl-', 'Guanabenz', '1,2,3,10,11,11a-Hexahydro-6,7,8-trimethoxy-3-oxo-5H-dibenzo(a,d)cycloheptene', 'Arachidonic acid', 'Nonadecanoic acid', 'Cyclo-(l-leucyl-l-phenylalanyl) ', 'Pyrimidine, 5-methyl-2,4-bis[(trimethylsilyl)oxy]-', 'Allylescaline ', '3-Aminobutanoic acid', 'Aziridine, 1-(2-buten-2-yl)-', 'Octan-2-yl palmitate', 'Decanoic acid', 'Trisaminol', 'L-Alanine', '3-Amino-2-piperidone', 'Benzimidazole, 5-trifluoromethyl-2-methyl-', "1,1'-Biphenyl, 3,4-diethyl-", '3-Methoxysalicylic acid', '2-Isopropyl-5-methyl-1-heptanol ', '2-Heptenoic acid', 'Ser-Leu', 'Stearic acid', 'Butanoic acid, 2-methyl-3-[(trimethylsilyl)oxy]-', '1,4-diazabicyclo[4.3.0]nonan-2,5-dione, 3-methyl ', 'Benzene, 1-acetoxy-2,6-dimethoxy-4-(2-propenyl)-', 'Dodecane, 4,6-dimethyl-', 'N,9-bis(Trimethylsilyl)-6-[(trimethylsilyl)oxy]-9H-purin-2-amine', 'Methylmalonic monoamide', 'Acetic acid, bis[(trimethylsilyl)oxyl]-', '4-Hydroxybenzeneacetic acid', 'N,N-Diethyl-2-aminoethanol', '2,2,4-Trimethyl-1,3-pentanediol diisobutyrate', '3-Buten-2-one, 3-trimethylsilyloxy-', 'Galactopyranose', '2,5-Piperazinedione, 3-benzyl-6-isopropyl-', '2-Hydroxy-5-methoxybenzaldehyde', 'cis-4-Trimethylsilyloxy-cyclohexyl(trimethylsilyl)carboxylate', '1-Hexadecanol', 'L-Asparagine', '2-Aminobutanoic acid', 'Doconexent', '2-Amino-4-methylphenol', 'Cyclobutanol', 'Butanoic acid, 2,4-bis[(trimethylsilyl)oxy]-', '10-Heptadecenoic acid', 'Adipoyl-L-carnitine', '1-(3-Methylphenyl)piperazine', 'Dodecylcyclohexane', '3-(3-Cyclohexylaminopropionylamino)-5-ethylthiophene-2-carboxylic acid, ethyl ester', "6,7,4'-Trihydroxyisoflavone", 'Benzeneethanamine, N-[(pentafluorophenyl)methylene]-4-[(trimethylsilyl)oxy]-', '2,4-Imidazolidinedione, 5,5-dimethyl-', 'Inosose-2, 1,3,4,5,6-pentakis-', 'cyclobutanecarboxylic acid', '4-(Methoxycarbonyl)phenol', 'Benzoic acid, methyl ester', 'Hydantoic acid', 'Benzyl alcohol', 'Hydroquinidine', 'Tributyl acetylcitrate', '3-Indoleacetic acid', 'Hydroquinone', 'Octane, 1-propoxy-', "3-Cyclohexyl-L-alanine amide, N,N,N'N'-tetramethyl-", 'Glucopyranose', '1,2-Butadiene, 1,1,4-triphenyl-3-trimethylsilyl-4-trimethylsilyloxy-', 'Deoxycholic Acid', 'Glycolic acid', 'Octanoic acid', 'Propanetriol, 2-methyl-', 'Azetidine, 1-acetyl-2-methyl-', 'L-Tryptophan, N-acetyl-1', '3beta,4beta-Bis(trimethylsiloxy)cholest-5-ene', 'Propanoic acid, 2-methyl-', 'Benzophenone', '3-Hydroxy-2,3-dihydromaltol', 'D-Mannose', 'Dehydronorketamine', 'N-(Trimethylsilyl)hexanamide', 'n-Pentadecanol', 'Cadaverine', 'Glycine, N-(N-DL-leucylglycyl)-', 'alpha-L-Galactopyranoside, methyl 6-deoxy-, (R,R,R,S,S)-', 'Phosalone', '2-Hydroxy-3-methylbutyric acid', 'Octocrylene', 'Hexanoic acid', '2,3-Butanediol', 'D-(-)-Citramalic acid', '1-Hydroxy-3-methoxy-6-methylanthraquinone', '5-Henicosylresorcinol', 'Nitrosothymol', '1-Deoxypentitol', '1-Methyl-N,N-bis(trimethylsilyl)-4-[(trimethylsilyl)oxy]-1H-imidazol-2-amine', '2-Ketoisocaproic acid', "Propiophenone, 3',4'-dimethoxy-", 'Niclosamide', 'Dinoseb ', '1-Cyclopentylethanol', 'Heptadecanoic acid', 'Latanoprost lactone diol', 'D-(-)-Fructofuranose, pentakis', 'D-Fructose', '1-Piperazineethanol, 4-dibenzo[b,f][1,4]thiazepin-11-yl-', 'Ribitol', 'DL-Glyceraldehyde', 'Methyl aminoacetate', 'L-Tryptophan', 'Tacrine, N-trimethylsilyl-', '1,3,5-Benzetriol', 'Acetoacetic acid', '12-Oxooctadecanoate', 'D-Isoleucine, N-acetyl-', 'Stigmast-5-ene, 3beta-', '4-Hydroxyphenyllactic acid', 'Methyl-3-methoxy-5-methyl benzoate', '3,5-Dimethylpyrazole', 'Dihydrouracil', '3-Nonen-1-ol'}
+
+
+LAYER 2: 
+{'Palmitic Acid', '6,8-Dioxapentadecane', 'Naphthofluorescein', '12-Hydroxyoctadecanoic acid', 'D-Threitol', '6-Methoxy-1-methyl-1,2,3,4-tetrahydroisoquinolin-7-ol ', '2-Furoic acid', 'Pregn-16-en-20-one, 3,18-bis(acetyloxy)-14,15-epoxy-, (3beta,5alpha,14beta,15beta)-', 'S-Methyl-L-cysteine', '1H-Pyrazole, 3,4-bis(trimethylsilyl)-', 'Dopamine', '2-Hexenoic acid, 2-[(trimethylsilyl)oxy]-', 'Itaconic acid', '9,12-Octadecadienoic acid', 'Phlorizin', 'Metanephrine', 'L-Glutamine', 'Ketamine ', '9H-Fluorene, 9-methylene-', '3-Amino-5-morpholinomethyl-2-oxazolidinone', 'Quazodine', '2-Acetyl-3-(1-methyl-2-pyrrolyl)-1,4-benzenediol', '3,4-dimethyl-5-(3,4-methylenedioxy)phenyloxazolidine', 'Hexanedioic acid', '2,5-Dimethoxy-4-methylamphetamine', 'Benzeneacetic acid', '2-Pentenoic acid', 'Ornithine', 'p-Hydroxydiisopropylbenzene', 'Phloroglucinol', 'Pentanedioic acid, 2-[(trimethylsilyl)oxy]-', 'Eicosapentaenoic acid', '2,5-Dimethoxyphenol', '1,3,5-Trimethyl-1H-pyrazol-4-amine', 'Acetin, bis-1,3-trimethylsilyl ether', 'Butanal, 2,3,4-tris[(trimethylsilyl)oxy]-, O-methyloxime, [R-(R*,R*)]-', '2,5-Dimethoxybenzonitrile', 'Cephalotaxine, 3-deoxy-3,11-epoxy-, (3alpha,11alpha)-', '3,4,5-Trihydroxypentanoic acid, tetrakis(trimethylsilyl)-', 'Diphenyl ether', '5-Aminovaleric acid', '5-Ethyluracil', '2,5-Dimethyl-1-aza-bicyclo[2.2.1]heptane', "Benzene, 1,1'-(1,2-cyclobutanediyl)bis-", 'L-Tyrosine', 'Trimethylsilyl 3-((trimethylsilyl)thio)propanoate', '6-Hydroxyflavone-beta-D-glucoside', '(pm)-alpha-Tocopherol acetate', '1-Hexanol', 'Mirin', 'Palmitelaidic acid', '1-Octene, 2-methyl-', '2-Propanone, bis(1-methylethyl)hydrazone', 'D-Proline', '2-Pyrrolidinone', '4-Hydroxybenzaldehyde', '3-Indolepropionic acid', '7-Acetyl-6-ethyl-1,1,4,4-tetramethyltetralin ', 'Glucose', '15-Oxo-11Z,13E-eicosadienoic acid', '2-Ethyl-3-hydroxypropionic acid', '1-Tetradecanol', 'N-Acetyltyrosine', 'Pentadecanoic acid', 'D-Leucylglycylglycine', '4-Pyridinol', 'DL-Proline, 5-oxo-', '3-Hydroxybutyric acid', 'Vanillylmandelic acid', 'Indole-3-carboxaldehyde', 'Cholesta-3,5-diene ', 'Citric acid', 'Arabinaric acid', '1-(4-Hydroxybenzylidene)acetone', '1-Monoacetin', '3-Aminobenzoic acid', 'Dimethyl fumarate', '7-(Trimethylsilyl)amino-4-methylcoumarin', '4-Methylvaleric acid', '2-Acetyl-5-chloro-3-methylbenzo(b)thiophene', 'Trimethylsilyl (5-benzyl-3,6-dioxopiperazin-2-yl)acetate', '3-Ureidopropionic acid', 'N-Acetyl-L-glutamic acid', 'Succinic anhydride', 'Isoxaben', 'Tetradecanenitrile', '1-(4-Methoxyphenyl)-4,6-dimethyl-2(1H)-pyrimidinone', 'Pentylone', 'Butylmethylamine', 'Methyl isovanillate', "2',2,3,6'-Tetramethoxychalcone", 'Nonanoic acid', 'Dodecanoic acid, 1-methylethyl ester', '3-Methyladenine', "3'-Hydroxyacetophenone", '5alpha-Pregnane-3,20-dione', 'Ethanamine, N,N-diethyl-2,2-dimethyl-2-[(3,5-dimethoxy)phenyl]-', '3-Methylpiperazine-2,5-dione, (R)-', 'beta-d-Fructopyranose, 1-deoxy-1-(4-morpholinyl)-2,3,4,5-tetrakis-O-(trimethylsilyl)-', 'L-Threitol', '(pm)-Phenylpropanolamine', 'beta-D-Glucopyranose', 'Thymine, 1,3-dimethyl-6-(trimethylsilyloxymethyl)-', 'Phenol, 3,5-bis(1,1-dimethylethyl)-', 'Octopamine', 'Acetamide, N,N-diethyl-', 'Uridine', 'alpha-Tocopherol', "O-Methyl-N,N'-diisopropylisourea ", '1,3-Cyclohexanebis(methylamine)', '3beta-TRIMETHYLSILOXY-5alpha,6alpha-EPOXYCHOLESTANE', "N-(Trifluoroacetyl)-N,O,O'-tris(trimethylsilyl)normetanephrine", 'Cyclohexene, 3-butyl-3-methyl-1-trimethylsilyloxy-', 'Cyclo(L-prolyl-L-valine) ', 'Xylose', '3,4-Dihydrocoumarin, 4,4-dimethyl-6-dimethylamino-', 'Niacin', 'Cetaben, N,O-bis(trimethylsilyl)-', '5-Hydroxytryptophan', 'Campesterol', '2,5-Di-tert-butylhydroquinone', '(7a-Isopropenyl-4,5-dimethyloctahydroinden-4-yl)methanol', 'D-Arabinose', '1,3-bis[(Trimethylsilyl)ethynyl]benzene', 'Benzene, 3-cyclohexen-1-yl-', '2-Hexen-1-ol', 'Quinolin-4-one, 1-[2-(3,4-dimethoxyphenyl)ethyl]-octahydro-', 'Dodecanoic acid', 'Cholest-22-ene-21-ol, 3,5-dehydro-6-methoxy-, pivalate', '2-Amino-4,6-dihydroxypyrimidine', 'Benzene, 1,3-bis(1,1-dimethylethyl)-', 'Cinnamic acid', '1-Octanol', 'Trimethylsilyl oct-2-enoate ', '(S,S)-(-)-Hydrobenzoin', 'Acetohydrazide, 2-(2-isopropyl-5-methylphenoxy)-N2-benzylideno-', 'Dimethyl hexopyranosiduronate, alpha-D-', 'Delorazepam', 'DL-Phenylalanine', '(R*,S*)-2,3-Dihydroxybutanoic acid', '9H-Purine, 9-(trimethylsilyl)-2,6,8-tris[(trimethylsilyl)oxy]-', 'Boric acid', 'L-Lysine', 'Bis(trimethylsilyl)acetylene', 'D-(-)-Ribofuranose, tetrakis', '4-Hydroxy-5-(hydroxymethyl)oxolan-2-one', '9-Octadecenoic acid', 'Isonicotinic Acid', 'Cholesterol', 'Ethyl cis-2-trimethylsilyl-cyclopropane-1-carboxylate', '(2S,3R)-3-[(4E,7E)-Nona-4,7-dienoyl]-N,N-bis(trimethylsilyl)oxirane-2-carboxamide ', '4-Cumylphenol', 'Lactic Acid', 'Propanoic acid, 2-oxo-', 'Gln-Ala', 'Salsoline', '2-Naphthol', 'Niacinamide', 'Pyrrole-2-carboxylic acid', '3,4-Dihydroxymandelic acid, ethyl ester', 'L-Glutamic acid', '1-Phenylethanol', ' 5-Hydroxyhexanoic acid', 'Cholesta-3,5-dien-7-one', '1,3-Dioxane-4-methanol, 4,5-dimethyl-', 'Nonanal', 'Dodecanamide, N-(2-hydroxyethyl)-', '5-(2-Aminopropyl)-2-methylphenol', 'Benzeneacetamide', '5-Androsten-17alpha-methyl-3beta,17beta-diol', 'Cyclohexanol', 'Acetamide, 2,2,2-trifluoro-'}
+
+
+LAYER 3: 
+{'Pyrazine, 3,6-dimethyl-2,5-bis(trimethylsilyloxy)-', 'DL-Ornithine', 'Arabinofuranose, 1,2,3,5-tetrakis-O-', 'Alloxanic acid', 'D-Erythro-Pentofuranose, 2-deoxy-1,3-bis-O-', '3-Methoxyamphetamine, 4-Trimethylsilyloxy, N,N-bis(Trimethylsilyloxy)-', 'l-Histidine ethyl ester', 'D-Ribose', 'D-Xylofuranose, 1,2,3,5-tetrakis-O-', 'L-Norleucine', '2-Hydroxy-2-methylbutyric acid', '5,6-Dimethyl-4-phenyl-3-cyanopyridine-2(1H)-thione', '(pm)-Norketamine', 'Albizziin', 'Benzene, 4-ethenyl-1,2-dimethoxy-', 'D-(-)-Lyxose, tetrakis', 'Dobutamine', '3,5-di-tert-Butyl-4-hydroxyacetophenone', 'Norketamine', 'Pyrazine, 3,6-dihydro-3,6-dimethyl-', '2,2,8,8-Tetramethyl-3,7-dioxa-4-aza-2,8-disilanon-4-ene', 'Ribonic acid, 2,3,4,5-tetrakis-', 'N-Isobutyrylglycine', 'beta-Hydroxypyruvic acid', '5-Cholesten-3beta, 7alpha-bis[(trimethylsilyl)oxy]- ', 'Ammeline', 'Methyl (3,4-dimethoxyphenyl)(hydroxy)acetate', 'Phenylpropanolamine', '(pm)-N-Propylamphetamine'}
+
+
+LAYER 4: 
+{'L-Leucine'}
+
+
+LAYER 5: 
+{'Phthalazin-1-one'}
+
+
