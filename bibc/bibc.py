@@ -1,5 +1,6 @@
 import pandas as pd
 import networkx as nx
+import chime as c
 
 # Returns a dictionary: node name -> BiBC
 def bibc(G, nodes_0, nodes_1, normalized):
@@ -7,7 +8,7 @@ def bibc(G, nodes_0, nodes_1, normalized):
 	for s in nodes_0:
 		for t in nodes_1:
 			# betweenness centrality does not count the endpoints (v not in s,t)
-			paths_st = [x for x in list(nx.all_shortest_paths(G, s, t)) if len(x) > 2]
+			paths_st = [x for x in nx.all_shortest_paths(G, s, t) if len(x) > 2]
 			n_paths = len(paths_st)
 			for path in paths_st:
 				for n in path[1:-1]:  # Exclude endpoints
@@ -31,19 +32,18 @@ def bibc(G, nodes_0, nodes_1, normalized):
 def make_edges():
 	network_edges = pd.read_excel("gut_brain_network_2026_01_07.xlsx", sheet_name="Edges")
 
-	feci_edges = pd.read_csv("FECI_edges.csv")
-	feci_edges = feci_edges[(feci_edges["FDR"] <= 0.05) & (feci_edges["max_p"] <= 0.2)]
+	feci_edges = pd.read_csv("FECI_RPUC_edges.csv")
+	#feci_edges = feci_edges[(feci_edges["FDR"] <= 0.05) & (feci_edges["max_p"] <= 0.2)]
 
 	feci_pls_edges = pd.read_csv("FECI-PLS_edges.csv")
 	feci_pls_edges = feci_pls_edges[feci_pls_edges["FDR"] <= 0.1]
 
-	pls_edges = pd.read_csv("PLS_edges.csv")
-	pls_edges = pls_edges[(pls_edges["FDR"] <= 0.05) & (pls_edges["max_p"] <= 0.2)]
+	pls_edges = pd.read_csv("PLS_RPUC_edges.csv")
+	#pls_edges = pls_edges[(pls_edges["FDR"] <= 0.05) & (pls_edges["max_p"] <= 0.2)]
 
 	pls_cpx_edges = pd.read_csv("PLS-CPX_edges.csv")
 	pls_cpx_edges = pls_cpx_edges[pls_cpx_edges["FDR"] <= 0.1]
 
-	#im assuming I can pull from the network table without any filtering 
 	cpx_edges = network_edges[(network_edges["Node 1 Tissue"] == "Choroid Plexus") |
 		(network_edges["Node 2 Tissue"] == "Choroid Plexus")]
 	
