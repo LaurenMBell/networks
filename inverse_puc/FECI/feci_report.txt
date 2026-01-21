@@ -1,286 +1,119 @@
-CURRENT TIME: 2026-01-20 20:08:44
+CURRENT TIME: 2026-01-20 22:05:30
 
 Started FECI-CPX!
-NODE: Arabino-Hexonic acid, 2-deoxy-, gamma-lactone
+NODE: Levulinic acid
 LAYER: 1
 SCORE: -1
-UP: 1
-DOWN: 2
-removing edge Arabino-Hexonic acid, 2-deoxy-, gamma-lactone - ENSMUSG00000004040-P
-0.3333333333333333 > 0.2, node to be removed
-
-NODE: 12-Oxooctadecanoate
-LAYER: 1
-SCORE: 1
-UP: 1
-DOWN: 0
-node updated!
-
-NODE: D-Fucitol
-LAYER: 1
-SCORE: -4
-UP: 2
-DOWN: 6
-removing edge D-Fucitol - ENSMUSG00000004895-P
-removing edge D-Fucitol - ENSMUSG00000051297-P
-0.25 > 0.2, node to be removed
-
-NODE: Itaconic acid
-LAYER: 1
-SCORE: 1
-UP: 1
-DOWN: 0
-node updated!
-
-NODE: Acetoacetic acid
-LAYER: 1
-SCORE: -3
-UP: 2
-DOWN: 5
-removing edge Acetoacetic acid - ENSMUSG00000022427-P
-removing edge Acetoacetic acid - ENSMUSG00000021583-P
-0.2857142857142857 > 0.2, node to be removed
-
-NODE: 11-Hydroxy-.DELTA.-9-tetrahydrocannabinol
-LAYER: 1
-SCORE: -5
-UP: 1
-DOWN: 6
-removing edge 11-Hydroxy-.DELTA.-9-tetrahydrocannabinol - ENSMUSG00000001014-P
-node updated!
-
-NODE: Idoxuridine
-LAYER: 1
-SCORE: -1
-UP: 0
-DOWN: 1
-node updated!
-
-NODE: Methyl stearate
-LAYER: 1
-SCORE: -1
-UP: 4
-DOWN: 5
-removing edge Methyl stearate - ENSMUSG00000004040-P
-removing edge Methyl stearate - ENSMUSG00000021481-P
-removing edge Methyl stearate - ENSMUSG00000058351-P
-removing edge Methyl stearate - ENSMUSG00000006281-P
-0.4444444444444444 > 0.2, node to be removed
-
-NODE: Thymidine, 5'-phosphate
-LAYER: 1
-SCORE: -2
-UP: 1
-DOWN: 3
-removing edge Thymidine, 5'-phosphate - ENSMUSG00000090247-P
-0.25 > 0.2, node to be removed
-
-NODE: Pentanedioic acid
-LAYER: 1
-SCORE: -2
-UP: 0
-DOWN: 2
-node updated!
-
-NODE: 2-Hydroxy-5-methoxybenzaldehyde
-LAYER: 1
-SCORE: 1
-UP: 4
-DOWN: 3
-removing edge 2-Hydroxy-5-methoxybenzaldehyde - ENSMUSG00000045128-P
-removing edge 2-Hydroxy-5-methoxybenzaldehyde - ENSMUSG00000043639-P
-removing edge 2-Hydroxy-5-methoxybenzaldehyde - ENSMUSG00000078485-P
-0.42857142857142855 > 0.2, node to be removed
-
-NODE: 1,3-Dioxane, 2,2-dimethyl-5-hydroxy-
-LAYER: 1
-SCORE: -9
-UP: 0
-DOWN: 9
-node updated!
-
-NODE: 4-Hydroxybenzoic acid
-LAYER: 1
-SCORE: -7
-UP: 1
-DOWN: 8
-removing edge 4-Hydroxybenzoic acid - ENSMUSG00000090247-P
-node updated!
-
-NODE: 2,2,4-Trimethyl-1,3-pentanediol diisobutyrate
-LAYER: 1
-SCORE: -2
-UP: 1
-DOWN: 3
-removing edge 2,2,4-Trimethyl-1,3-pentanediol diisobutyrate - ENSMUSG00000019933-P
-0.25 > 0.2, node to be removed
-
-NODE: Syringic acid
-LAYER: 1
-SCORE: 3
 UP: 5
-DOWN: 2
-removing edge Syringic acid - ENSMUSG00000041012-P
-removing edge Syringic acid - ENSMUSG00000093606-P
-0.2857142857142857 > 0.2, node to be removed
+DOWN: 6
+removing edge Levulinic acid - ENSMUSG00000023030-P
+removing edge Levulinic acid - ENSMUSG00000030560-P
+removing edge Levulinic acid - ENSMUSG00000022199-P
+removing edge Levulinic acid - ENSMUSG00000006281-P
+removing edge Levulinic acid - ENSMUSG00000033792-P
+0.45454545454545453 > 0.2, node to be removed
 
-NODE: Ethyl glycolate
-LAYER: 1
-SCORE: 1
-UP: 2
-DOWN: 1
-removing edge Ethyl glycolate - ENSMUSG00000041012-P
-0.3333333333333333 > 0.2, node to be removed
-
-NODE: 1-Octadecanol
-LAYER: 1
-SCORE: -4
-UP: 1
-DOWN: 5
-removing edge 1-Octadecanol - ENSMUSG00000030560-P
-node updated!
-
-NODE: 9-Octadecenamide
-LAYER: 1
-SCORE: -3
-UP: 1
-DOWN: 4
-removing edge 9-Octadecenamide - ENSMUSG00000004895-P
-node updated!
-
-NODE: 5,8,11-Eicosatrienoic acid
-LAYER: 1
-SCORE: 0
-UP: 1
-DOWN: 1
-score == 0, node to be removed
-
-NODE: 4-Hydroxy-5-(hydroxymethyl)oxolan-2-one
+NODE: Idoxuridine 
 LAYER: 1
 SCORE: -1
 UP: 0
 DOWN: 1
 node updated!
 
-NODE: D-(+)-Talofuranose
+NODE: 1,5-Anhydroglucitol
 LAYER: 1
-SCORE: 1
+SCORE: 0
 UP: 1
+DOWN: 1
+score == 0, node to be removed
+
+NODE: Pantothenic acid 
+LAYER: 1
+SCORE: -1
+UP: 1
+DOWN: 2
+removing edge Pantothenic acid  - ENSMUSG00000035934-P
+0.3333333333333333 > 0.2, node to be removed
+
+NODE: Levoglucosan
+LAYER: 1
+SCORE: -1
+UP: 1
+DOWN: 2
+removing edge Levoglucosan - ENSMUSG00000030560-P
+0.3333333333333333 > 0.2, node to be removed
+
+NODE: 4-Hydroxybenzeneacetic acid
+LAYER: 1
+SCORE: 0
+UP: 1
+DOWN: 1
+score == 0, node to be removed
+
+NODE: Thr-Leu
+LAYER: 1
+SCORE: 2
+UP: 2
 DOWN: 0
 node updated!
 
-NODE: Suberic acid
+NODE: N-Methyl-L-proline
 LAYER: 1
-SCORE: -6
-UP: 1
-DOWN: 7
-removing edge Suberic acid - ENSMUSG00000022427-P
-node updated!
-
-NODE: Uracil
-LAYER: 1
-SCORE: -9
-UP: 0
-DOWN: 9
-node updated!
-
-NODE: N-Methyl-alpha-aminoisobutyric acid
-LAYER: 1
-SCORE: -4
-UP: 0
-DOWN: 4
-node updated!
-
-NODE: Anthranilic acid
-LAYER: 1
-SCORE: -5
-UP: 4
-DOWN: 9
-removing edge Anthranilic acid - ENSMUSG00000030560-P
-removing edge Anthranilic acid - ENSMUSG00000033436-P
-removing edge Anthranilic acid - ENSMUSG00000033792-P
-removing edge Anthranilic acid - ENSMUSG00000015970-P
-0.3076923076923077 > 0.2, node to be removed
-
-NODE: D-Ribose
-LAYER: 1
-SCORE: -7
-UP: 0
-DOWN: 7
-node updated!
-
-NODE: Isocitric acid lactone
-LAYER: 1
-SCORE: 0
+SCORE: 2
 UP: 2
-DOWN: 2
-score == 0, node to be removed
+DOWN: 0
+node updated!
 
-NODE: Sedoheptulose anhydride
-LAYER: 1
-SCORE: 1
-UP: 4
-DOWN: 3
-removing edge Sedoheptulose anhydride - ENSMUSG00000019897-P
-removing edge Sedoheptulose anhydride - ENSMUSG00000021392-P
-removing edge Sedoheptulose anhydride - ENSMUSG00000033068-P
-0.42857142857142855 > 0.2, node to be removed
-
-NODE: Monocaprylin
+NODE: Malic acid
 LAYER: 1
 SCORE: -2
 UP: 1
 DOWN: 3
-removing edge Monocaprylin - ENSMUSG00000030703-P
+removing edge Malic acid - ENSMUSG00000036613-P
 0.25 > 0.2, node to be removed
 
-NODE: Benzenepropanoic acid, 3,5-bis(1,1-dimethylethyl)-4-hydroxy-, methyl ester
-LAYER: 1
-SCORE: 0
-UP: 3
-DOWN: 3
-score == 0, node to be removed
-
-NODE: 3-Amino-2-piperidone
-LAYER: 1
-SCORE: -5
-UP: 3
-DOWN: 8
-removing edge 3-Amino-2-piperidone - ENSMUSG00000028441-P
-removing edge 3-Amino-2-piperidone - ENSMUSG00000042198-P
-removing edge 3-Amino-2-piperidone - ENSMUSG00000042745-P
-0.2727272727272727 > 0.2, node to be removed
-
-NODE: Cyclohexanecarboxylic acid
-LAYER: 1
-SCORE: -6
-UP: 0
-DOWN: 6
-node updated!
-
-NODE: Deoxyribopyranose
-LAYER: 1
-SCORE: 7
-UP: 7
-DOWN: 0
-node updated!
-
-NODE: Arachidic acid
-LAYER: 1
-SCORE: -4
-UP: 4
-DOWN: 8
-removing edge Arachidic acid - ENSMUSG00000004040-P
-removing edge Arachidic acid - ENSMUSG00000030560-P
-removing edge Arachidic acid - ENSMUSG00000066113-P
-removing edge Arachidic acid - ENSMUSG00000033792-P
-0.3333333333333333 > 0.2, node to be removed
-
-NODE: Ketamine
+NODE: Arabinitol
 LAYER: 1
 SCORE: -1
 UP: 0
 DOWN: 1
+node updated!
+
+NODE: L-Serine
+LAYER: 1
+SCORE: -5
+UP: 0
+DOWN: 5
+node updated!
+
+NODE: 4-Methyl-5-thiazoleethanol
+LAYER: 1
+SCORE: -9
+UP: 1
+DOWN: 10
+removing edge 4-Methyl-5-thiazoleethanol - ENSMUSG00000030611-P
+node updated!
+
+NODE: 4-Coumaric acid
+LAYER: 1
+SCORE: 1
+UP: 2
+DOWN: 1
+removing edge 4-Coumaric acid - ENSMUSG00000104682-P
+0.3333333333333333 > 0.2, node to be removed
+
+NODE: L-Valyl-L-leucine
+LAYER: 1
+SCORE: 10
+UP: 10
+DOWN: 0
+node updated!
+
+NODE: Xylonic acid, delta-lactone
+LAYER: 1
+SCORE: 1
+UP: 1
+DOWN: 0
 node updated!
 
 NODE: L-Lysine
@@ -291,52 +124,6 @@ DOWN: 1
 removing edge L-Lysine - ENSMUSG00000042699-P
 0.25 > 0.2, node to be removed
 
-NODE: 2,3,4,5-Tetrahydroxypentanoic acid-1,4-lactone
-LAYER: 1
-SCORE: -1
-UP: 0
-DOWN: 1
-node updated!
-
-NODE: 2,5-Di-tert-butyl-4-hydroxyphenol
-LAYER: 1
-SCORE: -5
-UP: 1
-DOWN: 6
-removing edge 2,5-Di-tert-butyl-4-hydroxyphenol - ENSMUSG00000007476-P
-node updated!
-
-NODE: 2-Butenedioic acid
-LAYER: 1
-SCORE: -1
-UP: 2
-DOWN: 3
-removing edge 2-Butenedioic acid - ENSMUSG00000050822-P
-removing edge 2-Butenedioic acid - ENSMUSG00000030560-P
-0.4 > 0.2, node to be removed
-
-NODE: Cyclohexanemethanol
-LAYER: 1
-SCORE: -4
-UP: 1
-DOWN: 5
-removing edge Cyclohexanemethanol - ENSMUSG00000020297-P
-node updated!
-
-NODE: beta-Arabinopyranose
-LAYER: 1
-SCORE: -4
-UP: 0
-DOWN: 4
-node updated!
-
-NODE: Dihydrouracil
-LAYER: 1
-SCORE: -5
-UP: 0
-DOWN: 5
-node updated!
-
 NODE: 2,4-Di-tert-butylphenol
 LAYER: 1
 SCORE: -3
@@ -344,39 +131,18 @@ UP: 0
 DOWN: 3
 node updated!
 
-NODE: D-Xylose
+NODE: L-(-)-Sorbofuranose
 LAYER: 1
-SCORE: 0
-UP: 2
-DOWN: 2
-score == 0, node to be removed
-
-NODE: 2'-Desoxyuridine
-LAYER: 1
-SCORE: -9
+SCORE: -3
 UP: 0
-DOWN: 9
+DOWN: 3
 node updated!
 
-NODE: 1,5-Anhydroglucitol
+NODE: Cytosine
 LAYER: 1
-SCORE: 0
-UP: 1
+SCORE: -1
+UP: 0
 DOWN: 1
-score == 0, node to be removed
-
-NODE: 1,4-Butanediol
-LAYER: 1
-SCORE: 8
-UP: 8
-DOWN: 0
-node updated!
-
-NODE: beta-D-Galactopyranoside, methyl-, acetate
-LAYER: 1
-SCORE: 1
-UP: 1
-DOWN: 0
 node updated!
 
 NODE: D-Fructose
@@ -386,124 +152,102 @@ UP: 0
 DOWN: 3
 node updated!
 
-NODE: N-Acetyl-D-galactosamine, (R,R,R,R)
+NODE: Monocaprylin
 LAYER: 1
-SCORE: -13
-UP: 0
-DOWN: 13
-node updated!
+SCORE: -2
+UP: 1
+DOWN: 3
+removing edge Monocaprylin - ENSMUSG00000030703-P
+0.25 > 0.2, node to be removed
 
-NODE: 2-Butenoic acid, 2-hydroxy-
+NODE: D-Fucitol
 LAYER: 1
 SCORE: -4
-UP: 1
+UP: 2
+DOWN: 6
+removing edge D-Fucitol - ENSMUSG00000004895-P
+removing edge D-Fucitol - ENSMUSG00000051297-P
+0.25 > 0.2, node to be removed
+
+NODE: alpha-Linolenic acid
+LAYER: 1
+SCORE: -5
+UP: 0
 DOWN: 5
-removing edge 2-Butenoic acid, 2-hydroxy- - ENSMUSG00000057421-P
 node updated!
 
-NODE: 7,9-Di-tert-butyl-1-oxaspiro(4,5)deca-6,9-diene-2,8-dione
+NODE: Heptadecanoic acid
 LAYER: 1
-SCORE: -1
-UP: 1
+SCORE: 2
+UP: 4
 DOWN: 2
-removing edge 7,9-Di-tert-butyl-1-oxaspiro(4,5)deca-6,9-diene-2,8-dione - ENSMUSG00000030560-P
+removing edge Heptadecanoic acid - ENSMUSG00000064370-P
+removing edge Heptadecanoic acid - ENSMUSG00000030862-P
 0.3333333333333333 > 0.2, node to be removed
 
-NODE: N-Acetyl-L-glutamic acid
-LAYER: 1
-SCORE: -2
-UP: 0
-DOWN: 2
-node updated!
-
-NODE: Methyl galactoside (1S,2S,3S,4R,5R)
+NODE: Benzenepropanoic acid, 3,5-bis(1,1-dimethylethyl)-4-hydroxy-, methyl ester
 LAYER: 1
 SCORE: 0
-UP: 1
-DOWN: 1
+UP: 3
+DOWN: 3
 score == 0, node to be removed
 
-NODE: 3-O-methyl-beta-D-Glucopyranose
-LAYER: 1
-SCORE: 6
-UP: 6
-DOWN: 0
-node updated!
-
-NODE: L-5-Oxoproline
-LAYER: 1
-SCORE: -9
-UP: 0
-DOWN: 9
-node updated!
-
-NODE: Picolinic acid
-LAYER: 1
-SCORE: -14
-UP: 0
-DOWN: 14
-node updated!
-
-NODE: 2',2,3,6'-Tetramethoxychalcone
-LAYER: 1
-SCORE: 4
-UP: 5
-DOWN: 1
-removing edge 2',2,3,6'-Tetramethoxychalcone - ENSMUSG00000031079-P
-node updated!
-
-NODE: 2-Piperidinone
-LAYER: 1
-SCORE: -10
-UP: 2
-DOWN: 12
-removing edge 2-Piperidinone - ENSMUSG00000041126-P
-removing edge 2-Piperidinone - ENSMUSG00000042198-P
-node updated!
-
-NODE: Octadecyl octyl ether
-LAYER: 1
-SCORE: -1
-UP: 0
-DOWN: 1
-node updated!
-
-NODE: 3,4-Dihydrocoumarin, 4,4-dimethyl-6-dimethylamino
-LAYER: 1
-SCORE: -1
-UP: 1
-DOWN: 2
-removing edge 3,4-Dihydrocoumarin, 4,4-dimethyl-6-dimethylamino - ENSMUSG00000028890-P
-0.3333333333333333 > 0.2, node to be removed
-
-NODE: Palmitelaidic acid
-LAYER: 1
-SCORE: -2
-UP: 2
-DOWN: 4
-removing edge Palmitelaidic acid - ENSMUSG00000041126-P
-removing edge Palmitelaidic acid - ENSMUSG00000024740-P
-0.3333333333333333 > 0.2, node to be removed
-
-NODE: Ethyl alpha-D-glucopyranoside
+NODE: Tyrosine
 LAYER: 1
 SCORE: -7
 UP: 0
 DOWN: 7
 node updated!
 
-NODE: Butyl Succinate
+NODE: 3-Hexenedioic acid
+LAYER: 1
+SCORE: -2
+UP: 0
+DOWN: 2
+node updated!
+
+NODE: 2-Ethylhexanoic acid
+LAYER: 1
+SCORE: -16
+UP: 0
+DOWN: 16
+node updated!
+
+NODE: cis,cis,cis-1-Isobutyl-2,5-dimethylcyclohexane
+LAYER: 1
+SCORE: -1
+UP: 1
+DOWN: 2
+removing edge cis,cis,cis-1-Isobutyl-2,5-dimethylcyclohexane - ENSMUSG00000097318-P
+0.3333333333333333 > 0.2, node to be removed
+
+NODE: N-(2-hydroxyethyl)-succinimide
+LAYER: 1
+SCORE: -12
+UP: 0
+DOWN: 12
+node updated!
+
+NODE: Gluconolactone (3R,4S,5R,6R)
+LAYER: 1
+SCORE: -7
+UP: 1
+DOWN: 8
+removing edge Gluconolactone (3R,4S,5R,6R) - ENSMUSG00000034957-P
+node updated!
+
+NODE: Pentanoic acid
 LAYER: 1
 SCORE: -3
 UP: 0
 DOWN: 3
 node updated!
 
-NODE: 2-Pentenedioic acid, 2-hydroxy-
+NODE: Uracil
 LAYER: 1
-SCORE: -2
+SCORE: -9
 UP: 0
-DOWN: 2
+DOWN: 9
 node updated!
 
 NODE: 4-hydroxy-3-penten-2-one
@@ -515,50 +259,21 @@ removing edge 4-hydroxy-3-penten-2-one - ENSMUSG00000024151-P
 removing edge 4-hydroxy-3-penten-2-one - ENSMUSG00000056952-P
 0.4 > 0.2, node to be removed
 
-NODE: L-(+)-Rhamnopyranose
+NODE: Lignoceric acid
 LAYER: 1
-SCORE: 2
-UP: 3
-DOWN: 1
-removing edge L-(+)-Rhamnopyranose - ENSMUSG00000023243-P
-0.25 > 0.2, node to be removed
-
-NODE: pyrazole
-LAYER: 1
-SCORE: -8
+SCORE: -1
 UP: 0
-DOWN: 8
+DOWN: 1
 node updated!
 
-NODE: 2,6-Di-O-methyl-d-galactopyranose
+NODE: Ethanolamine
 LAYER: 1
-SCORE: 0
-UP: 1
-DOWN: 1
-score == 0, node to be removed
-
-NODE: Vanillin
-LAYER: 1
-SCORE: -12
+SCORE: -1
 UP: 2
-DOWN: 14
-removing edge Vanillin - ENSMUSG00000025979-P
-removing edge Vanillin - ENSMUSG00000050321-P
-node updated!
-
-NODE: 13-Docosenamide
-LAYER: 1
-SCORE: -2
-UP: 0
-DOWN: 2
-node updated!
-
-NODE: 2,5-Dimethoxyphenol
-LAYER: 1
-SCORE: -2
-UP: 0
-DOWN: 2
-node updated!
+DOWN: 3
+removing edge Ethanolamine - ENSMUSG00000020389-P
+removing edge Ethanolamine - ENSMUSG00000005699-P
+0.4 > 0.2, node to be removed
 
 NODE: L-Valinamide, N(2),N(2)-dimethyl
 LAYER: 1
@@ -568,283 +283,18 @@ DOWN: 1
 removing edge L-Valinamide, N(2),N(2)-dimethyl - ENSMUSG00000022427-P
 0.25 > 0.2, node to be removed
 
-NODE: L-Asparagine
+NODE: Methylsuccinic acid
 LAYER: 1
-SCORE: 2
-UP: 3
-DOWN: 1
-removing edge L-Asparagine - ENSMUSG00000094002-P
-0.25 > 0.2, node to be removed
-
-NODE: Ser-Leu
-LAYER: 1
-SCORE: 0
-UP: 1
-DOWN: 1
-score == 0, node to be removed
-
-NODE: 2,5-Dimethoxybenzhydrazide
-LAYER: 1
-SCORE: -2
+SCORE: -6
 UP: 0
-DOWN: 2
-node updated!
-
-NODE: Monolaurin
-LAYER: 1
-SCORE: 3
-UP: 3
-DOWN: 0
-node updated!
-
-NODE: 3-(3-Hydroxyphenyl)propanoic acid
-LAYER: 1
-SCORE: -4
-UP: 0
-DOWN: 4
-node updated!
-
-NODE: Arabinofuranose, 1,2,3,5-tetrakis
-LAYER: 1
-SCORE: -4
-UP: 0
-DOWN: 4
-node updated!
-
-NODE: Erythrono-1,4-lactone
-LAYER: 1
-SCORE: -2
-UP: 0
-DOWN: 2
-node updated!
-
-NODE: Pyridoxic acid
-LAYER: 1
-SCORE: -2
-UP: 0
-DOWN: 2
-node updated!
-
-NODE: Hymexazole
-LAYER: 1
-SCORE: -5
-UP: 1
 DOWN: 6
-removing edge Hymexazole - ENSMUSG00000042198-P
 node updated!
 
-NODE: N,N-Diethyl-carbamate
+NODE: Trimethylsilyl (5-benzyl-3,6-dioxopiperazin-2-yl)acetate
 LAYER: 1
-SCORE: 1
-UP: 2
-DOWN: 1
-removing edge N,N-Diethyl-carbamate - ENSMUSG00000046711-P
-0.3333333333333333 > 0.2, node to be removed
-
-NODE: L-Norvaline
-LAYER: 1
-SCORE: -3
+SCORE: -6
 UP: 0
-DOWN: 3
-node updated!
-
-NODE: Ribitol
-LAYER: 1
-SCORE: -1
-UP: 5
 DOWN: 6
-removing edge Ribitol - ENSMUSG00000030008-P
-removing edge Ribitol - ENSMUSG00000042831-P
-removing edge Ribitol - ENSMUSG00000042198-P
-removing edge Ribitol - ENSMUSG00000042745-P
-removing edge Ribitol - ENSMUSG00000009013-P
-0.45454545454545453 > 0.2, node to be removed
-
-NODE: Hexadecanoic acid, 4-hydroxybutyl ester
-LAYER: 1
-SCORE: -2
-UP: 0
-DOWN: 2
-node updated!
-
-NODE: N-Acetylglucosamine
-LAYER: 1
-SCORE: -3
-UP: 0
-DOWN: 3
-node updated!
-
-NODE: 5,10-Diethoxy-2,3,7,8-tetrahydro-1H,6H-dipyrrolo[1,2-a:1',2'-d]pyrazine
-LAYER: 1
-SCORE: -1
-UP: 1
-DOWN: 2
-removing edge 5,10-Diethoxy-2,3,7,8-tetrahydro-1H,6H-dipyrrolo[1,2-a:1',2'-d]pyrazine - ENSMUSG00000024335-P
-0.3333333333333333 > 0.2, node to be removed
-
-NODE: D-Glucose
-LAYER: 1
-SCORE: -7
-UP: 0
-DOWN: 7
-node updated!
-
-NODE: L-Threonine
-LAYER: 1
-SCORE: -3
-UP: 0
-DOWN: 3
-node updated!
-
-NODE: 2-Furanacetaldehyde, tetrahydro-alpha
-LAYER: 1
-SCORE: 1
-UP: 1
-DOWN: 0
-node updated!
-
-NODE: 3,4,5-Trihydroxypentanoic acid
-LAYER: 1
-SCORE: -1
-UP: 1
-DOWN: 2
-removing edge 3,4,5-Trihydroxypentanoic acid - ENSMUSG00000050989-P
-0.3333333333333333 > 0.2, node to be removed
-
-NODE: 5-Hydroxymethyl-2-furoic acid
-LAYER: 1
-SCORE: -1
-UP: 0
-DOWN: 1
-node updated!
-
-NODE: Menthol
-LAYER: 1
-SCORE: -1
-UP: 0
-DOWN: 1
-node updated!
-
-NODE: 3,4-dimethyl-5-(3,4-methylenedioxy)phenyloxazolidine
-LAYER: 1
-SCORE: -1
-UP: 1
-DOWN: 2
-removing edge 3,4-dimethyl-5-(3,4-methylenedioxy)phenyloxazolidine - ENSMUSG00000023826-P
-0.3333333333333333 > 0.2, node to be removed
-
-NODE: Phenol
-LAYER: 1
-SCORE: -13
-UP: 3
-DOWN: 16
-removing edge Phenol - ENSMUSG00000061718-P
-removing edge Phenol - ENSMUSG00000023764-P
-removing edge Phenol - ENSMUSG00000033792-P
-node updated!
-
-NODE: 2-tert-Butyl-4-ethylphenol
-LAYER: 1
-SCORE: 0
-UP: 1
-DOWN: 1
-score == 0, node to be removed
-
-NODE: Cyclopenta[g]-2-benzopyran, 1,3,4,6,7,8-hexahydro-4,6,6,7,8,8-hexamethyl
-LAYER: 1
-SCORE: -1
-UP: 2
-DOWN: 3
-removing edge Cyclopenta[g]-2-benzopyran, 1,3,4,6,7,8-hexahydro-4,6,6,7,8,8-hexamethyl - ENSMUSG00000004040-P
-removing edge Cyclopenta[g]-2-benzopyran, 1,3,4,6,7,8-hexahydro-4,6,6,7,8,8-hexamethyl - ENSMUSG00000030560-P
-0.4 > 0.2, node to be removed
-
-NODE: Ribonic acid
-LAYER: 1
-SCORE: -3
-UP: 0
-DOWN: 3
-node updated!
-
-NODE: Malic acid
-LAYER: 1
-SCORE: -2
-UP: 1
-DOWN: 3
-removing edge Malic acid - ENSMUSG00000036613-P
-0.25 > 0.2, node to be removed
-
-NODE: 2-Allyl-1,4-dimethoxybenzene
-LAYER: 1
-SCORE: -5
-UP: 1
-DOWN: 6
-removing edge 2-Allyl-1,4-dimethoxybenzene - ENSMUSG00000021481-P
-node updated!
-
-NODE: N,N-Diethyl-2-aminoethanol
-LAYER: 1
-SCORE: 2
-UP: 3
-DOWN: 1
-removing edge N,N-Diethyl-2-aminoethanol - ENSMUSG00000050321-P
-0.25 > 0.2, node to be removed
-
-NODE: 2-Aminobutanoic acid
-LAYER: 1
-SCORE: -2
-UP: 0
-DOWN: 2
-node updated!
-
-NODE: Tricine
-LAYER: 1
-SCORE: -1
-UP: 0
-DOWN: 1
-node updated!
-
-NODE: D-(-)-Fructofuranose
-LAYER: 1
-SCORE: -12
-UP: 0
-DOWN: 12
-node updated!
-
-NODE: Thr-Leu
-LAYER: 1
-SCORE: 2
-UP: 2
-DOWN: 0
-node updated!
-
-NODE: Valylvaline
-LAYER: 1
-SCORE: 2
-UP: 3
-DOWN: 1
-removing edge Valylvaline - ENSMUSG00000027349-P
-0.25 > 0.2, node to be removed
-
-NODE: Phenylpropanolamine
-LAYER: 1
-SCORE: 0
-UP: 2
-DOWN: 2
-score == 0, node to be removed
-
-NODE: Butanedioic acid
-LAYER: 1
-SCORE: -1
-UP: 0
-DOWN: 1
-node updated!
-
-NODE: 3-Hydroxy-2,3-dihydromaltol
-LAYER: 1
-SCORE: -2
-UP: 0
-DOWN: 2
 node updated!
 
 NODE: Protocatechoic acid
@@ -854,27 +304,53 @@ UP: 1
 DOWN: 1
 score == 0, node to be removed
 
-NODE: 1-Monopalmitin
-LAYER: 1
-SCORE: 3
-UP: 3
-DOWN: 0
-node updated!
-
-NODE: Gulonic acid, gamma-lactone
-LAYER: 1
-SCORE: 3
-UP: 5
-DOWN: 2
-removing edge Gulonic acid, gamma-lactone - ENSMUSG00000036613-P
-removing edge Gulonic acid, gamma-lactone - ENSMUSG00000051043-P
-0.2857142857142857 > 0.2, node to be removed
-
-NODE: Methylsuccinic acid
+NODE: Aconitic acid
 LAYER: 1
 SCORE: -6
 UP: 0
 DOWN: 6
+node updated!
+
+NODE: phenoxyethanol
+LAYER: 1
+SCORE: -8
+UP: 3
+DOWN: 11
+removing edge phenoxyethanol - ENSMUSG00000032633-P
+removing edge phenoxyethanol - ENSMUSG00000030008-P
+removing edge phenoxyethanol - ENSMUSG00000004040-P
+0.21428571428571427 > 0.2, node to be removed
+
+NODE: Trisaminol
+LAYER: 1
+SCORE: -2
+UP: 4
+DOWN: 6
+removing edge Trisaminol - ENSMUSG00000061718-P
+removing edge Trisaminol - ENSMUSG00000030560-P
+removing edge Trisaminol - ENSMUSG00000020297-P
+removing edge Trisaminol - ENSMUSG00000019933-P
+0.4 > 0.2, node to be removed
+
+NODE: 2-Butenoic acid, 2-methyl-, 2-methyl-2-propenyl ester
+LAYER: 1
+SCORE: -2
+UP: 0
+DOWN: 2
+node updated!
+
+NODE: 3-O-methyl-beta-D-Glucopyranose
+LAYER: 1
+SCORE: 6
+UP: 6
+DOWN: 0
+node updated!
+
+NODE: 2'-Desoxyuridine
+LAYER: 1
+SCORE: -9
+UP: 0
+DOWN: 9
 node updated!
 
 NODE: D-(-)-Ribofuranose
@@ -884,27 +360,32 @@ UP: 1
 DOWN: 0
 node updated!
 
-NODE: Salsoline
+NODE: N-Methyl-alpha-aminoisobutyric acid
 LAYER: 1
-SCORE: -16
+SCORE: -4
 UP: 0
-DOWN: 16
+DOWN: 4
 node updated!
 
-NODE: 2-Octanol
+NODE: 2-Ethylacetoacetate
 LAYER: 1
-SCORE: -1
-UP: 1
-DOWN: 2
-removing edge 2-Octanol - ENSMUSG00000025410-P
-0.3333333333333333 > 0.2, node to be removed
+SCORE: -8
+UP: 0
+DOWN: 8
+node updated!
 
-NODE: 3-Buten-2-one
+NODE: L-Aspartic acid
 LAYER: 1
-SCORE: 3
-UP: 4
-DOWN: 1
-removing edge 3-Buten-2-one - ENSMUSG00000018322-P
+SCORE: -5
+UP: 0
+DOWN: 5
+node updated!
+
+NODE: L-5-Oxoproline
+LAYER: 1
+SCORE: -9
+UP: 0
+DOWN: 9
 node updated!
 
 NODE: D-Arabinose
@@ -917,237 +398,37 @@ removing edge D-Arabinose - ENSMUSG00000027860-P
 removing edge D-Arabinose - ENSMUSG00000031637-P
 0.42857142857142855 > 0.2, node to be removed
 
-NODE: 4-hydroxycyclohexylacetate
-LAYER: 1
-SCORE: -2
-UP: 1
-DOWN: 3
-removing edge 4-hydroxycyclohexylacetate - ENSMUSG00000003199-P
-0.25 > 0.2, node to be removed
-
-NODE: Syringaldehyde
-LAYER: 1
-SCORE: -11
-UP: 2
-DOWN: 13
-removing edge Syringaldehyde - ENSMUSG00000018322-P
-removing edge Syringaldehyde - ENSMUSG00000021583-P
-node updated!
-
-NODE: D-Mannopyranose
+NODE: 2-Furanacetaldehyde, tetrahydro-alpha
 LAYER: 1
 SCORE: 1
 UP: 1
 DOWN: 0
 node updated!
 
-NODE: Citric acid
+NODE: D-Allofuranose
 LAYER: 1
 SCORE: -4
 UP: 0
 DOWN: 4
 node updated!
 
-NODE: beta-Alanine
+NODE: Arabino-Hexonic acid, 2-deoxy-, gamma-lactone
 LAYER: 1
-SCORE: -14
+SCORE: -1
 UP: 1
-DOWN: 15
-removing edge beta-Alanine - ENSMUSG00000029878-P
-node updated!
+DOWN: 2
+removing edge Arabino-Hexonic acid, 2-deoxy-, gamma-lactone - ENSMUSG00000004040-P
+0.3333333333333333 > 0.2, node to be removed
 
-NODE: Urea
-LAYER: 1
-SCORE: -27
-UP: 0
-DOWN: 27
-node updated!
-
-NODE: 2-Ethylhexanoic acid
-LAYER: 1
-SCORE: -16
-UP: 0
-DOWN: 16
-node updated!
-
-NODE: 5-Methyluridine
+NODE: Putrescine
 LAYER: 1
 SCORE: -2
-UP: 0
-DOWN: 2
-node updated!
-
-NODE: L-Leucine
-LAYER: 1
-SCORE: -8
-UP: 0
-DOWN: 8
-node updated!
-
-NODE: Norketamine
-LAYER: 1
-SCORE: 6
-UP: 6
-DOWN: 0
-node updated!
-
-NODE: L-Valine
-LAYER: 1
-SCORE: -34
-UP: 0
-DOWN: 34
-node updated!
-
-NODE: beta-D-(-)-Ribopyranose
-LAYER: 1
-SCORE: -6
 UP: 1
-DOWN: 7
-removing edge beta-D-(-)-Ribopyranose - ENSMUSG00000090247-P
-node updated!
-
-NODE: Methyl beta-Arabinofuranoside
-LAYER: 1
-SCORE: -1
-UP: 1
-DOWN: 2
-removing edge Methyl beta-Arabinofuranoside - ENSMUSG00000066357-P
-0.3333333333333333 > 0.2, node to be removed
-
-NODE: Thymine, 1,3-dimethyl-6-hydroxymethyl
-LAYER: 1
-SCORE: -7
-UP: 3
-DOWN: 10
-removing edge Thymine, 1,3-dimethyl-6-hydroxymethyl - ENSMUSG00000032633-P
-removing edge Thymine, 1,3-dimethyl-6-hydroxymethyl - ENSMUSG00000038555-P
-removing edge Thymine, 1,3-dimethyl-6-hydroxymethyl - ENSMUSG00000026547-P
-0.23076923076923078 > 0.2, node to be removed
-
-NODE: Pentitol, 3-desoxy
-LAYER: 1
-SCORE: 1
-UP: 1
-DOWN: 0
-node updated!
-
-NODE: Decyl oleate
-LAYER: 1
-SCORE: -5
-UP: 0
-DOWN: 5
-node updated!
-
-NODE: Dihydroxyacetone
-LAYER: 1
-SCORE: 1
-UP: 1
-DOWN: 0
-node updated!
-
-NODE: 2,3,4-Trihydroxybutyric acid
-LAYER: 1
-SCORE: -3
-UP: 1
-DOWN: 4
-removing edge 2,3,4-Trihydroxybutyric acid - ENSMUSG00000090247-P
-node updated!
-
-NODE: 11-Methyldodecanol
-LAYER: 1
-SCORE: -2
-UP: 5
-DOWN: 7
-removing edge 11-Methyldodecanol - ENSMUSG00000004040-P
-removing edge 11-Methyldodecanol - ENSMUSG00000021025-P
-removing edge 11-Methyldodecanol - ENSMUSG00000056952-P
-removing edge 11-Methyldodecanol - ENSMUSG00000071650-P
-removing edge 11-Methyldodecanol - ENSMUSG00000033792-P
-0.4166666666666667 > 0.2, node to be removed
-
-NODE: 6-Hydroxyhexanoic acid
-LAYER: 1
-SCORE: -3
-UP: 1
-DOWN: 4
-removing edge 6-Hydroxyhexanoic acid - ENSMUSG00000049295-P
-node updated!
-
-NODE: Methyl alpha-Arabinofuranoside
-LAYER: 1
-SCORE: -1
-UP: 1
-DOWN: 2
-removing edge Methyl alpha-Arabinofuranoside - ENSMUSG00000035443-P
-0.3333333333333333 > 0.2, node to be removed
-
-NODE: Cytosine
-LAYER: 1
-SCORE: -1
-UP: 0
-DOWN: 1
-node updated!
-
-NODE: Hydroquinone
-LAYER: 1
-SCORE: -3
-UP: 1
-DOWN: 4
-removing edge Hydroquinone - ENSMUSG00000061718-P
-node updated!
-
-NODE: Inosose-2, myo
-LAYER: 1
-SCORE: -3
-UP: 0
 DOWN: 3
-node updated!
+removing edge Putrescine - ENSMUSG00000028977-P
+0.25 > 0.2, node to be removed
 
-NODE: Dehydroabietic acid
-LAYER: 1
-SCORE: 1
-UP: 2
-DOWN: 1
-removing edge Dehydroabietic acid - ENSMUSG00000042831-P
-0.3333333333333333 > 0.2, node to be removed
-
-NODE: 2-Propenoic acid, 2-hydroxy-3-(4-hydroxyphenyl)
-LAYER: 1
-SCORE: -16
-UP: 0
-DOWN: 16
-node updated!
-
-NODE: Phloretic acid
-LAYER: 1
-SCORE: -3
-UP: 0
-DOWN: 3
-node updated!
-
-NODE: Supraene
-LAYER: 1
-SCORE: 2
-UP: 2
-DOWN: 0
-node updated!
-
-NODE: l-Leucyl-l-valine
-LAYER: 1
-SCORE: 4
-UP: 5
-DOWN: 1
-removing edge l-Leucyl-l-valine - ENSMUSG00000045128-P
-node updated!
-
-NODE: Arabinitol
-LAYER: 1
-SCORE: -1
-UP: 0
-DOWN: 1
-node updated!
-
-NODE: Isonicotinic Acid
+NODE: 12-Oxooctadecanoate
 LAYER: 1
 SCORE: 1
 UP: 1
@@ -1161,53 +442,191 @@ UP: 2
 DOWN: 0
 node updated!
 
-NODE: 2,5-Dimethoxymandelic acid
+NODE: Syringic acid
 LAYER: 1
-SCORE: 1
-UP: 3
+SCORE: 3
+UP: 5
 DOWN: 2
-removing edge 2,5-Dimethoxymandelic acid - ENSMUSG00000069727-P
-removing edge 2,5-Dimethoxymandelic acid - ENSMUSG00000031808-P
-0.4 > 0.2, node to be removed
+removing edge Syringic acid - ENSMUSG00000041012-P
+removing edge Syringic acid - ENSMUSG00000093606-P
+0.2857142857142857 > 0.2, node to be removed
 
-NODE: 2,3-Butanediol
+NODE: Hydroquinone
 LAYER: 1
-SCORE: -7
-UP: 2
-DOWN: 9
-removing edge 2,3-Butanediol - ENSMUSG00000002319-P
-removing edge 2,3-Butanediol - ENSMUSG00000019933-P
+SCORE: -3
+UP: 1
+DOWN: 4
+removing edge Hydroquinone - ENSMUSG00000061718-P
 node updated!
 
-NODE: Xylazine
+NODE: Isocitric acid lactone
+LAYER: 1
+SCORE: 0
+UP: 2
+DOWN: 2
+score == 0, node to be removed
+
+NODE: alpha-L-(-)-Fucopyranose
+LAYER: 1
+SCORE: 1
+UP: 1
+DOWN: 0
+node updated!
+
+NODE: Phenylpropanolamine
+LAYER: 1
+SCORE: 0
+UP: 2
+DOWN: 2
+score == 0, node to be removed
+
+NODE: Supraene
+LAYER: 1
+SCORE: 2
+UP: 2
+DOWN: 0
+node updated!
+
+NODE: 4-Pyridinol
+LAYER: 1
+SCORE: -3
+UP: 0
+DOWN: 3
+node updated!
+
+NODE: Pentanedioic acid
+LAYER: 1
+SCORE: -2
+UP: 0
+DOWN: 2
+node updated!
+
+NODE: 2-Octanol
+LAYER: 1
+SCORE: -1
+UP: 1
+DOWN: 2
+removing edge 2-Octanol - ENSMUSG00000025410-P
+0.3333333333333333 > 0.2, node to be removed
+
+NODE: 3-Pyridylcarbinol
+LAYER: 1
+SCORE: -11
+UP: 0
+DOWN: 11
+node updated!
+
+NODE: Campesterol
+LAYER: 1
+SCORE: 1
+UP: 1
+DOWN: 0
+node updated!
+
+NODE: Myristic acid
+LAYER: 1
+SCORE: -2
+UP: 0
+DOWN: 2
+node updated!
+
+NODE: L-(+)-Lactic acid
 LAYER: 1
 SCORE: -1
 UP: 0
 DOWN: 1
 node updated!
 
-NODE: D-(-)-Fructopyranose
+NODE: Deoxyribopyranose
+LAYER: 1
+SCORE: 7
+UP: 7
+DOWN: 0
+node updated!
+
+NODE: Palmitelaidic acid
+LAYER: 1
+SCORE: -2
+UP: 2
+DOWN: 4
+removing edge Palmitelaidic acid - ENSMUSG00000041126-P
+removing edge Palmitelaidic acid - ENSMUSG00000024740-P
+0.3333333333333333 > 0.2, node to be removed
+
+NODE: 1-Octadecanol
+LAYER: 1
+SCORE: -4
+UP: 1
+DOWN: 5
+removing edge 1-Octadecanol - ENSMUSG00000030560-P
+node updated!
+
+NODE: Pyridoxic acid
+LAYER: 1
+SCORE: -2
+UP: 0
+DOWN: 2
+node updated!
+
+NODE: Ferulic acid
+LAYER: 1
+SCORE: 0
+UP: 3
+DOWN: 3
+score == 0, node to be removed
+
+NODE: D-(+)-Talofuranose
+LAYER: 1
+SCORE: 1
+UP: 1
+DOWN: 0
+node updated!
+
+NODE: 6-Hydroxyhexanoic acid
+LAYER: 1
+SCORE: -3
+UP: 1
+DOWN: 4
+removing edge 6-Hydroxyhexanoic acid - ENSMUSG00000049295-P
+node updated!
+
+NODE: Isopropyl myristate
+LAYER: 1
+SCORE: -5
+UP: 3
+DOWN: 8
+removing edge Isopropyl myristate - ENSMUSG00000004040-P
+removing edge Isopropyl myristate - ENSMUSG00000024335-P
+removing edge Isopropyl myristate - ENSMUSG00000006281-P
+0.2727272727272727 > 0.2, node to be removed
+
+NODE: Methyl (3,4-dimethoxyphenyl)(hydroxy)acetate
+LAYER: 1
+SCORE: -1
+UP: 1
+DOWN: 2
+removing edge Methyl (3,4-dimethoxyphenyl)(hydroxy)acetate - ENSMUSG00000022010-P
+0.3333333333333333 > 0.2, node to be removed
+
+NODE: 1H-Indole-2-carboxylic acid, 5-ethyl-1-(trimethylsilyl)
 LAYER: 1
 SCORE: -4
 UP: 0
 DOWN: 4
 node updated!
 
-NODE: Stearic acid
+NODE: Tripropylene glycol monomethyl ether
 LAYER: 1
-SCORE: -3
-UP: 3
-DOWN: 6
-removing edge Stearic acid - ENSMUSG00000030560-P
-removing edge Stearic acid - ENSMUSG00000066113-P
-removing edge Stearic acid - ENSMUSG00000043411-P
-0.3333333333333333 > 0.2, node to be removed
-
-NODE: Deoxyglucose
-LAYER: 1
-SCORE: -2
+SCORE: -20
 UP: 0
-DOWN: 2
+DOWN: 20
+node updated!
+
+NODE: Glycolic acid
+LAYER: 1
+SCORE: -1
+UP: 0
+DOWN: 1
 node updated!
 
 NODE: D-Erythro-Pentitol, 2-deoxy-
@@ -1217,10 +636,157 @@ UP: 1
 DOWN: 0
 node updated!
 
-NODE: L-Valyl-L-leucine
+NODE: 3-Methylvaleric acid
 LAYER: 1
-SCORE: 10
-UP: 10
+SCORE: 0
+UP: 1
+DOWN: 1
+score == 0, node to be removed
+
+NODE: 1-Hexanol
+LAYER: 1
+SCORE: 2
+UP: 2
+DOWN: 0
+node updated!
+
+NODE: Dihydroxyacetone
+LAYER: 1
+SCORE: 1
+UP: 1
+DOWN: 0
+node updated!
+
+NODE: Decyl oleate
+LAYER: 1
+SCORE: -5
+UP: 0
+DOWN: 5
+node updated!
+
+NODE: 5-Methyluridine
+LAYER: 1
+SCORE: -2
+UP: 0
+DOWN: 2
+node updated!
+
+NODE: beta-Arabinopyranose
+LAYER: 1
+SCORE: -4
+UP: 0
+DOWN: 4
+node updated!
+
+NODE: L-Threonine
+LAYER: 1
+SCORE: -3
+UP: 0
+DOWN: 3
+node updated!
+
+NODE: Phloretic acid
+LAYER: 1
+SCORE: -3
+UP: 0
+DOWN: 3
+node updated!
+
+NODE: 4-Hydroxybenzaldehyde
+LAYER: 1
+SCORE: -2
+UP: 0
+DOWN: 2
+node updated!
+
+NODE: Inosose-2, myo
+LAYER: 1
+SCORE: -3
+UP: 0
+DOWN: 3
+node updated!
+
+NODE: Desmethylverapamil
+LAYER: 1
+SCORE: 2
+UP: 3
+DOWN: 1
+removing edge Desmethylverapamil - ENSMUSG00000020102-P
+0.25 > 0.2, node to be removed
+
+NODE: Dihydrouracil
+LAYER: 1
+SCORE: -5
+UP: 0
+DOWN: 5
+node updated!
+
+NODE: Nonadecanoic acid
+LAYER: 1
+SCORE: -2
+UP: 2
+DOWN: 4
+removing edge Nonadecanoic acid - ENSMUSG00000004040-P
+removing edge Nonadecanoic acid - ENSMUSG00000021025-P
+0.3333333333333333 > 0.2, node to be removed
+
+NODE: alpha-Tocopheryl acetate
+LAYER: 1
+SCORE: 3
+UP: 3
+DOWN: 0
+node updated!
+
+NODE: L-Rhamnose
+LAYER: 1
+SCORE: -6
+UP: 2
+DOWN: 8
+removing edge L-Rhamnose - ENSMUSG00000026309-P
+removing edge L-Rhamnose - ENSMUSG00000022010-P
+node updated!
+
+NODE: 2,6-Di-O-methyl-d-galactopyranose
+LAYER: 1
+SCORE: 0
+UP: 1
+DOWN: 1
+score == 0, node to be removed
+
+NODE: Serine
+LAYER: 1
+SCORE: -18
+UP: 0
+DOWN: 18
+node updated!
+
+NODE: 1-Dodecanol
+LAYER: 1
+SCORE: -6
+UP: 0
+DOWN: 6
+node updated!
+
+NODE: Pentadecanoic acid
+LAYER: 1
+SCORE: -3
+UP: 1
+DOWN: 4
+removing edge Pentadecanoic acid - ENSMUSG00000004040-P
+node updated!
+
+NODE: Cyclohexanemethanol
+LAYER: 1
+SCORE: -4
+UP: 1
+DOWN: 5
+removing edge Cyclohexanemethanol - ENSMUSG00000020297-P
+node updated!
+
+NODE: 1,4-Butanediol
+LAYER: 1
+SCORE: 8
+UP: 8
 DOWN: 0
 node updated!
 
@@ -1233,40 +799,296 @@ removing edge 4-Methylvaleric acid - ENSMUSG00000061718-P
 removing edge 4-Methylvaleric acid - ENSMUSG00000036613-P
 0.2222222222222222 > 0.2, node to be removed
 
-NODE: Xylose
+NODE: D-Erythro-Pentofuranose, 2-deoxy-1,3-bis-O-posphate
 LAYER: 1
-SCORE: 2
-UP: 2
-DOWN: 0
+SCORE: -2
+UP: 0
+DOWN: 2
 node updated!
 
-NODE: L-(+)-Lactic acid
+NODE: L-Isoleucine
+LAYER: 1
+SCORE: -27
+UP: 0
+DOWN: 27
+node updated!
+
+NODE: Hexadecanoic acid, 4-hydroxybutyl ester
+LAYER: 1
+SCORE: -2
+UP: 0
+DOWN: 2
+node updated!
+
+NODE: Niacinamide
+LAYER: 1
+SCORE: -3
+UP: 0
+DOWN: 3
+node updated!
+
+NODE: 2-Pentenedioic acid, 2-hydroxy-
+LAYER: 1
+SCORE: -2
+UP: 0
+DOWN: 2
+node updated!
+
+NODE: Picolinic acid
+LAYER: 1
+SCORE: -14
+UP: 0
+DOWN: 14
+node updated!
+
+NODE: Ketamine
 LAYER: 1
 SCORE: -1
 UP: 0
 DOWN: 1
 node updated!
 
-NODE: Tetrahydrogeranyl formate
+NODE: beta-d-Glucopyranose, 2-(acetylamino)-3,6-anhydro-2-deoxy
+LAYER: 1
+SCORE: -14
+UP: 0
+DOWN: 14
+node updated!
+
+NODE: Phenol
+LAYER: 1
+SCORE: -13
+UP: 3
+DOWN: 16
+removing edge Phenol - ENSMUSG00000061718-P
+removing edge Phenol - ENSMUSG00000023764-P
+removing edge Phenol - ENSMUSG00000033792-P
+node updated!
+
+NODE: Butyl Succinate
+LAYER: 1
+SCORE: -3
+UP: 0
+DOWN: 3
+node updated!
+
+NODE: Sebacic acid
+LAYER: 1
+SCORE: -3
+UP: 0
+DOWN: 3
+node updated!
+
+NODE: Benzaldehyde, 2,5-dimethoxy
+LAYER: 1
+SCORE: -1
+UP: 1
+DOWN: 2
+removing edge Benzaldehyde, 2,5-dimethoxy - ENSMUSG00000078486-P
+0.3333333333333333 > 0.2, node to be removed
+
+NODE: 9-Octadecen-1-ol
+LAYER: 1
+SCORE: -1
+UP: 1
+DOWN: 2
+removing edge 9-Octadecen-1-ol - ENSMUSG00000030008-P
+0.3333333333333333 > 0.2, node to be removed
+
+NODE: 7,9-Di-tert-butyl-1-oxaspiro(4,5)deca-6,9-diene-2,8-dione
+LAYER: 1
+SCORE: -1
+UP: 1
+DOWN: 2
+removing edge 7,9-Di-tert-butyl-1-oxaspiro(4,5)deca-6,9-diene-2,8-dione - ENSMUSG00000030560-P
+0.3333333333333333 > 0.2, node to be removed
+
+NODE: Butyl caprylate
+LAYER: 1
+SCORE: -3
+UP: 0
+DOWN: 3
+node updated!
+
+NODE: N-Ethyldiethanolamine
+LAYER: 1
+SCORE: 0
+UP: 1
+DOWN: 1
+score == 0, node to be removed
+
+NODE: D-(-)-Fructofuranose
+LAYER: 1
+SCORE: -12
+UP: 0
+DOWN: 12
+node updated!
+
+NODE: Methyl stearate
+LAYER: 1
+SCORE: -1
+UP: 4
+DOWN: 5
+removing edge Methyl stearate - ENSMUSG00000004040-P
+removing edge Methyl stearate - ENSMUSG00000021481-P
+removing edge Methyl stearate - ENSMUSG00000058351-P
+removing edge Methyl stearate - ENSMUSG00000006281-P
+0.4444444444444444 > 0.2, node to be removed
+
+NODE: Syringaldehyde
+LAYER: 1
+SCORE: -11
+UP: 2
+DOWN: 13
+removing edge Syringaldehyde - ENSMUSG00000018322-P
+removing edge Syringaldehyde - ENSMUSG00000021583-P
+node updated!
+
+NODE: 2,5-Di-tert-butyl-4-hydroxyphenol
+LAYER: 1
+SCORE: -5
+UP: 1
+DOWN: 6
+removing edge 2,5-Di-tert-butyl-4-hydroxyphenol - ENSMUSG00000007476-P
+node updated!
+
+NODE: Hexadecanoic acid, ethyl ester
+LAYER: 1
+SCORE: -2
+UP: 3
+DOWN: 5
+removing edge Hexadecanoic acid, ethyl ester - ENSMUSG00000004040-P
+removing edge Hexadecanoic acid, ethyl ester - ENSMUSG00000033436-P
+removing edge Hexadecanoic acid, ethyl ester - ENSMUSG00000033792-P
+0.375 > 0.2, node to be removed
+
+NODE: Octanoic acid
+LAYER: 1
+SCORE: 3
+UP: 4
+DOWN: 1
+removing edge Octanoic acid - ENSMUSG00000046711-P
+node updated!
+
+NODE: 2,5-Dimethoxybenzhydrazide
+LAYER: 1
+SCORE: -2
+UP: 0
+DOWN: 2
+node updated!
+
+NODE: alpha-Ketoisovaleric acid
+LAYER: 1
+SCORE: 1
+UP: 2
+DOWN: 1
+removing edge alpha-Ketoisovaleric acid - ENSMUSG00000100075-P
+0.3333333333333333 > 0.2, node to be removed
+
+NODE: Citric acid
 LAYER: 1
 SCORE: -4
 UP: 0
 DOWN: 4
 node updated!
 
-NODE: 2-Amino-4-tert-butylphenol
+NODE: Dimethyl hexopyranosiduronate, alpha-D
+LAYER: 1
+SCORE: 0
+UP: 1
+DOWN: 1
+score == 0, node to be removed
+
+NODE: Pantolactone
+LAYER: 1
+SCORE: -4
+UP: 4
+DOWN: 8
+removing edge Pantolactone - ENSMUSG00000030560-P
+removing edge Pantolactone - ENSMUSG00000007476-P
+removing edge Pantolactone - ENSMUSG00000020297-P
+removing edge Pantolactone - ENSMUSG00000015970-P
+0.3333333333333333 > 0.2, node to be removed
+
+NODE: 2,3-Dihydroxy-2-methylpropanoic acid
+LAYER: 1
+SCORE: 2
+UP: 3
+DOWN: 1
+removing edge 2,3-Dihydroxy-2-methylpropanoic acid - ENSMUSG00000104682-P
+0.25 > 0.2, node to be removed
+
+NODE: 3-Buten-2-one
+LAYER: 1
+SCORE: 3
+UP: 4
+DOWN: 1
+removing edge 3-Buten-2-one - ENSMUSG00000018322-P
+node updated!
+
+NODE: Erythritol
+LAYER: 1
+SCORE: 3
+UP: 3
+DOWN: 0
+node updated!
+
+NODE: Arabinose
+LAYER: 1
+SCORE: 2
+UP: 2
+DOWN: 0
+node updated!
+
+NODE: 4-Pentenoic acid
 LAYER: 1
 SCORE: -1
 UP: 1
 DOWN: 2
-removing edge 2-Amino-4-tert-butylphenol - ENSMUSG00000028977-P
+removing edge 4-Pentenoic acid - ENSMUSG00000022427-P
 0.3333333333333333 > 0.2, node to be removed
 
-NODE: N-Acetyl glucosamine methoxime
+NODE: Palmitic Acid
 LAYER: 1
-SCORE: -6
+SCORE: -3
 UP: 0
+DOWN: 3
+node updated!
+
+NODE: Argininosuccinic acid
+LAYER: 1
+SCORE: 1
+UP: 7
 DOWN: 6
+removing edge Argininosuccinic acid - ENSMUSG00000019907-P
+removing edge Argininosuccinic acid - ENSMUSG00000002455-P
+removing edge Argininosuccinic acid - ENSMUSG00000100075-P
+removing edge Argininosuccinic acid - ENSMUSG00000068196-P
+removing edge Argininosuccinic acid - ENSMUSG00000019088-P
+removing edge Argininosuccinic acid - ENSMUSG00000031776-P
+0.46153846153846156 > 0.2, node to be removed
+
+NODE: Azelaic acid
+LAYER: 1
+SCORE: 1
+UP: 1
+DOWN: 0
+node updated!
+
+NODE: Vanillin
+LAYER: 1
+SCORE: -12
+UP: 2
+DOWN: 14
+removing edge Vanillin - ENSMUSG00000025979-P
+removing edge Vanillin - ENSMUSG00000050321-P
+node updated!
+
+NODE: L-Proline
+LAYER: 1
+SCORE: -1
+UP: 0
+DOWN: 1
 node updated!
 
 NODE: 1-Hexacosene
@@ -1277,11 +1099,190 @@ DOWN: 4
 removing edge 1-Hexacosene - ENSMUSG00000019933-P
 node updated!
 
-NODE: 4-Hydroxybenzaldehyde
+NODE: 2-Hydroxy-3-methylbutyric acid
 LAYER: 1
 SCORE: -2
 UP: 0
 DOWN: 2
+node updated!
+
+NODE: N-Acetylglucosamine
+LAYER: 1
+SCORE: -3
+UP: 0
+DOWN: 3
+node updated!
+
+NODE: D-Mannose
+LAYER: 1
+SCORE: -2
+UP: 2
+DOWN: 4
+removing edge D-Mannose - ENSMUSG00000057421-P
+removing edge D-Mannose - ENSMUSG00000009013-P
+0.3333333333333333 > 0.2, node to be removed
+
+NODE: 2-Propenoic acid, 2-hydroxy-3-(4-hydroxyphenyl)
+LAYER: 1
+SCORE: -16
+UP: 0
+DOWN: 16
+node updated!
+
+NODE: Pimelic acid
+LAYER: 1
+SCORE: -4
+UP: 1
+DOWN: 5
+removing edge Pimelic acid - ENSMUSG00000020297-P
+node updated!
+
+NODE: Pentitol, 3-desoxy
+LAYER: 1
+SCORE: 1
+UP: 1
+DOWN: 0
+node updated!
+
+NODE: Xylazine
+LAYER: 1
+SCORE: -1
+UP: 0
+DOWN: 1
+node updated!
+
+NODE: L-Valine
+LAYER: 1
+SCORE: -34
+UP: 0
+DOWN: 34
+node updated!
+
+NODE: 2-Allyl-1,4-dimethoxybenzene 
+LAYER: 1
+SCORE: -5
+UP: 1
+DOWN: 6
+removing edge 2-Allyl-1,4-dimethoxybenzene  - ENSMUSG00000021481-P
+node updated!
+
+NODE: Deoxycholic Acid
+LAYER: 1
+SCORE: -5
+UP: 0
+DOWN: 5
+node updated!
+
+NODE: 2-Aminobutanoic acid
+LAYER: 1
+SCORE: -2
+UP: 0
+DOWN: 2
+node updated!
+
+NODE: 1-Tetracosene
+LAYER: 1
+SCORE: -1
+UP: 0
+DOWN: 1
+node updated!
+
+NODE: 3,4-Dimethoxymandelic acid
+LAYER: 1
+SCORE: -1
+UP: 1
+DOWN: 2
+removing edge 3,4-Dimethoxymandelic acid - ENSMUSG00000027782-P
+0.3333333333333333 > 0.2, node to be removed
+
+NODE: Methylmaleic acid
+LAYER: 1
+SCORE: 3
+UP: 3
+DOWN: 0
+node updated!
+
+NODE: N,N-Diethyl-2-aminoethanol
+LAYER: 1
+SCORE: 2
+UP: 3
+DOWN: 1
+removing edge N,N-Diethyl-2-aminoethanol - ENSMUSG00000050321-P
+0.25 > 0.2, node to be removed
+
+NODE: Anthranilic acid
+LAYER: 1
+SCORE: -5
+UP: 4
+DOWN: 9
+removing edge Anthranilic acid - ENSMUSG00000030560-P
+removing edge Anthranilic acid - ENSMUSG00000033436-P
+removing edge Anthranilic acid - ENSMUSG00000033792-P
+removing edge Anthranilic acid - ENSMUSG00000015970-P
+0.3076923076923077 > 0.2, node to be removed
+
+NODE: 1-Octanol
+LAYER: 1
+SCORE: 1
+UP: 1
+DOWN: 0
+node updated!
+
+NODE: 4-hydroxycyclohexylacetate
+LAYER: 1
+SCORE: -2
+UP: 1
+DOWN: 3
+removing edge 4-hydroxycyclohexylacetate - ENSMUSG00000003199-P
+0.25 > 0.2, node to be removed
+
+NODE: Erythrono-1,4-lactone
+LAYER: 1
+SCORE: -2
+UP: 0
+DOWN: 2
+node updated!
+
+NODE: Propane, 2-methyl
+LAYER: 1
+SCORE: -1
+UP: 0
+DOWN: 1
+node updated!
+
+NODE: 2-tert-Butyl-4-ethylphenol 
+LAYER: 1
+SCORE: 0
+UP: 1
+DOWN: 1
+score == 0, node to be removed
+
+NODE: 2,3,4,5-Tetrahydroxypentanoic acid-1,4-lactone
+LAYER: 1
+SCORE: -1
+UP: 0
+DOWN: 1
+node updated!
+
+NODE: D-Mannopyranose
+LAYER: 1
+SCORE: 1
+UP: 1
+DOWN: 0
+node updated!
+
+NODE: Phloroglucinol
+LAYER: 1
+SCORE: 1
+UP: 1
+DOWN: 0
+node updated!
+
+NODE: D-(-)-Fructopyranose
+LAYER: 1
+SCORE: -4
+UP: 0
+DOWN: 4
 node updated!
 
 NODE: Tetrahydrolinalool
@@ -1301,688 +1302,18 @@ DOWN: 9
 removing edge 2,5-Cyclohexadiene-1,4-dione, 2,6-bis(1,1-dimethylethyl) - ENSMUSG00000061718-P
 node updated!
 
-NODE: 1-Propanamine, N,N-diethyl-
-LAYER: 1
-SCORE: -2
-UP: 0
-DOWN: 2
-node updated!
-
-NODE: 10-Heptadecenoic acid
-LAYER: 1
-SCORE: 0
-UP: 1
-DOWN: 1
-score == 0, node to be removed
-
-NODE: D-Psicofuranose
+NODE: Isonicotinic Acid
 LAYER: 1
 SCORE: 1
 UP: 1
 DOWN: 0
 node updated!
 
-NODE: Xylonic acid, delta-lactone
-LAYER: 1
-SCORE: 1
-UP: 1
-DOWN: 0
-node updated!
-
-NODE: Pyrrole-2-carboxylic acid
-LAYER: 1
-SCORE: -4
-UP: 1
-DOWN: 5
-removing edge Pyrrole-2-carboxylic acid - ENSMUSG00000058351-P
-node updated!
-
-NODE: Pantothenic acid
-LAYER: 1
-SCORE: -1
-UP: 1
-DOWN: 2
-removing edge Pantothenic acid - ENSMUSG00000035934-P
-0.3333333333333333 > 0.2, node to be removed
-
-NODE: Campesterol
-LAYER: 1
-SCORE: 1
-UP: 1
-DOWN: 0
-node updated!
-
-NODE: Thymidine
-LAYER: 1
-SCORE: -5
-UP: 0
-DOWN: 5
-node updated!
-
-NODE: D-Erythro-Pentofuranose, 2-deoxy-1,3-bis-O-posphate
-LAYER: 1
-SCORE: -2
-UP: 0
-DOWN: 2
-node updated!
-
-NODE: D-Mannose
-LAYER: 1
-SCORE: -2
-UP: 2
-DOWN: 4
-removing edge D-Mannose - ENSMUSG00000057421-P
-removing edge D-Mannose - ENSMUSG00000009013-P
-0.3333333333333333 > 0.2, node to be removed
-
-NODE: Kojic acid
-LAYER: 1
-SCORE: -7
-UP: 4
-DOWN: 11
-removing edge Kojic acid - ENSMUSG00000018322-P
-removing edge Kojic acid - ENSMUSG00000058351-P
-removing edge Kojic acid - ENSMUSG00000090247-P
-removing edge Kojic acid - ENSMUSG00000021583-P
-0.26666666666666666 > 0.2, node to be removed
-
-NODE: Arabinose
-LAYER: 1
-SCORE: 2
-UP: 2
-DOWN: 0
-node updated!
-
-NODE: Gluconolactone (3R,4S,5R,6R)
-LAYER: 1
-SCORE: -7
-UP: 1
-DOWN: 8
-removing edge Gluconolactone (3R,4S,5R,6R) - ENSMUSG00000034957-P
-node updated!
-
-NODE: Hexadecanoic acid, methyl ester
-LAYER: 1
-SCORE: 0
-UP: 3
-DOWN: 3
-score == 0, node to be removed
-
-NODE: DL-Phenylalanine
-LAYER: 1
-SCORE: -22
-UP: 0
-DOWN: 22
-node updated!
-
-NODE: 1H-Indole-2-carboxylic acid, 5-ethyl-1-(trimethylsilyl)
-LAYER: 1
-SCORE: -4
-UP: 0
-DOWN: 4
-node updated!
-
-NODE: beta-d-Glucopyranose, 2-(acetylamino)-3,6-anhydro-2-deoxy
-LAYER: 1
-SCORE: -14
-UP: 0
-DOWN: 14
-node updated!
-
-NODE: Sebacic acid
-LAYER: 1
-SCORE: -3
-UP: 0
-DOWN: 3
-node updated!
-
-NODE: Dimethyl hexopyranosiduronate, alpha-D
-LAYER: 1
-SCORE: 0
-UP: 1
-DOWN: 1
-score == 0, node to be removed
-
-NODE: Tripropylene glycol monomethyl ether
-LAYER: 1
-SCORE: -20
-UP: 0
-DOWN: 20
-node updated!
-
-NODE: Myristic acid
-LAYER: 1
-SCORE: -2
-UP: 0
-DOWN: 2
-node updated!
-
-NODE: Hydracrylic acid
-LAYER: 1
-SCORE: -8
-UP: 0
-DOWN: 8
-node updated!
-
-NODE: Tyrosine
-LAYER: 1
-SCORE: -7
-UP: 0
-DOWN: 7
-node updated!
-
-NODE: Propanoic acid, 2-hydroxy-3-phosphate-
-LAYER: 1
-SCORE: 0
-UP: 1
-DOWN: 1
-score == 0, node to be removed
-
-NODE: Pipecolic acid
-LAYER: 1
-SCORE: -3
-UP: 1
-DOWN: 4
-removing edge Pipecolic acid - ENSMUSG00000047547-P
-node updated!
-
-NODE: Hexanoic acid
-LAYER: 1
-SCORE: 0
-UP: 1
-DOWN: 1
-score == 0, node to be removed
-
-NODE: 4-Methyl-5-thiazoleethanol
-LAYER: 1
-SCORE: -9
-UP: 1
-DOWN: 10
-removing edge 4-Methyl-5-thiazoleethanol - ENSMUSG00000030611-P
-node updated!
-
-NODE: N-Methyl-L-proline
-LAYER: 1
-SCORE: 2
-UP: 2
-DOWN: 0
-node updated!
-
-NODE: Niacin
+NODE: Menthol
 LAYER: 1
 SCORE: -1
 UP: 0
 DOWN: 1
-node updated!
-
-NODE: Lactic Acid
-LAYER: 1
-SCORE: -2
-UP: 1
-DOWN: 3
-removing edge Lactic Acid - ENSMUSG00000019933-P
-0.25 > 0.2, node to be removed
-
-NODE: 2-Pyrrolidinone
-LAYER: 1
-SCORE: -5
-UP: 0
-DOWN: 5
-node updated!
-
-NODE: 8-Hydroxy-5-(hydroxymethyl)quinoline
-LAYER: 1
-SCORE: -3
-UP: 0
-DOWN: 3
-node updated!
-
-NODE: Hexanedioic acid
-LAYER: 1
-SCORE: 1
-UP: 2
-DOWN: 1
-removing edge Hexanedioic acid - ENSMUSG00000026896-P
-0.3333333333333333 > 0.2, node to be removed
-
-NODE: 4-Pyridinol
-LAYER: 1
-SCORE: -3
-UP: 0
-DOWN: 3
-node updated!
-
-NODE: Butyl caprylate
-LAYER: 1
-SCORE: -3
-UP: 0
-DOWN: 3
-node updated!
-
-NODE: Pyrogallol
-LAYER: 1
-SCORE: -1
-UP: 0
-DOWN: 1
-node updated!
-
-NODE: Isopropyl palmitate
-LAYER: 1
-SCORE: 0
-UP: 3
-DOWN: 3
-score == 0, node to be removed
-
-NODE: Serine
-LAYER: 1
-SCORE: -18
-UP: 0
-DOWN: 18
-node updated!
-
-NODE: Xanthine
-LAYER: 1
-SCORE: -5
-UP: 0
-DOWN: 5
-node updated!
-
-NODE: Aconitic acid
-LAYER: 1
-SCORE: -6
-UP: 0
-DOWN: 6
-node updated!
-
-NODE: 1-Tetradecanol
-LAYER: 1
-SCORE: -12
-UP: 0
-DOWN: 12
-node updated!
-
-NODE: L-(-)-Sorbofuranose
-LAYER: 1
-SCORE: -3
-UP: 0
-DOWN: 3
-node updated!
-
-NODE: L-Isoleucine
-LAYER: 1
-SCORE: -27
-UP: 0
-DOWN: 27
-node updated!
-
-NODE: L-Glutamine
-LAYER: 1
-SCORE: -1
-UP: 0
-DOWN: 1
-node updated!
-
-NODE: Decanoic acid
-LAYER: 1
-SCORE: -6
-UP: 1
-DOWN: 7
-removing edge Decanoic acid - ENSMUSG00000033792-P
-node updated!
-
-NODE: 3-Aminobutanoic acid
-LAYER: 1
-SCORE: 2
-UP: 2
-DOWN: 0
-node updated!
-
-NODE: Methyl (3,4-dimethoxyphenyl)(hydroxy)acetate
-LAYER: 1
-SCORE: -1
-UP: 1
-DOWN: 2
-removing edge Methyl (3,4-dimethoxyphenyl)(hydroxy)acetate - ENSMUSG00000022010-P
-0.3333333333333333 > 0.2, node to be removed
-
-NODE: 2-Hydroxy-2-methylbutyric acid
-LAYER: 1
-SCORE: 0
-UP: 2
-DOWN: 2
-score == 0, node to be removed
-
-NODE: 3,4-Dimethoxymandelic acid
-LAYER: 1
-SCORE: -1
-UP: 1
-DOWN: 2
-removing edge 3,4-Dimethoxymandelic acid - ENSMUSG00000027782-P
-0.3333333333333333 > 0.2, node to be removed
-
-NODE: 4-Hydroxybenzeneacetic acid
-LAYER: 1
-SCORE: 0
-UP: 1
-DOWN: 1
-score == 0, node to be removed
-
-NODE: Glyceric acid
-LAYER: 1
-SCORE: 3
-UP: 3
-DOWN: 0
-node updated!
-
-NODE: D-(+)-Ribono-1,4-lactone
-LAYER: 1
-SCORE: -3
-UP: 0
-DOWN: 3
-node updated!
-
-NODE: Benzaldehyde, 2,5-dimethoxy
-LAYER: 1
-SCORE: -1
-UP: 1
-DOWN: 2
-removing edge Benzaldehyde, 2,5-dimethoxy - ENSMUSG00000078486-P
-0.3333333333333333 > 0.2, node to be removed
-
-NODE: Azetidine, 1-acetyl-2-methyl
-LAYER: 1
-SCORE: -2
-UP: 0
-DOWN: 2
-node updated!
-
-NODE: L-Fucose
-LAYER: 1
-SCORE: -3
-UP: 2
-DOWN: 5
-removing edge L-Fucose - ENSMUSG00000008348-P
-removing edge L-Fucose - ENSMUSG00000024772-P
-0.2857142857142857 > 0.2, node to be removed
-
-NODE: Nonadecanoic acid
-LAYER: 1
-SCORE: -2
-UP: 2
-DOWN: 4
-removing edge Nonadecanoic acid - ENSMUSG00000004040-P
-removing edge Nonadecanoic acid - ENSMUSG00000021025-P
-0.3333333333333333 > 0.2, node to be removed
-
-NODE: N-Ethyldiethanolamine
-LAYER: 1
-SCORE: 0
-UP: 1
-DOWN: 1
-score == 0, node to be removed
-
-NODE: 1-Octanol
-LAYER: 1
-SCORE: 1
-UP: 1
-DOWN: 0
-node updated!
-
-NODE: Heptadecanoic acid
-LAYER: 1
-SCORE: 2
-UP: 4
-DOWN: 2
-removing edge Heptadecanoic acid - ENSMUSG00000064370-P
-removing edge Heptadecanoic acid - ENSMUSG00000030862-P
-0.3333333333333333 > 0.2, node to be removed
-
-NODE: Octanoic acid
-LAYER: 1
-SCORE: 3
-UP: 4
-DOWN: 1
-removing edge Octanoic acid - ENSMUSG00000046711-P
-node updated!
-
-NODE: Methylmaleic acid
-LAYER: 1
-SCORE: 3
-UP: 3
-DOWN: 0
-node updated!
-
-NODE: 2-Ethylacetoacetate
-LAYER: 1
-SCORE: -8
-UP: 0
-DOWN: 8
-node updated!
-
-NODE: 1-Dodecanol
-LAYER: 1
-SCORE: -6
-UP: 0
-DOWN: 6
-node updated!
-
-NODE: phenoxyethanol
-LAYER: 1
-SCORE: -8
-UP: 3
-DOWN: 11
-removing edge phenoxyethanol - ENSMUSG00000032633-P
-removing edge phenoxyethanol - ENSMUSG00000030008-P
-removing edge phenoxyethanol - ENSMUSG00000004040-P
-0.21428571428571427 > 0.2, node to be removed
-
-NODE: Propanedioic acid
-LAYER: 1
-SCORE: 0
-UP: 3
-DOWN: 3
-score == 0, node to be removed
-
-NODE: Triethanolamine
-LAYER: 1
-SCORE: -2
-UP: 1
-DOWN: 3
-removing edge Triethanolamine - ENSMUSG00000028890-P
-0.25 > 0.2, node to be removed
-
-NODE: Valylglycine
-LAYER: 1
-SCORE: -1
-UP: 1
-DOWN: 2
-removing edge Valylglycine - ENSMUSG00000029034-P
-0.3333333333333333 > 0.2, node to be removed
-
-NODE: Deoxycholic Acid
-LAYER: 1
-SCORE: -5
-UP: 0
-DOWN: 5
-node updated!
-
-NODE: Pentadecanoic acid
-LAYER: 1
-SCORE: -3
-UP: 1
-DOWN: 4
-removing edge Pentadecanoic acid - ENSMUSG00000004040-P
-node updated!
-
-NODE: 3-Hydroxyisovaleric acid
-LAYER: 1
-SCORE: -2
-UP: 0
-DOWN: 2
-node updated!
-
-NODE: Guanidine, N,N-dimethyl
-LAYER: 1
-SCORE: -5
-UP: 1
-DOWN: 6
-removing edge Guanidine, N,N-dimethyl - ENSMUSG00000030560-P
-node updated!
-
-NODE: alpha-Tocopheryl acetate
-LAYER: 1
-SCORE: 3
-UP: 3
-DOWN: 0
-node updated!
-
-NODE: D-Allofuranose
-LAYER: 1
-SCORE: -4
-UP: 0
-DOWN: 4
-node updated!
-
-NODE: L-Glutamic acid
-LAYER: 1
-SCORE: -3
-UP: 0
-DOWN: 3
-node updated!
-
-NODE: Pimelic acid
-LAYER: 1
-SCORE: -4
-UP: 1
-DOWN: 5
-removing edge Pimelic acid - ENSMUSG00000020297-P
-node updated!
-
-NODE: D-(+)-Glucosamine
-LAYER: 1
-SCORE: -6
-UP: 0
-DOWN: 6
-node updated!
-
-NODE: Hexadecanoic acid, tetradecyl ester
-LAYER: 1
-SCORE: -4
-UP: 0
-DOWN: 4
-node updated!
-
-NODE: Glycolic acid
-LAYER: 1
-SCORE: -1
-UP: 0
-DOWN: 1
-node updated!
-
-NODE: 3-Hexenedioic acid
-LAYER: 1
-SCORE: -2
-UP: 0
-DOWN: 2
-node updated!
-
-NODE: Cyclo(L-prolyl-L-valine)
-LAYER: 1
-SCORE: 0
-UP: 1
-DOWN: 1
-score == 0, node to be removed
-
-NODE: 9-Octadecen-1-ol
-LAYER: 1
-SCORE: -1
-UP: 1
-DOWN: 2
-removing edge 9-Octadecen-1-ol - ENSMUSG00000030008-P
-0.3333333333333333 > 0.2, node to be removed
-
-NODE: 4-Pentenoic acid
-LAYER: 1
-SCORE: -1
-UP: 1
-DOWN: 2
-removing edge 4-Pentenoic acid - ENSMUSG00000022427-P
-0.3333333333333333 > 0.2, node to be removed
-
-NODE: Oxalic acid
-LAYER: 1
-SCORE: 1
-UP: 2
-DOWN: 1
-removing edge Oxalic acid - ENSMUSG00000030697-P
-0.3333333333333333 > 0.2, node to be removed
-
-NODE: alpha-Ketoisovaleric acid
-LAYER: 1
-SCORE: 1
-UP: 2
-DOWN: 1
-removing edge alpha-Ketoisovaleric acid - ENSMUSG00000100075-P
-0.3333333333333333 > 0.2, node to be removed
-
-NODE: 3-Pyridylcarbinol
-LAYER: 1
-SCORE: -11
-UP: 0
-DOWN: 11
-node updated!
-
-NODE: cis-4,5-Dihydroxy-o-dithiane
-LAYER: 1
-SCORE: -13
-UP: 2
-DOWN: 15
-removing edge cis-4,5-Dihydroxy-o-dithiane - ENSMUSG00000019933-P
-removing edge cis-4,5-Dihydroxy-o-dithiane - ENSMUSG00000090247-P
-node updated!
-
-NODE: 1-Hexadecanol
-LAYER: 1
-SCORE: 0
-UP: 3
-DOWN: 3
-score == 0, node to be removed
-
-NODE: Lignoceric acid
-LAYER: 1
-SCORE: -1
-UP: 0
-DOWN: 1
-node updated!
-
-NODE: L-Serine
-LAYER: 1
-SCORE: -5
-UP: 0
-DOWN: 5
-node updated!
-
-NODE: 3-Deoxyhexitol
-LAYER: 1
-SCORE: -1
-UP: 0
-DOWN: 1
-node updated!
-
-NODE: Ethanolamine
-LAYER: 1
-SCORE: -1
-UP: 2
-DOWN: 3
-removing edge Ethanolamine - ENSMUSG00000020389-P
-removing edge Ethanolamine - ENSMUSG00000005699-P
-0.4 > 0.2, node to be removed
-
-NODE: 2'-Deoxyribolactone
-LAYER: 1
-SCORE: -4
-UP: 0
-DOWN: 4
 node updated!
 
 NODE: Glucopyranose
@@ -1993,95 +1324,24 @@ DOWN: 2
 removing edge Glucopyranose - ENSMUSG00000062040-P
 0.3333333333333333 > 0.2, node to be removed
 
-NODE: 5-Oxohexanoic Acid
-LAYER: 1
-SCORE: 4
-UP: 4
-DOWN: 0
-node updated!
-
-NODE: Azelaic acid
-LAYER: 1
-SCORE: 1
-UP: 1
-DOWN: 0
-node updated!
-
-NODE: 9H-Purin-6-ol
-LAYER: 1
-SCORE: -7
-UP: 0
-DOWN: 7
-node updated!
-
-NODE: 2,3-Dihydroxy-2-methylpropanoic acid
-LAYER: 1
-SCORE: 2
-UP: 3
-DOWN: 1
-removing edge 2,3-Dihydroxy-2-methylpropanoic acid - ENSMUSG00000104682-P
-0.25 > 0.2, node to be removed
-
-NODE: Phenylalanine
-LAYER: 1
-SCORE: -8
-UP: 0
-DOWN: 8
-node updated!
-
-NODE: Pentanoic acid
-LAYER: 1
-SCORE: -3
-UP: 0
-DOWN: 3
-node updated!
-
-NODE: Cyclohexanol
-LAYER: 1
-SCORE: 1
-UP: 1
-DOWN: 0
-node updated!
-
-NODE: Uridine
+NODE: 2,5-Dimethoxyphenol
 LAYER: 1
 SCORE: -2
 UP: 0
 DOWN: 2
 node updated!
 
-NODE: Isopropyl myristate
+NODE: 11-Methyldodecanol
 LAYER: 1
-SCORE: -5
-UP: 3
-DOWN: 8
-removing edge Isopropyl myristate - ENSMUSG00000004040-P
-removing edge Isopropyl myristate - ENSMUSG00000024335-P
-removing edge Isopropyl myristate - ENSMUSG00000006281-P
-0.2727272727272727 > 0.2, node to be removed
-
-NODE: 9-Octadecenoic acid
-LAYER: 1
-SCORE: 2
-UP: 2
-DOWN: 0
-node updated!
-
-NODE: Monomethyl succinate
-LAYER: 1
-SCORE: -12
-UP: 2
-DOWN: 14
-removing edge Monomethyl succinate - ENSMUSG00000030560-P
-removing edge Monomethyl succinate - ENSMUSG00000015970-P
-node updated!
-
-NODE: Palmitic Acid
-LAYER: 1
-SCORE: -3
-UP: 0
-DOWN: 3
-node updated!
+SCORE: -2
+UP: 5
+DOWN: 7
+removing edge 11-Methyldodecanol - ENSMUSG00000004040-P
+removing edge 11-Methyldodecanol - ENSMUSG00000021025-P
+removing edge 11-Methyldodecanol - ENSMUSG00000056952-P
+removing edge 11-Methyldodecanol - ENSMUSG00000071650-P
+removing edge 11-Methyldodecanol - ENSMUSG00000033792-P
+0.4166666666666667 > 0.2, node to be removed
 
 NODE: alpha-D-(+)-Talopyranose
 LAYER: 1
@@ -2090,7 +1350,62 @@ UP: 1
 DOWN: 1
 score == 0, node to be removed
 
-NODE: alpha-L-(-)-Fucopyranose
+NODE: Hexadecanoic acid, methyl ester
+LAYER: 1
+SCORE: 0
+UP: 3
+DOWN: 3
+score == 0, node to be removed
+
+NODE: 3-Hydroxyisovaleric acid
+LAYER: 1
+SCORE: -2
+UP: 0
+DOWN: 2
+node updated!
+
+NODE: Arabinofuranose, 1,2,3,5-tetrakis
+LAYER: 1
+SCORE: -4
+UP: 0
+DOWN: 4
+node updated!
+
+NODE: Arachidic acid
+LAYER: 1
+SCORE: -4
+UP: 4
+DOWN: 8
+removing edge Arachidic acid - ENSMUSG00000004040-P
+removing edge Arachidic acid - ENSMUSG00000030560-P
+removing edge Arachidic acid - ENSMUSG00000066113-P
+removing edge Arachidic acid - ENSMUSG00000033792-P
+0.3333333333333333 > 0.2, node to be removed
+
+NODE: L-Asparagine
+LAYER: 1
+SCORE: 2
+UP: 3
+DOWN: 1
+removing edge L-Asparagine - ENSMUSG00000094002-P
+0.25 > 0.2, node to be removed
+
+NODE: 9-Octadecenamide
+LAYER: 1
+SCORE: -3
+UP: 1
+DOWN: 4
+removing edge 9-Octadecenamide - ENSMUSG00000004895-P
+node updated!
+
+NODE: 1-Hexadecanol
+LAYER: 1
+SCORE: 0
+UP: 3
+DOWN: 3
+score == 0, node to be removed
+
+NODE: Itaconic acid
 LAYER: 1
 SCORE: 1
 UP: 1
@@ -2105,106 +1420,419 @@ DOWN: 2
 removing edge 2-Isopropyl-5-methyl-1-heptanol - ENSMUSG00000070527-P
 0.3333333333333333 > 0.2, node to be removed
 
-NODE: L-Rhamnose
+NODE: Hydracrylic acid
 LAYER: 1
-SCORE: -6
-UP: 2
+SCORE: -8
+UP: 0
 DOWN: 8
-removing edge L-Rhamnose - ENSMUSG00000026309-P
-removing edge L-Rhamnose - ENSMUSG00000022010-P
 node updated!
 
-NODE: Acetohydroxamic acid
+NODE: Azetidine, 1-acetyl-2-methyl
+LAYER: 1
+SCORE: -2
+UP: 0
+DOWN: 2
+node updated!
+
+NODE: Methyl alpha-Arabinofuranoside
+LAYER: 1
+SCORE: -1
+UP: 1
+DOWN: 2
+removing edge Methyl alpha-Arabinofuranoside - ENSMUSG00000035443-P
+0.3333333333333333 > 0.2, node to be removed
+
+NODE: 2,3-Butanediol
+LAYER: 1
+SCORE: -7
+UP: 2
+DOWN: 9
+removing edge 2,3-Butanediol - ENSMUSG00000002319-P
+removing edge 2,3-Butanediol - ENSMUSG00000019933-P
+node updated!
+
+NODE: 2-Hydroxy-2-methylbutyric acid
 LAYER: 1
 SCORE: 0
-UP: 4
-DOWN: 4
+UP: 2
+DOWN: 2
 score == 0, node to be removed
 
-NODE: Trimethylsilyl (5-benzyl-3,6-dioxopiperazin-2-yl)acetate
-LAYER: 1
-SCORE: -6
-UP: 0
-DOWN: 6
-node updated!
-
-NODE: L-Proline
+NODE: Cholesterol
 LAYER: 1
 SCORE: -1
 UP: 0
 DOWN: 1
 node updated!
 
-NODE: Phloroglucinol
+NODE: Isopropyl palmitate
+LAYER: 1
+SCORE: 0
+UP: 3
+DOWN: 3
+score == 0, node to be removed
+
+NODE: 5,8,11-Eicosatrienoic acid
+LAYER: 1
+SCORE: 0
+UP: 1
+DOWN: 1
+score == 0, node to be removed
+
+NODE: 2-Butenoic acid, 2-hydroxy-
+LAYER: 1
+SCORE: -4
+UP: 1
+DOWN: 5
+removing edge 2-Butenoic acid, 2-hydroxy- - ENSMUSG00000057421-P
+node updated!
+
+NODE: 2-Piperidinone
+LAYER: 1
+SCORE: -10
+UP: 2
+DOWN: 12
+removing edge 2-Piperidinone - ENSMUSG00000041126-P
+removing edge 2-Piperidinone - ENSMUSG00000042198-P
+node updated!
+
+NODE: l-Leucyl-l-valine
+LAYER: 1
+SCORE: 4
+UP: 5
+DOWN: 1
+removing edge l-Leucyl-l-valine - ENSMUSG00000045128-P
+node updated!
+
+NODE: Ribitol
+LAYER: 1
+SCORE: -1
+UP: 5
+DOWN: 6
+removing edge Ribitol - ENSMUSG00000030008-P
+removing edge Ribitol - ENSMUSG00000042831-P
+removing edge Ribitol - ENSMUSG00000042198-P
+removing edge Ribitol - ENSMUSG00000042745-P
+removing edge Ribitol - ENSMUSG00000009013-P
+0.45454545454545453 > 0.2, node to be removed
+
+NODE: D-Psicofuranose
 LAYER: 1
 SCORE: 1
 UP: 1
 DOWN: 0
 node updated!
 
-NODE: cis,cis,cis-1-Isobutyl-2,5-dimethylcyclohexane
+NODE: Hexanedioic acid
 LAYER: 1
-SCORE: -1
-UP: 1
-DOWN: 2
-removing edge cis,cis,cis-1-Isobutyl-2,5-dimethylcyclohexane - ENSMUSG00000097318-P
+SCORE: 1
+UP: 2
+DOWN: 1
+removing edge Hexanedioic acid - ENSMUSG00000026896-P
 0.3333333333333333 > 0.2, node to be removed
 
-NODE: Putrescine
+NODE: Acetoacetic acid
 LAYER: 1
-SCORE: -2
-UP: 1
-DOWN: 3
-removing edge Putrescine - ENSMUSG00000028977-P
-0.25 > 0.2, node to be removed
+SCORE: -3
+UP: 2
+DOWN: 5
+removing edge Acetoacetic acid - ENSMUSG00000022427-P
+removing edge Acetoacetic acid - ENSMUSG00000021583-P
+0.2857142857142857 > 0.2, node to be removed
 
-NODE: alpha-Linolenic acid
+NODE: Suberic acid
+LAYER: 1
+SCORE: -6
+UP: 1
+DOWN: 7
+removing edge Suberic acid - ENSMUSG00000022427-P
+node updated!
+
+NODE: Decanoic acid
+LAYER: 1
+SCORE: -6
+UP: 1
+DOWN: 7
+removing edge Decanoic acid - ENSMUSG00000033792-P
+node updated!
+
+NODE: Ethyl glycolate
+LAYER: 1
+SCORE: 1
+UP: 2
+DOWN: 1
+removing edge Ethyl glycolate - ENSMUSG00000041012-P
+0.3333333333333333 > 0.2, node to be removed
+
+NODE: beta-D-(-)-Ribopyranose
+LAYER: 1
+SCORE: -6
+UP: 1
+DOWN: 7
+removing edge beta-D-(-)-Ribopyranose - ENSMUSG00000090247-P
+node updated!
+
+NODE: 2-Pyrrolidinone
 LAYER: 1
 SCORE: -5
 UP: 0
 DOWN: 5
 node updated!
 
-NODE: Levulinic acid
+NODE: Cyclohexanecarboxylic acid
 LAYER: 1
-SCORE: -1
-UP: 5
+SCORE: -6
+UP: 0
 DOWN: 6
-removing edge Levulinic acid - ENSMUSG00000023030-P
-removing edge Levulinic acid - ENSMUSG00000030560-P
-removing edge Levulinic acid - ENSMUSG00000022199-P
-removing edge Levulinic acid - ENSMUSG00000006281-P
-removing edge Levulinic acid - ENSMUSG00000033792-P
-0.45454545454545453 > 0.2, node to be removed
+node updated!
 
-NODE: Pantolactone
+NODE: D-Glucose
+LAYER: 1
+SCORE: -7
+UP: 0
+DOWN: 7
+node updated!
+
+NODE: Phenylalanine
+LAYER: 1
+SCORE: -8
+UP: 0
+DOWN: 8
+node updated!
+
+NODE: Ethyl alpha-D-glucopyranoside
+LAYER: 1
+SCORE: -7
+UP: 0
+DOWN: 7
+node updated!
+
+NODE: 3-(3-Hydroxyphenyl)propanoic acid
 LAYER: 1
 SCORE: -4
-UP: 4
-DOWN: 8
-removing edge Pantolactone - ENSMUSG00000030560-P
-removing edge Pantolactone - ENSMUSG00000007476-P
-removing edge Pantolactone - ENSMUSG00000020297-P
-removing edge Pantolactone - ENSMUSG00000015970-P
-0.3333333333333333 > 0.2, node to be removed
+UP: 0
+DOWN: 4
+node updated!
 
-NODE: Dodecanamide
+NODE: Pyrrole-2-carboxylic acid
+LAYER: 1
+SCORE: -4
+UP: 1
+DOWN: 5
+removing edge Pyrrole-2-carboxylic acid - ENSMUSG00000058351-P
+node updated!
+
+NODE: 2-Butenedioic acid
+LAYER: 1
+SCORE: -1
+UP: 2
+DOWN: 3
+removing edge 2-Butenedioic acid - ENSMUSG00000050822-P
+removing edge 2-Butenedioic acid - ENSMUSG00000030560-P
+0.4 > 0.2, node to be removed
+
+NODE: 2,5-Dimethoxymandelic acid
+LAYER: 1
+SCORE: 1
+UP: 3
+DOWN: 2
+removing edge 2,5-Dimethoxymandelic acid - ENSMUSG00000069727-P
+removing edge 2,5-Dimethoxymandelic acid - ENSMUSG00000031808-P
+0.4 > 0.2, node to be removed
+
+NODE: Undecanoic acid
+LAYER: 1
+SCORE: -5
+UP: 0
+DOWN: 5
+node updated!
+
+NODE: beta-Alanine
+LAYER: 1
+SCORE: -14
+UP: 1
+DOWN: 15
+removing edge beta-Alanine - ENSMUSG00000029878-P
+node updated!
+
+NODE: Pipecolic acid
+LAYER: 1
+SCORE: -3
+UP: 1
+DOWN: 4
+removing edge Pipecolic acid - ENSMUSG00000047547-P
+node updated!
+
+NODE: Guanidine, N,N-dimethyl
+LAYER: 1
+SCORE: -5
+UP: 1
+DOWN: 6
+removing edge Guanidine, N,N-dimethyl - ENSMUSG00000030560-P
+node updated!
+
+NODE: Deoxyglucose
+LAYER: 1
+SCORE: -2
+UP: 0
+DOWN: 2
+node updated!
+
+NODE: Propanedioic acid
+LAYER: 1
+SCORE: 0
+UP: 3
+DOWN: 3
+score == 0, node to be removed
+
+NODE: L-Glutamine
+LAYER: 1
+SCORE: -1
+UP: 0
+DOWN: 1
+node updated!
+
+NODE: Valylglycine
 LAYER: 1
 SCORE: -1
 UP: 1
 DOWN: 2
-removing edge Dodecanamide - ENSMUSG00000035505-P
+removing edge Valylglycine - ENSMUSG00000029034-P
 0.3333333333333333 > 0.2, node to be removed
 
-NODE: Hexadecanoic acid, ethyl ester
+NODE: Xylose
+LAYER: 1
+SCORE: 2
+UP: 2
+DOWN: 0
+node updated!
+
+NODE: L-Hydroxyproline
+LAYER: 1
+SCORE: -1
+UP: 1
+DOWN: 2
+removing edge L-Hydroxyproline - ENSMUSG00000028991-P
+0.3333333333333333 > 0.2, node to be removed
+
+NODE: 4-Hydroxybenzoic acid
+LAYER: 1
+SCORE: -7
+UP: 1
+DOWN: 8
+removing edge 4-Hydroxybenzoic acid - ENSMUSG00000090247-P
+node updated!
+
+NODE: Kojic acid
+LAYER: 1
+SCORE: -7
+UP: 4
+DOWN: 11
+removing edge Kojic acid - ENSMUSG00000018322-P
+removing edge Kojic acid - ENSMUSG00000058351-P
+removing edge Kojic acid - ENSMUSG00000090247-P
+removing edge Kojic acid - ENSMUSG00000021583-P
+0.26666666666666666 > 0.2, node to be removed
+
+NODE: N-Acetyl glucosamine methoxime
+LAYER: 1
+SCORE: -6
+UP: 0
+DOWN: 6
+node updated!
+
+NODE: D-Xylose
+LAYER: 1
+SCORE: 0
+UP: 2
+DOWN: 2
+score == 0, node to be removed
+
+NODE: 2,2,4-Trimethyl-1,3-pentanediol diisobutyrate
 LAYER: 1
 SCORE: -2
+UP: 1
+DOWN: 3
+removing edge 2,2,4-Trimethyl-1,3-pentanediol diisobutyrate - ENSMUSG00000019933-P
+0.25 > 0.2, node to be removed
+
+NODE: 13-Docosenamide
+LAYER: 1
+SCORE: -2
+UP: 0
+DOWN: 2
+node updated!
+
+NODE: L-Leucine
+LAYER: 1
+SCORE: -8
+UP: 0
+DOWN: 8
+node updated!
+
+NODE: Gulonic acid, gamma-lactone
+LAYER: 1
+SCORE: 3
+UP: 5
+DOWN: 2
+removing edge Gulonic acid, gamma-lactone - ENSMUSG00000036613-P
+removing edge Gulonic acid, gamma-lactone - ENSMUSG00000051043-P
+0.2857142857142857 > 0.2, node to be removed
+
+NODE: 3,4-Dihydrocoumarin, 4,4-dimethyl-6-dimethylamino
+LAYER: 1
+SCORE: -1
+UP: 1
+DOWN: 2
+removing edge 3,4-Dihydrocoumarin, 4,4-dimethyl-6-dimethylamino - ENSMUSG00000028890-P
+0.3333333333333333 > 0.2, node to be removed
+
+NODE: Methyl beta-Arabinofuranoside
+LAYER: 1
+SCORE: -1
+UP: 1
+DOWN: 2
+removing edge Methyl beta-Arabinofuranoside - ENSMUSG00000066357-P
+0.3333333333333333 > 0.2, node to be removed
+
+NODE: Ribonic acid
+LAYER: 1
+SCORE: -3
+UP: 0
+DOWN: 3
+node updated!
+
+NODE: 5-Hydroxymethyl-2-furoic acid
+LAYER: 1
+SCORE: -1
+UP: 0
+DOWN: 1
+node updated!
+
+NODE: Salsoline
+LAYER: 1
+SCORE: -16
+UP: 0
+DOWN: 16
+node updated!
+
+NODE: 3,4-dimethyl-5-(3,4-methylenedioxy)phenyloxazolidine
+LAYER: 1
+SCORE: -1
+UP: 1
+DOWN: 2
+removing edge 3,4-dimethyl-5-(3,4-methylenedioxy)phenyloxazolidine - ENSMUSG00000023826-P
+0.3333333333333333 > 0.2, node to be removed
+
+NODE: Stearic acid
+LAYER: 1
+SCORE: -3
 UP: 3
-DOWN: 5
-removing edge Hexadecanoic acid, ethyl ester - ENSMUSG00000004040-P
-removing edge Hexadecanoic acid, ethyl ester - ENSMUSG00000033436-P
-removing edge Hexadecanoic acid, ethyl ester - ENSMUSG00000033792-P
-0.375 > 0.2, node to be removed
+DOWN: 6
+removing edge Stearic acid - ENSMUSG00000030560-P
+removing edge Stearic acid - ENSMUSG00000066113-P
+removing edge Stearic acid - ENSMUSG00000043411-P
+0.3333333333333333 > 0.2, node to be removed
 
 NODE: Pentanoic acid, 4-methyl-2-oxo-
 LAYER: 1
@@ -2216,53 +1844,80 @@ removing edge Pentanoic acid, 4-methyl-2-oxo- - ENSMUSG00000078486-P
 removing edge Pentanoic acid, 4-methyl-2-oxo- - ENSMUSG00000022774-P
 0.375 > 0.2, node to be removed
 
-NODE: Ferulic acid
+NODE: Norketamine
 LAYER: 1
-SCORE: 0
-UP: 3
-DOWN: 3
-score == 0, node to be removed
+SCORE: 6
+UP: 6
+DOWN: 0
+node updated!
 
-NODE: Levoglucosan
+NODE: 1-Tetradecanol
+LAYER: 1
+SCORE: -12
+UP: 0
+DOWN: 12
+node updated!
+
+NODE: 3-Aminobutanoic acid
+LAYER: 1
+SCORE: 2
+UP: 2
+DOWN: 0
+node updated!
+
+NODE: Hexadecanoic acid, tetradecyl ester
+LAYER: 1
+SCORE: -4
+UP: 0
+DOWN: 4
+node updated!
+
+NODE: Phthalazin-1-one 
+LAYER: 1
+SCORE: -1
+UP: 4
+DOWN: 5
+removing edge Phthalazin-1-one  - ENSMUSG00000061718-P
+removing edge Phthalazin-1-one  - ENSMUSG00000030605-P
+removing edge Phthalazin-1-one  - ENSMUSG00000047989-P
+removing edge Phthalazin-1-one  - ENSMUSG00000033792-P
+0.4444444444444444 > 0.2, node to be removed
+
+NODE: 5,10-Diethoxy-2,3,7,8-tetrahydro-1H,6H-dipyrrolo[1,2-a:1',2'-d]pyrazine
 LAYER: 1
 SCORE: -1
 UP: 1
 DOWN: 2
-removing edge Levoglucosan - ENSMUSG00000030560-P
+removing edge 5,10-Diethoxy-2,3,7,8-tetrahydro-1H,6H-dipyrrolo[1,2-a:1',2'-d]pyrazine - ENSMUSG00000024335-P
 0.3333333333333333 > 0.2, node to be removed
 
-NODE: Argininosuccinic acid
+NODE: N,N-Diethyl-carbamate
 LAYER: 1
 SCORE: 1
-UP: 7
-DOWN: 6
-removing edge Argininosuccinic acid - ENSMUSG00000019907-P
-removing edge Argininosuccinic acid - ENSMUSG00000002455-P
-removing edge Argininosuccinic acid - ENSMUSG00000100075-P
-removing edge Argininosuccinic acid - ENSMUSG00000068196-P
-removing edge Argininosuccinic acid - ENSMUSG00000019088-P
-removing edge Argininosuccinic acid - ENSMUSG00000031776-P
-0.46153846153846156 > 0.2, node to be removed
+UP: 2
+DOWN: 1
+removing edge N,N-Diethyl-carbamate - ENSMUSG00000046711-P
+0.3333333333333333 > 0.2, node to be removed
 
-NODE: Undecanoic acid
-LAYER: 1
-SCORE: -5
-UP: 0
-DOWN: 5
-node updated!
-
-NODE: 1-Tetracosene
+NODE: 4-Hydroxy-5-(hydroxymethyl)oxolan-2-one
 LAYER: 1
 SCORE: -1
 UP: 0
 DOWN: 1
 node updated!
 
-NODE: N-(2-hydroxyethyl)-succinimide
+NODE: Ser-Leu
 LAYER: 1
-SCORE: -12
+SCORE: 0
+UP: 1
+DOWN: 1
+score == 0, node to be removed
+
+NODE: Benzoic Acid
+LAYER: 1
+SCORE: -7
 UP: 0
-DOWN: 12
+DOWN: 7
 node updated!
 
 NODE: 3-Undecene
@@ -2274,72 +1929,315 @@ removing edge 3-Undecene - ENSMUSG00000006281-P
 removing edge 3-Undecene - ENSMUSG00000016018-P
 node updated!
 
-NODE: L-Hydroxyproline
+NODE: Uridine
+LAYER: 1
+SCORE: -2
+UP: 0
+DOWN: 2
+node updated!
+
+NODE: Cyclopenta[g]-2-benzopyran, 1,3,4,6,7,8-hexahydro-4,6,6,7,8,8-hexamethyl
+LAYER: 1
+SCORE: -1
+UP: 2
+DOWN: 3
+removing edge Cyclopenta[g]-2-benzopyran, 1,3,4,6,7,8-hexahydro-4,6,6,7,8,8-hexamethyl - ENSMUSG00000004040-P
+removing edge Cyclopenta[g]-2-benzopyran, 1,3,4,6,7,8-hexahydro-4,6,6,7,8,8-hexamethyl - ENSMUSG00000030560-P
+0.4 > 0.2, node to be removed
+
+NODE: 2,3,4-Trihydroxybutyric acid
+LAYER: 1
+SCORE: -3
+UP: 1
+DOWN: 4
+removing edge 2,3,4-Trihydroxybutyric acid - ENSMUSG00000090247-P
+node updated!
+
+NODE: Dodecanamide
 LAYER: 1
 SCORE: -1
 UP: 1
 DOWN: 2
-removing edge L-Hydroxyproline - ENSMUSG00000028991-P
+removing edge Dodecanamide - ENSMUSG00000035505-P
 0.3333333333333333 > 0.2, node to be removed
 
-NODE: Benzoic Acid
-LAYER: 1
-SCORE: -7
-UP: 0
-DOWN: 7
-node updated!
-
-NODE: 2-Butenoic acid, 2-methyl-, 2-methyl-2-propenyl ester
-LAYER: 1
-SCORE: -2
-UP: 0
-DOWN: 2
-node updated!
-
-NODE: Cholesterol
-LAYER: 1
-SCORE: -1
-UP: 0
-DOWN: 1
-node updated!
-
-NODE: L-Aspartic acid
-LAYER: 1
-SCORE: -5
-UP: 0
-DOWN: 5
-node updated!
-
-NODE: Trisaminol
-LAYER: 1
-SCORE: -2
-UP: 4
-DOWN: 6
-removing edge Trisaminol - ENSMUSG00000061718-P
-removing edge Trisaminol - ENSMUSG00000030560-P
-removing edge Trisaminol - ENSMUSG00000020297-P
-removing edge Trisaminol - ENSMUSG00000019933-P
-0.4 > 0.2, node to be removed
-
-NODE: 2-Hydroxy-3-methylbutyric acid
-LAYER: 1
-SCORE: -2
-UP: 0
-DOWN: 2
-node updated!
-
-NODE: Niacinamide
+NODE: 8-Hydroxy-5-(hydroxymethyl)quinoline
 LAYER: 1
 SCORE: -3
 UP: 0
 DOWN: 3
 node updated!
 
-NODE: Propane, 2-methyl
+NODE: L-Fucose
+LAYER: 1
+SCORE: -3
+UP: 2
+DOWN: 5
+removing edge L-Fucose - ENSMUSG00000008348-P
+removing edge L-Fucose - ENSMUSG00000024772-P
+0.2857142857142857 > 0.2, node to be removed
+
+NODE: L-Norvaline
+LAYER: 1
+SCORE: -3
+UP: 0
+DOWN: 3
+node updated!
+
+NODE: 2'-Deoxyribolactone
+LAYER: 1
+SCORE: -4
+UP: 0
+DOWN: 4
+node updated!
+
+NODE: Thymine, 1,3-dimethyl-6-hydroxymethyl
+LAYER: 1
+SCORE: -7
+UP: 3
+DOWN: 10
+removing edge Thymine, 1,3-dimethyl-6-hydroxymethyl - ENSMUSG00000032633-P
+removing edge Thymine, 1,3-dimethyl-6-hydroxymethyl - ENSMUSG00000038555-P
+removing edge Thymine, 1,3-dimethyl-6-hydroxymethyl - ENSMUSG00000026547-P
+0.23076923076923078 > 0.2, node to be removed
+
+NODE: Tricine
 LAYER: 1
 SCORE: -1
 UP: 0
 DOWN: 1
+node updated!
+
+NODE: cis-4,5-Dihydroxy-o-dithiane
+LAYER: 1
+SCORE: -13
+UP: 2
+DOWN: 15
+removing edge cis-4,5-Dihydroxy-o-dithiane - ENSMUSG00000019933-P
+removing edge cis-4,5-Dihydroxy-o-dithiane - ENSMUSG00000090247-P
+node updated!
+
+NODE: 10-Heptadecenoic acid
+LAYER: 1
+SCORE: 0
+UP: 1
+DOWN: 1
+score == 0, node to be removed
+
+NODE: Thymidine, 5'-phosphate
+LAYER: 1
+SCORE: -2
+UP: 1
+DOWN: 3
+removing edge Thymidine, 5'-phosphate - ENSMUSG00000090247-P
+0.25 > 0.2, node to be removed
+
+NODE: Sedoheptulose anhydride
+LAYER: 1
+SCORE: 1
+UP: 4
+DOWN: 3
+removing edge Sedoheptulose anhydride - ENSMUSG00000019897-P
+removing edge Sedoheptulose anhydride - ENSMUSG00000021392-P
+removing edge Sedoheptulose anhydride - ENSMUSG00000033068-P
+0.42857142857142855 > 0.2, node to be removed
+
+NODE: 9-Octadecenoic acid
+LAYER: 1
+SCORE: 2
+UP: 2
+DOWN: 0
+node updated!
+
+NODE: 5-Aminovaleric acid
+LAYER: 1
+SCORE: 1
+UP: 2
+DOWN: 1
+removing edge 5-Aminovaleric acid - ENSMUSG00000062421-P
+0.3333333333333333 > 0.2, node to be removed
+
+NODE: Cyclo(L-prolyl-L-valine)
+LAYER: 1
+SCORE: 0
+UP: 1
+DOWN: 1
+score == 0, node to be removed
+
+NODE: D-(+)-Glucosamine
+LAYER: 1
+SCORE: -6
+UP: 0
+DOWN: 6
+node updated!
+
+NODE: D-Ribose
+LAYER: 1
+SCORE: -7
+UP: 0
+DOWN: 7
+node updated!
+
+NODE: Hexanoic acid
+LAYER: 1
+SCORE: 0
+UP: 1
+DOWN: 1
+score == 0, node to be removed
+
+NODE: Butanedioic acid
+LAYER: 1
+SCORE: -1
+UP: 0
+DOWN: 1
+node updated!
+
+NODE: 9H-Purin-6-ol
+LAYER: 1
+SCORE: -7
+UP: 0
+DOWN: 7
+node updated!
+
+NODE: Acetohydroxamic acid
+LAYER: 1
+SCORE: 0
+UP: 4
+DOWN: 4
+score == 0, node to be removed
+
+NODE: N-Acetyl-D-galactosamine, (R,R,R,R)
+LAYER: 1
+SCORE: -13
+UP: 0
+DOWN: 13
+node updated!
+
+NODE: 3-Amino-2-piperidone
+LAYER: 1
+SCORE: -5
+UP: 3
+DOWN: 8
+removing edge 3-Amino-2-piperidone - ENSMUSG00000028441-P
+removing edge 3-Amino-2-piperidone - ENSMUSG00000042198-P
+removing edge 3-Amino-2-piperidone - ENSMUSG00000042745-P
+0.2727272727272727 > 0.2, node to be removed
+
+NODE: Lactic Acid
+LAYER: 1
+SCORE: -2
+UP: 1
+DOWN: 3
+removing edge Lactic Acid - ENSMUSG00000019933-P
+0.25 > 0.2, node to be removed
+
+NODE: 3-Deoxyhexitol
+LAYER: 1
+SCORE: -1
+UP: 0
+DOWN: 1
+node updated!
+
+NODE: Urea
+LAYER: 1
+SCORE: -27
+UP: 0
+DOWN: 27
+node updated!
+
+NODE: 1,3-Dioxane, 2,2-dimethyl-5-hydroxy-
+LAYER: 1
+SCORE: -9
+UP: 0
+DOWN: 9
+node updated!
+
+NODE: 1-Monopalmitin
+LAYER: 1
+SCORE: 3
+UP: 3
+DOWN: 0
+node updated!
+
+NODE: 2-Hydroxy-5-methoxybenzaldehyde
+LAYER: 1
+SCORE: 1
+UP: 4
+DOWN: 3
+removing edge 2-Hydroxy-5-methoxybenzaldehyde - ENSMUSG00000045128-P
+removing edge 2-Hydroxy-5-methoxybenzaldehyde - ENSMUSG00000043639-P
+removing edge 2-Hydroxy-5-methoxybenzaldehyde - ENSMUSG00000078485-P
+0.42857142857142855 > 0.2, node to be removed
+
+NODE: Xanthine
+LAYER: 1
+SCORE: -5
+UP: 0
+DOWN: 5
+node updated!
+
+NODE: N-Acetyl-L-glutamic acid
+LAYER: 1
+SCORE: -2
+UP: 0
+DOWN: 2
+node updated!
+
+NODE: Niacin
+LAYER: 1
+SCORE: -1
+UP: 0
+DOWN: 1
+node updated!
+
+NODE: Triethanolamine
+LAYER: 1
+SCORE: -2
+UP: 1
+DOWN: 3
+removing edge Triethanolamine - ENSMUSG00000028890-P
+0.25 > 0.2, node to be removed
+
+NODE: Propanoic acid, 2-hydroxy-3-phosphate-
+LAYER: 1
+SCORE: 0
+UP: 1
+DOWN: 1
+score == 0, node to be removed
+
+NODE: L-Glutamic acid
+LAYER: 1
+SCORE: -3
+UP: 0
+DOWN: 3
+node updated!
+
+NODE: Cyclohexanol
+LAYER: 1
+SCORE: 1
+UP: 1
+DOWN: 0
+node updated!
+
+NODE: pyrazole
+LAYER: 1
+SCORE: -8
+UP: 0
+DOWN: 8
+node updated!
+
+NODE: 5-Oxohexanoic Acid
+LAYER: 1
+SCORE: 4
+UP: 4
+DOWN: 0
+node updated!
+
+NODE: Tetrahydrogeranyl formate
+LAYER: 1
+SCORE: -4
+UP: 0
+DOWN: 4
 node updated!
 
 NODE: alpha-D-Xylopyranose
@@ -2351,912 +2249,1209 @@ removing edge alpha-D-Xylopyranose - ENSMUSG00000057738-P
 removing edge alpha-D-Xylopyranose - ENSMUSG00000008348-P
 0.2857142857142857 > 0.2, node to be removed
 
-NODE: Desmethylverapamil
+NODE: Thymidine
 LAYER: 1
-SCORE: 2
-UP: 3
-DOWN: 1
-removing edge Desmethylverapamil - ENSMUSG00000020102-P
-0.25 > 0.2, node to be removed
+SCORE: -5
+UP: 0
+DOWN: 5
+node updated!
 
-NODE: Erythritol
+NODE: D-(+)-Ribono-1,4-lactone 
+LAYER: 1
+SCORE: -3
+UP: 0
+DOWN: 3
+node updated!
+
+NODE: beta-D-Galactopyranoside, methyl-, acetate
+LAYER: 1
+SCORE: 1
+UP: 1
+DOWN: 0
+node updated!
+
+NODE: 3-Hydroxy-2,3-dihydromaltol
+LAYER: 1
+SCORE: -2
+UP: 0
+DOWN: 2
+node updated!
+
+NODE: Glyceric acid
 LAYER: 1
 SCORE: 3
 UP: 3
 DOWN: 0
 node updated!
 
-NODE: Phthalazin-1-one
+NODE: Dehydroabietic acid
+LAYER: 1
+SCORE: 1
+UP: 2
+DOWN: 1
+removing edge Dehydroabietic acid - ENSMUSG00000042831-P
+0.3333333333333333 > 0.2, node to be removed
+
+NODE: Pyrogallol
 LAYER: 1
 SCORE: -1
-UP: 4
-DOWN: 5
-removing edge Phthalazin-1-one - ENSMUSG00000061718-P
-removing edge Phthalazin-1-one - ENSMUSG00000030605-P
-removing edge Phthalazin-1-one - ENSMUSG00000047989-P
-removing edge Phthalazin-1-one - ENSMUSG00000033792-P
-0.4444444444444444 > 0.2, node to be removed
-
-NODE: 4-Coumaric acid
-LAYER: 1
-SCORE: 1
-UP: 2
+UP: 0
 DOWN: 1
-removing edge 4-Coumaric acid - ENSMUSG00000104682-P
-0.3333333333333333 > 0.2, node to be removed
+node updated!
 
-NODE: 5-Aminovaleric acid
-LAYER: 1
-SCORE: 1
-UP: 2
-DOWN: 1
-removing edge 5-Aminovaleric acid - ENSMUSG00000062421-P
-0.3333333333333333 > 0.2, node to be removed
-
-NODE: 1-Hexanol
+NODE: Valylvaline
 LAYER: 1
 SCORE: 2
+UP: 3
+DOWN: 1
+removing edge Valylvaline - ENSMUSG00000027349-P
+0.25 > 0.2, node to be removed
+
+NODE: 2-Amino-4-tert-butylphenol
+LAYER: 1
+SCORE: -1
+UP: 1
+DOWN: 2
+removing edge 2-Amino-4-tert-butylphenol - ENSMUSG00000028977-P
+0.3333333333333333 > 0.2, node to be removed
+
+NODE: DL-Phenylalanine
+LAYER: 1
+SCORE: -22
+UP: 0
+DOWN: 22
+node updated!
+
+NODE: 11-Hydroxy-.DELTA.-9-tetrahydrocannabinol
+LAYER: 1
+SCORE: -5
+UP: 1
+DOWN: 6
+removing edge 11-Hydroxy-.DELTA.-9-tetrahydrocannabinol - ENSMUSG00000001014-P
+node updated!
+
+NODE: Oxalic acid
+LAYER: 1
+SCORE: 1
 UP: 2
+DOWN: 1
+removing edge Oxalic acid - ENSMUSG00000030697-P
+0.3333333333333333 > 0.2, node to be removed
+
+NODE: Octadecyl octyl ether
+LAYER: 1
+SCORE: -1
+UP: 0
+DOWN: 1
+node updated!
+
+NODE: Hymexazole
+LAYER: 1
+SCORE: -5
+UP: 1
+DOWN: 6
+removing edge Hymexazole - ENSMUSG00000042198-P
+node updated!
+
+NODE: L-(+)-Rhamnopyranose
+LAYER: 1
+SCORE: 2
+UP: 3
+DOWN: 1
+removing edge L-(+)-Rhamnopyranose - ENSMUSG00000023243-P
+0.25 > 0.2, node to be removed
+
+NODE: Monolaurin
+LAYER: 1
+SCORE: 3
+UP: 3
 DOWN: 0
 node updated!
 
-NODE: 3-Methylvaleric acid
+NODE: 3,4,5-Trihydroxypentanoic acid
+LAYER: 1
+SCORE: -1
+UP: 1
+DOWN: 2
+removing edge 3,4,5-Trihydroxypentanoic acid - ENSMUSG00000050989-P
+0.3333333333333333 > 0.2, node to be removed
+
+NODE: 2',2,3,6'-Tetramethoxychalcone
+LAYER: 1
+SCORE: 4
+UP: 5
+DOWN: 1
+removing edge 2',2,3,6'-Tetramethoxychalcone - ENSMUSG00000031079-P
+node updated!
+
+NODE: Methyl galactoside (1S,2S,3S,4R,5R)
 LAYER: 1
 SCORE: 0
 UP: 1
 DOWN: 1
 score == 0, node to be removed
 
-NODE: D-(+)-Ribono-1,4-lactone 
+NODE: Monomethyl succinate
+LAYER: 1
+SCORE: -12
+UP: 2
+DOWN: 14
+removing edge Monomethyl succinate - ENSMUSG00000030560-P
+removing edge Monomethyl succinate - ENSMUSG00000015970-P
+node updated!
+
+NODE: 1-Propanamine, N,N-diethyl-
+LAYER: 1
+SCORE: -2
+UP: 0
+DOWN: 2
+node updated!
+
+NODE: Stearic acid
+LAYER: 2
+SCORE: -1
+UP: 0
+DOWN: 1
+node updated!
+
+NODE: 1,7-Dimethyl-4-(1-methylethyl)cyclodecane
+LAYER: 2
+SCORE: -2
+UP: 0
+DOWN: 2
+node updated!
+
+NODE: Palmitelaidic acid
+LAYER: 2
+SCORE: -1
+UP: 0
+DOWN: 1
+node updated!
+
+NODE: Sinapinic acid
+LAYER: 2
+SCORE: 1
+UP: 3
+DOWN: 2
+removing edge Sinapinic acid - 2,5-Di-tert-butyl-4-hydroxyphenol
+removing edge Sinapinic acid - Decyl oleate
+0.4 > 0.2, node to be removed
+
+NODE: 2-Ketobutyric acid
 LAYER: 2
 SCORE: 0
-UP: 0
-DOWN: 0
+UP: 3
+DOWN: 3
 score == 0, node to be removed
+
+NODE: Propylamine
+LAYER: 2
+SCORE: -3
+UP: 2
+DOWN: 5
+removing edge Propylamine - 4-Hydroxybenzaldehyde
+removing edge Propylamine - Tyrosine
+0.2857142857142857 > 0.2, node to be removed
+
+NODE: N,N-Diethyl-2-aminoethanol
+LAYER: 2
+SCORE: 1
+UP: 1
+DOWN: 0
+node updated!
+
+NODE: Anthranilic acid
+LAYER: 2
+SCORE: 1
+UP: 2
+DOWN: 1
+removing edge Anthranilic acid - 2-Piperidinone
+0.3333333333333333 > 0.2, node to be removed
+
+NODE: Levulinic acid
+LAYER: 2
+SCORE: 2
+UP: 2
+DOWN: 0
+node updated!
+
+NODE: 1,5-Anhydroglucitol
+LAYER: 2
+SCORE: -2
+UP: 0
+DOWN: 2
+node updated!
+
+NODE: Isopropyl myristate
+LAYER: 2
+SCORE: -2
+UP: 1
+DOWN: 3
+removing edge Isopropyl myristate - 2-Propenoic acid, 2-hydroxy-3-(4-hydroxyphenyl)
+0.25 > 0.2, node to be removed
 
 NODE: Pantothenic acid 
 LAYER: 2
-SCORE: 0
+SCORE: -8
 UP: 0
-DOWN: 0
-score == 0, node to be removed
+DOWN: 8
+node updated!
 
-NODE: Acetamide, N-(2-butyl)-N-methyl-
+NODE: Methyl 2-acetamido-2-deoxy-3-O-methyl-alpha-D-galactopyranoside
 LAYER: 2
-SCORE: 0
-UP: 0
+SCORE: 1
+UP: 1
 DOWN: 0
-score == 0, node to be removed
+node updated!
 
-NODE: L-Valinamide, N(2),N(2)-dimethyl
+NODE: 4-hydroxycyclohexylacetate
 LAYER: 2
-SCORE: 0
-UP: 0
-DOWN: 0
-score == 0, node to be removed
+SCORE: -1
+UP: 3
+DOWN: 4
+removing edge 4-hydroxycyclohexylacetate - Thr-Leu
+removing edge 4-hydroxycyclohexylacetate - 3-(3-Hydroxyphenyl)propanoic acid
+removing edge 4-hydroxycyclohexylacetate - L-Valyl-L-leucine
+0.42857142857142855 > 0.2, node to be removed
 
-NODE: 2-Amino-4-tert-butylphenol
+NODE: 2-tert-Butyl-4-ethylphenol 
 LAYER: 2
-SCORE: 0
-UP: 0
-DOWN: 0
-score == 0, node to be removed
+SCORE: -4
+UP: 1
+DOWN: 5
+removing edge 2-tert-Butyl-4-ethylphenol  - 8-Hydroxy-5-(hydroxymethyl)quinoline
+node updated!
 
-NODE: phenoxyethanol
+NODE: Levoglucosan
 LAYER: 2
-SCORE: 0
-UP: 0
+SCORE: 1
+UP: 1
 DOWN: 0
-score == 0, node to be removed
+node updated!
 
-NODE: Propanedioic acid
+NODE: 4-Hydroxybenzeneacetic acid
 LAYER: 2
-SCORE: 0
+SCORE: -1
 UP: 0
-DOWN: 0
-score == 0, node to be removed
+DOWN: 1
+node updated!
 
-NODE: Valylglycine
+NODE: Methyl (3,4-dimethoxyphenyl)(hydroxy)acetate
 LAYER: 2
-SCORE: 0
+SCORE: -2
 UP: 0
-DOWN: 0
-score == 0, node to be removed
-
-NODE: Glycerol tricaprylate
-LAYER: 2
-SCORE: 0
-UP: 0
-DOWN: 0
-score == 0, node to be removed
-
-NODE: D-Fucitol
-LAYER: 2
-SCORE: 0
-UP: 0
-DOWN: 0
-score == 0, node to be removed
-
-NODE: 17-alpha-Hydroxypregnenolone
-LAYER: 2
-SCORE: 0
-UP: 0
-DOWN: 0
-score == 0, node to be removed
-
-NODE: 1-Phenanthrenemethanol, 1,2,3,4,4a,9,10,10a-octahydro-1,4a-dimethyl-7-(1-methylethyl)-, [1R-(1alpha,4abeta,10aalpha)]-
-LAYER: 2
-SCORE: 0
-UP: 0
-DOWN: 0
-score == 0, node to be removed
-
-NODE: Tetrahydrolinalool
-LAYER: 2
-SCORE: 0
-UP: 0
-DOWN: 0
-score == 0, node to be removed
-
-NODE: Methyl stearate
-LAYER: 2
-SCORE: 0
-UP: 0
-DOWN: 0
-score == 0, node to be removed
-
-NODE: Thymidine, 5'-phosphate
-LAYER: 2
-SCORE: 0
-UP: 0
-DOWN: 0
-score == 0, node to be removed
-
-NODE: Stigmast-5-ene, 3beta
-LAYER: 2
-SCORE: 0
-UP: 0
-DOWN: 0
-score == 0, node to be removed
-
-NODE: 2-Hydroxy-5-methoxybenzaldehyde
-LAYER: 2
-SCORE: 0
-UP: 0
-DOWN: 0
-score == 0, node to be removed
+DOWN: 2
+node updated!
 
 NODE: N,N-Diethyl-carbamate
 LAYER: 2
 SCORE: 0
-UP: 0
-DOWN: 0
+UP: 1
+DOWN: 1
 score == 0, node to be removed
 
-NODE: 2,2,4-Trimethyl-1,3-pentanediol diisobutyrate
+NODE: Tetrahydrolinalool
+LAYER: 2
+SCORE: 2
+UP: 2
+DOWN: 0
+node updated!
+
+NODE: Malic acid
+LAYER: 2
+SCORE: -2
+UP: 1
+DOWN: 3
+removing edge Malic acid - D-Fructose
+0.25 > 0.2, node to be removed
+
+NODE: 4-Coumaric acid
+LAYER: 2
+SCORE: 1
+UP: 1
+DOWN: 0
+node updated!
+
+NODE: Glucopyranose
+LAYER: 2
+SCORE: -1
+UP: 1
+DOWN: 2
+removing edge Glucopyranose - Monolaurin
+0.3333333333333333 > 0.2, node to be removed
+
+NODE: L-Lysine
+LAYER: 2
+SCORE: -2
+UP: 1
+DOWN: 3
+removing edge L-Lysine - Myristic acid
+0.25 > 0.2, node to be removed
+
+NODE: Stigmast-5-ene, 3beta
 LAYER: 2
 SCORE: 0
-UP: 0
-DOWN: 0
+UP: 1
+DOWN: 1
 score == 0, node to be removed
 
-NODE: Propanoic acid, 2-oxo
+NODE: 11-Methyldodecanol
 LAYER: 2
-SCORE: 0
+SCORE: -3
 UP: 0
-DOWN: 0
-score == 0, node to be removed
+DOWN: 3
+node updated!
 
-NODE: 1-Methyl-4-hydroxy-1H-imidazol-2-amine
+NODE: 2-Methyl-4,6-dinitrophenol
 LAYER: 2
-SCORE: 0
-UP: 0
-DOWN: 0
-score == 0, node to be removed
-
-NODE: D-Mannose
-LAYER: 2
-SCORE: 0
-UP: 0
-DOWN: 0
-score == 0, node to be removed
-
-NODE: Kojic acid
-LAYER: 2
-SCORE: 0
-UP: 0
-DOWN: 0
-score == 0, node to be removed
-
-NODE: Syringic acid
-LAYER: 2
-SCORE: 0
-UP: 0
-DOWN: 0
-score == 0, node to be removed
-
-NODE: Ethyl glycolate
-LAYER: 2
-SCORE: 0
-UP: 0
-DOWN: 0
-score == 0, node to be removed
-
-NODE: 1,7-Dimethyl-4-(1-methylethyl)cyclodecane
-LAYER: 2
-SCORE: 0
-UP: 0
-DOWN: 0
-score == 0, node to be removed
+SCORE: -1
+UP: 1
+DOWN: 2
+removing edge 2-Methyl-4,6-dinitrophenol - Tyrosine
+0.3333333333333333 > 0.2, node to be removed
 
 NODE: Hexadecanoic acid, methyl ester
 LAYER: 2
-SCORE: 0
+SCORE: -3
 UP: 0
-DOWN: 0
-score == 0, node to be removed
+DOWN: 3
+node updated!
 
-NODE: Cyclo(L-prolyl-L-valine)
+NODE: Cyclopenta[g]-2-benzopyran, 1,3,4,6,7,8-hexahydro-4,6,6,7,8,8-hexamethyl
+LAYER: 2
+SCORE: -4
+UP: 0
+DOWN: 4
+node updated!
+
+NODE: Dodecanamide
+LAYER: 2
+SCORE: 3
+UP: 3
+DOWN: 0
+node updated!
+
+NODE: Arachidic acid
+LAYER: 2
+SCORE: -4
+UP: 0
+DOWN: 4
+node updated!
+
+NODE: 3,5-Dimethylphenol
 LAYER: 2
 SCORE: 0
-UP: 0
-DOWN: 0
+UP: 5
+DOWN: 5
 score == 0, node to be removed
 
-NODE: 9-Octadecen-1-ol
+NODE: Hydantoin, 5-hydroxy
 LAYER: 2
-SCORE: 0
-UP: 0
-DOWN: 0
-score == 0, node to be removed
+SCORE: -1
+UP: 1
+DOWN: 2
+removing edge Hydantoin, 5-hydroxy - Pentitol, 3-desoxy
+0.3333333333333333 > 0.2, node to be removed
 
-NODE: 4-Pentenoic acid
+NODE: Nonadecanoic acid
 LAYER: 2
-SCORE: 0
+SCORE: -2
 UP: 0
-DOWN: 0
-score == 0, node to be removed
+DOWN: 2
+node updated!
 
-NODE: Oxalic acid
+NODE: L-Fucose
 LAYER: 2
-SCORE: 0
-UP: 0
-DOWN: 0
-score == 0, node to be removed
+SCORE: 2
+UP: 3
+DOWN: 1
+removing edge L-Fucose - 3-(3-Hydroxyphenyl)propanoic acid
+0.25 > 0.2, node to be removed
 
-NODE: alpha-Ketoisovaleric acid
+NODE: D-Fucitol
 LAYER: 2
 SCORE: 0
-UP: 0
-DOWN: 0
+UP: 1
+DOWN: 1
 score == 0, node to be removed
 
 NODE: 1-Hexadecanol
 LAYER: 2
 SCORE: 0
-UP: 0
-DOWN: 0
-score == 0, node to be removed
-
-NODE: 4-Hydroxybutanoic acid
-LAYER: 2
-SCORE: 0
-UP: 0
-DOWN: 0
-score == 0, node to be removed
-
-NODE: trans-Coniferryl alchool
-LAYER: 2
-SCORE: 0
-UP: 0
-DOWN: 0
-score == 0, node to be removed
-
-NODE: Pregn-4-ene-3,20-dione, 16,17-epoxy-, (16alpha)
-LAYER: 2
-SCORE: 0
-UP: 0
-DOWN: 0
-score == 0, node to be removed
-
-NODE: Anthranilic acid
-LAYER: 2
-SCORE: 0
-UP: 0
-DOWN: 0
-score == 0, node to be removed
-
-NODE: D-Ribofuranose
-LAYER: 2
-SCORE: 0
-UP: 0
-DOWN: 0
-score == 0, node to be removed
-
-NODE: Cyclopenta[g]-2-benzopyran, 1,3,4,6,7,8-hexahydro-4,6,6,7,8,8-hexamethyl
-LAYER: 2
-SCORE: 0
-UP: 0
-DOWN: 0
-score == 0, node to be removed
-
-NODE: Caffeic acid
-LAYER: 2
-SCORE: 0
-UP: 0
-DOWN: 0
-score == 0, node to be removed
-
-NODE: Malic acid
-LAYER: 2
-SCORE: 0
-UP: 0
-DOWN: 0
-score == 0, node to be removed
-
-NODE: Dimethyl hexopyranosiduronate, alpha-D
-LAYER: 2
-SCORE: 0
-UP: 0
-DOWN: 0
-score == 0, node to be removed
-
-NODE: 2-tert-Butyl-4-ethylphenol 
-LAYER: 2
-SCORE: 0
-UP: 0
-DOWN: 0
-score == 0, node to be removed
-
-NODE: N,N-Diethyl-2-aminoethanol
-LAYER: 2
-SCORE: 0
-UP: 0
-DOWN: 0
-score == 0, node to be removed
-
-NODE: Isocitric acid lactone
-LAYER: 2
-SCORE: 0
-UP: 0
-DOWN: 0
-score == 0, node to be removed
-
-NODE: Ethanolamine
-LAYER: 2
-SCORE: 0
-UP: 0
-DOWN: 0
-score == 0, node to be removed
-
-NODE: Glucopyranose
-LAYER: 2
-SCORE: 0
-UP: 0
-DOWN: 0
-score == 0, node to be removed
-
-NODE: Methyl 2-acetamido-2-deoxy-3-O-methyl-alpha-D-galactopyranoside
-LAYER: 2
-SCORE: 0
-UP: 0
-DOWN: 0
-score == 0, node to be removed
-
-NODE: 3-Ethyl-3-methyl-pyrrolidine-2,5-dione
-LAYER: 2
-SCORE: 0
-UP: 0
-DOWN: 0
-score == 0, node to be removed
-
-NODE: Sedoheptulose anhydride
-LAYER: 2
-SCORE: 0
-UP: 0
-DOWN: 0
+UP: 1
+DOWN: 1
 score == 0, node to be removed
 
 NODE: Monocaprylin
 LAYER: 2
 SCORE: 0
-UP: 0
-DOWN: 0
-score == 0, node to be removed
-
-NODE: 2,3-Dihydroxy-2-methylpropanoic acid
-LAYER: 2
-SCORE: 0
-UP: 0
-DOWN: 0
-score == 0, node to be removed
-
-NODE: Hexacosanoic acid
-LAYER: 2
-SCORE: 0
-UP: 0
-DOWN: 0
-score == 0, node to be removed
-
-NODE: Benzenepropanoic acid, 3,5-bis(1,1-dimethylethyl)-4-hydroxy-, methyl ester
-LAYER: 2
-SCORE: 0
-UP: 0
-DOWN: 0
-score == 0, node to be removed
-
-NODE: Mannonic acid, gamma-lactone
-LAYER: 2
-SCORE: 0
-UP: 0
-DOWN: 0
-score == 0, node to be removed
-
-NODE: Valylvaline
-LAYER: 2
-SCORE: 0
-UP: 0
-DOWN: 0
-score == 0, node to be removed
-
-NODE: Isopropyl myristate
-LAYER: 2
-SCORE: 0
-UP: 0
-DOWN: 0
-score == 0, node to be removed
-
-NODE: Propanoic acid, 2-hydroxy-3-phosphate-
-LAYER: 2
-SCORE: 0
-UP: 0
-DOWN: 0
-score == 0, node to be removed
-
-NODE: Arachidic acid
-LAYER: 2
-SCORE: 0
-UP: 0
-DOWN: 0
-score == 0, node to be removed
-
-NODE: 9,12-Octadecadienoic acid
-LAYER: 2
-SCORE: 0
-UP: 0
-DOWN: 0
-score == 0, node to be removed
-
-NODE: 2-Palmitoylglycerol
-LAYER: 2
-SCORE: 0
-UP: 0
-DOWN: 0
-score == 0, node to be removed
-
-NODE: L-Lysine
-LAYER: 2
-SCORE: 0
-UP: 0
-DOWN: 0
-score == 0, node to be removed
-
-NODE: Hexanoic acid
-LAYER: 2
-SCORE: 0
-UP: 0
-DOWN: 0
-score == 0, node to be removed
-
-NODE: Propylamine
-LAYER: 2
-SCORE: 0
-UP: 0
-DOWN: 0
-score == 0, node to be removed
-
-NODE: Phthalimide
-LAYER: 2
-SCORE: 0
-UP: 0
-DOWN: 0
-score == 0, node to be removed
-
-NODE: 2-Octanol
-LAYER: 2
-SCORE: 0
-UP: 0
-DOWN: 0
-score == 0, node to be removed
-
-NODE: D-Xylose
-LAYER: 2
-SCORE: 0
-UP: 0
-DOWN: 0
-score == 0, node to be removed
-
-NODE: Lactic Acid
-LAYER: 2
-SCORE: 0
-UP: 0
-DOWN: 0
-score == 0, node to be removed
-
-NODE: d-Erythrotetrofuranose
-LAYER: 2
-SCORE: 0
-UP: 0
-DOWN: 0
-score == 0, node to be removed
-
-NODE: (4,4-Dimethyl-5-methylene-4,5-dihydro-3H-pyrrol-2-yl)-(4,4-dimethyl-5-methylene-pyrrolidin-2-ylidene)-acetonitrile
-LAYER: 2
-SCORE: 0
-UP: 0
-DOWN: 0
-score == 0, node to be removed
-
-NODE: D-Arabinose
-LAYER: 2
-SCORE: 0
-UP: 0
-DOWN: 0
-score == 0, node to be removed
-
-NODE: Butanoic acid, 3,4-dihydroxy-
-LAYER: 2
-SCORE: 0
-UP: 0
-DOWN: 0
-score == 0, node to be removed
-
-NODE: 4-hydroxycyclohexylacetate
-LAYER: 2
-SCORE: 0
-UP: 0
-DOWN: 0
-score == 0, node to be removed
-
-NODE: Hexanedioic acid
-LAYER: 2
-SCORE: 0
-UP: 0
-DOWN: 0
-score == 0, node to be removed
-
-NODE: 1,5-Anhydroglucitol
-LAYER: 2
-SCORE: 0
-UP: 0
-DOWN: 0
-score == 0, node to be removed
-
-NODE: cis,cis,cis-1-Isobutyl-2,5-dimethylcyclohexane
-LAYER: 2
-SCORE: 0
-UP: 0
-DOWN: 0
-score == 0, node to be removed
-
-NODE: Putrescine
-LAYER: 2
-SCORE: 0
-UP: 0
-DOWN: 0
-score == 0, node to be removed
-
-NODE: Levulinic acid
-LAYER: 2
-SCORE: 0
-UP: 0
-DOWN: 0
-score == 0, node to be removed
-
-NODE: Pantolactone
-LAYER: 2
-SCORE: 0
-UP: 0
-DOWN: 0
-score == 0, node to be removed
-
-NODE: Dodecanamide
-LAYER: 2
-SCORE: 0
-UP: 0
-DOWN: 0
-score == 0, node to be removed
-
-NODE: Isopropyl palmitate
-LAYER: 2
-SCORE: 0
-UP: 0
-DOWN: 0
+UP: 1
+DOWN: 1
 score == 0, node to be removed
 
 NODE: Ethanamine
 LAYER: 2
-SCORE: 0
+SCORE: -1
 UP: 0
-DOWN: 0
-score == 0, node to be removed
+DOWN: 1
+node updated!
 
-NODE: D-(+)-Galactopyranose
+NODE: 2,6-Di-O-methyl-d-galactopyranose
 LAYER: 2
-SCORE: 0
-UP: 0
-DOWN: 0
-score == 0, node to be removed
-
-NODE: Hexadecanoic acid, ethyl ester
-LAYER: 2
-SCORE: 0
-UP: 0
-DOWN: 0
-score == 0, node to be removed
-
-NODE: Methyl beta-Arabinofuranoside
-LAYER: 2
-SCORE: 0
-UP: 0
-DOWN: 0
-score == 0, node to be removed
-
-NODE: 2-Methyl-4,6-dinitrophenol
-LAYER: 2
-SCORE: 0
-UP: 0
-DOWN: 0
-score == 0, node to be removed
-
-NODE: Thymine, 1,3-dimethyl-6-hydroxymethyl
-LAYER: 2
-SCORE: 0
-UP: 0
-DOWN: 0
-score == 0, node to be removed
-
-NODE: 7,9-Di-tert-butyl-1-oxaspiro(4,5)deca-6,9-diene-2,8-dione
-LAYER: 2
-SCORE: 0
-UP: 0
-DOWN: 0
-score == 0, node to be removed
-
-NODE: 1(2H)-Naphthalenone, 3,4-dihydro-3,3,6,8-tetramethyl-
-LAYER: 2
-SCORE: 0
-UP: 0
-DOWN: 0
-score == 0, node to be removed
-
-NODE: Nonanoic acid
-LAYER: 2
-SCORE: 0
-UP: 0
-DOWN: 0
-score == 0, node to be removed
-
-NODE: Levoglucosan
-LAYER: 2
-SCORE: 0
-UP: 0
-DOWN: 0
-score == 0, node to be removed
-
-NODE: Argininosuccinic acid
-LAYER: 2
-SCORE: 0
-UP: 0
-DOWN: 0
-score == 0, node to be removed
-
-NODE: 2-Ketobutyric acid
-LAYER: 2
-SCORE: 0
-UP: 0
-DOWN: 0
-score == 0, node to be removed
-
-NODE: 2-Allyl-1,4-dimethoxybenzene 
-LAYER: 2
-SCORE: 0
-UP: 0
-DOWN: 0
-score == 0, node to be removed
-
-NODE: 11-Methyldodecanol
-LAYER: 2
-SCORE: 0
-UP: 0
-DOWN: 0
-score == 0, node to be removed
-
-NODE: Idoxuridine 
-LAYER: 2
-SCORE: 0
-UP: 0
-DOWN: 0
-score == 0, node to be removed
-
-NODE: Sinapinic acid
-LAYER: 2
-SCORE: 0
-UP: 0
-DOWN: 0
-score == 0, node to be removed
-
-NODE: Methyl (3,4-dimethoxyphenyl)(hydroxy)acetate
-LAYER: 2
-SCORE: 0
-UP: 0
-DOWN: 0
-score == 0, node to be removed
-
-NODE: 3,5-Dimethylphenol
-LAYER: 2
-SCORE: 0
-UP: 0
-DOWN: 0
-score == 0, node to be removed
-
-NODE: L-Hydroxyproline
-LAYER: 2
-SCORE: 0
-UP: 0
-DOWN: 0
-score == 0, node to be removed
-
-NODE: 4-Hydroxybenzeneacetic acid
-LAYER: 2
-SCORE: 0
-UP: 0
-DOWN: 0
-score == 0, node to be removed
-
-NODE: Dehydroabietic acid
-LAYER: 2
-SCORE: 0
-UP: 0
-DOWN: 0
-score == 0, node to be removed
-
-NODE: Benzaldehyde, 2,5-dimethoxy
-LAYER: 2
-SCORE: 0
-UP: 0
-DOWN: 0
-score == 0, node to be removed
-
-NODE: Trisaminol
-LAYER: 2
-SCORE: 0
-UP: 0
-DOWN: 0
-score == 0, node to be removed
-
-NODE: L-Fucose
-LAYER: 2
-SCORE: 0
-UP: 0
-DOWN: 0
-score == 0, node to be removed
-
-NODE: 3,4-Dihydrocoumarin, 4,4-dimethyl-6-dimethylamino
-LAYER: 2
-SCORE: 0
-UP: 0
-DOWN: 0
-score == 0, node to be removed
-
-NODE: Hydantoin, 5-hydroxy
-LAYER: 2
-SCORE: 0
-UP: 0
-DOWN: 0
-score == 0, node to be removed
-
-NODE: Nonadecanoic acid
-LAYER: 2
-SCORE: 0
-UP: 0
-DOWN: 0
-score == 0, node to be removed
-
-NODE: N-Ethyldiethanolamine
-LAYER: 2
-SCORE: 0
-UP: 0
-DOWN: 0
-score == 0, node to be removed
-
-NODE: Cinnamic acid
-LAYER: 2
-SCORE: 0
-UP: 0
-DOWN: 0
-score == 0, node to be removed
-
-NODE: Palmitelaidic acid
-LAYER: 2
-SCORE: 0
-UP: 0
-DOWN: 0
-score == 0, node to be removed
-
-NODE: 2,5-Dimethoxymandelic acid
-LAYER: 2
-SCORE: 0
-UP: 0
-DOWN: 0
-score == 0, node to be removed
+SCORE: 3
+UP: 4
+DOWN: 1
+removing edge 2,6-Di-O-methyl-d-galactopyranose - Cyclohexanemethanol
+node updated!
 
 NODE: 3-Oxo-1-cyclohexene-1-carboxylic acid 
 LAYER: 2
-SCORE: 0
-UP: 0
-DOWN: 0
-score == 0, node to be removed
+SCORE: -3
+UP: 5
+DOWN: 8
+removing edge 3-Oxo-1-cyclohexene-1-carboxylic acid  - 2-Propenoic acid, 2-hydroxy-3-(4-hydroxyphenyl)
+removing edge 3-Oxo-1-cyclohexene-1-carboxylic acid  - 4-Hydroxybenzaldehyde
+removing edge 3-Oxo-1-cyclohexene-1-carboxylic acid  - Phenylalanine
+removing edge 3-Oxo-1-cyclohexene-1-carboxylic acid  - Suberic acid
+removing edge 3-Oxo-1-cyclohexene-1-carboxylic acid  - Tyrosine
+0.38461538461538464 > 0.2, node to be removed
 
-NODE: 4-Coumaric acid
+NODE: Heptadecanoic acid
+LAYER: 2
+SCORE: -2
+UP: 0
+DOWN: 2
+node updated!
+
+NODE: Benzenepropanoic acid, 3,5-bis(1,1-dimethylethyl)-4-hydroxy-, methyl ester
+LAYER: 2
+SCORE: -2
+UP: 0
+DOWN: 2
+node updated!
+
+NODE: 2-Palmitoylglycerol
+LAYER: 2
+SCORE: 1
+UP: 1
+DOWN: 0
+node updated!
+
+NODE: Thymine, 1,3-dimethyl-6-hydroxymethyl
+LAYER: 2
+SCORE: 1
+UP: 1
+DOWN: 0
+node updated!
+
+NODE: Butanoic acid, 3,4-dihydroxy-
+LAYER: 2
+SCORE: -1
+UP: 0
+DOWN: 1
+node updated!
+
+NODE: cis,cis,cis-1-Isobutyl-2,5-dimethylcyclohexane
+LAYER: 2
+SCORE: -1
+UP: 0
+DOWN: 1
+node updated!
+
+NODE: Acetamide, N-(2-butyl)-N-methyl-
+LAYER: 2
+SCORE: -3
+UP: 1
+DOWN: 4
+removing edge Acetamide, N-(2-butyl)-N-methyl- - Isonicotinic Acid
+node updated!
+
+NODE: 3-Ethyl-3-methyl-pyrrolidine-2,5-dione
 LAYER: 2
 SCORE: 0
-UP: 0
-DOWN: 0
+UP: 1
+DOWN: 1
 score == 0, node to be removed
 
-NODE: 4-hydroxy-3-penten-2-one
+NODE: Thymidine, 5'-phosphate
 LAYER: 2
-SCORE: 0
+SCORE: -2
 UP: 0
-DOWN: 0
-score == 0, node to be removed
+DOWN: 2
+node updated!
 
-NODE: L-(+)-Rhamnopyranose
+NODE: Isopropyl palmitate
 LAYER: 2
-SCORE: 0
+SCORE: -2
 UP: 0
-DOWN: 0
-score == 0, node to be removed
+DOWN: 2
+node updated!
 
-NODE: (2,2-Dimethyl-5-[2-(2-ethoxymethoxy)propyl][1,3]dioxolan-4-yl)methanol
+NODE: D-Ribofuranose
+LAYER: 2
+SCORE: 2
+UP: 5
+DOWN: 3
+removing edge D-Ribofuranose - N-Methyl-alpha-aminoisobutyric acid
+removing edge D-Ribofuranose - 1-Propanamine, N,N-diethyl-
+removing edge D-Ribofuranose - 2'-Desoxyuridine
+0.375 > 0.2, node to be removed
+
+NODE: Sedoheptulose anhydride
 LAYER: 2
 SCORE: 0
-UP: 0
-DOWN: 0
+UP: 1
+DOWN: 1
 score == 0, node to be removed
 
 NODE: 5-Aminovaleric acid
 LAYER: 2
-SCORE: 0
+SCORE: -2
 UP: 0
-DOWN: 0
-score == 0, node to be removed
+DOWN: 2
+node updated!
 
-NODE: Stearic acid
+NODE: 4-hydroxy-3-penten-2-one
+LAYER: 2
+SCORE: -1
+UP: 0
+DOWN: 1
+node updated!
+
+NODE: Cyclo(L-prolyl-L-valine)
+LAYER: 2
+SCORE: -2
+UP: 0
+DOWN: 2
+node updated!
+
+NODE: Phthalimide
+LAYER: 2
+SCORE: -1
+UP: 1
+DOWN: 2
+removing edge Phthalimide - 2-Butenoic acid, 2-methyl-, 2-methyl-2-propenyl ester
+0.3333333333333333 > 0.2, node to be removed
+
+NODE: Ethanolamine
 LAYER: 2
 SCORE: 0
-UP: 0
-DOWN: 0
+UP: 1
+DOWN: 1
 score == 0, node to be removed
 
-NODE: Heptadecanoic acid
+NODE: Hexanoic acid
+LAYER: 2
+SCORE: -2
+UP: 5
+DOWN: 7
+removing edge Hexanoic acid - L-Norvaline
+removing edge Hexanoic acid - 1-Octanol
+removing edge Hexanoic acid - 4-Hydroxybenzoic acid
+removing edge Hexanoic acid - DL-Phenylalanine
+removing edge Hexanoic acid - Supraene
+0.4166666666666667 > 0.2, node to be removed
+
+NODE: L-Valinamide, N(2),N(2)-dimethyl
+LAYER: 2
+SCORE: 1
+UP: 1
+DOWN: 0
+node updated!
+
+NODE: Hexanedioic acid
+LAYER: 2
+SCORE: 2
+UP: 2
+DOWN: 0
+node updated!
+
+NODE: d-Erythrotetrofuranose
+LAYER: 2
+SCORE: -6
+UP: 0
+DOWN: 6
+node updated!
+
+NODE: Mannonic acid, gamma-lactone
+LAYER: 2
+SCORE: 1
+UP: 4
+DOWN: 3
+removing edge Mannonic acid, gamma-lactone - Benzoic Acid
+removing edge Mannonic acid, gamma-lactone - D-(+)-Talofuranose
+removing edge Mannonic acid, gamma-lactone - Tetrahydrogeranyl formate
+0.42857142857142855 > 0.2, node to be removed
+
+NODE: Lactic Acid
+LAYER: 2
+SCORE: -1
+UP: 0
+DOWN: 1
+node updated!
+
+NODE: Ethyl glycolate
+LAYER: 2
+SCORE: -2
+UP: 0
+DOWN: 2
+node updated!
+
+NODE: trans-Coniferryl alchool
+LAYER: 2
+SCORE: -3
+UP: 0
+DOWN: 3
+node updated!
+
+NODE: 2-Hydroxy-5-methoxybenzaldehyde
+LAYER: 2
+SCORE: -1
+UP: 0
+DOWN: 1
+node updated!
+
+NODE: phenoxyethanol
+LAYER: 2
+SCORE: -2
+UP: 0
+DOWN: 2
+node updated!
+
+NODE: Benzaldehyde, 2,5-dimethoxy
 LAYER: 2
 SCORE: 0
-UP: 0
-DOWN: 0
+UP: 1
+DOWN: 1
 score == 0, node to be removed
 
-NODE: 2,6-Di-O-methyl-d-galactopyranose
+NODE: Cinnamic acid
+LAYER: 2
+SCORE: -1
+UP: 1
+DOWN: 2
+removing edge Cinnamic acid - 1H-Indole-2-carboxylic acid, 5-ethyl-1-(trimethylsilyl)
+0.3333333333333333 > 0.2, node to be removed
+
+NODE: 9-Octadecen-1-ol
+LAYER: 2
+SCORE: -1
+UP: 0
+DOWN: 1
+node updated!
+
+NODE: 7,9-Di-tert-butyl-1-oxaspiro(4,5)deca-6,9-diene-2,8-dione
+LAYER: 2
+SCORE: -1
+UP: 0
+DOWN: 1
+node updated!
+
+NODE: 9,12-Octadecadienoic acid
+LAYER: 2
+SCORE: 2
+UP: 4
+DOWN: 2
+removing edge 9,12-Octadecadienoic acid - 2-Propenoic acid, 2-hydroxy-3-(4-hydroxyphenyl)
+removing edge 9,12-Octadecadienoic acid - Tyrosine
+0.3333333333333333 > 0.2, node to be removed
+
+NODE: N-Ethyldiethanolamine
+LAYER: 2
+SCORE: -4
+UP: 0
+DOWN: 4
+node updated!
+
+NODE: Trisaminol
+LAYER: 2
+SCORE: -1
+UP: 0
+DOWN: 1
+node updated!
+
+NODE: 17-alpha-Hydroxypregnenolone
+LAYER: 2
+SCORE: 1
+UP: 1
+DOWN: 0
+node updated!
+
+NODE: Methyl stearate
+LAYER: 2
+SCORE: -3
+UP: 1
+DOWN: 4
+removing edge Methyl stearate - Tyrosine
+node updated!
+
+NODE: 4-Hydroxybutanoic acid
+LAYER: 2
+SCORE: -1
+UP: 0
+DOWN: 1
+node updated!
+
+NODE: Hexadecanoic acid, ethyl ester
+LAYER: 2
+SCORE: -4
+UP: 0
+DOWN: 4
+node updated!
+
+NODE: (2,2-Dimethyl-5-[2-(2-ethoxymethoxy)propyl][1,3]dioxolan-4-yl)methanol
+LAYER: 2
+SCORE: -1
+UP: 0
+DOWN: 1
+node updated!
+
+NODE: alpha-Ketoisovaleric acid
+LAYER: 2
+SCORE: 2
+UP: 2
+DOWN: 0
+node updated!
+
+NODE: Pantolactone
+LAYER: 2
+SCORE: 3
+UP: 5
+DOWN: 2
+removing edge Pantolactone - Menthol
+removing edge Pantolactone - Monomethyl succinate
+0.2857142857142857 > 0.2, node to be removed
+
+NODE: D-(+)-Galactopyranose
 LAYER: 2
 SCORE: 0
-UP: 0
-DOWN: 0
+UP: 1
+DOWN: 1
 score == 0, node to be removed
+
+NODE: Hexacosanoic acid
+LAYER: 2
+SCORE: -1
+UP: 0
+DOWN: 1
+node updated!
+
+NODE: Dimethyl hexopyranosiduronate, alpha-D
+LAYER: 2
+SCORE: -1
+UP: 0
+DOWN: 1
+node updated!
+
+NODE: Propanoic acid, 2-hydroxy-3-phosphate-
+LAYER: 2
+SCORE: -1
+UP: 0
+DOWN: 1
+node updated!
+
+NODE: 2,3-Dihydroxy-2-methylpropanoic acid
+LAYER: 2
+SCORE: 2
+UP: 2
+DOWN: 0
+node updated!
+
+NODE: D-Arabinose
+LAYER: 2
+SCORE: 3
+UP: 4
+DOWN: 1
+removing edge D-Arabinose - N-Methyl-alpha-aminoisobutyric acid
+node updated!
+
+NODE: 4-Pentenoic acid
+LAYER: 2
+SCORE: -1
+UP: 0
+DOWN: 1
+node updated!
+
+NODE: 2,5-Dimethoxymandelic acid
+LAYER: 2
+SCORE: 1
+UP: 1
+DOWN: 0
+node updated!
+
+NODE: Argininosuccinic acid
+LAYER: 2
+SCORE: -2
+UP: 0
+DOWN: 2
+node updated!
+
+NODE: Nonanoic acid
+LAYER: 2
+SCORE: -3
+UP: 0
+DOWN: 3
+node updated!
+
+NODE: 1-Methyl-4-hydroxy-1H-imidazol-2-amine
+LAYER: 2
+SCORE: -2
+UP: 0
+DOWN: 2
+node updated!
+
+NODE: Propanedioic acid
+LAYER: 2
+SCORE: 1
+UP: 1
+DOWN: 0
+node updated!
+
+NODE: Pregn-4-ene-3,20-dione, 16,17-epoxy-, (16alpha)
+LAYER: 2
+SCORE: -3
+UP: 2
+DOWN: 5
+removing edge Pregn-4-ene-3,20-dione, 16,17-epoxy-, (16alpha) - beta-D-(-)-Ribopyranose
+removing edge Pregn-4-ene-3,20-dione, 16,17-epoxy-, (16alpha) - Butyl Succinate
+0.2857142857142857 > 0.2, node to be removed
+
+NODE: Glycerol tricaprylate
+LAYER: 2
+SCORE: -4
+UP: 1
+DOWN: 5
+removing edge Glycerol tricaprylate - 2'-Desoxyuridine
+node updated!
+
+NODE: (4,4-Dimethyl-5-methylene-4,5-dihydro-3H-pyrrol-2-yl)-(4,4-dimethyl-5-methylene-pyrrolidin-2-ylidene)-acetonitrile
+LAYER: 2
+SCORE: -3
+UP: 0
+DOWN: 3
+node updated!
+
+NODE: Valylglycine
+LAYER: 2
+SCORE: -2
+UP: 2
+DOWN: 4
+removing edge Valylglycine - 3-Undecene
+removing edge Valylglycine - Propane, 2-methyl
+0.3333333333333333 > 0.2, node to be removed
+
+NODE: Caffeic acid
+LAYER: 2
+SCORE: -1
+UP: 1
+DOWN: 2
+removing edge Caffeic acid - beta-Arabinopyranose
+0.3333333333333333 > 0.2, node to be removed
+
+NODE: Putrescine
+LAYER: 2
+SCORE: 0
+UP: 2
+DOWN: 2
+score == 0, node to be removed
+
+NODE: L-Hydroxyproline
+LAYER: 2
+SCORE: -3
+UP: 0
+DOWN: 3
+node updated!
+
+NODE: Dehydroabietic acid
+LAYER: 2
+SCORE: -1
+UP: 0
+DOWN: 1
+node updated!
+
+NODE: D-Mannose
+LAYER: 2
+SCORE: 0
+UP: 1
+DOWN: 1
+score == 0, node to be removed
+
+NODE: Valylvaline
+LAYER: 2
+SCORE: 1
+UP: 1
+DOWN: 0
+node updated!
+
+NODE: 2-Amino-4-tert-butylphenol
+LAYER: 2
+SCORE: 0
+UP: 1
+DOWN: 1
+score == 0, node to be removed
+
+NODE: Kojic acid
+LAYER: 2
+SCORE: -1
+UP: 0
+DOWN: 1
+node updated!
+
+NODE: D-Xylose
+LAYER: 2
+SCORE: 0
+UP: 1
+DOWN: 1
+score == 0, node to be removed
+
+NODE: 2,2,4-Trimethyl-1,3-pentanediol diisobutyrate
+LAYER: 2
+SCORE: 0
+UP: 3
+DOWN: 3
+score == 0, node to be removed
+
+NODE: Syringic acid
+LAYER: 2
+SCORE: 3
+UP: 4
+DOWN: 1
+removing edge Syringic acid - Cyclohexanemethanol
+node updated!
+
+NODE: Propanoic acid, 2-oxo
+LAYER: 2
+SCORE: -7
+UP: 0
+DOWN: 7
+node updated!
+
+NODE: Isocitric acid lactone
+LAYER: 2
+SCORE: 2
+UP: 2
+DOWN: 0
+node updated!
+
+NODE: Oxalic acid
+LAYER: 2
+SCORE: -1
+UP: 0
+DOWN: 1
+node updated!
+
+NODE: 3,4-Dihydrocoumarin, 4,4-dimethyl-6-dimethylamino
+LAYER: 2
+SCORE: -2
+UP: 0
+DOWN: 2
+node updated!
+
+NODE: Methyl beta-Arabinofuranoside
+LAYER: 2
+SCORE: 1
+UP: 1
+DOWN: 0
+node updated!
+
+NODE: 2-Octanol
+LAYER: 2
+SCORE: -2
+UP: 2
+DOWN: 4
+removing edge 2-Octanol - Arabinitol
+removing edge 2-Octanol - Itaconic acid
+0.3333333333333333 > 0.2, node to be removed
+
+NODE: L-(+)-Rhamnopyranose
+LAYER: 2
+SCORE: 2
+UP: 2
+DOWN: 0
+node updated!
+
+NODE: 1(2H)-Naphthalenone, 3,4-dihydro-3,3,6,8-tetramethyl-
+LAYER: 2
+SCORE: -1
+UP: 1
+DOWN: 2
+removing edge 1(2H)-Naphthalenone, 3,4-dihydro-3,3,6,8-tetramethyl- - L-Valyl-L-leucine
+0.3333333333333333 > 0.2, node to be removed
+
+NODE: 1-Phenanthrenemethanol, 1,2,3,4,4a,9,10,10a-octahydro-1,4a-dimethyl-7-(1-methylethyl)-, [1R-(1alpha,4abeta,10aalpha)]-
+LAYER: 2
+SCORE: 2
+UP: 3
+DOWN: 1
+removing edge 1-Phenanthrenemethanol, 1,2,3,4,4a,9,10,10a-octahydro-1,4a-dimethyl-7-(1-methylethyl)-, [1R-(1alpha,4abeta,10aalpha)]- - beta-Alanine
+0.25 > 0.2, node to be removed
+
+NODE: Ribitol
+LAYER: 3
+SCORE: 1
+UP: 1
+DOWN: 0
+node updated!
+
+NODE: alpha-D-Xylopyranose
+LAYER: 3
+SCORE: -1
+UP: 0
+DOWN: 1
+node updated!
+
+NODE: Glycerol
+LAYER: 3
+SCORE: -2
+UP: 0
+DOWN: 2
+node updated!
+
+NODE: alpha-D-(+)-Talopyranose
+LAYER: 3
+SCORE: -1
+UP: 0
+DOWN: 1
+node updated!
+
+NODE: Pentanoic acid, 4-methyl-2-oxo-
+LAYER: 3
+SCORE: -2
+UP: 0
+DOWN: 2
+node updated!
+
+NODE: 3-Hydroxypicolinic acid
+LAYER: 3
+SCORE: 1
+UP: 1
+DOWN: 0
+node updated!
+
+NODE: 3-Hydroxybutyric acid
+LAYER: 3
+SCORE: -1
+UP: 0
+DOWN: 1
+node updated!
+
+NODE: Methyl alpha-Arabinofuranoside
+LAYER: 3
+SCORE: 0
+UP: 1
+DOWN: 1
+score == 0, node to be removed
+
+NODE: 5-Hydroxy-2-methylpyridine
+LAYER: 3
+SCORE: 1
+UP: 1
+DOWN: 0
+node updated!
+
+NODE: 3-Amino-2-piperidone
+LAYER: 3
+SCORE: -1
+UP: 0
+DOWN: 1
+node updated!
+
+NODE: 4-Hydroxyphenyllactic acid
+LAYER: 3
+SCORE: -1
+UP: 0
+DOWN: 1
+node updated!
+
+NODE: Methyl galactoside (1S,2S,3S,4R,5R)
+LAYER: 3
+SCORE: -2
+UP: 0
+DOWN: 2
+node updated!
+
+NODE: Gulonic acid, gamma-lactone
+LAYER: 3
+SCORE: -1
+UP: 0
+DOWN: 1
+node updated!
+
+NODE: 2-Pentenedioic acid
+LAYER: 3
+SCORE: -1
+UP: 0
+DOWN: 1
+node updated!
+
+NODE: Ser-Leu
+LAYER: 3
+SCORE: -1
+UP: 0
+DOWN: 1
+node updated!
+
+NODE: 5,10-Diethoxy-2,3,7,8-tetrahydro-1H,6H-dipyrrolo[1,2-a:1',2'-d]pyrazine
+LAYER: 3
+SCORE: -1
+UP: 0
+DOWN: 1
+node updated!
+
+NODE: 4-Aminobenzoic acid
+LAYER: 3
+SCORE: -1
+UP: 0
+DOWN: 1
+node updated!
+
+NODE: N-Acetyl-L-phenylalanine
+LAYER: 3
+SCORE: -1
+UP: 0
+DOWN: 1
+node updated!
+
+NODE: Acetohydroxamic acid
+LAYER: 4
+SCORE: 1
+UP: 1
+DOWN: 0
+node updated!
+
+NODE: Acetoacetic acid
+LAYER: 4
+SCORE: 1
+UP: 1
+DOWN: 0
+node updated!
+
+NODE: 4-Methoxyphenol
+LAYER: 4
+SCORE: -1
+UP: 0
+DOWN: 1
+node updated!
+
+NODE: L-Asparagine
+LAYER: 4
+SCORE: -1
+UP: 0
+DOWN: 1
+node updated!
+
+NODE: 2-Aminoadipic acid
+LAYER: 4
+SCORE: 1
+UP: 1
+DOWN: 0
+node updated!
 
 FINAL NETWORK NODES:
 ENSMUSG00000055681-P: {'dir': 1.0}
 2,4-Di-tert-butylphenol: {'dir': -1}
+4-Coumaric acid: {'dir': 1}
+L-(+)-Rhamnopyranose: {'dir': 1}
 ENSMUSG00000032216-P: {'dir': -1.0}
 L-Valine: {'dir': -1}
 ENSMUSG00000025979-P: {'dir': 1.0}
@@ -3264,6 +3459,8 @@ Deoxyglucose: {'dir': -1}
 Vanillin: {'dir': -1}
 ENSMUSG00000035443-P: {'dir': 1.0}
 ENSMUSG00000028991-P: {'dir': 1.0}
+L-Hydroxyproline: {'dir': -1}
+2-Hydroxy-5-methoxybenzaldehyde: {'dir': -1}
 ENSMUSG00000044224-P: {'dir': -1.0}
 beta-d-Glucopyranose, 2-(acetylamino)-3,6-anhydro-2-deoxy: {'dir': -1}
 ENSMUSG00000030216-P: {'dir': -1.0}
@@ -3287,39 +3484,51 @@ ENSMUSG00000027536-P: {'dir': 1.0}
 2-Butenoic acid, 2-hydroxy-: {'dir': -1}
 ENSMUSG00000069727-P: {'dir': -1.0}
 1-Hexacosene: {'dir': -1}
+2,5-Dimethoxymandelic acid: {'dir': 1}
 2,5-Dimethoxyphenol: {'dir': -1}
-2-Allyl-1,4-dimethoxybenzene: {'dir': -1}
+2-Allyl-1,4-dimethoxybenzene : {'dir': -1}
 2-Butenoic acid, 2-methyl-, 2-methyl-2-propenyl ester: {'dir': -1}
 3-Hexenedioic acid: {'dir': -1}
+Methyl stearate: {'dir': -1}
 ENSMUSG00000042118-P: {'dir': -1.0}
 ENSMUSG00000094002-P: {'dir': 1.0}
+L-Asparagine: {'dir': -1}
 ENSMUSG00000039253-P: {'dir': -1.0}
 2-Ethylhexanoic acid: {'dir': -1}
 pyrazole: {'dir': -1}
 beta-Alanine: {'dir': -1}
+Kojic acid: {'dir': -1}
 L-5-Oxoproline: {'dir': -1}
 Niacin: {'dir': -1}
 Phenol: {'dir': -1}
 Syringaldehyde: {'dir': -1}
 Urea: {'dir': -1}
 ENSMUSG00000036371-P: {'dir': -1.0}
+11-Methyldodecanol: {'dir': -1}
 1-Dodecanol: {'dir': -1}
 Benzoic Acid: {'dir': -1}
 D-Allofuranose: {'dir': -1}
+Hexadecanoic acid, ethyl ester: {'dir': -1}
 ENSMUSG00000094595-P: {'dir': 1.0}
 L-Valyl-L-leucine: {'dir': 1}
 ENSMUSG00000041126-P: {'dir': 1.0}
 2-Piperidinone: {'dir': -1}
 Azelaic acid: {'dir': 1}
 l-Leucyl-l-valine: {'dir': 1}
+N-Ethyldiethanolamine: {'dir': -1}
+Palmitelaidic acid: {'dir': -1}
+Valylvaline: {'dir': 1}
 ENSMUSG00000034064-P: {'dir': 1.0}
 1,4-Butanediol: {'dir': 1}
 ENSMUSG00000035295-P: {'dir': 1.0}
 3-Buten-2-one: {'dir': 1}
+Oxalic acid: {'dir': -1}
 ENSMUSG00000057421-P: {'dir': 1.0}
+5-Aminovaleric acid: {'dir': -1}
 ENSMUSG00000022781-P: {'dir': -1.0}
 D-Ribose: {'dir': -1}
 ENSMUSG00000030060-P: {'dir': 1.0}
+Dodecanamide: {'dir': 1}
 ENSMUSG00000015112-P: {'dir': -1.0}
 ENSMUSG00000027642-P: {'dir': 1.0}
 D-(-)-Ribofuranose: {'dir': 1}
@@ -3334,6 +3543,7 @@ Supraene: {'dir': 1}
 ENSMUSG00000049295-P: {'dir': 1.0}
 6-Hydroxyhexanoic acid: {'dir': -1}
 ENSMUSG00000046711-P: {'dir': 1.0}
+Isopropyl palmitate: {'dir': -1}
 Octanoic acid: {'dir': 1}
 Pentadecanoic acid: {'dir': -1}
 ENSMUSG00000034647-P: {'dir': -1.0}
@@ -3343,6 +3553,8 @@ ENSMUSG00000002319-P: {'dir': 1.0}
 ENSMUSG00000020108-P: {'dir': 1.0}
 L-Glutamic acid: {'dir': -1}
 ENSMUSG00000022246-P: {'dir': -1.0}
+alpha-D-Xylopyranose: {'dir': -1}
+D-Arabinose: {'dir': 1}
 L-Rhamnose: {'dir': -1}
 ENSMUSG00000050910-P: {'dir': 1.0}
 ENSMUSG00000061533-P: {'dir': -1.0}
@@ -3355,16 +3567,19 @@ N-(2-hydroxyethyl)-succinimide: {'dir': -1}
 ENSMUSG00000086610-P: {'dir': -1.0}
 Cyclohexanecarboxylic acid: {'dir': -1}
 ENSMUSG00000026309-P: {'dir': 1.0}
+alpha-Ketoisovaleric acid: {'dir': 1}
 ENSMUSG00000021903-P: {'dir': 1.0}
 Glyceric acid: {'dir': 1}
 ENSMUSG00000037262-P: {'dir': -1.0}
 ENSMUSG00000005514-P: {'dir': -1.0}
 D-Psicofuranose: {'dir': 1}
+Stearic acid: {'dir': -1}
 ENSMUSG00000045128-P: {'dir': -1.0}
-D-(+)-Ribono-1,4-lactone: {'dir': -1}
+D-(+)-Ribono-1,4-lactone : {'dir': -1}
 Hymexazole: {'dir': -1}
 ENSMUSG00000040795-P: {'dir': 1.0}
 ENSMUSG00000031511-P: {'dir': 1.0}
+4-hydroxy-3-penten-2-one: {'dir': -1}
 ENSMUSG00000024805-P: {'dir': -1.0}
 ENSMUSG00000029198-P: {'dir': 1.0}
 Thr-Leu: {'dir': 1}
@@ -3379,6 +3594,9 @@ ENSMUSG00000052751-P: {'dir': 1.0}
 D-(+)-Talofuranose: {'dir': 1}
 ENSMUSG00000020389-P: {'dir': 1.0}
 ENSMUSG00000064370-P: {'dir': -1.0}
+Benzenepropanoic acid, 3,5-bis(1,1-dimethylethyl)-4-hydroxy-, methyl ester: {'dir': -1}
+Heptadecanoic acid: {'dir': -1}
+Nonadecanoic acid: {'dir': -1}
 ENSMUSG00000005580-P: {'dir': 1.0}
 ENSMUSG00000035941-P: {'dir': -1.0}
 9H-Purin-6-ol: {'dir': -1}
@@ -3396,21 +3614,28 @@ ENSMUSG00000036501-P: {'dir': -1.0}
 ENSMUSG00000033411-P: {'dir': -1.0}
 4-Hydroxybenzoic acid: {'dir': -1}
 ENSMUSG00000035934-P: {'dir': -1.0}
+Dimethyl hexopyranosiduronate, alpha-D: {'dir': -1}
+Pantothenic acid : {'dir': -1}
 ENSMUSG00000003527-P: {'dir': -1.0}
 ENSMUSG00000019907-P: {'dir': -1.0}
+Argininosuccinic acid: {'dir': -1}
+Arachidic acid: {'dir': -1}
 Pyridoxic acid: {'dir': -1}
 ENSMUSG00000025410-P: {'dir': 1.0}
 Cyclohexanol: {'dir': 1}
 ENSMUSG00000061718-P: {'dir': 1.0}
 2,5-Cyclohexadiene-1,4-dione, 2,6-bis(1,1-dimethylethyl): {'dir': -1}
 Hydroquinone: {'dir': -1}
+Trisaminol: {'dir': -1}
 ENSMUSG00000008690-P: {'dir': 1.0}
 Monolaurin: {'dir': 1}
 ENSMUSG00000004895-P: {'dir': 1.0}
 9-Octadecenamide: {'dir': -1}
+Methyl beta-Arabinofuranoside: {'dir': 1}
 ENSMUSG00000028273-P: {'dir': -1.0}
 Serine: {'dir': -1}
 ENSMUSG00000024193-P: {'dir': 1.0}
+Isocitric acid lactone: {'dir': 1}
 ENSMUSG00000021585-P: {'dir': -1.0}
 Picolinic acid: {'dir': -1}
 Suberic acid: {'dir': -1}
@@ -3418,22 +3643,31 @@ ENSMUSG00000026623-P: {'dir': -1.0}
 ENSMUSG00000001964-P: {'dir': 1.0}
 Xanthine: {'dir': -1}
 13-Docosenamide: {'dir': -1}
+Pentanoic acid, 4-methyl-2-oxo-: {'dir': -1}
 ENSMUSG00000057367-P: {'dir': -1.0}
 4-Methyl-5-thiazoleethanol: {'dir': -1}
 ENSMUSG00000036613-P: {'dir': 1.0}
+Gulonic acid, gamma-lactone: {'dir': -1}
+Hexanedioic acid: {'dir': 1}
 ENSMUSG00000031010-P: {'dir': -1.0}
 1-Monopalmitin: {'dir': 1}
 ENSMUSG00000015839-P: {'dir': -1.0}
 L-Norvaline: {'dir': -1}
 ENSMUSG00000038859-P: {'dir': -1.0}
+3-Amino-2-piperidone: {'dir': -1}
 Pipecolic acid: {'dir': -1}
 Pyrrole-2-carboxylic acid: {'dir': -1}
+Ribitol: {'dir': 1}
 ENSMUSG00000032633-P: {'dir': 1.0}
+phenoxyethanol: {'dir': -1}
+Thymine, 1,3-dimethyl-6-hydroxymethyl: {'dir': 1}
 ENSMUSG00000032724-P: {'dir': -1.0}
 Myristic acid: {'dir': -1}
 ENSMUSG00000024235-P: {'dir': -1.0}
+Acetoacetic acid: {'dir': 1}
 Inosose-2, myo: {'dir': -1}
 ENSMUSG00000026483-P: {'dir': -1.0}
+5,10-Diethoxy-2,3,7,8-tetrahydro-1H,6H-dipyrrolo[1,2-a:1',2'-d]pyrazine: {'dir': -1}
 ENSMUSG00000057738-P: {'dir': 1.0}
 ENSMUSG00000032301-P: {'dir': -1.0}
 ENSMUSG00000030862-P: {'dir': -1.0}
@@ -3443,6 +3677,7 @@ ENSMUSG00000050989-P: {'dir': 1.0}
 ENSMUSG00000014195-P: {'dir': 1.0}
 ENSMUSG00000028885-P: {'dir': -1.0}
 Arabinofuranose, 1,2,3,5-tetrakis: {'dir': -1}
+Cyclo(L-prolyl-L-valine): {'dir': -1}
 ENSMUSG00000021693-P: {'dir': -1.0}
 D-Glucose: {'dir': -1}
 ENSMUSG00000062044-P: {'dir': 1.0}
@@ -3459,18 +3694,23 @@ ENSMUSG00000059495-P: {'dir': -1.0}
 ENSMUSG00000062421-P: {'dir': -1.0}
 ENSMUSG00000050822-P: {'dir': 1.0}
 ENSMUSG00000014075-P: {'dir': -1.0}
+4-Pentenoic acid: {'dir': -1}
 2-Ethylacetoacetate: {'dir': -1}
 Aconitic acid: {'dir': -1}
 D-(-)-Fructofuranose: {'dir': -1}
 Ethyl alpha-D-glucopyranoside: {'dir': -1}
+L-Valinamide, N(2),N(2)-dimethyl: {'dir': 1}
 Norketamine: {'dir': 1}
 Trimethylsilyl (5-benzyl-3,6-dioxopiperazin-2-yl)acetate: {'dir': -1}
 ENSMUSG00000028772-P: {'dir': 1.0}
 ENSMUSG00000035133-P: {'dir': -1.0}
 ENSMUSG00000041012-P: {'dir': -1.0}
 Cyclohexanemethanol: {'dir': -1}
+Ethyl glycolate: {'dir': -1}
 Guanidine, N,N-dimethyl: {'dir': -1}
+Levulinic acid: {'dir': 1}
 N-Acetyl glucosamine methoxime: {'dir': -1}
+Syringic acid: {'dir': 1}
 ENSMUSG00000039275-P: {'dir': 1.0}
 ENSMUSG00000025060-P: {'dir': -1.0}
 ENSMUSG00000013858-P: {'dir': 1.0}
@@ -3494,6 +3734,7 @@ N-Acetylglucosamine: {'dir': -1}
 ENSMUSG00000024687-P: {'dir': -1.0}
 Tyrosine: {'dir': -1}
 ENSMUSG00000030008-P: {'dir': 1.0}
+9-Octadecen-1-ol: {'dir': -1}
 ENSMUSG00000021377-P: {'dir': -1.0}
 ENSMUSG00000018322-P: {'dir': 1.0}
 ENSMUSG00000062937-P: {'dir': -1.0}
@@ -3503,6 +3744,9 @@ ENSMUSG00000062937-P: {'dir': -1.0}
 Cytosine: {'dir': -1}
 Dihydrouracil: {'dir': -1}
 ENSMUSG00000004040-P: {'dir': 1.0}
+2-tert-Butyl-4-ethylphenol : {'dir': -1}
+Cyclopenta[g]-2-benzopyran, 1,3,4,6,7,8-hexahydro-4,6,6,7,8,8-hexamethyl: {'dir': -1}
+Hexadecanoic acid, methyl ester: {'dir': -1}
 Methylmaleic acid: {'dir': 1}
 ENSMUSG00000024740-P: {'dir': 1.0}
 ENSMUSG00000038836-P: {'dir': -1.0}
@@ -3512,6 +3756,7 @@ ENSMUSG00000017405-P: {'dir': -1.0}
 Hexadecanoic acid, tetradecyl ester: {'dir': -1}
 ENSMUSG00000040158-P: {'dir': 1.0}
 ENSMUSG00000024253-P: {'dir': -1.0}
+Acetohydroxamic acid: {'dir': 1}
 Butyl Succinate: {'dir': -1}
 ENSMUSG00000019897-P: {'dir': -1.0}
 ENSMUSG00000031451-P: {'dir': 1.0}
@@ -3532,6 +3777,7 @@ ENSMUSG00000035011-P: {'dir': -1.0}
 ENSMUSG00000001855-P: {'dir': -1.0}
 ENSMUSG00000028826-P: {'dir': -1.0}
 3-(3-Hydroxyphenyl)propanoic acid: {'dir': -1}
+Lactic Acid: {'dir': -1}
 ENSMUSG00000007892-P: {'dir': 1.0}
 ENSMUSG00000000305-P: {'dir': -1.0}
 ENSMUSG00000026341-P: {'dir': -1.0}
@@ -3560,9 +3806,11 @@ Phenylalanine: {'dir': -1}
 ENSMUSG00000002455-P: {'dir': -1.0}
 1-Octadecanol: {'dir': -1}
 ENSMUSG00000106365-P: {'dir': -1.0}
+Propanoic acid, 2-hydroxy-3-phosphate-: {'dir': -1}
 ENSMUSG00000024335-P: {'dir': 1.0}
 ENSMUSG00000021025-P: {'dir': 1.0}
 ENSMUSG00000049739-P: {'dir': 1.0}
+1,5-Anhydroglucitol: {'dir': -1}
 ENSMUSG00000024491-P: {'dir': -1.0}
 ENSMUSG00000030079-P: {'dir': 1.0}
 N-Methyl-L-proline: {'dir': 1}
@@ -3573,6 +3821,9 @@ ENSMUSG00000032009-P: {'dir': -1.0}
 ENSMUSG00000023967-P: {'dir': 1.0}
 ENSMUSG00000005131-P: {'dir': -1.0}
 ENSMUSG00000030560-P: {'dir': 1.0}
+7,9-Di-tert-butyl-1-oxaspiro(4,5)deca-6,9-diene-2,8-dione: {'dir': -1}
+Levoglucosan: {'dir': 1}
+Propanedioic acid: {'dir': 1}
 ENSMUSG00000043639-P: {'dir': -1.0}
 ENSMUSG00000029291-P: {'dir': 1.0}
 ENSMUSG00000058492-P: {'dir': -1.0}
@@ -3583,6 +3834,7 @@ ENSMUSG00000026029-P: {'dir': -1.0}
 ENSMUSG00000027706-P: {'dir': -1.0}
 ENSMUSG00000071180-P: {'dir': -1.0}
 ENSMUSG00000021254-P: {'dir': 1.0}
+2,3-Dihydroxy-2-methylpropanoic acid: {'dir': 1}
 ENSMUSG00000064294-P: {'dir': -1.0}
 ENSMUSG00000026896-P: {'dir': -1.0}
 Menthol: {'dir': -1}
@@ -3618,6 +3870,7 @@ L-(+)-Lactic acid: {'dir': -1}
 ENSMUSG00000038717-P: {'dir': -1.0}
 ENSMUSG00000019464-P: {'dir': -1.0}
 ENSMUSG00000078485-P: {'dir': -1.0}
+alpha-D-(+)-Talopyranose: {'dir': -1}
 ENSMUSG00000021392-P: {'dir': -1.0}
 ENSMUSG00000021686-P: {'dir': -1.0}
 2,5-Dimethoxybenzhydrazide: {'dir': -1}
@@ -3628,6 +3881,7 @@ Arabinose: {'dir': 1}
 ENSMUSG00000022812-P: {'dir': -1.0}
 ENSMUSG00000025323-P: {'dir': -1.0}
 1H-Indole-2-carboxylic acid, 5-ethyl-1-(trimethylsilyl): {'dir': -1}
+Tetrahydrolinalool: {'dir': 1}
 ENSMUSG00000034863-P: {'dir': 1.0}
 ENSMUSG00000068335-P: {'dir': -1.0}
 1-Hexanol: {'dir': 1}
@@ -3643,6 +3897,7 @@ ENSMUSG00000054364-P: {'dir': 1.0}
 Uridine: {'dir': -1}
 ENSMUSG00000029878-P: {'dir': -1.0}
 ENSMUSG00000050321-P: {'dir': -1.0}
+N,N-Diethyl-2-aminoethanol: {'dir': 1}
 ENSMUSG00000052566-P: {'dir': -1.0}
 ENSMUSG00000022361-P: {'dir': -1.0}
 ENSMUSG00000028383-P: {'dir': 1.0}
@@ -3669,6 +3924,7 @@ ENSMUSG00000034579-P: {'dir': 1.0}
 ENSMUSG00000038545-P: {'dir': 1.0}
 Octadecyl octyl ether: {'dir': -1}
 ENSMUSG00000042831-P: {'dir': 1.0}
+Dehydroabietic acid: {'dir': -1}
 ENSMUSG00000030217-P: {'dir': -1.0}
 ENSMUSG00000065799-P: {'dir': -1.0}
 3-Methyl-2-furoic acid: {'dir': 1}
@@ -3679,6 +3935,7 @@ Azetidine, 1-acetyl-2-methyl: {'dir': -1}
 Hexadecanoic acid, 4-hydroxybutyl ester: {'dir': -1}
 ENSMUSG00000105607-P: {'dir': -1.0}
 ENSMUSG00000033502-P: {'dir': -1.0}
+Methyl galactoside (1S,2S,3S,4R,5R): {'dir': -1}
 ENSMUSG00000090877-P: {'dir': 1.0}
 ENSMUSG00000030268-P: {'dir': 1.0}
 Palmitic Acid: {'dir': -1}
@@ -3706,6 +3963,7 @@ ENSMUSG00000049744-P: {'dir': 1.0}
 ENSMUSG00000047989-P: {'dir': 1.0}
 ENSMUSG00000071253-P: {'dir': -1.0}
 ENSMUSG00000045302-P: {'dir': 1.0}
+Ser-Leu: {'dir': -1}
 ENSMUSG00000039157-P: {'dir': 1.0}
 Xylonic acid, delta-lactone: {'dir': 1}
 ENSMUSG00000052534-P: {'dir': -1.0}
@@ -3725,7 +3983,8 @@ L-(-)-Sorbofuranose: {'dir': -1}
 ENSMUSG00000060227-P: {'dir': -1.0}
 ENSMUSG00000024576-P: {'dir': -1.0}
 ENSMUSG00000030697-P: {'dir': 1.0}
-Idoxuridine: {'dir': -1}
+Idoxuridine : {'dir': -1}
+Methyl (3,4-dimethoxyphenyl)(hydroxy)acetate: {'dir': -1}
 ENSMUSG00000030286-P: {'dir': 1.0}
 1-Propanamine, N,N-diethyl-: {'dir': -1}
 ENSMUSG00000091475-P: {'dir': 1.0}
@@ -3755,6 +4014,7 @@ ENSMUSG00000025869-P: {'dir': -1.0}
 12-Oxooctadecanoate: {'dir': 1}
 ENSMUSG00000007613-P: {'dir': -1.0}
 ENSMUSG00000043487-P: {'dir': 1.0}
+cis,cis,cis-1-Isobutyl-2,5-dimethylcyclohexane: {'dir': -1}
 ENSMUSG00000017831-P: {'dir': -1.0}
 Cholesterol: {'dir': -1}
 ENSMUSG00000029772-P: {'dir': -1.0}
@@ -3793,6 +4053,7 @@ ENSMUSG00000056735-P: {'dir': -1.0}
 Lignoceric acid: {'dir': -1}
 ENSMUSG00000062040-P: {'dir': 1.0}
 ENSMUSG00000028890-P: {'dir': 1.0}
+3,4-Dihydrocoumarin, 4,4-dimethyl-6-dimethylamino: {'dir': -1}
 ENSMUSG00000042129-P: {'dir': 1.0}
 Isonicotinic Acid: {'dir': 1}
 ENSMUSG00000069631-P: {'dir': -1.0}
@@ -3848,6 +4109,7 @@ ENSMUSG00000032560-P: {'dir': -1.0}
 ENSMUSG00000045767-P: {'dir': -1.0}
 ENSMUSG00000043241-P: {'dir': -1.0}
 ENSMUSG00000015748-P: {'dir': -1.0}
+Thymidine, 5'-phosphate: {'dir': -1}
 ENSMUSG00000048330-P: {'dir': -1.0}
 ENSMUSG00000039145-P: {'dir': -1.0}
 ENSMUSG00000041491-P: {'dir': -1.0}
@@ -3873,6 +4135,7 @@ ENSMUSG00000017670-P: {'dir': 1.0}
 ENSMUSG00000030611-P: {'dir': 1.0}
 ENSMUSG00000034563-P: {'dir': 1.0}
 ENSMUSG00000010057-P: {'dir': 1.0}
+2,6-Di-O-methyl-d-galactopyranose: {'dir': 1}
 ENSMUSG00000018171-P: {'dir': 1.0}
 ENSMUSG00000008348-P: {'dir': 1.0}
 alpha-L-(-)-Fucopyranose: {'dir': 1}
@@ -3931,6 +4194,7 @@ ENSMUSG00000085945-P: {'dir': -1.0}
 ENSMUSG00000071369-P: {'dir': -1.0}
 ENSMUSG00000015970-P: {'dir': 1.0}
 ENSMUSG00000017314-P: {'dir': -1.0}
+4-Hydroxybenzeneacetic acid: {'dir': -1}
 ENSMUSG00000051579-P: {'dir': -1.0}
 ENSMUSG00000093606-P: {'dir': -1.0}
 ENSMUSG00000049090-P: {'dir': -1.0}
@@ -3975,11 +4239,50 @@ ENSMUSG00000031479-P: {'dir': -1.0}
 ENSMUSG00000044617-P: {'dir': 1.0}
 ENSMUSG00000032796-P: {'dir': -1.0}
 ENSMUSG00000038135-P: {'dir': 1.0}
+3-Hydroxypicolinic acid: {'dir': 1}
+trans-Coniferryl alchool: {'dir': -1}
+5-Hydroxy-2-methylpyridine: {'dir': 1}
+1,7-Dimethyl-4-(1-methylethyl)cyclodecane: {'dir': -1}
+Ethanamine: {'dir': -1}
+(4,4-Dimethyl-5-methylene-4,5-dihydro-3H-pyrrol-2-yl)-(4,4-dimethyl-5-methylene-pyrrolidin-2-ylidene)-acetonitrile: {'dir': -1}
+(2,2-Dimethyl-5-[2-(2-ethoxymethoxy)propyl][1,3]dioxolan-4-yl)methanol: {'dir': -1}
+17-alpha-Hydroxypregnenolone: {'dir': 1}
+4-Hydroxybutanoic acid: {'dir': -1}
+Acetamide, N-(2-butyl)-N-methyl-: {'dir': -1}
+Propanoic acid, 2-oxo: {'dir': -1}
+1-Methyl-4-hydroxy-1H-imidazol-2-amine: {'dir': -1}
+d-Erythrotetrofuranose: {'dir': -1}
+4-Aminobenzoic acid: {'dir': -1}
+Butanoic acid, 3,4-dihydroxy-: {'dir': -1}
+2-Aminoadipic acid: {'dir': 1}
+Glycerol tricaprylate: {'dir': -1}
+2-Palmitoylglycerol: {'dir': 1}
+2-Pentenedioic acid: {'dir': -1}
+4-Methoxyphenol: {'dir': -1}
+3-Hydroxybutyric acid: {'dir': -1}
+Hexacosanoic acid: {'dir': -1}
+Nonanoic acid: {'dir': -1}
+4-Hydroxyphenyllactic acid: {'dir': -1}
+Methyl 2-acetamido-2-deoxy-3-O-methyl-alpha-D-galactopyranoside: {'dir': 1}
+Glycerol: {'dir': -1}
+N-Acetyl-L-phenylalanine: {'dir': -1}
 LAYER 0: 
-{'ENSMUSG00000027598-P', 'ENSMUSG00000001687-P', 'ENSMUSG00000028057-P', 'ENSMUSG00000085945-P', 'ENSMUSG00000032724-P', 'ENSMUSG00000025231-P', 'ENSMUSG00000099689-P', 'ENSMUSG00000074994-P', 'ENSMUSG00000001855-P', 'ENSMUSG00000017670-P', 'ENSMUSG00000045930-P', 'ENSMUSG00000050989-P', 'ENSMUSG00000005580-P', 'ENSMUSG00000071369-P', 'ENSMUSG00000032251-P', 'ENSMUSG00000029772-P', 'ENSMUSG00000068196-P', 'ENSMUSG00000027523-P', 'ENSMUSG00000016018-P', 'ENSMUSG00000042506-P', 'ENSMUSG00000004698-P', 'ENSMUSG00000015112-P', 'ENSMUSG00000062040-P', 'ENSMUSG00000019647-P', 'ENSMUSG00000040795-P', 'ENSMUSG00000046351-P', 'ENSMUSG00000023064-P', 'ENSMUSG00000033021-P', 'ENSMUSG00000037742-P', 'ENSMUSG00000037221-P', 'ENSMUSG00000000127-P', 'ENSMUSG00000027860-P', 'ENSMUSG00000032372-P', 'ENSMUSG00000090247-P', 'ENSMUSG00000030201-P', 'ENSMUSG00000039959-P', 'ENSMUSG00000042831-P', 'ENSMUSG00000006800-P', 'ENSMUSG00000105729-P', 'ENSMUSG00000054792-P', 'ENSMUSG00000043639-P', 'ENSMUSG00000036641-P', 'ENSMUSG00000025894-P', 'ENSMUSG00000006281-P', 'ENSMUSG00000042129-P', 'ENSMUSG00000043059-P', 'ENSMUSG00000045098-P', 'ENSMUSG00000023243-P', 'ENSMUSG00000044927-P', 'ENSMUSG00000030216-P', 'ENSMUSG00000031479-P', 'ENSMUSG00000056598-P', 'ENSMUSG00000030560-P', 'ENSMUSG00000032482-P', 'ENSMUSG00000030094-P', 'ENSMUSG00000032306-P', 'ENSMUSG00000039157-P', 'ENSMUSG00000024491-P', 'ENSMUSG00000034064-P', 'ENSMUSG00000027957-P', 'ENSMUSG00000023030-P', 'ENSMUSG00000061533-P', 'ENSMUSG00000052566-P', 'ENSMUSG00000022283-P', 'ENSMUSG00000087640-P', 'ENSMUSG00000035941-P', 'ENSMUSG00000021288-P', 'ENSMUSG00000003190-P', 'ENSMUSG00000057367-P', 'ENSMUSG00000037262-P', 'ENSMUSG00000005510-P', 'ENSMUSG00000023046-P', 'ENSMUSG00000021254-P', 'ENSMUSG00000071650-P', 'ENSMUSG00000043991-P', 'ENSMUSG00000050493-P', 'ENSMUSG00000068284-P', 'ENSMUSG00000048776-P', 'ENSMUSG00000035133-P', 'ENSMUSG00000023249-P', 'ENSMUSG00000008690-P', 'ENSMUSG00000026527-P', 'ENSMUSG00000020546-P', 'ENSMUSG00000025060-P', 'ENSMUSG00000013858-P', 'ENSMUSG00000078486-P', 'ENSMUSG00000026341-P', 'ENSMUSG00000034563-P', 'ENSMUSG00000028885-P', 'ENSMUSG00000024772-P', 'ENSMUSG00000104682-P', 'ENSMUSG00000020102-P', 'ENSMUSG00000051297-P', 'ENSMUSG00000020108-P', 'ENSMUSG00000072704-P', 'ENSMUSG00000024873-P', 'ENSMUSG00000022781-P', 'ENSMUSG00000026315-P', 'ENSMUSG00000017314-P', 'ENSMUSG00000029878-P', 'ENSMUSG00000031513-P', 'ENSMUSG00000035443-P', 'ENSMUSG00000011831-P', 'ENSMUSG00000041012-P', 'ENSMUSG00000024098-P', 'ENSMUSG00000032261-P', 'ENSMUSG00000026623-P', 'ENSMUSG00000019088-P', 'ENSMUSG00000051510-P', 'ENSMUSG00000002319-P', 'ENSMUSG00000030108-P', 'ENSMUSG00000045817-P', 'ENSMUSG00000030286-P', 'ENSMUSG00000024921-P', 'ENSMUSG00000041685-P', 'ENSMUSG00000032216-P', 'ENSMUSG00000021010-P', 'ENSMUSG00000034579-P', 'ENSMUSG00000024335-P', 'ENSMUSG00000046947-P', 'ENSMUSG00000070319-P', 'ENSMUSG00000024975-P', 'ENSMUSG00000065799-P', 'ENSMUSG00000028811-P', 'ENSMUSG00000039899-P', 'ENSMUSG00000025505-P', 'ENSMUSG00000039194-P', 'ENSMUSG00000022812-P', 'ENSMUSG00000023960-P', 'ENSMUSG00000052534-P', 'ENSMUSG00000021431-P', 'ENSMUSG00000001014-P', 'ENSMUSG00000003199-P', 'ENSMUSG00000003949-P', 'ENSMUSG00000048106-P', 'ENSMUSG00000026547-P', 'ENSMUSG00000039323-P', 'ENSMUSG00000064294-P', 'ENSMUSG00000022774-P', 'ENSMUSG00000027642-P', 'ENSMUSG00000027710-P', 'ENSMUSG00000030801-P', 'ENSMUSG00000022561-P', 'ENSMUSG00000020219-P', 'ENSMUSG00000022010-P', 'ENSMUSG00000064246-P', 'ENSMUSG00000030079-P', 'ENSMUSG00000014195-P', 'ENSMUSG00000047181-P', 'ENSMUSG00000064370-P', 'ENSMUSG00000034647-P', 'ENSMUSG00000057421-P', 'ENSMUSG00000038836-P', 'ENSMUSG00000024193-P', 'ENSMUSG00000091475-P', 'ENSMUSG00000054720-P', 'ENSMUSG00000041134-P', 'ENSMUSG00000032560-P', 'ENSMUSG00000037646-P', 'ENSMUSG00000021886-P', 'ENSMUSG00000031010-P', 'ENSMUSG00000020235-P', 'ENSMUSG00000031256-P', 'ENSMUSG00000020248-P', 'ENSMUSG00000030060-P', 'ENSMUSG00000105607-P', 'ENSMUSG00000021693-P', 'ENSMUSG00000055022-P', 'ENSMUSG00000031918-P', 'ENSMUSG00000022463-P', 'ENSMUSG00000029291-P', 'ENSMUSG00000035295-P', 'ENSMUSG00000009013-P', 'ENSMUSG00000047264-P', 'ENSMUSG00000039715-P', 'ENSMUSG00000021676-P', 'ENSMUSG00000022023-P', 'ENSMUSG00000022246-P', 'ENSMUSG00000033411-P', 'ENSMUSG00000024472-P', 'ENSMUSG00000051579-P', 'ENSMUSG00000094595-P', 'ENSMUSG00000017697-P', 'ENSMUSG00000066595-P', 'ENSMUSG00000042557-P', 'ENSMUSG00000042594-P', 'ENSMUSG00000035692-P', 'ENSMUSG00000056952-P', 'ENSMUSG00000035640-P', 'ENSMUSG00000033585-P', 'ENSMUSG00000030703-P', 'ENSMUSG00000025979-P', 'ENSMUSG00000020752-P', 'ENSMUSG00000020491-P', 'ENSMUSG00000102840-P', 'ENSMUSG00000021686-P', 'ENSMUSG00000024740-P', 'ENSMUSG00000021585-P', 'ENSMUSG00000032009-P', 'ENSMUSG00000091007-P', 'ENSMUSG00000033502-P', 'ENSMUSG00000042699-P', 'ENSMUSG00000062937-P', 'ENSMUSG00000071253-P', 'ENSMUSG00000007379-P', 'ENSMUSG00000031922-P', 'ENSMUSG00000022427-P', 'ENSMUSG00000020135-P', 'ENSMUSG00000016487-P', 'ENSMUSG00000027782-P', 'ENSMUSG00000019971-P', 'ENSMUSG00000010057-P', 'ENSMUSG00000093606-P', 'ENSMUSG00000100075-P', 'ENSMUSG00000039275-P', 'ENSMUSG00000037326-P', 'ENSMUSG00000023931-P', 'ENSMUSG00000039253-P', 'ENSMUSG00000028991-P', 'ENSMUSG00000059820-P', 'ENSMUSG00000043487-P', 'ENSMUSG00000042118-P', 'ENSMUSG00000045767-P', 'ENSMUSG00000051043-P', 'ENSMUSG00000058492-P', 'ENSMUSG00000041408-P', 'ENSMUSG00000040242-P', 'ENSMUSG00000026820-P', 'ENSMUSG00000034957-P', 'ENSMUSG00000033792-P', 'ENSMUSG00000001964-P', 'ENSMUSG00000032796-P', 'ENSMUSG00000030008-P', 'ENSMUSG00000061689-P', 'ENSMUSG00000030268-P', 'ENSMUSG00000048175-P', 'ENSMUSG00000034377-P', 'ENSMUSG00000020330-P', 'ENSMUSG00000028772-P', 'ENSMUSG00000091183-P', 'ENSMUSG00000030616-P', 'ENSMUSG00000025862-P', 'ENSMUSG00000070527-P', 'ENSMUSG00000024235-P', 'ENSMUSG00000029840-P', 'ENSMUSG00000086769-P', 'ENSMUSG00000063894-P', 'ENSMUSG00000017405-P', 'ENSMUSG00000028700-P', 'ENSMUSG00000038084-P', 'ENSMUSG00000104339-P', 'ENSMUSG00000040612-P', 'ENSMUSG00000034349-P', 'ENSMUSG00000055239-P', 'ENSMUSG00000006476-P', 'ENSMUSG00000021482-P', 'ENSMUSG00000030611-P', 'ENSMUSG00000005699-P', 'ENSMUSG00000033068-P', 'ENSMUSG00000064340-P', 'ENSMUSG00000029438-P', 'ENSMUSG00000007570-P', 'ENSMUSG00000031776-P', 'ENSMUSG00000031838-P', 'ENSMUSG00000026483-P', 'ENSMUSG00000025016-P', 'ENSMUSG00000094002-P', 'ENSMUSG00000028441-P', 'ENSMUSG00000020777-P', 'ENSMUSG00000054364-P', 'ENSMUSG00000021709-P', 'ENSMUSG00000048612-P', 'ENSMUSG00000102101-P', 'ENSMUSG00000055681-P', 'ENSMUSG00000004040-P', 'ENSMUSG00000018171-P', 'ENSMUSG00000052056-P', 'ENSMUSG00000031751-P', 'ENSMUSG00000027706-P', 'ENSMUSG00000024081-P', 'ENSMUSG00000042349-P', 'ENSMUSG00000043467-P', 'ENSMUSG00000038717-P', 'ENSMUSG00000031967-P', 'ENSMUSG00000097537-P', 'ENSMUSG00000038859-P', 'ENSMUSG00000021377-P', 'ENSMUSG00000090877-P', 'ENSMUSG00000036613-P', 'ENSMUSG00000025789-P', 'ENSMUSG00000024168-P', 'ENSMUSG00000027770-P', 'ENSMUSG00000030691-P', 'ENSMUSG00000031147-P', 'ENSMUSG00000028133-P', 'ENSMUSG00000038555-P', 'ENSMUSG00000002455-P', 'ENSMUSG00000062044-P', 'ENSMUSG00000028273-P', 'ENSMUSG00000042010-P', 'ENSMUSG00000069727-P', 'ENSMUSG00000038827-P', 'ENSMUSG00000049744-P', 'ENSMUSG00000006777-P', 'ENSMUSG00000043535-P', 'ENSMUSG00000002660-P', 'ENSMUSG00000032348-P', 'ENSMUSG00000027349-P', 'ENSMUSG00000025323-P', 'ENSMUSG00000021929-P', 'ENSMUSG00000042797-P', 'ENSMUSG00000039145-P', 'ENSMUSG00000029178-P', 'ENSMUSG00000061838-P', 'ENSMUSG00000029265-P', 'ENSMUSG00000022199-P', 'ENSMUSG00000071637-P', 'ENSMUSG00000022361-P', 'ENSMUSG00000046714-P', 'ENSMUSG00000097318-P', 'ENSMUSG00000003527-P', 'ENSMUSG00000032763-P', 'ENSMUSG00000024805-P', 'ENSMUSG00000042745-P', 'ENSMUSG00000022568-P', 'ENSMUSG00000007476-P', 'ENSMUSG00000019907-P', 'ENSMUSG00000015839-P', 'ENSMUSG00000049739-P', 'ENSMUSG00000021392-P', 'ENSMUSG00000047547-P', 'ENSMUSG00000021583-P', 'ENSMUSG00000037716-P', 'ENSMUSG00000031198-P', 'ENSMUSG00000038135-P', 'ENSMUSG00000004263-P', 'ENSMUSG00000036188-P', 'ENSMUSG00000028890-P', 'ENSMUSG00000038058-P', 'ENSMUSG00000022085-P', 'ENSMUSG00000085197-P', 'ENSMUSG00000070643-P', 'ENSMUSG00000031637-P', 'ENSMUSG00000033487-P', 'ENSMUSG00000021903-P', 'ENSMUSG00000007613-P', 'ENSMUSG00000062421-P', 'ENSMUSG00000027536-P', 'ENSMUSG00000047989-P', 'ENSMUSG00000071180-P', 'ENSMUSG00000021149-P', 'ENSMUSG00000045302-P', 'ENSMUSG00000026309-P', 'ENSMUSG00000021025-P', 'ENSMUSG00000046711-P', 'ENSMUSG00000050910-P', 'ENSMUSG00000072772-P', 'ENSMUSG00000004098-P', 'ENSMUSG00000027210-P', 'ENSMUSG00000043241-P', 'ENSMUSG00000019933-P', 'ENSMUSG00000030217-P', 'ENSMUSG00000035093-P', 'ENSMUSG00000021904-P', 'ENSMUSG00000030862-P', 'ENSMUSG00000030697-P', 'ENSMUSG00000024800-P', 'ENSMUSG00000037736-P', 'ENSMUSG00000041720-P', 'ENSMUSG00000032301-P', 'ENSMUSG00000019897-P', 'ENSMUSG00000106365-P', 'ENSMUSG00000017831-P', 'ENSMUSG00000031079-P', 'ENSMUSG00000001089-P', 'ENSMUSG00000057440-P', 'ENSMUSG00000026784-P', 'ENSMUSG00000033047-P', 'ENSMUSG00000041491-P', 'ENSMUSG00000007892-P', 'ENSMUSG00000026896-P', 'ENSMUSG00000021000-P', 'ENSMUSG00000034863-P', 'ENSMUSG00000036478-P', 'ENSMUSG00000041649-P', 'ENSMUSG00000024687-P', 'ENSMUSG00000033436-P', 'ENSMUSG00000042686-P', 'ENSMUSG00000024253-P', 'ENSMUSG00000024083-P', 'ENSMUSG00000032602-P', 'ENSMUSG00000009076-P', 'ENSMUSG00000041135-P', 'ENSMUSG00000030403-P', 'ENSMUSG00000027108-P', 'ENSMUSG00000037664-P', 'ENSMUSG00000085776-P', 'ENSMUSG00000020227-P', 'ENSMUSG00000043614-P', 'ENSMUSG00000018322-P', 'ENSMUSG00000023826-P', 'ENSMUSG00000029684-P', 'ENSMUSG00000045094-P', 'ENSMUSG00000057722-P', 'ENSMUSG00000040483-P', 'ENSMUSG00000035505-P', 'ENSMUSG00000050321-P', 'ENSMUSG00000045284-P', 'ENSMUSG00000024151-P', 'ENSMUSG00000049295-P', 'ENSMUSG00000030304-P', 'ENSMUSG00000000305-P', 'ENSMUSG00000028977-P', 'ENSMUSG00000040761-P', 'ENSMUSG00000030677-P', 'ENSMUSG00000056735-P', 'ENSMUSG00000029550-P', 'ENSMUSG00000058351-P', 'ENSMUSG00000061718-P', 'ENSMUSG00000008348-P', 'ENSMUSG00000040586-P', 'ENSMUSG00000028626-P', 'ENSMUSG00000021481-P', 'ENSMUSG00000031657-P', 'ENSMUSG00000038545-P', 'ENSMUSG00000055150-P', 'ENSMUSG00000029198-P', 'ENSMUSG00000025869-P', 'ENSMUSG00000031112-P', 'ENSMUSG00000022843-P', 'ENSMUSG00000041126-P', 'ENSMUSG00000031511-P', 'ENSMUSG00000048330-P', 'ENSMUSG00000029790-P', 'ENSMUSG00000039450-P', 'ENSMUSG00000035011-P', 'ENSMUSG00000095677-P', 'ENSMUSG00000045128-P', 'ENSMUSG00000020297-P', 'ENSMUSG00000028383-P', 'ENSMUSG00000032172-P', 'ENSMUSG00000019464-P', 'ENSMUSG00000037012-P', 'ENSMUSG00000044617-P', 'ENSMUSG00000051285-P', 'ENSMUSG00000030605-P', 'ENSMUSG00000036371-P', 'ENSMUSG00000105382-P', 'ENSMUSG00000066113-P', 'ENSMUSG00000005514-P', 'ENSMUSG00000087083-P', 'ENSMUSG00000023967-P', 'ENSMUSG00000034768-P', 'ENSMUSG00000060227-P', 'ENSMUSG00000063801-P', 'ENSMUSG00000036087-P', 'ENSMUSG00000043411-P', 'ENSMUSG00000047371-P', 'ENSMUSG00000031451-P', 'ENSMUSG00000015970-P', 'ENSMUSG00000046157-P', 'ENSMUSG00000032050-P', 'ENSMUSG00000005124-P', 'ENSMUSG00000050822-P', 'ENSMUSG00000042198-P', 'ENSMUSG00000052584-P', 'ENSMUSG00000091549-P', 'ENSMUSG00000028826-P', 'ENSMUSG00000049090-P', 'ENSMUSG00000020389-P', 'ENSMUSG00000066357-P', 'ENSMUSG00000003184-P', 'ENSMUSG00000062866-P', 'ENSMUSG00000024002-P', 'ENSMUSG00000035293-P', 'ENSMUSG00000029034-P', 'ENSMUSG00000059495-P', 'ENSMUSG00000026895-P', 'ENSMUSG00000032018-P', 'ENSMUSG00000036501-P', 'ENSMUSG00000036815-P', 'ENSMUSG00000064338-P', 'ENSMUSG00000039000-P', 'ENSMUSG00000016495-P', 'ENSMUSG00000044224-P', 'ENSMUSG00000040158-P', 'ENSMUSG00000068335-P', 'ENSMUSG00000023764-P', 'ENSMUSG00000024576-P', 'ENSMUSG00000028051-P', 'ENSMUSG00000072763-P', 'ENSMUSG00000026096-P', 'ENSMUSG00000005131-P', 'ENSMUSG00000035934-P', 'ENSMUSG00000008140-P', 'ENSMUSG00000015748-P', 'ENSMUSG00000032633-P', 'ENSMUSG00000086825-P', 'ENSMUSG00000034786-P', 'ENSMUSG00000031715-P', 'ENSMUSG00000052751-P', 'ENSMUSG00000018707-P', 'ENSMUSG00000004895-P', 'ENSMUSG00000057738-P', 'ENSMUSG00000038646-P', 'ENSMUSG00000055044-P', 'ENSMUSG00000031808-P', 'ENSMUSG00000025410-P', 'ENSMUSG00000005045-P', 'ENSMUSG00000014075-P', 'ENSMUSG00000026029-P', 'ENSMUSG00000024548-P', 'ENSMUSG00000086610-P', 'ENSMUSG00000033453-P', 'ENSMUSG00000026509-P', 'ENSMUSG00000030016-P', 'ENSMUSG00000069631-P', 'ENSMUSG00000078485-P'}
+{'ENSMUSG00000025410-P', 'ENSMUSG00000030703-P', 'ENSMUSG00000028441-P', 'ENSMUSG00000040483-P', 'ENSMUSG00000064340-P', 'ENSMUSG00000044617-P', 'ENSMUSG00000034377-P', 'ENSMUSG00000048175-P', 'ENSMUSG00000001014-P', 'ENSMUSG00000004895-P', 'ENSMUSG00000026784-P', 'ENSMUSG00000024083-P', 'ENSMUSG00000032301-P', 'ENSMUSG00000030691-P', 'ENSMUSG00000038836-P', 'ENSMUSG00000020248-P', 'ENSMUSG00000025869-P', 'ENSMUSG00000036613-P', 'ENSMUSG00000023064-P', 'ENSMUSG00000022023-P', 'ENSMUSG00000025016-P', 'ENSMUSG00000021903-P', 'ENSMUSG00000056735-P', 'ENSMUSG00000033487-P', 'ENSMUSG00000021583-P', 'ENSMUSG00000019897-P', 'ENSMUSG00000020330-P', 'ENSMUSG00000056952-P', 'ENSMUSG00000031198-P', 'ENSMUSG00000039194-P', 'ENSMUSG00000038058-P', 'ENSMUSG00000020227-P', 'ENSMUSG00000050822-P', 'ENSMUSG00000027706-P', 'ENSMUSG00000039323-P', 'ENSMUSG00000024335-P', 'ENSMUSG00000042118-P', 'ENSMUSG00000105382-P', 'ENSMUSG00000006800-P', 'ENSMUSG00000043487-P', 'ENSMUSG00000026096-P', 'ENSMUSG00000029878-P', 'ENSMUSG00000031147-P', 'ENSMUSG00000032796-P', 'ENSMUSG00000015112-P', 'ENSMUSG00000024800-P', 'ENSMUSG00000021904-P', 'ENSMUSG00000069727-P', 'ENSMUSG00000030217-P', 'ENSMUSG00000032251-P', 'ENSMUSG00000061838-P', 'ENSMUSG00000062937-P', 'ENSMUSG00000045128-P', 'ENSMUSG00000021686-P', 'ENSMUSG00000021392-P', 'ENSMUSG00000035293-P', 'ENSMUSG00000019464-P', 'ENSMUSG00000066113-P', 'ENSMUSG00000040761-P', 'ENSMUSG00000023764-P', 'ENSMUSG00000005699-P', 'ENSMUSG00000030008-P', 'ENSMUSG00000001964-P', 'ENSMUSG00000024548-P', 'ENSMUSG00000032560-P', 'ENSMUSG00000030094-P', 'ENSMUSG00000062866-P', 'ENSMUSG00000007892-P', 'ENSMUSG00000002319-P', 'ENSMUSG00000028977-P', 'ENSMUSG00000045098-P', 'ENSMUSG00000071180-P', 'ENSMUSG00000094002-P', 'ENSMUSG00000062421-P', 'ENSMUSG00000030268-P', 'ENSMUSG00000047547-P', 'ENSMUSG00000017697-P', 'ENSMUSG00000022774-P', 'ENSMUSG00000045930-P', 'ENSMUSG00000028700-P', 'ENSMUSG00000032306-P', 'ENSMUSG00000021149-P', 'ENSMUSG00000030016-P', 'ENSMUSG00000097318-P', 'ENSMUSG00000057421-P', 'ENSMUSG00000030108-P', 'ENSMUSG00000041135-P', 'ENSMUSG00000093606-P', 'ENSMUSG00000034064-P', 'ENSMUSG00000024235-P', 'ENSMUSG00000054364-P', 'ENSMUSG00000013858-P', 'ENSMUSG00000029790-P', 'ENSMUSG00000048612-P', 'ENSMUSG00000056598-P', 'ENSMUSG00000029291-P', 'ENSMUSG00000070319-P', 'ENSMUSG00000006476-P', 'ENSMUSG00000032216-P', 'ENSMUSG00000034786-P', 'ENSMUSG00000021709-P', 'ENSMUSG00000032018-P', 'ENSMUSG00000105729-P', 'ENSMUSG00000086825-P', 'ENSMUSG00000025979-P', 'ENSMUSG00000054792-P', 'ENSMUSG00000033436-P', 'ENSMUSG00000005514-P', 'ENSMUSG00000023243-P', 'ENSMUSG00000030801-P', 'ENSMUSG00000022361-P', 'ENSMUSG00000034563-P', 'ENSMUSG00000040158-P', 'ENSMUSG00000001687-P', 'ENSMUSG00000042010-P', 'ENSMUSG00000027782-P', 'ENSMUSG00000023960-P', 'ENSMUSG00000005580-P', 'ENSMUSG00000030201-P', 'ENSMUSG00000026483-P', 'ENSMUSG00000017831-P', 'ENSMUSG00000035941-P', 'ENSMUSG00000030286-P', 'ENSMUSG00000039450-P', 'ENSMUSG00000069631-P', 'ENSMUSG00000037736-P', 'ENSMUSG00000072763-P', 'ENSMUSG00000061718-P', 'ENSMUSG00000043241-P', 'ENSMUSG00000057722-P', 'ENSMUSG00000046711-P', 'ENSMUSG00000034349-P', 'ENSMUSG00000091549-P', 'ENSMUSG00000057738-P', 'ENSMUSG00000020235-P', 'ENSMUSG00000040612-P', 'ENSMUSG00000009013-P', 'ENSMUSG00000037664-P', 'ENSMUSG00000063894-P', 'ENSMUSG00000048776-P', 'ENSMUSG00000024098-P', 'ENSMUSG00000031451-P', 'ENSMUSG00000042129-P', 'ENSMUSG00000030611-P', 'ENSMUSG00000000127-P', 'ENSMUSG00000028991-P', 'ENSMUSG00000028772-P', 'ENSMUSG00000022246-P', 'ENSMUSG00000064294-P', 'ENSMUSG00000059820-P', 'ENSMUSG00000003190-P', 'ENSMUSG00000021254-P', 'ENSMUSG00000028383-P', 'ENSMUSG00000038135-P', 'ENSMUSG00000091475-P', 'ENSMUSG00000029772-P', 'ENSMUSG00000064246-P', 'ENSMUSG00000045302-P', 'ENSMUSG00000046947-P', 'ENSMUSG00000039899-P', 'ENSMUSG00000031808-P', 'ENSMUSG00000066595-P', 'ENSMUSG00000016495-P', 'ENSMUSG00000021693-P', 'ENSMUSG00000014075-P', 'ENSMUSG00000091007-P', 'ENSMUSG00000008140-P', 'ENSMUSG00000027210-P', 'ENSMUSG00000021377-P', 'ENSMUSG00000034863-P', 'ENSMUSG00000031967-P', 'ENSMUSG00000025060-P', 'ENSMUSG00000024805-P', 'ENSMUSG00000020297-P', 'ENSMUSG00000031918-P', 'ENSMUSG00000085945-P', 'ENSMUSG00000052534-P', 'ENSMUSG00000027523-P', 'ENSMUSG00000024491-P', 'ENSMUSG00000026547-P', 'ENSMUSG00000021886-P', 'ENSMUSG00000064338-P', 'ENSMUSG00000003184-P', 'ENSMUSG00000030304-P', 'ENSMUSG00000047371-P', 'ENSMUSG00000036641-P', 'ENSMUSG00000034957-P', 'ENSMUSG00000020108-P', 'ENSMUSG00000022843-P', 'ENSMUSG00000000305-P', 'ENSMUSG00000031010-P', 'ENSMUSG00000007570-P', 'ENSMUSG00000024772-P', 'ENSMUSG00000025505-P', 'ENSMUSG00000021000-P', 'ENSMUSG00000027710-P', 'ENSMUSG00000016018-P', 'ENSMUSG00000055022-P', 'ENSMUSG00000024472-P', 'ENSMUSG00000031715-P', 'ENSMUSG00000021010-P', 'ENSMUSG00000087640-P', 'ENSMUSG00000045284-P', 'ENSMUSG00000052056-P', 'ENSMUSG00000017670-P', 'ENSMUSG00000045094-P', 'ENSMUSG00000086769-P', 'ENSMUSG00000031511-P', 'ENSMUSG00000024687-P', 'ENSMUSG00000032348-P', 'ENSMUSG00000004098-P', 'ENSMUSG00000031256-P', 'ENSMUSG00000036087-P', 'ENSMUSG00000051297-P', 'ENSMUSG00000045767-P', 'ENSMUSG00000042557-P', 'ENSMUSG00000037742-P', 'ENSMUSG00000031513-P', 'ENSMUSG00000041408-P', 'ENSMUSG00000024081-P', 'ENSMUSG00000049739-P', 'ENSMUSG00000038859-P', 'ENSMUSG00000025231-P', 'ENSMUSG00000007613-P', 'ENSMUSG00000100075-P', 'ENSMUSG00000050493-P', 'ENSMUSG00000033585-P', 'ENSMUSG00000050910-P', 'ENSMUSG00000043059-P', 'ENSMUSG00000020389-P', 'ENSMUSG00000026029-P', 'ENSMUSG00000026623-P', 'ENSMUSG00000036501-P', 'ENSMUSG00000041134-P', 'ENSMUSG00000043535-P', 'ENSMUSG00000042349-P', 'ENSMUSG00000035934-P', 'ENSMUSG00000032050-P', 'ENSMUSG00000024576-P', 'ENSMUSG00000023931-P', 'ENSMUSG00000042745-P', 'ENSMUSG00000004040-P', 'ENSMUSG00000036815-P', 'ENSMUSG00000040795-P', 'ENSMUSG00000024168-P', 'ENSMUSG00000061689-P', 'ENSMUSG00000065799-P', 'ENSMUSG00000052566-P', 'ENSMUSG00000001855-P', 'ENSMUSG00000027598-P', 'ENSMUSG00000066357-P', 'ENSMUSG00000027642-P', 'ENSMUSG00000041720-P', 'ENSMUSG00000008348-P', 'ENSMUSG00000032172-P', 'ENSMUSG00000074994-P', 'ENSMUSG00000041012-P', 'ENSMUSG00000026820-P', 'ENSMUSG00000047264-P', 'ENSMUSG00000050989-P', 'ENSMUSG00000022283-P', 'ENSMUSG00000046714-P', 'ENSMUSG00000023030-P', 'ENSMUSG00000043467-P', 'ENSMUSG00000017314-P', 'ENSMUSG00000014195-P', 'ENSMUSG00000029265-P', 'ENSMUSG00000031657-P', 'ENSMUSG00000003949-P', 'ENSMUSG00000032724-P', 'ENSMUSG00000024921-P', 'ENSMUSG00000027349-P', 'ENSMUSG00000036371-P', 'ENSMUSG00000023249-P', 'ENSMUSG00000039275-P', 'ENSMUSG00000021482-P', 'ENSMUSG00000035443-P', 'ENSMUSG00000060227-P', 'ENSMUSG00000029438-P', 'ENSMUSG00000051579-P', 'ENSMUSG00000037221-P', 'ENSMUSG00000024193-P', 'ENSMUSG00000005510-P', 'ENSMUSG00000039253-P', 'ENSMUSG00000005131-P', 'ENSMUSG00000035093-P', 'ENSMUSG00000022427-P', 'ENSMUSG00000025894-P', 'ENSMUSG00000036478-P', 'ENSMUSG00000031079-P', 'ENSMUSG00000031922-P', 'ENSMUSG00000102101-P', 'ENSMUSG00000022010-P', 'ENSMUSG00000001089-P', 'ENSMUSG00000030616-P', 'ENSMUSG00000068196-P', 'ENSMUSG00000002455-P', 'ENSMUSG00000052751-P', 'ENSMUSG00000019088-P', 'ENSMUSG00000004698-P', 'ENSMUSG00000037716-P', 'ENSMUSG00000027108-P', 'ENSMUSG00000059495-P', 'ENSMUSG00000030060-P', 'ENSMUSG00000049090-P', 'ENSMUSG00000020102-P', 'ENSMUSG00000037646-P', 'ENSMUSG00000028626-P', 'ENSMUSG00000095677-P', 'ENSMUSG00000038717-P', 'ENSMUSG00000036188-P', 'ENSMUSG00000029034-P', 'ENSMUSG00000019647-P', 'ENSMUSG00000015748-P', 'ENSMUSG00000022085-P', 'ENSMUSG00000033502-P', 'ENSMUSG00000015970-P', 'ENSMUSG00000048106-P', 'ENSMUSG00000030560-P', 'ENSMUSG00000094595-P', 'ENSMUSG00000062044-P', 'ENSMUSG00000020777-P', 'ENSMUSG00000078485-P', 'ENSMUSG00000005124-P', 'ENSMUSG00000035011-P', 'ENSMUSG00000071637-P', 'ENSMUSG00000048330-P', 'ENSMUSG00000071253-P', 'ENSMUSG00000026315-P', 'ENSMUSG00000039715-P', 'ENSMUSG00000042699-P', 'ENSMUSG00000061533-P', 'ENSMUSG00000032482-P', 'ENSMUSG00000025789-P', 'ENSMUSG00000006281-P', 'ENSMUSG00000058351-P', 'ENSMUSG00000033068-P', 'ENSMUSG00000030605-P', 'ENSMUSG00000033047-P', 'ENSMUSG00000030216-P', 'ENSMUSG00000051043-P', 'ENSMUSG00000041491-P', 'ENSMUSG00000030677-P', 'ENSMUSG00000039157-P', 'ENSMUSG00000005045-P', 'ENSMUSG00000028890-P', 'ENSMUSG00000028273-P', 'ENSMUSG00000027536-P', 'ENSMUSG00000018707-P', 'ENSMUSG00000086610-P', 'ENSMUSG00000052584-P', 'ENSMUSG00000037012-P', 'ENSMUSG00000021481-P', 'ENSMUSG00000085776-P', 'ENSMUSG00000022568-P', 'ENSMUSG00000040242-P', 'ENSMUSG00000043614-P', 'ENSMUSG00000035295-P', 'ENSMUSG00000038545-P', 'ENSMUSG00000027860-P', 'ENSMUSG00000071369-P', 'ENSMUSG00000023967-P', 'ENSMUSG00000003527-P', 'ENSMUSG00000085197-P', 'ENSMUSG00000104682-P', 'ENSMUSG00000023826-P', 'ENSMUSG00000035133-P', 'ENSMUSG00000026527-P', 'ENSMUSG00000009076-P', 'ENSMUSG00000042506-P', 'ENSMUSG00000064370-P', 'ENSMUSG00000015839-P', 'ENSMUSG00000024253-P', 'ENSMUSG00000090247-P', 'ENSMUSG00000090877-P', 'ENSMUSG00000087083-P', 'ENSMUSG00000042594-P', 'ENSMUSG00000020752-P', 'ENSMUSG00000031479-P', 'ENSMUSG00000057367-P', 'ENSMUSG00000042797-P', 'ENSMUSG00000038827-P', 'ENSMUSG00000024151-P', 'ENSMUSG00000041126-P', 'ENSMUSG00000042198-P', 'ENSMUSG00000026309-P', 'ENSMUSG00000040586-P', 'ENSMUSG00000018171-P', 'ENSMUSG00000068284-P', 'ENSMUSG00000028826-P', 'ENSMUSG00000070527-P', 'ENSMUSG00000071650-P', 'ENSMUSG00000016487-P', 'ENSMUSG00000031776-P', 'ENSMUSG00000010057-P', 'ENSMUSG00000049744-P', 'ENSMUSG00000039000-P', 'ENSMUSG00000025862-P', 'ENSMUSG00000022812-P', 'ENSMUSG00000029178-P', 'ENSMUSG00000055681-P', 'ENSMUSG00000028885-P', 'ENSMUSG00000026895-P', 'ENSMUSG00000051285-P', 'ENSMUSG00000043991-P', 'ENSMUSG00000021431-P', 'ENSMUSG00000027770-P', 'ENSMUSG00000020219-P', 'ENSMUSG00000032261-P', 'ENSMUSG00000035640-P', 'ENSMUSG00000029550-P', 'ENSMUSG00000011831-P', 'ENSMUSG00000004263-P', 'ENSMUSG00000102840-P', 'ENSMUSG00000050321-P', 'ENSMUSG00000042686-P', 'ENSMUSG00000097537-P', 'ENSMUSG00000028811-P', 'ENSMUSG00000062040-P', 'ENSMUSG00000021929-P', 'ENSMUSG00000038084-P', 'ENSMUSG00000032009-P', 'ENSMUSG00000030697-P', 'ENSMUSG00000021025-P', 'ENSMUSG00000028057-P', 'ENSMUSG00000105607-P', 'ENSMUSG00000047181-P', 'ENSMUSG00000047989-P', 'ENSMUSG00000018322-P', 'ENSMUSG00000022561-P', 'ENSMUSG00000057440-P', 'ENSMUSG00000034647-P', 'ENSMUSG00000043411-P', 'ENSMUSG00000007379-P', 'ENSMUSG00000020491-P', 'ENSMUSG00000055150-P', 'ENSMUSG00000044224-P', 'ENSMUSG00000002660-P', 'ENSMUSG00000049295-P', 'ENSMUSG00000003199-P', 'ENSMUSG00000038646-P', 'ENSMUSG00000046351-P', 'ENSMUSG00000031112-P', 'ENSMUSG00000043639-P', 'ENSMUSG00000022781-P', 'ENSMUSG00000006777-P', 'ENSMUSG00000033453-P', 'ENSMUSG00000022463-P', 'ENSMUSG00000025323-P', 'ENSMUSG00000024873-P', 'ENSMUSG00000039959-P', 'ENSMUSG00000068335-P', 'ENSMUSG00000037262-P', 'ENSMUSG00000021585-P', 'ENSMUSG00000041649-P', 'ENSMUSG00000029198-P', 'ENSMUSG00000032372-P', 'ENSMUSG00000099689-P', 'ENSMUSG00000034579-P', 'ENSMUSG00000023046-P', 'ENSMUSG00000037326-P', 'ENSMUSG00000031838-P', 'ENSMUSG00000029684-P', 'ENSMUSG00000045817-P', 'ENSMUSG00000038555-P', 'ENSMUSG00000104339-P', 'ENSMUSG00000007476-P', 'ENSMUSG00000055239-P', 'ENSMUSG00000017405-P', 'ENSMUSG00000032602-P', 'ENSMUSG00000106365-P', 'ENSMUSG00000029840-P', 'ENSMUSG00000020546-P', 'ENSMUSG00000030862-P', 'ENSMUSG00000033792-P', 'ENSMUSG00000032633-P', 'ENSMUSG00000024740-P', 'ENSMUSG00000019907-P', 'ENSMUSG00000026896-P', 'ENSMUSG00000019933-P', 'ENSMUSG00000022199-P', 'ENSMUSG00000031637-P', 'ENSMUSG00000026341-P', 'ENSMUSG00000063801-P', 'ENSMUSG00000041685-P', 'ENSMUSG00000072704-P', 'ENSMUSG00000054720-P', 'ENSMUSG00000024002-P', 'ENSMUSG00000055044-P', 'ENSMUSG00000024975-P', 'ENSMUSG00000026509-P', 'ENSMUSG00000030403-P', 'ENSMUSG00000044927-P', 'ENSMUSG00000046157-P', 'ENSMUSG00000028051-P', 'ENSMUSG00000021288-P', 'ENSMUSG00000070643-P', 'ENSMUSG00000035505-P', 'ENSMUSG00000008690-P', 'ENSMUSG00000020135-P', 'ENSMUSG00000039145-P', 'ENSMUSG00000030079-P', 'ENSMUSG00000042831-P', 'ENSMUSG00000031751-P', 'ENSMUSG00000033411-P', 'ENSMUSG00000091183-P', 'ENSMUSG00000027957-P', 'ENSMUSG00000021676-P', 'ENSMUSG00000032763-P', 'ENSMUSG00000072772-P', 'ENSMUSG00000035692-P', 'ENSMUSG00000019971-P', 'ENSMUSG00000033021-P', 'ENSMUSG00000034768-P', 'ENSMUSG00000051510-P', 'ENSMUSG00000078486-P', 'ENSMUSG00000058492-P', 'ENSMUSG00000028133-P'}
 
 
 LAYER 1: 
-{'D-Erythro-Pentitol, 2-deoxy-', 'L-Valyl-L-leucine', '2-Ethylacetoacetate', '13-Docosenamide', 'Xylose', '2,5-Dimethoxyphenol', '1-Dodecanol', 'L-(+)-Lactic acid', 'Tetrahydrogeranyl formate', 'N-Acetyl glucosamine methoxime', '12-Oxooctadecanoate', '2,5-Dimethoxybenzhydrazide', 'Monolaurin', '1-Hexacosene', 'Itaconic acid', '4-Hydroxybenzaldehyde', 'Deoxycholic Acid', 'Pentadecanoic acid', '3-(3-Hydroxyphenyl)propanoic acid', '11-Hydroxy-.DELTA.-9-tetrahydrocannabinol', 'Idoxuridine', '2,5-Cyclohexadiene-1,4-dione, 2,6-bis(1,1-dimethylethyl)', 'Arabinofuranose, 1,2,3,5-tetrakis', '3-Hydroxyisovaleric acid', 'Guanidine, N,N-dimethyl', 'Erythrono-1,4-lactone', 'Pentanedioic acid', 'Pyridoxic acid', '1-Propanamine, N,N-diethyl-', 'Hymexazole', 'D-Psicofuranose', 'Xylonic acid, delta-lactone', 'Pyrrole-2-carboxylic acid', 'Campesterol', '1,3-Dioxane, 2,2-dimethyl-5-hydroxy-', '4-Hydroxybenzoic acid', 'L-Norvaline', 'alpha-Tocopheryl acetate', 'Thymidine', 'D-Allofuranose', 'D-Erythro-Pentofuranose, 2-deoxy-1,3-bis-O-posphate', 'L-Glutamic acid', 'Pimelic acid', 'D-(+)-Glucosamine', 'Hexadecanoic acid, tetradecyl ester', 'Glycolic acid', 'Hexadecanoic acid, 4-hydroxybutyl ester', 'N-Acetylglucosamine', 'Arabinose', '1-Octadecanol', 'Gluconolactone (3R,4S,5R,6R)', '9-Octadecenamide', '3-Hexenedioic acid', 'DL-Phenylalanine', 'D-Glucose', '4-Hydroxy-5-(hydroxymethyl)oxolan-2-one', 'D-(+)-Talofuranose', 'L-Threonine', '2-Furanacetaldehyde, tetrahydro-alpha', 'Suberic acid', '3-Pyridylcarbinol', 'cis-4,5-Dihydroxy-o-dithiane', 'Uracil', '5-Hydroxymethyl-2-furoic acid', '1H-Indole-2-carboxylic acid, 5-ethyl-1-(trimethylsilyl)', 'Menthol', 'N-Methyl-alpha-aminoisobutyric acid', 'beta-d-Glucopyranose, 2-(acetylamino)-3,6-anhydro-2-deoxy', 'Lignoceric acid', 'Sebacic acid', 'Phenol', 'L-Serine', 'Ribonic acid', '3-Deoxyhexitol', '2-Allyl-1,4-dimethoxybenzene', 'D-Ribose', 'Tripropylene glycol monomethyl ether', "2'-Deoxyribolactone", '2-Aminobutanoic acid', '5-Oxohexanoic Acid', 'Azelaic acid', 'Myristic acid', '9H-Purin-6-ol', 'Tricine', 'Phenylalanine', 'Pentanoic acid', 'D-(-)-Fructofuranose', 'Hydracrylic acid', 'Tyrosine', 'Thr-Leu', 'Cyclohexanol', 'Uridine', 'Cyclohexanecarboxylic acid', 'Deoxyribopyranose', 'Ketamine', '9-Octadecenoic acid', 'Butanedioic acid', '2,3,4,5-Tetrahydroxypentanoic acid-1,4-lactone', 'Pipecolic acid', '3-Hydroxy-2,3-dihydromaltol', 'Monomethyl succinate', '4-Methyl-5-thiazoleethanol', '2,5-Di-tert-butyl-4-hydroxyphenol', '1-Monopalmitin', 'Cyclohexanemethanol', 'N-Methyl-L-proline', 'Palmitic Acid', 'beta-Arabinopyranose', 'Methylsuccinic acid', 'D-(-)-Ribofuranose', 'Salsoline', 'alpha-L-(-)-Fucopyranose', 'Dihydrouracil', '2,4-Di-tert-butylphenol', 'Niacin', '3-Buten-2-one', '2-Pyrrolidinone', '8-Hydroxy-5-(hydroxymethyl)quinoline', "2'-Desoxyuridine", 'L-Rhamnose', 'Syringaldehyde', 'D-Mannopyranose', 'Trimethylsilyl (5-benzyl-3,6-dioxopiperazin-2-yl)acetate', 'L-Proline', '4-Pyridinol', 'Butyl caprylate', '1,4-Butanediol', 'Pyrogallol', 'Phloroglucinol', 'Citric acid', 'beta-Alanine', 'alpha-Linolenic acid', 'beta-D-Galactopyranoside, methyl-, acetate', 'Urea', '2-Ethylhexanoic acid', '5-Methyluridine', 'D-Fructose', 'L-Leucine', 'N-Acetyl-D-galactosamine, (R,R,R,R)', 'Norketamine', 'Serine', 'L-Valine', 'beta-D-(-)-Ribopyranose', '2-Butenoic acid, 2-hydroxy-', 'Xanthine', 'Aconitic acid', 'Undecanoic acid', 'N-Acetyl-L-glutamic acid', 'Pentitol, 3-desoxy', 'Decyl oleate', '1-Tetradecanol', 'Dihydroxyacetone', '2,3,4-Trihydroxybutyric acid', 'L-(-)-Sorbofuranose', 'L-Isoleucine', '1-Tetracosene', '6-Hydroxyhexanoic acid', 'L-Glutamine', 'N-(2-hydroxyethyl)-succinimide', '3-Undecene', 'Decanoic acid', '3-Aminobutanoic acid', 'Cytosine', 'Hydroquinone', 'Methylmaleic acid', 'Inosose-2, myo', '3-O-methyl-beta-D-Glucopyranose', 'Benzoic Acid', 'L-5-Oxoproline', '2-Butenoic acid, 2-methyl-, 2-methyl-2-propenyl ester', 'Picolinic acid', "2',2,3,6'-Tetramethoxychalcone", '2-Piperidinone', 'Cholesterol', '2-Propenoic acid, 2-hydroxy-3-(4-hydroxyphenyl)', 'Phloretic acid', 'Octadecyl octyl ether', 'Supraene', 'Glyceric acid', 'l-Leucyl-l-valine', 'D-(+)-Ribono-1,4-lactone', 'L-Aspartic acid', 'Azetidine, 1-acetyl-2-methyl', '2-Hydroxy-3-methylbutyric acid', 'Niacinamide', 'Propane, 2-methyl', 'Arabinitol', 'Isonicotinic Acid', '3-Methyl-2-furoic acid', 'Erythritol', 'Ethyl alpha-D-glucopyranoside', 'Butyl Succinate', '2,3-Butanediol', '1-Octanol', '2-Pentenedioic acid, 2-hydroxy-', 'Xylazine', 'D-(-)-Fructopyranose', 'pyrazole', '1-Hexanol', 'Deoxyglucose', 'Octanoic acid', 'Vanillin'}
+{'Deoxyribopyranose', '2-Aminobutanoic acid', '1-Octadecanol', '1-Tetracosene', 'Pyridoxic acid', 'Norketamine', '1-Tetradecanol', 'Methylmaleic acid', 'Idoxuridine ', 'D-(+)-Talofuranose', '6-Hydroxyhexanoic acid', '1-Octanol', '3-Aminobutanoic acid', 'Erythrono-1,4-lactone', 'Hexadecanoic acid, tetradecyl ester', 'Propane, 2-methyl', '2,3,4,5-Tetrahydroxypentanoic acid-1,4-lactone', 'D-Mannopyranose', 'Phloroglucinol', '1H-Indole-2-carboxylic acid, 5-ethyl-1-(trimethylsilyl)', 'D-(-)-Fructopyranose', 'Tripropylene glycol monomethyl ether', 'Glycolic acid', 'Thr-Leu', '4-Hydroxy-5-(hydroxymethyl)oxolan-2-one', '2,5-Cyclohexadiene-1,4-dione, 2,6-bis(1,1-dimethylethyl)', 'Isonicotinic Acid', 'N-Methyl-L-proline', 'D-Erythro-Pentitol, 2-deoxy-', 'Arabinitol', 'Benzoic Acid', '1-Hexanol', 'Dihydroxyacetone', 'L-Serine', 'Menthol', '4-Methyl-5-thiazoleethanol', 'L-Valyl-L-leucine', 'Xylonic acid, delta-lactone', 'Decyl oleate', '3-Undecene', '2,5-Dimethoxyphenol', '5-Methyluridine', 'Uridine', 'beta-Arabinopyranose', 'L-Threonine', 'Phloretic acid', '4-Hydroxybenzaldehyde', '3-Hydroxyisovaleric acid', '2,3,4-Trihydroxybutyric acid', 'Inosose-2, myo', 'Arabinofuranose, 1,2,3,5-tetrakis', '8-Hydroxy-5-(hydroxymethyl)quinoline', '2,4-Di-tert-butylphenol', 'Dihydrouracil', 'L-(-)-Sorbofuranose', '9-Octadecenamide', 'Cytosine', 'D-Fructose', 'alpha-Tocopheryl acetate', 'L-Rhamnose', 'Itaconic acid', 'alpha-Linolenic acid', 'L-Norvaline', 'Serine', '1-Dodecanol', "2'-Deoxyribolactone", 'Pentadecanoic acid', 'Hydracrylic acid', 'Tricine', 'Tyrosine', '3-Hexenedioic acid', 'Cyclohexanemethanol', '1,4-Butanediol', 'Azetidine, 1-acetyl-2-methyl', '2-Ethylhexanoic acid', 'cis-4,5-Dihydroxy-o-dithiane', 'N-(2-hydroxyethyl)-succinimide', '2,3-Butanediol', 'Gluconolactone (3R,4S,5R,6R)', 'Pentanoic acid', 'D-Erythro-Pentofuranose, 2-deoxy-1,3-bis-O-posphate', 'Monomethyl succinate', 'Cholesterol', 'Uracil', 'L-Isoleucine', 'Hexadecanoic acid, 4-hydroxybutyl ester', 'Niacinamide', '9-Octadecenoic acid', '2-Butenoic acid, 2-hydroxy-', 'D-(+)-Glucosamine', '2-Piperidinone', 'l-Leucyl-l-valine', '2-Pentenedioic acid, 2-hydroxy-', 'Lignoceric acid', 'D-Ribose', 'D-Psicofuranose', 'Butanedioic acid', 'Methylsuccinic acid', 'Picolinic acid', '9H-Purin-6-ol', 'N-Acetyl-D-galactosamine, (R,R,R,R)', 'Ketamine', 'Trimethylsilyl (5-benzyl-3,6-dioxopiperazin-2-yl)acetate', 'beta-d-Glucopyranose, 2-(acetylamino)-3,6-anhydro-2-deoxy', 'Aconitic acid', 'Suberic acid', '3-Deoxyhexitol', 'Urea', 'Decanoic acid', 'Phenol', 'Butyl Succinate', '1,3-Dioxane, 2,2-dimethyl-5-hydroxy-', '1-Monopalmitin', 'Sebacic acid', 'Xanthine', 'beta-D-(-)-Ribopyranose', 'N-Acetyl-L-glutamic acid', 'Butyl caprylate', 'Niacin', 'D-(-)-Fructofuranose', '2-Pyrrolidinone', '2-Butenoic acid, 2-methyl-, 2-methyl-2-propenyl ester', '3-O-methyl-beta-D-Glucopyranose', 'Cyclohexanecarboxylic acid', 'Syringaldehyde', 'D-Glucose', "2'-Desoxyuridine", '2,5-Di-tert-butyl-4-hydroxyphenol', 'D-(-)-Ribofuranose', 'Phenylalanine', 'N-Methyl-alpha-aminoisobutyric acid', 'Ethyl alpha-D-glucopyranoside', 'Octanoic acid', '3-(3-Hydroxyphenyl)propanoic acid', '2,5-Dimethoxybenzhydrazide', 'Pyrrole-2-carboxylic acid', 'L-Aspartic acid', '2-Ethylacetoacetate', 'Citric acid', 'L-Glutamic acid', 'L-5-Oxoproline', '3-Buten-2-one', 'Erythritol', 'Cyclohexanol', 'pyrazole', '2-Furanacetaldehyde, tetrahydro-alpha', 'Arabinose', '5-Oxohexanoic Acid', 'Undecanoic acid', 'Palmitic Acid', 'beta-Alanine', 'Azelaic acid', 'Pipecolic acid', 'Guanidine, N,N-dimethyl', 'Tetrahydrogeranyl formate', 'Vanillin', 'Deoxyglucose', 'L-Proline', '1-Hexacosene', 'D-Allofuranose', 'Thymidine', '2-Hydroxy-3-methylbutyric acid', 'L-Glutamine', 'D-(+)-Ribono-1,4-lactone ', 'beta-D-Galactopyranoside, methyl-, acetate', '3-Hydroxy-2,3-dihydromaltol', 'N-Acetylglucosamine', 'Xylose', 'Glyceric acid', '4-Hydroxybenzoic acid', 'Pyrogallol', '2-Propenoic acid, 2-hydroxy-3-(4-hydroxyphenyl)', '12-Oxooctadecanoate', '3-Methyl-2-furoic acid', 'N-Acetyl glucosamine methoxime', '13-Docosenamide', 'L-Leucine', 'DL-Phenylalanine', 'Pimelic acid', '11-Hydroxy-.DELTA.-9-tetrahydrocannabinol', 'Pentitol, 3-desoxy', 'Hydroquinone', 'Xylazine', 'alpha-L-(-)-Fucopyranose', 'Supraene', '4-Pyridinol', 'Pentanedioic acid', 'Campesterol', '3-Pyridylcarbinol', 'L-Valine', 'Octadecyl octyl ether', 'Hymexazole', 'Myristic acid', '2-Allyl-1,4-dimethoxybenzene ', 'L-(+)-Lactic acid', 'Monolaurin', "2',2,3,6'-Tetramethoxychalcone", 'Ribonic acid', '5-Hydroxymethyl-2-furoic acid', 'Salsoline', 'Deoxycholic Acid', '1-Propanamine, N,N-diethyl-'}
+
+
+LAYER 2: 
+{'Hexadecanoic acid, methyl ester', 'Stearic acid', '1,7-Dimethyl-4-(1-methylethyl)cyclodecane', 'Palmitelaidic acid', 'Cyclopenta[g]-2-benzopyran, 1,3,4,6,7,8-hexahydro-4,6,6,7,8,8-hexamethyl', 'Dodecanamide', 'Propanoic acid, 2-hydroxy-3-phosphate-', 'L-Valinamide, N(2),N(2)-dimethyl', '2,3-Dihydroxy-2-methylpropanoic acid', 'D-Arabinose', 'Hexanedioic acid', 'Arachidic acid', '4-Pentenoic acid', 'd-Erythrotetrofuranose', 'Lactic Acid', '2,5-Dimethoxymandelic acid', 'N,N-Diethyl-2-aminoethanol', 'Levulinic acid', 'Argininosuccinic acid', '1,5-Anhydroglucitol', 'Pantothenic acid ', 'Nonanoic acid', 'Methyl 2-acetamido-2-deoxy-3-O-methyl-alpha-D-galactopyranoside', '1-Methyl-4-hydroxy-1H-imidazol-2-amine', 'Propanedioic acid', 'Nonadecanoic acid', 'Ethyl glycolate', '4-hydroxy-3-penten-2-one', 'trans-Coniferryl alchool', 'Glycerol tricaprylate', '2-Hydroxy-5-methoxybenzaldehyde', 'Ethanamine', '2,6-Di-O-methyl-d-galactopyranose', '2-tert-Butyl-4-ethylphenol ', '(4,4-Dimethyl-5-methylene-4,5-dihydro-3H-pyrrol-2-yl)-(4,4-dimethyl-5-methylene-pyrrolidin-2-ylidene)-acetonitrile', 'Dehydroabietic acid', 'Heptadecanoic acid', 'phenoxyethanol', 'Benzenepropanoic acid, 3,5-bis(1,1-dimethylethyl)-4-hydroxy-, methyl ester', 'Levoglucosan', '2-Palmitoylglycerol', '4-Hydroxybenzeneacetic acid', '9-Octadecen-1-ol', 'Thymine, 1,3-dimethyl-6-hydroxymethyl', 'Methyl (3,4-dimethoxyphenyl)(hydroxy)acetate', '7,9-Di-tert-butyl-1-oxaspiro(4,5)deca-6,9-diene-2,8-dione', 'Dimethyl hexopyranosiduronate, alpha-D', 'Butanoic acid, 3,4-dihydroxy-', 'N-Ethyldiethanolamine', 'Valylvaline', 'Trisaminol', 'Kojic acid', 'Tetrahydrolinalool', '17-alpha-Hydroxypregnenolone', 'Syringic acid', 'cis,cis,cis-1-Isobutyl-2,5-dimethylcyclohexane', 'Acetamide, N-(2-butyl)-N-methyl-', 'Methyl stearate', 'Propanoic acid, 2-oxo', 'Isocitric acid lactone', 'Oxalic acid', "Thymidine, 5'-phosphate", '3,4-Dihydrocoumarin, 4,4-dimethyl-6-dimethylamino', 'Methyl beta-Arabinofuranoside', '4-Hydroxybutanoic acid', 'Isopropyl palmitate', 'L-Hydroxyproline', 'L-(+)-Rhamnopyranose', '4-Coumaric acid', 'Hexadecanoic acid, ethyl ester', '(2,2-Dimethyl-5-[2-(2-ethoxymethoxy)propyl][1,3]dioxolan-4-yl)methanol', 'alpha-Ketoisovaleric acid', '5-Aminovaleric acid', '11-Methyldodecanol', 'Cyclo(L-prolyl-L-valine)', 'Hexacosanoic acid'}
+
+
+LAYER 3: 
+{'Ribitol', 'Pentanoic acid, 4-methyl-2-oxo-', '3-Amino-2-piperidone', "5,10-Diethoxy-2,3,7,8-tetrahydro-1H,6H-dipyrrolo[1,2-a:1',2'-d]pyrazine", '2-Pentenedioic acid', 'Ser-Leu', 'Gulonic acid, gamma-lactone', '4-Aminobenzoic acid', 'alpha-D-Xylopyranose', 'Glycerol', '3-Hydroxypicolinic acid', '3-Hydroxybutyric acid', '5-Hydroxy-2-methylpyridine', '4-Hydroxyphenyllactic acid', 'Methyl galactoside (1S,2S,3S,4R,5R)', 'alpha-D-(+)-Talopyranose', 'N-Acetyl-L-phenylalanine'}
+
+
+LAYER 4: 
+{'4-Methoxyphenol', 'L-Asparagine', '2-Aminoadipic acid', 'Acetohydroxamic acid', 'Acetoacetic acid'}
 
 

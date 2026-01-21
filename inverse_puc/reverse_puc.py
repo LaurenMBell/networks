@@ -233,7 +233,7 @@ def feci_cpx_rpuc(f):
 
     #init L0 and L1 from the FECI-CPX file
     for i, r in feci_cpx.iterrows():
-        G.add_edge(r["cpx_gene"], r["feci_metabolite"], dir=r["edge_dir"]) 
+        G.add_edge(r["cpx_gene"], r["feci_metabolite"], dir=int(r["edge_dir"])) 
 
     #add node DOC from netwrok_nodes
     for node in G.nodes: 
@@ -242,7 +242,7 @@ def feci_cpx_rpuc(f):
 
     #init edges for rest of feci
     for i, r in feci.iterrows(): 
-        G.add_edge(r["Metabolite 1"], r["Metabolite 2"], dir=r["edge_dir"])
+        G.add_edge(r["Metabolite 1"], r["Metabolite 2"], dir=int(r["edge_dir"]))
 
     print("d-Erythrotetrofuranose" in list(G.nodes), "- d-Erythrotetrofuranose in G.nodes, expected TRUE")
 
