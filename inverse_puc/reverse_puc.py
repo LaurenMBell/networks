@@ -3,6 +3,7 @@ import pandas as pd
 import matplotlib.pyplot as plt
 import time
 import argparse
+import pickle
 
 #predictr/predictdir
 #direction of change 
@@ -162,6 +163,7 @@ def pls_cpx_rpuc(f):
 
         i+=1
 
+
     f.write("FINAL NETWORK NODES:\n")
 
     to_rmv = []
@@ -175,25 +177,53 @@ def pls_cpx_rpuc(f):
     for node in G.nodes:
         f.write(f"{node}: {G.nodes[node]}\n")
 
+    p = open("PLS/id_to_symbol_map.pickle", 'rb')
+    name_dict = pickle.load(p)
+    p.close()
+
     #save edge table 
     edges = []
     pls_e = []
+    pls_cpx_e = []
     for u, v, d in G.edges(data=True):
         edges.append({"n1": u,"n2": v,"edge_dir": d.get("dir", None)})
+        if u in l0 or v in l0:
+            pls_cpx_e.append({"n1": u,"n2": v,"edge_dir": d.get("dir", None)})
+
         if u not in l0 and v not in l0:
             pls_e.append({"n1": u,"n2": v,"edge_dir": d.get("dir", None)})
-    pd.DataFrame(edges).to_csv("PLS/pls_cpx_rpuc_edges.csv", index=False)
-    pd.DataFrame(pls_e).to_csv("PLS/pls_rpuc_edges.csv", index=False)
+    for u, v, d in G.edges(data=True):
+        edges.append({"n1": v,"n2": u,"edge_dir": d.get("dir", None)})
+        if u in l0 or v in l0:
+            pls_cpx_e.append({"n1": v,"n2": u,"edge_dir": d.get("dir", None)})
+        if u not in l0 and v not in l0:
+            pls_e.append({"n1": v,"n2": u,"edge_dir": d.get("dir", None)})  
+    
+    pls_cpx_e = pd.DataFrame(pls_cpx_e)
+    sel = pls_cpx_e["n1"].str.startswith("ENS")
+    pls_cpx_e[sel].replace("-P", "")
+    pls_cpx_e.loc[sel, "n1"] = pls_cpx_e.loc[sel, "n1"].str.replace("-P", "")
+    sel2 = pls_cpx_e["n2"].str.startswith("ENS")
+    pls_cpx_e[sel2].replace("-P", "")
+    pls_cpx_e.loc[sel2, "n2"] = pls_cpx_e.loc[sel2, "n2"].str.replace("-P", "")
+
+    pls_cpx_e = pls_cpx_e.replace(name_dict)
+    pls_cpx_e.to_csv("PLS/pls_cpx_l0_rpuc_edges.csv", index=False)
+    edges = pd.DataFrame(edges).replace("-P", "").replace(name_dict)
+    edges.to_csv("PLS/pls_cpx_rpuc_edges.csv", index=False)
+    pls_e = pd.DataFrame(pls_e).replace("-P", "").replace(name_dict)
+    pls_e.to_csv("PLS/pls_rpuc_edges.csv", index=False)
     
     
     #save node table 
     nodes = []
     for n, d in G.nodes(data=True):
-        if n not in l0:
-            try:
-                nodes.append({"node": n,"node_dir": G.nodes[n]["dir"]})
-            except:
-                print(f"{n} - no dir\n")
+        nodes.append({"node": n,"node_dir": G.nodes[n]["dir"]})
+       # if n not in l0:
+            #try:
+                #nodes.append({"node": n,"node_dir": G.nodes[n]["dir"]})
+           # except:
+                #print(f"{n} - no dir\n")
     pd.DataFrame(nodes).to_csv("PLS/pls_rpuc_nodes.csv", index=False) 
 
     count = 0
