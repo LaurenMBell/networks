@@ -51,11 +51,14 @@ def reverse_puc(G, ln, visited, i, f=None, thresh=0.2, first=False):
             if neighbor in ln:
                 n_lm.append(neighbor)
                 #every neighbor in ln should vote 
+                f.write(f"neighbor vote {neighbor}: ")
                 n_vote = vote(G, neighbor, node)
                 if n_vote == 1:
+                    f.write("up\n")
                     up += 1
                     up_e.append(neighbor)
                 if n_vote == -1:
+                    f.write("down\n")
                     down += 1
                     down_e.append(neighbor)
 
