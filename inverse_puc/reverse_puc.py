@@ -108,10 +108,10 @@ def reverse_puc(G, ln, visited, i, f=None, thresh=0.2, first=False):
 def pls_cpx_rpuc(f):
     f.write(time.strftime("CURRENT TIME: %Y-%m-%d %H:%M:%S\n\n"))
     f.write("Started PLS-CPX!\n")
-    pls_cpx = pd.read_csv("PLS-CPX_edges.csv")
+    pls_cpx = pd.read_csv("PLS/PLS-CPX_edges.csv")
     pls_cpx = pls_cpx[pls_cpx["Pooled FDR"] <= 0.1]
 
-    pls = pd.read_csv("PLS_edges.csv")
+    pls = pd.read_csv("PLS/PLS_edges.csv")
     pls = pls[(pls["FDR"] <= 0.05) & (pls[["VECPAC p-values", "DSS p-values", "LPS p-values"]].max(axis=1) <= 0.2)]
     cpx_node_dir = pd.read_csv("network_nodes.csv")
     
@@ -177,9 +177,13 @@ def pls_cpx_rpuc(f):
 
     #save edge table 
     edges = []
+    pls_e = []
     for u, v, d in G.edges(data=True):
         edges.append({"n1": u,"n2": v,"edge_dir": d.get("dir", None)})
-    pd.DataFrame(edges).to_csv("pls_cpx_rpuc_edges.csv", index=False)
+        if u not in l0 and v not in l0:
+            pls_e.append({"n1": u,"n2": v,"edge_dir": d.get("dir", None)})
+    pd.DataFrame(edges).to_csv("PLS/pls_cpx_rpuc_edges.csv", index=False)
+    pd.DataFrame(pls_e).to_csv("PLS/pls_rpuc_edges.csv", index=False)
     
     
     #save node table 
@@ -190,7 +194,7 @@ def pls_cpx_rpuc(f):
                 nodes.append({"node": n,"node_dir": G.nodes[n]["dir"]})
             except:
                 print(f"{n} - no dir\n")
-    pd.DataFrame(nodes).to_csv("pls_rpuc_nodes.csv", index=False) 
+    pd.DataFrame(nodes).to_csv("PLS/pls_rpuc_nodes.csv", index=False) 
 
     count = 0
     for layer in layers:
@@ -296,9 +300,13 @@ def feci_cpx_rpuc(f):
 
     #save edge table 
     edges = []
+    feci_e = []
     for u, v, d in G.edges(data=True):
         edges.append({"n1": u,"n2": v,"edge_dir": d.get("dir", None)})
+        if u not in l0 and v not in l0:
+            feci_e.append({"n1": u,"n2": v,"edge_dir": d.get("dir", None)})
     pd.DataFrame(edges).to_csv("FECI/feci_cpx_rpuc_edges.csv", index=False)
+    pd.DataFrame(feci_e).to_csv("FECI/feci_rpuc_edges.csv", index=False)
     
     
     #save node table 
