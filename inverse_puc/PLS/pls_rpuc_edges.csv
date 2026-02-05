@@ -39,14 +39,10 @@ n1,n2,edge_dir
 "(7a-Isopropenyl-4,5-dimethyloctahydroinden-4-yl)methanol","Thymine, 1,3-dimethyl-6-(trimethylsilyloxymethyl)-",1
 "(7a-Isopropenyl-4,5-dimethyloctahydroinden-4-yl)methanol",Triethanolamine,1
 "(7a-Isopropenyl-4,5-dimethyloctahydroinden-4-yl)methanol","Trimethylsilyl (5-benzyl-3,6-dioxopiperazin-2-yl)acetate",1
-(CH3)2C=NC2H558,"1,2-Butadiene, 1,1,4-triphenyl-3-trimethylsilyl-4-trimethylsilyloxy-",1
 (CH3)2C=NC2H558,2-Hydroxy-5-methoxybenzaldehyde,1
 (CH3)2C=NC2H558,"2,5-Cyclohexadiene-1,4-dione, 2,6-bis(1,1-dimethylethyl)-",1
-(CH3)2C=NC2H558,3-Hexenedinitrile,1
 (CH3)2C=NC2H558,4-Methylvaleric acid,1
 (CH3)2C=NC2H558,"Benzoic acid, methyl ester",1
-(CH3)2C=NC2H558,"Benzoic acid, pentadecyl ester",1
-(CH3)2C=NC2H558,Butylated Hydroxytoluene,1
 1-(3-Methylphenyl)piperazine,1-(4-Hydroxybenzylidene)acetone,1
 1-(3-Methylphenyl)piperazine,"1,2-Butadiene, 1,1,4-triphenyl-3-trimethylsilyl-4-trimethylsilyloxy-",1
 1-(3-Methylphenyl)piperazine,Benzophenone,1
@@ -55,14 +51,11 @@ n1,n2,edge_dir
 "1-(4-Methoxyphenyl)-4,6-dimethyl-2(1H)-pyrimidinone","1-Methyl-N,N-bis(trimethylsilyl)-4-[(trimethylsilyl)oxy]-1H-imidazol-2-amine",1
 "1-(4-Methoxyphenyl)-4,6-dimethyl-2(1H)-pyrimidinone","3,4,5-Trihydroxypentanoic acid, tetrakis(trimethylsilyl)-",1
 "1-(4-Methoxyphenyl)-4,6-dimethyl-2(1H)-pyrimidinone",3'-Hydroxyacetophenone,1
-"1-(4-Methoxyphenyl)-4,6-dimethyl-2(1H)-pyrimidinone",4-Hydroxybenzaldehyde,1
 "1-(4-Methoxyphenyl)-4,6-dimethyl-2(1H)-pyrimidinone", 5-Hydroxyhexanoic acid,1
 "1-(4-Methoxyphenyl)-4,6-dimethyl-2(1H)-pyrimidinone",Isoxaben,1
 "1-(4-Methoxyphenyl)-4,6-dimethyl-2(1H)-pyrimidinone",Itaconic acid,1
 "1-(4-Methoxyphenyl)-4,6-dimethyl-2(1H)-pyrimidinone",L-Asparagine,1
 "1-(4-Methoxyphenyl)-4,6-dimethyl-2(1H)-pyrimidinone",L-Glutamic acid,1
-"1-(4-Methoxyphenyl)-4,6-dimethyl-2(1H)-pyrimidinone",Niacin,1
-"1-(4-Methoxyphenyl)-4,6-dimethyl-2(1H)-pyrimidinone",Niacinamide,1
 1-Aminocyclopropanecarboxylic acid,3-Amino-2-piperidone,1
 1-Aminocyclopropanecarboxylic acid,"3-Cyclohexyl-L-alanine amide, N,N,N'N'-tetramethyl-",1
 1-Aminocyclopropanecarboxylic acid,"3-Methylpiperazine-2,5-dione, (R)-",1
@@ -70,7 +63,6 @@ n1,n2,edge_dir
 "1-Butanamine, N,N-diethyl-","(R*,S*)-2,3-Dihydroxybutanoic acid",1
 "1-Butanamine, N,N-diethyl-",1-Octanol,1
 "1-Butanamine, N,N-diethyl-","1-Octene, 2-methyl-",1
-"1-Butanamine, N,N-diethyl-","1,2-Benzenedicarboxylic acid",1
 "1-Butanamine, N,N-diethyl-","1,2-Butadiene, 1,1,4-triphenyl-3-trimethylsilyl-4-trimethylsilyloxy-",1
 "1-Butanamine, N,N-diethyl-",12-Oxooctadecanoate,1
 "1-Butanamine, N,N-diethyl-",2-Ethyl-3-hydroxypropionic acid,1
@@ -79,9 +71,6 @@ n1,n2,edge_dir
 "1-Butanamine, N,N-diethyl-",3-Amino-5-morpholinomethyl-2-oxazolidinone,1
 "1-Butanamine, N,N-diethyl-",3-Hydroxyisovaleric acid,1
 "1-Butanamine, N,N-diethyl-",5-Henicosylresorcinol,1
-"1-Butanamine, N,N-diethyl-","Acetic acid, bis[(trimethylsilyl)oxyl]-",1
-"1-Butanamine, N,N-diethyl-","Benzenemethanamine, 2,3-dimethoxy-",1
-"1-Butanamine, N,N-diethyl-",Benzyl alcohol,1
 "1-Butanamine, N,N-diethyl-","Butanal, 2,3,4-tris[(trimethylsilyl)oxy]-, O-methyloxime, [R-(R*,R*)]-",1
 "1-Butanamine, N,N-diethyl-",Butylmethylamine,1
 "1-Butanamine, N,N-diethyl-","Cholest-22-ene-21-ol, 3,5-dehydro-6-methoxy-, pivalate",1
@@ -98,7 +87,6 @@ n1,n2,edge_dir
 1-Cyclopentylethanol,2-Naphthol,1
 1-Cyclopentylethanol,"2-Propanone, bis(1-methylethyl)hydrazone",1
 1-Cyclopentylethanol,"2,2,4-Trimethyl-1,3-pentanediol diisobutyrate",1
-1-Cyclopentylethanol,"2,5-di-tert-Butyl-1,4-benzoquinone",1
 1-Cyclopentylethanol,3-Hydroxyisovaleric acid,1
 1-Cyclopentylethanol,"3,5-Dimethylpyrazole",1
 1-Cyclopentylethanol,"Benzaldehyde, 2,5-dimethyl-",1
@@ -127,7 +115,6 @@ n1,n2,edge_dir
 "1-Decene, 8-methyl-","Cyclohexene, 3-butyl-3-methyl-1-trimethylsilyloxy-",1
 1-Deoxypentitol,(pm)-alpha-Tocopherol acetate,1
 1-Deoxypentitol,1-Tetradecanol,1
-1-Deoxypentitol,"1,4-diazabicyclo[4.3.0]nonan-2,5-dione, 3-methyl ",1
 1-Deoxypentitol,"2-(Decanoyloxy)propane-1,3-diyl dioctanoate",1
 1-Deoxypentitol,2-Acetyl-5-chloro-3-methylbenzo(b)thiophene,1
 1-Deoxypentitol,"2-Hexenoic acid, 2-[(trimethylsilyl)oxy]-",1
@@ -138,7 +125,6 @@ n1,n2,edge_dir
 1-Deoxypentitol,"beta-d-Fructopyranose, 1-deoxy-1-(4-morpholinyl)-2,3,4,5-tetrakis-O-(trimethylsilyl)-",1
 1-Deoxypentitol,"beta-D-Galactofuranose, 1,2,3,5,6-pentakis-O-(trimethylsilyl)-",1
 1-Deoxypentitol,"Butanoic acid, 2,4-bis[(trimethylsilyl)oxy]-",1
-1-Deoxypentitol,Carfentrazone-ethyl,1
 1-Deoxypentitol,"Cholest-22-ene-21-ol, 3,5-dehydro-6-methoxy-, pivalate",1
 1-Deoxypentitol,"Cyclopentaneacetic acid, 3-oxo-2-pentyl-",1
 1-Deoxypentitol,D-(-)-Citramalic acid,1
@@ -195,28 +181,16 @@ n1,n2,edge_dir
 1-Phenethylamine,Cadaverine,1
 1-Phenethylamine,"Furan, 2-pentyl-",1
 1-Phenethylamine,"L-Tryptophan, N-acetyl-1",1
-1-Phenethylamine,"Propiophenone, 3',4'-dimethoxy-",1
 1-Phenethylamine,"Stigmast-5-ene, 3beta-",1
 1-Phenethylamine,"Thymine, 1,3-dimethyl-6-(trimethylsilyloxymethyl)-",1
 "1-Phenyl-1,2-ethanediol",Benzeneacetamide,-1
-"1-Phenyl-1,2-ethanediol",Decanoic acid,1
 "1-Phenyl-1,2-ethanediol",Octocrylene,1
-"1-Piperazineethanol, 4-dibenzo[b,f][1,4]thiazepin-11-yl-","2-(Decanoyloxy)propane-1,3-diyl dioctanoate",1
-"1-Piperazineethanol, 4-dibenzo[b,f][1,4]thiazepin-11-yl-","2,4-Imidazolidinedione, 5,5-dimethyl-",1
-"1-Piperazineethanol, 4-dibenzo[b,f][1,4]thiazepin-11-yl-",3-Aminobutanoic acid,1
-"1-Piperazineethanol, 4-dibenzo[b,f][1,4]thiazepin-11-yl-","3-Cyclohexyl-L-alanine amide, N,N,N'N'-tetramethyl-",1
-"1-Piperazineethanol, 4-dibenzo[b,f][1,4]thiazepin-11-yl-",3-Indoleacetic acid,1
-"1-Piperazineethanol, 4-dibenzo[b,f][1,4]thiazepin-11-yl-",Arsenous acid,-1
-"1-Piperazineethanol, 4-dibenzo[b,f][1,4]thiazepin-11-yl-","Butanoic acid, 2-methyl-3-[(trimethylsilyl)oxy]-",1
-"1-Piperazineethanol, 4-dibenzo[b,f][1,4]thiazepin-11-yl-",Glycine,1
 "1-Piperazineethanol, 4-dibenzo[b,f][1,4]thiazepin-11-yl-",Lactic Acid,1
 "1-Piperazineethanol, 4-dibenzo[b,f][1,4]thiazepin-11-yl-",Mirin,-1
-"1-Piperazineethanol, 4-dibenzo[b,f][1,4]thiazepin-11-yl-",N-(Trimethylsilyl)hexanamide,1
 "1,1'-Biphenyl, 3,4-diethyl-",10-Heptadecenoic acid,1
 "1,1'-Biphenyl, 3,4-diethyl-",4-Cumylphenol,1
 "1,1'-Biphenyl, 3,4-diethyl-",Butylmethylamine,1
 "1,1'-Biphenyl, 3,4-diethyl-",Cadaverine,1
-"1,1'-Biphenyl, 3,4-diethyl-",Carfentrazone-ethyl,1
 "1,1'-Biphenyl, 3,4-diethyl-","Stigmast-5-ene, 3beta-",1
 "1,1'-Biphenyl, 3,4-diethyl-","Thymine, 1,3-dimethyl-6-(trimethylsilyloxymethyl)-",1
 "1,1'-Biphenyl, 3,4-diethyl-","Trimethylsilyl (5-benzyl-3,6-dioxopiperazin-2-yl)acetate",1
@@ -227,7 +201,6 @@ n1,n2,edge_dir
 "1,2-Benzenedicarboxylic acid",Boric acid,1
 "1,2-Benzenedicarboxylic acid",Decanoic acid,1
 "1,2-Benzenedicarboxylic acid",Lactic Acid,1
-"1,2-Benzenedicarboxylic acid",Myristic acid,1
 "1,2-Butadiene, 1,1,4-triphenyl-3-trimethylsilyl-4-trimethylsilyloxy-","(R*,S*)-2,3-Dihydroxybutanoic acid",1
 "1,2-Butadiene, 1,1,4-triphenyl-3-trimethylsilyl-4-trimethylsilyloxy-",1-(4-Hydroxybenzylidene)acetone,1
 "1,2-Butadiene, 1,1,4-triphenyl-3-trimethylsilyl-4-trimethylsilyloxy-",1-Monoacetin,1
@@ -248,7 +221,6 @@ n1,n2,edge_dir
 "1,2-Butadiene, 1,1,4-triphenyl-3-trimethylsilyl-4-trimethylsilyloxy-",7-(Trimethylsilyl)amino-4-methylcoumarin,1
 "1,2-Butadiene, 1,1,4-triphenyl-3-trimethylsilyl-4-trimethylsilyloxy-","Acetin, bis-1,3-trimethylsilyl ether",1
 "1,2-Butadiene, 1,1,4-triphenyl-3-trimethylsilyl-4-trimethylsilyloxy-",alpha-Tocopherol,1
-"1,2-Butadiene, 1,1,4-triphenyl-3-trimethylsilyl-4-trimethylsilyloxy-","Benzenemethanamine, 2,3-dimethoxy-",1
 "1,2-Butadiene, 1,1,4-triphenyl-3-trimethylsilyl-4-trimethylsilyloxy-","Benzimidazole, 5-trifluoromethyl-2-methyl-",1
 "1,2-Butadiene, 1,1,4-triphenyl-3-trimethylsilyl-4-trimethylsilyloxy-",Benzophenone,1
 "1,2-Butadiene, 1,1,4-triphenyl-3-trimethylsilyl-4-trimethylsilyloxy-",Butylmethylamine,1
@@ -275,12 +247,10 @@ n1,n2,edge_dir
 "1,2-Butadiene, 1,1,4-triphenyl-3-trimethylsilyl-4-trimethylsilyloxy-","Stigmast-5-ene, 3beta-",1
 "1,2-Butadiene, 1,1,4-triphenyl-3-trimethylsilyl-4-trimethylsilyloxy-",L-Tyrosine,1
 "1,2,3,10,11,11a-Hexahydro-6,7,8-trimethoxy-3-oxo-5H-dibenzo(a,d)cycloheptene",(pm)-alpha-Tocopherol acetate,1
-"1,2,3,10,11,11a-Hexahydro-6,7,8-trimethoxy-3-oxo-5H-dibenzo(a,d)cycloheptene",2-Hydroxybutyric acid,1
 "1,2,3,10,11,11a-Hexahydro-6,7,8-trimethoxy-3-oxo-5H-dibenzo(a,d)cycloheptene",3'-Hydroxyacetophenone,1
 "1,2,3,10,11,11a-Hexahydro-6,7,8-trimethoxy-3-oxo-5H-dibenzo(a,d)cycloheptene","3beta,4beta-Bis(trimethylsiloxy)cholest-5-ene",1
 "1,2,3,10,11,11a-Hexahydro-6,7,8-trimethoxy-3-oxo-5H-dibenzo(a,d)cycloheptene",5-Aminovaleric acid,-1
 "1,2,3,10,11,11a-Hexahydro-6,7,8-trimethoxy-3-oxo-5H-dibenzo(a,d)cycloheptene","6,7,4'-Trihydroxyisoflavone",1
-"1,2,3,10,11,11a-Hexahydro-6,7,8-trimethoxy-3-oxo-5H-dibenzo(a,d)cycloheptene",Arsenous acid,1
 "1,2,3,10,11,11a-Hexahydro-6,7,8-trimethoxy-3-oxo-5H-dibenzo(a,d)cycloheptene","Benzaldehyde, 2,5-dimethyl-",1
 "1,2,3,10,11,11a-Hexahydro-6,7,8-trimethoxy-3-oxo-5H-dibenzo(a,d)cycloheptene","Cetaben, N,O-bis(trimethylsilyl)-",1
 "1,2,3,10,11,11a-Hexahydro-6,7,8-trimethoxy-3-oxo-5H-dibenzo(a,d)cycloheptene",D-Fructose,1
@@ -307,7 +277,6 @@ n1,n2,edge_dir
 "1,3,5-Benzetriol",N-Methyl-N-(tetrahydro-2-furanylmethyl)-4-piperidinamine,1
 "1,3,5-Benzetriol",Nitrosothymol,1
 "1,3,5-Benzetriol",Nonadecanoic acid,1
-"1,3,5-Benzetriol","Octane, 1-propoxy-",1
 "1,3,5-Benzetriol","Pentanedioic acid, 3-methyl-3-[(trimethylsilyl)oxy]-",1
 "1,3,5-Benzetriol","Thymine, 1,3-dimethyl-6-(trimethylsilyloxymethyl)-",1
 "1,3,5-Benzetriol",Triethanolamine,1
@@ -319,19 +288,9 @@ n1,n2,edge_dir
 "1,3,5-Trimethyl-1H-pyrazol-4-amine",D-(-)-Citramalic acid,1
 "1,3,5-Trimethyl-1H-pyrazol-4-amine",Eicosapentaenoic acid,1
 "1,4-diazabicyclo[4.3.0]nonan-2,5-dione, 3-methyl ","1,5-Anhydroglucitol",1
-"1,4-diazabicyclo[4.3.0]nonan-2,5-dione, 3-methyl ",2-Isopropyl-5-methyl-1-heptanol ,1
-"1,4-diazabicyclo[4.3.0]nonan-2,5-dione, 3-methyl ",4-Hydroxybenzoic acid,1
-"1,4-diazabicyclo[4.3.0]nonan-2,5-dione, 3-methyl ",Dihydrouracil,1
-"1,4-diazabicyclo[4.3.0]nonan-2,5-dione, 3-methyl ",Glycolic acid,1
 "1,4-diazabicyclo[4.3.0]nonan-2,5-dione, 3-methyl ",Malic acid,1
 "1,4-diazabicyclo[4.3.0]nonan-2,5-dione, 3-methyl ",Phosalone,1
-"1,4-diazabicyclo[4.3.0]nonan-2,5-dione, 3-methyl ",Tartronic acid,1
-"1,5-Anhydroglucitol",D-Fructose,1
-"1,5-Anhydroglucitol",Glycolic acid,1
-"1,5-Anhydroglucitol",Triethanolamine,1
 10-Heptadecenoic acid,1-Monoacetin,1
-10-Heptadecenoic acid,"2-(2,5-Dimethoxy-phenyl)-propionaldehyde",1
-10-Heptadecenoic acid,2-Hydroxy-5-methoxybenzaldehyde,1
 10-Heptadecenoic acid,2-Methyl-4-pentenoic acid,1
 10-Heptadecenoic acid,2-Naphthol,1
 10-Heptadecenoic acid,3-Methyladenine,1
@@ -343,7 +302,6 @@ n1,n2,edge_dir
 10-Heptadecenoic acid, 5-Hydroxyhexanoic acid,1
 10-Heptadecenoic acid,Cyclohexanol,1
 10-Heptadecenoic acid,D-Fructose,1
-10-Heptadecenoic acid,Doconexent,1
 10-Heptadecenoic acid,"Ethanone, 1-(2,5-dimethoxyphenyl)-",1
 10-Heptadecenoic acid,Glyoxime,1
 10-Heptadecenoic acid,Heptadecanoic acid,1
@@ -356,7 +314,6 @@ n1,n2,edge_dir
 10-Heptadecenoic acid,Palmitelaidic acid,1
 10-Heptadecenoic acid,Pimelic acid,1
 10-Heptadecenoic acid,"Propanetriol, 2-methyl-",1
-10-Heptadecenoic acid,"Propanoic acid, 2-methyl-",1
 10-Heptadecenoic acid,"Pyrimidine, 5-methyl-2,4-bis[(trimethylsilyl)oxy]-",1
 10-Heptadecenoic acid,Tartronic acid,1
 10-Heptadecenoic acid,Triethanolamine,1
@@ -408,12 +365,9 @@ n1,n2,edge_dir
 "2-(2,5-Dimethoxy-phenyl)-propionaldehyde",2-Hydroxy-5-methoxybenzaldehyde,1
 "2-(2,5-Dimethoxy-phenyl)-propionaldehyde",3-Nonen-1-ol,1
 "2-(2,5-Dimethoxy-phenyl)-propionaldehyde",4-Hydroxybutanoic acid,1
-"2-(2,5-Dimethoxy-phenyl)-propionaldehyde","Benzaldehyde, 2,5-dimethyl-",1
-"2-(2,5-Dimethoxy-phenyl)-propionaldehyde",Butylated Hydroxytoluene,1
 "2-(Decanoyloxy)propane-1,3-diyl dioctanoate",1-Monoacetin,1
 "2-(Decanoyloxy)propane-1,3-diyl dioctanoate",2-Acetyl-5-chloro-3-methylbenzo(b)thiophene,1
 "2-(Decanoyloxy)propane-1,3-diyl dioctanoate","2-Allyl-1,4-dimethoxybenzene",1
-"2-(Decanoyloxy)propane-1,3-diyl dioctanoate",2-Aminobutanoic acid,1
 "2-(Decanoyloxy)propane-1,3-diyl dioctanoate",2-Methyl-4-pentenoic acid,1
 "2-(Decanoyloxy)propane-1,3-diyl dioctanoate",3-Amino-5-morpholinomethyl-2-oxazolidinone,1
 "2-(Decanoyloxy)propane-1,3-diyl dioctanoate","3-Hydroxy-2,3-dihydromaltol",1
@@ -488,8 +442,6 @@ n1,n2,edge_dir
 2-Aminoadipic acid,DL-Phenylalanine,1
 2-Aminoadipic acid,Hydantoic acid,1
 2-Aminoadipic acid,L-Glutamine,-1
-2-Aminoadipic acid,Octan-2-yl palmitate,1
-2-Aminobutanoic acid,Glycine,1
 2-Aminobutanoic acid,Nonanoic acid,1
 2-Ethyl-3-hydroxypropionic acid,(pm)-alpha-Tocopherol acetate,1
 2-Ethyl-3-hydroxypropionic acid,1-(4-Hydroxybenzylidene)acetone,1
@@ -537,17 +489,8 @@ n1,n2,edge_dir
 2-Heptenoic acid,L-Tyrosine,1
 2-Hydroxy-3-methylbutyric acid,Glucopyranose,1
 2-Hydroxy-5-methoxybenzaldehyde,2-Hydroxybutyric acid,1
-2-Hydroxy-5-methoxybenzaldehyde,3-Hexenedinitrile,1
-2-Hydroxy-5-methoxybenzaldehyde,5-Henicosylresorcinol,1
-2-Hydroxy-5-methoxybenzaldehyde,"Benzaldehyde, 2,5-dimethyl-",1
-2-Hydroxy-5-methoxybenzaldehyde,Glyoxime,1
-2-Hydroxy-5-methoxybenzaldehyde,Hydantoic acid,1
-2-Hydroxy-5-methoxybenzaldehyde,Levulinic acid,1
-2-Hydroxy-5-methoxybenzaldehyde,Neostigmine ,1
 2-Hydroxy-5-methoxybenzaldehyde,"Propanoic acid, 2-methyl-",1
 2-Hydroxybutyric acid,Arsenous acid,1
-2-Hydroxybutyric acid,"Benzaldehyde, 2,5-dimethyl-",1
-2-Hydroxybutyric acid,Glyoxime,1
 2-Isopropyl-5-methyl-1-heptanol ,"3-Buten-2-one, 4-(4-methoxyphenyl)-",-1
 2-Isopropyl-5-methyl-1-heptanol ,Isopropyl palmitate,1
 2-Methyl-4-pentenoic acid,(pm)-alpha-Tocopherol acetate,1
@@ -592,7 +535,6 @@ n1,n2,edge_dir
 "2-Propenamide, 3-phenyl-N-2-propenyl-",N-Acetyltyrosine,1
 "2,2-Diallylpyrrolidine",2-Furoic acid,1
 "2,2-Diallylpyrrolidine","3-Methylpiperazine-2,5-dione, (R)-",1
-"2,2-Diallylpyrrolidine","D-(+)-Talofuranose, pentakis",1
 "2,2-Diallylpyrrolidine","Thymine, 1,3-dimethyl-6-(trimethylsilyloxymethyl)-",1
 "2,2-Diallylpyrrolidine",Trimidox,-1
 "2,2,4-Trimethyl-1,3-pentanediol diisobutyrate",(pm)-alpha-Tocopherol acetate,1
@@ -675,21 +617,10 @@ n1,n2,edge_dir
 "2,5-Cyclohexadiene-1,4-dione, 2,6-bis(1,1-dimethylethyl)-",Arabinaric acid,-1
 "2,5-Cyclohexadiene-1,4-dione, 2,6-bis(1,1-dimethylethyl)-","Phenol, 3,5-bis(1,1-dimethylethyl)-",1
 "2,5-di-tert-Butyl-1,4-benzoquinone",3-Amino-5-morpholinomethyl-2-oxazolidinone,-1
-"2,5-di-tert-Butyl-1,4-benzoquinone","Butanoic acid, 2,4-bis[(trimethylsilyl)oxy]-",1
-"2,5-di-tert-Butyl-1,4-benzoquinone",Cadaverine,1
-"2,5-di-tert-Butyl-1,4-benzoquinone",DL-Glyceraldehyde,1
-"2,5-di-tert-Butyl-1,4-benzoquinone","Dodecane, 4,6-dimethyl-",1
-"2,5-di-tert-Butyl-1,4-benzoquinone",Ethanolamine,1
-"2,5-di-tert-Butyl-1,4-benzoquinone","Ethanone, 1-(5-methoxy-2-methyl-3(1H)-indolyl)-",1
-"2,5-di-tert-Butyl-1,4-benzoquinone",Isofucosterol,1
-"2,5-di-tert-Butyl-1,4-benzoquinone",Methyl aminoacetate,1
 "2,5-di-tert-Butyl-1,4-benzoquinone",Niacin,1
 "2,5-di-tert-Butyl-1,4-benzoquinone",Palmitic Acid,1
-"2,5-di-tert-Butyl-1,4-benzoquinone",Tartronic acid,1
 "2,5-Di-tert-butylhydroquinone","Tacrine, N-trimethylsilyl-",-1
-"2,5-Dimethoxy-4-methylamphetamine",Arabinaric acid,-1
 "2,5-Dimethoxy-4-methylamphetamine",Metanephrine,1
-"2,5-Dimethoxy-4-methylamphetamine",Ornithine,-1
 "2,5-Dimethoxymandelic acid",Ornithine,-1
 "2,5-Dimethyl-1-aza-bicyclo[2.2.1]heptane",alpha-Tocopherol,-1
 "2,5-Dimethyl-1-aza-bicyclo[2.2.1]heptane","D-(+)-Ribono-1,4-lactone (R,S,R)-",-1
@@ -734,7 +665,6 @@ n1,n2,edge_dir
 "2,5-Piperazinedione, 3-benzyl-6-isopropyl-",Niclosamide,1
 "2,5-Piperazinedione, 3-benzyl-6-isopropyl-",Nonadecanoic acid,1
 "2,5-Piperazinedione, 3-benzyl-6-isopropyl-",Nonanal,1
-"2,5-Piperazinedione, 3-benzyl-6-isopropyl-","Octane, 1-propoxy-",1
 "2,5-Piperazinedione, 3-benzyl-6-isopropyl-","Pentanedioic acid, 3-methyl-3-[(trimethylsilyl)oxy]-",1
 "2,5-Piperazinedione, 3-benzyl-6-isopropyl-","Pentenoic acid, 4-[(trimethylsilyl)oxy]-",1
 "2,5-Piperazinedione, 3-benzyl-6-isopropyl-",Phenoxyacetic acid,1
@@ -757,7 +687,6 @@ n1,n2,edge_dir
 "2,6-Bis[2-[2-S-thiosulfuroethylamino]ethoxy]pyrazine",alpha-Tocopherol,1
 "2,6-Bis[2-[2-S-thiosulfuroethylamino]ethoxy]pyrazine","beta-D-Galactofuranose, 1,2,3,5,6-pentakis-O-(trimethylsilyl)-",1
 "2,6-Bis[2-[2-S-thiosulfuroethylamino]ethoxy]pyrazine","Butanoic acid, 2,4-bis[(trimethylsilyl)oxy]-",1
-"2,6-Bis[2-[2-S-thiosulfuroethylamino]ethoxy]pyrazine",Carfentrazone-ethyl,1
 "2,6-Bis[2-[2-S-thiosulfuroethylamino]ethoxy]pyrazine","Cephalotaxine, 3-deoxy-3,11-epoxy-, (3alpha,11alpha)-",-1
 "2,6-Bis[2-[2-S-thiosulfuroethylamino]ethoxy]pyrazine","D-(+)-Ribono-1,4-lactone (R,S,R)-",1
 "2,6-Bis[2-[2-S-thiosulfuroethylamino]ethoxy]pyrazine",D-Fructose,1
@@ -793,7 +722,6 @@ n1,n2,edge_dir
 3-Aminobenzoic acid,Hexanedioic acid,1
 3-Aminobenzoic acid,Hexanoic acid,1
 3-Aminobenzoic acid,Levulinic acid,1
-3-Aminobutanoic acid,"Benzenemethanamine, 2,3-dimethoxy-",1
 3-Aminobutanoic acid,"Glycine, N-(N-DL-leucylglycyl)-",1
 3-Aminobutanoic acid,Tributyl acetylcitrate,-1
 "3-Buten-2-one, 3-trimethylsilyloxy-",Octanoic acid,1
@@ -802,9 +730,7 @@ n1,n2,edge_dir
 "3-Cyclohexyl-L-alanine amide, N,N,N'N'-tetramethyl-",1-Monoacetin,1
 "3-Cyclohexyl-L-alanine amide, N,N,N'N'-tetramethyl-",1-Phenylethanol,-1
 "3-Cyclohexyl-L-alanine amide, N,N,N'N'-tetramethyl-",5-(2-Aminopropyl)-2-methylphenol,-1
-"3-Cyclohexyl-L-alanine amide, N,N,N'N'-tetramethyl-",Doconexent,1
 "3-Cyclohexyl-L-alanine amide, N,N,N'N'-tetramethyl-",Glycine,1
-"3-Cyclohexyl-L-alanine amide, N,N,N'N'-tetramethyl-","Propanoic acid, 2-methyl-",1
 "3-Cyclohexyl-L-alanine amide, N,N,N'N'-tetramethyl-",Propylamine,1
 3-Hexenedinitrile,(pm)-alpha-Tocopherol acetate,1
 3-Hexenedinitrile,1-(4-Hydroxybenzylidene)acetone,1
@@ -837,7 +763,6 @@ n1,n2,edge_dir
 3-Hydroxyisovaleric acid,3-Amino-5-morpholinomethyl-2-oxazolidinone,1
 3-Hydroxyisovaleric acid,"3beta,4beta-Bis(trimethylsiloxy)cholest-5-ene",1
 3-Hydroxyisovaleric acid,5-Henicosylresorcinol,1
-3-Hydroxyisovaleric acid,"Acetic acid, bis[(trimethylsilyl)oxyl]-",1
 3-Hydroxyisovaleric acid,"Acetohydrazide, 2-(2-isopropyl-5-methylphenoxy)-N2-benzylideno-",1
 3-Hydroxyisovaleric acid,Arachidonic acid,1
 3-Hydroxyisovaleric acid,"Benzimidazole, 5-trifluoromethyl-2-methyl-",1
@@ -855,7 +780,6 @@ n1,n2,edge_dir
 3-Hydroxyisovaleric acid,Myristic acid,1
 3-Hydroxyisovaleric acid,Nonadecanoic acid,1
 3-Hydroxyisovaleric acid,Nonanal,1
-3-Hydroxyisovaleric acid,Octanoic acid,1
 3-Hydroxyisovaleric acid,Phenoxyacetic acid,1
 3-Hydroxyisovaleric acid,"Propanetriol, 2-methyl-",1
 3-Hydroxyisovaleric acid,Triethanolamine,1
@@ -917,7 +841,6 @@ n1,n2,edge_dir
 "3-Methylpiperazine-2,5-dione, (R)-","Stigmast-5-ene, 3beta-",1
 "3-Methylpiperazine-2,5-dione, (R)-","Tacrine, N-trimethylsilyl-",1
 "3-Methylpiperazine-2,5-dione, (R)-","Thymine, 1,3-dimethyl-6-(trimethylsilyloxymethyl)-",1
-3-Nonen-1-ol,"Furan, 2-pentyl-",1
 3-Ureidopropionic acid,"3beta-TRIMETHYLSILOXY-5alpha,6alpha-EPOXYCHOLESTANE",1
 3-Ureidopropionic acid,"3beta,4beta-Bis(trimethylsiloxy)cholest-5-ene",1
 3-Ureidopropionic acid,5-Hydroxyquinoline,1
@@ -936,12 +859,8 @@ n1,n2,edge_dir
 3-Ureidopropionic acid,Tartronic acid,1
 3-Ureidopropionic acid,Uridine,1
 3-Ureidopropionic acid,Xylose,1
-"3,4-Dihydrocoumarin, 4,4-dimethyl-6-dimethylamino-","(2S,3R)-3-[(4E,7E)-Nona-4,7-dienoyl]-N,N-bis(trimethylsilyl)oxirane-2-carboxamide ",1
-"3,4-Dihydrocoumarin, 4,4-dimethyl-6-dimethylamino-","2,5-Dimethoxyphenol",1
 "3,4-Dihydrocoumarin, 4,4-dimethyl-6-dimethylamino-","7-Isoquinolinol, 1,2,3,4-tetrahydro-1-[(4-hydroxyphenyl)methyl]-6-methoxy-",1
-"3,4-Dihydrocoumarin, 4,4-dimethyl-6-dimethylamino-",Phlorizin,1
 "3,4-Dihydrocoumarin, 4,4-dimethyl-6-dimethylamino-","Quinolin-4-one, 1-[2-(3,4-dimethoxyphenyl)ethyl]-octahydro-",1
-"3,4,5-Trihydroxypentanoic acid, tetrakis(trimethylsilyl)-",4-Hydroxy-5-(hydroxymethyl)oxolan-2-one,1
 "3,4,5-Trihydroxypentanoic acid, tetrakis(trimethylsilyl)-",Benzeneacetic acid,1
 "3,4,5-Trihydroxypentanoic acid, tetrakis(trimethylsilyl)-",beta-Lyxopyranose,1
 "3,4,5-Trihydroxypentanoic acid, tetrakis(trimethylsilyl)-",Methylmalonic monoamide,1
@@ -1024,7 +943,6 @@ n1,n2,edge_dir
 "3beta,4beta-Bis(trimethylsiloxy)cholest-5-ene",Benzeneacetic acid,1
 "3beta,4beta-Bis(trimethylsiloxy)cholest-5-ene","Benzimidazole, 5-trifluoromethyl-2-methyl-",1
 "3beta,4beta-Bis(trimethylsiloxy)cholest-5-ene","Butanoic acid, 2,4-bis[(trimethylsilyl)oxy]-",1
-"3beta,4beta-Bis(trimethylsiloxy)cholest-5-ene",Carfentrazone-ethyl,1
 "3beta,4beta-Bis(trimethylsiloxy)cholest-5-ene",cis-4-Trimethylsilyloxy-cyclohexyl(trimethylsilyl)carboxylate,1
 "3beta,4beta-Bis(trimethylsiloxy)cholest-5-ene","Cyclopentaneacetic acid, 3-oxo-2-pentyl-",1
 "3beta,4beta-Bis(trimethylsiloxy)cholest-5-ene","Cyclopentanone, 2,2,4-trimethyl-",1
@@ -1062,20 +980,14 @@ n1,n2,edge_dir
 4-Hydroxybenzeneacetic acid,Methyl-3-methoxy-5-methyl benzoate,1
 4-Hydroxybenzeneacetic acid,"N-(Trifluoroacetyl)-N,O,O'-tris(trimethylsilyl)normetanephrine",1
 4-Hydroxybenzeneacetic acid,Tartronic acid,1
-4-Hydroxybenzoic acid,D-(-)-Citramalic acid,-1
 4-Hydroxybenzoic acid,Glycolic acid,1
 4-Hydroxyphenyllactic acid,"(2S,3R)-3-[(4E,7E)-Nona-4,7-dienoyl]-N,N-bis(trimethylsilyl)oxirane-2-carboxamide ",1
 4-Hydroxyphenyllactic acid,L-Tyrosine,1
-4-Methylvaleric acid,(pm)-alpha-Tocopherol acetate,1
-4-Methylvaleric acid,"2,5-Dimethoxyphenol",1
 4-Methylvaleric acid,Norketamine,1
-4-Methylvaleric acid,Phlorizin,1
 4-Methylvaleric acid,"Pyrazine, 3,6-dihydro-3,6-dimethyl-",1
 4-Pyridinol,Pyrrole-2-carboxylic acid,1
 5-Henicosylresorcinol,1-Octanol,1
 5-Henicosylresorcinol,3-Amino-5-morpholinomethyl-2-oxazolidinone,1
-5-Henicosylresorcinol,Atrazine desethyl,-1
-5-Henicosylresorcinol,"Benzenemethanamine, 2,3-dimethoxy-",1
 5-Henicosylresorcinol,"Benzimidazole, 5-trifluoromethyl-2-methyl-",1
 5-Henicosylresorcinol,"Benzoic acid, pentadecyl ester",1
 5-Henicosylresorcinol,Benzophenone,1
@@ -1118,7 +1030,6 @@ n1,n2,edge_dir
 5-Hydroxyquinoline,"N,O-Bis(trimethylsilyl)carbamate",1
 5-Hydroxyquinoline,Tartronic acid,1
 "5,6-Dimethyl-4-phenyl-3-cyanopyridine-2(1H)-thione","2-Propanone, bis(1-methylethyl)hydrazone",-1
-"5,6-Dimethyl-4-phenyl-3-cyanopyridine-2(1H)-thione",Albizziin,1
 "6-Methoxy-1-methyl-1,2,3,4-tetrahydroisoquinolin-7-ol ","(2S,3R)-3-[(4E,7E)-Nona-4,7-dienoyl]-N,N-bis(trimethylsilyl)oxirane-2-carboxamide ",1
 "6-Methoxy-1-methyl-1,2,3,4-tetrahydroisoquinolin-7-ol ",Cadaverine,1
 "6-Methoxy-1-methyl-1,2,3,4-tetrahydroisoquinolin-7-ol ",Octocrylene,1
@@ -1143,8 +1054,6 @@ n1,n2,edge_dir
 "6,8-Dioxapentadecane",p-Toluic acid,1
 "6,8-Dioxapentadecane",Tartronic acid,1
 "6,8-Dioxapentadecane",Triethanolamine,1
-9-Hexadecenoic acid,"Benzene, 1-acetoxy-2,6-dimethoxy-4-(2-propenyl)-",-1
-9-Hexadecenoic acid,Desmosterol,1
 9-Octadecenamide,"9,12-Octadecadienoic acid",1
 9-Octadecenamide,Ketamine ,-1
 9-Octadecenoic acid,(pm)-alpha-Tocopherol acetate,1
@@ -1178,14 +1087,9 @@ n1,n2,edge_dir
 "9H-Purine, 9-(trimethylsilyl)-2,6,8-tris[(trimethylsilyl)oxy]-",Glyceric acid,1
 "Acetamide, 2,2,2-trifluoro-","1,3-bis[(Trimethylsilyl)ethynyl]benzene",1
 "Acetamide, 2,2,2-trifluoro-",4-Cumylphenol,1
-"Acetamide, 2,2,2-trifluoro-",5-(2-Aminopropyl)-2-methylphenol,1
-"Acetamide, 2,2,2-trifluoro-",Glucose,-1
 "Acetamide, 2,2,2-trifluoro-",Latanoprost lactone diol,-1
-"Acetamide, 2,2,2-trifluoro-",Naphthofluorescein,-1
 "Acetamide, 2,2,2-trifluoro-",S-Methyl-L-cysteine,1
 "Acetic acid, bis[(trimethylsilyl)oxyl]-","(S,S)-(-)-Hydrobenzoin",-1
-"Acetic acid, bis[(trimethylsilyl)oxyl]-",Hexanoic acid,1
-"Acetic acid, bis[(trimethylsilyl)oxyl]-",Myristic acid,1
 Acetoacetic acid,"(R*,S*)-2,3-Dihydroxybutanoic acid",1
 Acetoacetic acid,7-(Trimethylsilyl)amino-4-methylcoumarin,1
 Acetoacetic acid,Aceturic acid,1
@@ -1222,10 +1126,8 @@ Allylescaline ,Benzophenone,1
 Allylescaline ,L-Aspartic acid,1
 "alpha-L-Galactopyranoside, methyl 6-deoxy-, (R,R,R,S,S)-",Mirin,1
 alpha-Linolenic acid,"Aziridine, 1-(2-buten-2-yl)-",-1
-alpha-Linolenic acid,"Benzene, 1-acetoxy-2,6-dimethoxy-4-(2-propenyl)-",-1
 alpha-Linolenic acid,"Benzoic acid, methyl ester",1
 alpha-Linolenic acid,Citric acid,1
-alpha-Linolenic acid,Hydracrylic acid,1
 "Arabinofuranose, 1,2,3,5-tetrakis-O-","2-Propanone, bis(1-methylethyl)hydrazone",1
 "Arabinofuranose, 1,2,3,5-tetrakis-O-","Acetohydrazide, 2-(2-isopropyl-5-methylphenoxy)-N2-benzylideno-",1
 "Arabinofuranose, 1,2,3,5-tetrakis-O-",N-Acetyl-L-glutamic acid,1
@@ -1240,7 +1142,6 @@ Arachidonic acid,L-Threitol,1
 Arachidonic acid,Myristic acid,1
 Arachidonic acid,N-Methyl-N-(tetrahydro-2-furanylmethyl)-4-piperidinamine,1
 Arsenous acid,"Benzene, 1,3-bis(1,1-dimethylethyl)-",1
-Arsenous acid,"Pentenoic acid, 4-[(trimethylsilyl)oxy]-",1
 Aspartic acid,Pyrrole-2-carboxylic acid,-1
 Azatadine,1-(4-Hydroxybenzylidene)acetone,1
 Azatadine,3-Amino-5-morpholinomethyl-2-oxazolidinone,1
@@ -1250,7 +1151,6 @@ Azatadine,L-Threitol,1
 Azatadine,Metanephrine,1
 Azatadine,N-Methyl-N-(tetrahydro-2-furanylmethyl)-4-piperidinamine,1
 Azatadine,Sertraline carbamoyl glucuronide,1
-"Aziridine, 1-(2-buten-2-yl)-",D-(-)-Citramalic acid,-1
 "Aziridine, 1-(2-buten-2-yl)-",Ornithine,1
 "Benzaldehyde, 2,5-dimethyl-",1-Phenylethanol,-1
 "Benzaldehyde, 2,5-dimethyl-",1-Tetradecanol,1
@@ -1270,7 +1170,6 @@ Azatadine,Sertraline carbamoyl glucuronide,1
 "Benzaldehyde, 2,5-dimethyl-",Dihydrouracil,1
 "Benzaldehyde, 2,5-dimethyl-",Dinoseb ,1
 "Benzaldehyde, 2,5-dimethyl-",Diphenyl ether,1
-"Benzaldehyde, 2,5-dimethyl-",Doconexent,1
 "Benzaldehyde, 2,5-dimethyl-","Dodecanoic acid, 1-methylethyl ester",1
 "Benzaldehyde, 2,5-dimethyl-",Dodecylcyclohexane,1
 "Benzaldehyde, 2,5-dimethyl-","Furan, 2-pentyl-",1
@@ -1286,40 +1185,31 @@ Azatadine,Sertraline carbamoyl glucuronide,1
 "Benzaldehyde, 2,5-dimethyl-",Niclosamide,1
 "Benzaldehyde, 2,5-dimethyl-",Nonadecanoic acid,1
 "Benzaldehyde, 2,5-dimethyl-",Nonanal,1
-"Benzaldehyde, 2,5-dimethyl-","Octane, 1-propoxy-",1
 "Benzaldehyde, 2,5-dimethyl-",p-Toluic acid,1
 "Benzaldehyde, 2,5-dimethyl-",Phlorizin,1
 "Benzaldehyde, 2,5-dimethyl-",Pimelic acid,1
 "Benzaldehyde, 2,5-dimethyl-","Propanetriol, 2-methyl-",1
-"Benzaldehyde, 2,5-dimethyl-","Propanoic acid, 2-methyl-",1
 "Benzaldehyde, 2,5-dimethyl-",Propylamine,1
 "Benzaldehyde, 2,5-dimethyl-","Pyrimidine, 5-methyl-2,4-bis[(trimethylsilyl)oxy]-",1
 "Benzaldehyde, 2,5-dimethyl-",Quazodine,-1
 "Benzaldehyde, 2,5-dimethyl-",S-Methyl-L-cysteine,1
 "Benzaldehyde, 2,5-dimethyl-",Salsoline,1
-"Benzaldehyde, 2,5-dimethyl-",Ser-Leu,1
 "Benzaldehyde, 2,5-dimethyl-","Stigmast-5-ene, 3beta-",1
 "Benzaldehyde, 2,5-dimethyl-",Suberic acid,1
 "Benzaldehyde, 2,5-dimethyl-",Tartronic acid,1
 "Benzaldehyde, 2,5-dimethyl-",Triethanolamine,1
 "Benzaldehyde, 2,5-dimethyl-",Uridine,1
 "Benzene, 1-acetoxy-2,6-dimethoxy-4-(2-propenyl)-","Cyclopentaneacetic acid, 3-oxo-2-pentyl-",-1
-"Benzene, 1-acetoxy-2,6-dimethoxy-4-(2-propenyl)-",Dehydronorketamine,1
 "Benzene, 1-acetoxy-2,6-dimethoxy-4-(2-propenyl)-","Dodecanamide, N-(2-hydroxyethyl)-",1
 "Benzene, 1-acetoxy-2,6-dimethoxy-4-(2-propenyl)-",Galactopyranose,1
 "Benzene, 1-acetoxy-2,6-dimethoxy-4-(2-propenyl)-",Isonicotinic Acid,1
 "Benzene, 1-acetoxy-2,6-dimethoxy-4-(2-propenyl)-",L-Threitol,-1
-"Benzene, 1-acetoxy-2,6-dimethoxy-4-(2-propenyl)-",Malic acid,-1
 "Benzene, 1-acetoxy-2,6-dimethoxy-4-(2-propenyl)-",Phenylalanine,-1
 "Benzene, 1-acetoxy-2,6-dimethoxy-4-(2-propenyl)-",Triethanolamine,-1
 "Benzene, 1-acetoxy-2,6-dimethoxy-4-(2-propenyl)-",Uridine,-1
 "Benzene, 4-ethenyl-1,2-dimethoxy-","Acetohydrazide, 2-(2-isopropyl-5-methylphenoxy)-N2-benzylideno-",1
 "Benzene, 4-ethenyl-1,2-dimethoxy-",D-Ribose,1
 "Benzene, 4-ethenyl-1,2-dimethoxy-","Trimethylsilyl (5-benzyl-3,6-dioxopiperazin-2-yl)acetate",1
-"Benzenemethanamine, 2,3-dimethoxy-","Furan, 2-pentyl-",1
-"Benzenemethanamine, 2,3-dimethoxy-","Glycine, N-(N-DL-leucylglycyl)-",1
-"Benzenemethanamine, 2,3-dimethoxy-","N,N-Diethyl-2-aminoethanol",1
-"Benzenemethanamine, 2,3-dimethoxy-",Phenoxyacetic acid,1
 "Benzimidazole, 5-trifluoromethyl-2-methyl-",(pm)-alpha-Tocopherol acetate,1
 "Benzimidazole, 5-trifluoromethyl-2-methyl-",1-(4-Hydroxybenzylidene)acetone,1
 "Benzimidazole, 5-trifluoromethyl-2-methyl-",1-Octanol,1
@@ -1361,8 +1251,6 @@ Azatadine,Sertraline carbamoyl glucuronide,1
 "Benzo[b]fluorene, 5-amino-7-methyl-1,2,3,4,6,7,8,9-octahydro-11-thia-10-aza-",L-5-Oxoproline,1
 "Benzo[b]fluorene, 5-amino-7-methyl-1,2,3,4,6,7,8,9-octahydro-11-thia-10-aza-",Methyl isovanillate,1
 "Benzoic acid, methyl ester",Citric acid,1
-"Benzoic acid, methyl ester","Erythrono-1,4-lactone, (Z)-",1
-"Benzoic acid, methyl ester","Pyrimidine, 5-methyl-2,4-bis[(trimethylsilyl)oxy]-",1
 "Benzoic acid, pentadecyl ester",(pm)-alpha-Tocopherol acetate,1
 "Benzoic acid, pentadecyl ester","(R*,S*)-2,3-Dihydroxybutanoic acid",1
 "Benzoic acid, pentadecyl ester",1-Octanol,1
@@ -1387,7 +1275,6 @@ Benzophenone,5-Hydroxytryptophan,1
 Benzophenone,alpha-Tocopherol,1
 Benzophenone,Arabinaric acid,1
 Benzophenone,Butylmethylamine,1
-Benzophenone,"Cholest-7-en-3-ol, (3beta,5alpha)-",1
 Benzophenone,Cyclohexanol,1
 Benzophenone,Dinoseb ,1
 Benzophenone,Diphenyl ether,1
@@ -1404,7 +1291,6 @@ Benzophenone,Phenoxyacetic acid,1
 Benzophenone,Phlorizin,1
 Benzophenone,Phloroglucinol,1
 Benzophenone,"Propanetriol, 2-methyl-",1
-Benzophenone,"Propanoic acid, 2-methyl-",1
 Benzophenone,Salsoline,1
 Benzophenone,"Stigmast-5-ene, 3beta-",1
 Benzophenone,"Thymine, 1,3-dimethyl-6-(trimethylsilyloxymethyl)-",1
@@ -1432,7 +1318,6 @@ beta-Lyxopyranose,Tartronic acid,1
 "Butanoic acid, 2,4-bis[(trimethylsilyl)oxy]-","2-Propanone, bis(1-methylethyl)hydrazone",1
 "Butanoic acid, 2,4-bis[(trimethylsilyl)oxy]-", 5-Hydroxyhexanoic acid,1
 "Butanoic acid, 2,4-bis[(trimethylsilyl)oxy]-",Cadaverine,1
-"Butanoic acid, 2,4-bis[(trimethylsilyl)oxy]-",Carfentrazone-ethyl,1
 "Butanoic acid, 2,4-bis[(trimethylsilyl)oxy]-","Cyclopentaneacetic acid, 3-oxo-2-pentyl-",1
 "Butanoic acid, 2,4-bis[(trimethylsilyl)oxy]-","Cyclopentanone, 2,2,4-trimethyl-",1
 "Butanoic acid, 2,4-bis[(trimethylsilyl)oxy]-",D-Fructose,1
@@ -1443,7 +1328,6 @@ beta-Lyxopyranose,Tartronic acid,1
 "Butanoic acid, 2,4-bis[(trimethylsilyl)oxy]-",Isofucosterol,1
 "Butanoic acid, 2,4-bis[(trimethylsilyl)oxy]-",Itaconic acid,1
 "Butanoic acid, 2,4-bis[(trimethylsilyl)oxy]-",Metanephrine,1
-"Butanoic acid, 2,4-bis[(trimethylsilyl)oxy]-",N-(Trimethylsilyl)hexanamide,-1
 "Butanoic acid, 2,4-bis[(trimethylsilyl)oxy]-",N-Methyl-N-(tetrahydro-2-furanylmethyl)-4-piperidinamine,1
 "Butanoic acid, 2,4-bis[(trimethylsilyl)oxy]-","Propanetriol, 2-methyl-",1
 "Butanoic acid, 2,4-bis[(trimethylsilyl)oxy]-",Tartronic acid,1
@@ -1464,11 +1348,9 @@ Butylmethylamine,"Propanetriol, 2-methyl-",1
 Butylmethylamine,Salsoline,1
 Butylmethylamine,"Stigmast-5-ene, 3beta-",1
 Cadaverine,"3,4-dimethyl-5-(3,4-methylenedioxy)phenyloxazolidine",-1
-Cadaverine,"Cholest-7-en-3-ol, (3beta,5alpha)-",1
 Cadaverine,"Cholesta-3,5-dien-7-one",1
 Cadaverine,DL-Glyceraldehyde,1
 Cadaverine,Isoxaben,1
-Cadaverine,Latanoprost lactone diol,1
 Cadaverine,Methyl aminoacetate,1
 Cadaverine,Methyl-3-methoxy-5-methyl benzoate,1
 Cadaverine,Nonadecanoic acid,1
@@ -1478,22 +1360,9 @@ Cadaverine,"Stigmast-5-ene, 3beta-",1
 Cadaverine,Tartronic acid,1
 Campesterol,5-Hydroxytryptophan,1
 Campesterol,Arabinaric acid,1
-Campesterol,"Butanal, 2,3,4-tris[(trimethylsilyl)oxy]-, O-methyloxime, [R-(R*,R*)]-",-1
 Campesterol,Phlorizin,1
 Campesterol,"Stigmast-5-ene, 3beta-",1
-Carfentrazone-ethyl,cis-4-Trimethylsilyloxy-cyclohexyl(trimethylsilyl)carboxylate,1
-Carfentrazone-ethyl,Cyclobutanol,1
-Carfentrazone-ethyl,Deoxycholic Acid,1
-Carfentrazone-ethyl,Glyceric acid,1
-Carfentrazone-ethyl,Methyl-3-methoxy-5-methyl benzoate,1
-Carfentrazone-ethyl,Propylamine,1
-Carfentrazone-ethyl,Tartronic acid,1
-Carfentrazone-ethyl,Triethanolamine,1
-"Cholest-7-en-3-ol, (3beta,5alpha)-",DL-Glyceraldehyde,1
-"Cholest-7-en-3-ol, (3beta,5alpha)-",Nonadecanoic acid,1
-"Cholest-7-en-3-ol, (3beta,5alpha)-","Pentanedioic acid, 3-methyl-3-[(trimethylsilyl)oxy]-",1
 "Cholest-7-en-3-ol, (3beta,5alpha)-","Pregn-16-en-20-one, 3,18-bis(acetyloxy)-14,15-epoxy-, (3beta,5alpha,14beta,15beta)-",-1
-"Cholest-7-en-3-ol, (3beta,5alpha)-","Stigmast-5-ene, 3beta-",1
 "Cholesta-3,5-dien-7-one",Triethanolamine,1
 cis-4-Trimethylsilyloxy-cyclohexyl(trimethylsilyl)carboxylate,5-(2-Aminopropyl)-2-methylphenol,-1
 cis-4-Trimethylsilyloxy-cyclohexyl(trimethylsilyl)carboxylate,"5-Androsten-17alpha-methyl-3beta,17beta-diol",1
@@ -1507,16 +1376,12 @@ cis-4-Trimethylsilyloxy-cyclohexyl(trimethylsilyl)carboxylate,"N-(Trifluoroacety
 cis-4-Trimethylsilyloxy-cyclohexyl(trimethylsilyl)carboxylate,"Propanetriol, 2-methyl-",1
 cis-4-Trimethylsilyloxy-cyclohexyl(trimethylsilyl)carboxylate,Propylamine,1
 cis-4-Trimethylsilyloxy-cyclohexyl(trimethylsilyl)carboxylate,Tartronic acid,1
-Cyclo-(l-leucyl-l-phenylalanyl) ,DL-Glyceraldehyde,1
-Cyclo-(l-leucyl-l-phenylalanyl) ,"Pentanedioic acid, 3-methyl-3-[(trimethylsilyl)oxy]-",1
-Cyclo-(l-leucyl-l-phenylalanyl) ,Ribitol,1
 cyclobutanecarboxylic acid,5-Hydroxytryptophan,1
 cyclobutanecarboxylic acid,"5alpha-Pregnane-3,20-dione",1
 Cyclobutanol, 5-Hydroxyhexanoic acid,1
 Cyclobutanol,"Ethanone, 1-(2,5-dimethoxyphenyl)-",1
 Cyclobutanol,Glyoxime,1
 Cyclobutanol,Nonadecanoic acid,1
-Cyclobutanol,"Octane, 1-propoxy-",1
 Cyclohexanol,(pm)-alpha-Tocopherol acetate,1
 Cyclohexanol,"(R*,S*)-2,3-Dihydroxybutanoic acid",1
 Cyclohexanol,1-(4-Hydroxybenzylidene)acetone,1
@@ -1604,9 +1469,7 @@ D-Fructose,Xylose,1
 "D-Isoleucine, N-acetyl-","Pyrimidine, 5-methyl-2,4-bis[(trimethylsilyl)oxy]-",1
 D-Mannose,Phlorizin,1
 Decanoic acid,(pm)-Phenylpropanolamine,1
-Decanoic acid,Dodecylcyclohexane,1
 Decanoic acid,Lactic Acid,1
-Decanoic acid,Myristic acid,1
 Decanoic acid,Octanoic acid,1
 Dehydronorketamine,"1,3-Dioxane-4-methanol, 4,5-dimethyl-",1
 Deoxycholic Acid,1-Phenylethanol,-1
@@ -1628,7 +1491,6 @@ Dihydrouracil,Benzeneacetic acid,1
 Dihydrouracil,Glycolic acid,1
 Dihydrouracil,Hydracrylic acid,1
 Dihydrouracil,L-Asparagine,1
-Dihydrouracil,Malic acid,1
 Dihydrouracil,Ornithine,1
 Dihydrouracil,Phenylalanine,1
 Dihydrouracil,Propylamine,1
@@ -1654,7 +1516,6 @@ Dinoseb ,Methyl aminoacetate,1
 Dinoseb ,Niclosamide,1
 Dinoseb ,Nonadecanoic acid,1
 Dinoseb ,Nonanal,1
-Dinoseb ,"Octane, 1-propoxy-",1
 Dinoseb ,"Pentenoic acid, 4-[(trimethylsilyl)oxy]-",1
 Dinoseb ,Phenoxyacetic acid,1
 Dinoseb ,"Propanetriol, 2-methyl-",1
@@ -1685,10 +1546,6 @@ DL-Glyceraldehyde,Tartronic acid,1
 DL-Glyceraldehyde,"Thymine, 1,3-dimethyl-6-(trimethylsilyloxymethyl)-",1
 DL-Glyceraldehyde,Triethanolamine,1
 DL-Glyceraldehyde,"Trimethylsilyl (5-benzyl-3,6-dioxopiperazin-2-yl)acetate",1
-Doconexent,Glycine,1
-Doconexent,Heptadecanoic acid,1
-Doconexent,"L-Tryptophan, N-acetyl-1",1
-Doconexent,Niclosamide,1
 "Dodecane, 4,6-dimethyl-","2-Hexenoic acid, 2-[(trimethylsilyl)oxy]-",1
 "Dodecane, 4,6-dimethyl-","Butanal, 2,3,4-tris[(trimethylsilyl)oxy]-, O-methyloxime, [R-(R*,R*)]-",1
 "Dodecane, 4,6-dimethyl-",Methylmalonic monoamide,1
@@ -1739,18 +1596,15 @@ Glycine,Nonadecanoic acid,1
 Glycine,Pimelic acid,1
 Glycine,"Propanetriol, 2-methyl-",1
 Glycine,Salsoline,1
-"Glycine, N-(1-oxobutyl)-",Malic acid,1
 "Glycine, N-(1-oxobutyl)-",N-Valerylglycine,1
 "Glycine, N-(1-oxobutyl)-",Uracil,1
 "Glycine, N-(N-DL-leucylglycyl)-",7-(Trimethylsilyl)amino-4-methylcoumarin,1
 "Glycine, N-(N-DL-leucylglycyl)-",alpha-Tocopherol,1
 "Glycine, N-(N-DL-leucylglycyl)-",Hexanoic acid,1
-"Glycine, N-(N-DL-leucylglycyl)-","Octane, 1-propoxy-",1
 "Glycine, N-(N-DL-leucylglycyl)-",Phlorizin,1
 "Glycine, N-[4-[(trimethylsilyl)oxy]benzoyl]-",Isoxaben,1
 Glycolic acid,"2-Propanone, bis(1-methylethyl)hydrazone",1
 Glycolic acid,Hydracrylic acid,1
-Glycolic acid,Malic acid,1
 Glycolic acid,Phenylalanine,1
 Glycolic acid,Uridine,1
 Glyoxime,(pm)-alpha-Tocopherol acetate,1
@@ -1759,8 +1613,6 @@ Glyoxime,4-Cumylphenol,1
 Glyoxime,"Acetohydrazide, 2-(2-isopropyl-5-methylphenoxy)-N2-benzylideno-",1
 Glyoxime,"beta-d-Fructopyranose, 1-deoxy-1-(4-morpholinyl)-2,3,4,5-tetrakis-O-(trimethylsilyl)-",1
 Glyoxime,Octopamine,-1
-Glyoxime,"Propanoic acid, 2-methyl-",1
-Glyoxime,Ser-Leu,1
 Guanabenz,5-(2-Aminopropyl)-2-methylphenol,-1
 Heptadecanoic acid,3'-Hydroxyacetophenone,1
 Heptadecanoic acid,Hexanoic acid,1
@@ -1786,7 +1638,6 @@ Hydroquinidine,DL-Phenylalanine,1
 Hydroquinidine,L-5-Oxoproline,1
 Hydroquinidine,Uridine,1
 Hydroquinone,3-Indolepropionic acid,-1
-Hydroquinone,Indole-5-carboxylic acid,1
 Indole-3-lactic acid,3-Indolepropionic acid,1
 Indole-3-lactic acid,alpha-Tocopherol,1
 Indole-3-lactic acid,Arabinaric acid,1
@@ -1814,7 +1665,6 @@ Indole-5-carboxylic acid,"Trimethylsilyl (5-benzyl-3,6-dioxopiperazin-2-yl)aceta
 "Inosose-2, 1,3,4,5,6-pentakis-",Cholesterol,1
 "Inosose-2, 1,3,4,5,6-pentakis-",Hexanedioic acid,1
 "Inosose-2, 1,3,4,5,6-pentakis-",L-Aspartic acid,1
-"Inosose-2, 1,3,4,5,6-pentakis-",Trisaminol,1
 Isofucosterol,(pm)-alpha-Tocopherol acetate,1
 Isofucosterol,"(R*,S*)-2,3-Dihydroxybutanoic acid",1
 Isofucosterol,1-(4-Hydroxybenzylidene)acetone,1
@@ -1843,7 +1693,6 @@ Isofucosterol,Salsoline,1
 Isofucosterol,"Stigmast-5-ene, 3beta-",1
 Isofucosterol,Triethanolamine,1
 Isofucosterol,L-Tyrosine,1
-Isonicotinic Acid,"Pentanedioic acid, 2-[(trimethylsilyl)oxy]-",-1
 Isopropyl palmitate,(pm)-alpha-Tocopherol acetate,1
 Isopropyl palmitate,1-(4-Hydroxybenzylidene)acetone,1
 Isopropyl palmitate,"2-Amino-4,6-dihydroxypyrimidine",-1
@@ -1879,11 +1728,9 @@ L-Aspartic acid,Ornithine,1
 L-Hydroxyproline,Dimethyl fumarate,1
 L-Hydroxyproline,Metanephrine,1
 L-Isoleucine,Eicosapentaenoic acid,1
-L-Lysine,1-Phenylethanol,1
 L-Lysine,Stearic acid,1
 L-Tryptophan,Delorazepam,1
 L-Tryptophan,"Tacrine, N-trimethylsilyl-",1
-Latanoprost lactone diol,"N-isobutyl-2-(trimethylsilyloxy]-4,5-dihydro-1H-imidazole-1-carboxamide",1
 Latanoprost lactone diol,"O-Methyl-N,N'-diisopropylisourea ",1
 Levulinic acid,1-Octanol,1
 Levulinic acid,"2-Propanone, bis(1-methylethyl)hydrazone",1
@@ -1897,7 +1744,6 @@ Levulinic acid,Nonanal,1
 Levulinic acid,Phlorizin,1
 Levulinic acid,Pimelic acid,1
 Levulinic acid,"Propanetriol, 2-methyl-",1
-Malic acid,Phenylalanine,1
 Methyl aminoacetate,(pm)-alpha-Tocopherol acetate,1
 Methyl aminoacetate,1-(4-Hydroxybenzylidene)acetone,1
 Methyl aminoacetate,1-Monoacetin,1
@@ -1943,7 +1789,6 @@ Myristic acid,3-Amino-5-morpholinomethyl-2-oxazolidinone,1
 Myristic acid,"Acetamide, N,N-diethyl-",1
 Myristic acid,Dodecanoic acid,1
 Myristic acid,Eicosapentaenoic acid,1
-Myristic acid,Octanoic acid,1
 Myristic acid,Pentadecanoic acid,1
 Myristic acid,L-Tyrosine,1
 "N-(Trifluoroacetyl)-N,O,O'-tris(trimethylsilyl)normetanephrine",(pm)-alpha-Tocopherol acetate,1
@@ -1954,7 +1799,6 @@ Myristic acid,L-Tyrosine,1
 N-(Trimethylsilyl)hexanamide,5-Ethyluracil,1
 N-(Trimethylsilyl)hexanamide,"Tacrine, N-trimethylsilyl-",1
 N-Acetyltyrosine,N-Valerylglycine,1
-"N-isobutyl-2-(trimethylsilyloxy]-4,5-dihydro-1H-imidazole-1-carboxamide",Xylitol,1
 N-Isovaleroylglycine,1-(4-Hydroxybenzylidene)acetone,1
 N-Isovaleroylglycine,5-Aminovaleric acid,-1
 N-Isovaleroylglycine,"beta-d-Fructopyranose, 1-deoxy-1-(4-morpholinyl)-2,3,4,5-tetrakis-O-(trimethylsilyl)-",1
@@ -1979,7 +1823,6 @@ N-Valerylglycine,"(2S,3R)-3-[(4E,7E)-Nona-4,7-dienoyl]-N,N-bis(trimethylsilyl)ox
 "N,N-Diethyl-2-aminoethanol","1,3-bis[(Trimethylsilyl)ethynyl]benzene",1
 "N,N-Diethyl-2-aminoethanol","2-Hexenoic acid, 2-[(trimethylsilyl)oxy]-",1
 "N,N-Diethyl-2-aminoethanol","5alpha-Pregnane-3,20-dione",1
-"N,N-Diethyl-2-aminoethanol","Octane, 1-propoxy-",1
 "N,N-Diethyl-2-aminoethanol",Phenoxyacetic acid,1
 "N,N-Diethyl-2-aminoethanol",S-Methyl-L-cysteine,1
 "N,N-Dimethyl-2-cyclohexyloxyethylamine",3'-Hydroxyacetophenone,1
@@ -1996,7 +1839,6 @@ Neostigmine ,Nonadecanoic acid,1
 Neostigmine ,Phloroglucinol,1
 Neostigmine ,Pimelic acid,1
 Neostigmine ,"Propanetriol, 2-methyl-",1
-Neostigmine ,"Propanoic acid, 2-methyl-",1
 Neostigmine ,Propylamine,1
 Neostigmine ,S-Methyl-L-cysteine,1
 Neostigmine ,Suberic acid,1
@@ -2015,7 +1857,6 @@ Niclosamide,Phlorizin,1
 Niclosamide,Phloroglucinol,1
 Niclosamide,Pimelic acid,1
 Niclosamide,"Propanetriol, 2-methyl-",1
-Niclosamide,"Propanoic acid, 2-methyl-",1
 Niclosamide,Salsoline,1
 Niclosamide,L-Tyrosine,1
 Nitrosothymol,"2-Hexenoic acid, 2-[(trimethylsilyl)oxy]-",1
@@ -2103,7 +1944,6 @@ Phenoxyacetic acid,Trimethylsilyl oct-2-enoate ,1
 Phenylalanine,Uridine,1
 Phenylalanine,Xylose,1
 Phosalone,"Butanal, 2,3,4-tris[(trimethylsilyl)oxy]-, O-methyloxime, [R-(R*,R*)]-",-1
-Phosalone,"Propiophenone, 3',4'-dimethoxy-",-1
 Pimelic acid,(pm)-alpha-Tocopherol acetate,1
 Pimelic acid,1-Monoacetin,1
 Pimelic acid,1-Phenylethanol,-1
@@ -2195,7 +2035,6 @@ Trisaminol,"Pentanedioic acid, 2-[(trimethylsilyl)oxy]-",1
 Uridine,1-Phenylethanol,-1
 Uridine,3-Hydroxybutyric acid,1
 Uridine,Xylose,1
-"(2S,3R)-3-[(4E,7E)-Nona-4,7-dienoyl]-N,N-bis(trimethylsilyl)oxirane-2-carboxamide ",3-Amino-5-morpholinomethyl-2-oxazolidinone,-1
 3-Amino-5-morpholinomethyl-2-oxazolidinone,1-(4-Hydroxybenzylidene)acetone,1
 3-Amino-5-morpholinomethyl-2-oxazolidinone,1-Octanol,1
 3-Amino-5-morpholinomethyl-2-oxazolidinone,"Acetamide, N,N-diethyl-",1
@@ -2203,11 +2042,9 @@ Uridine,Xylose,1
 3-Amino-5-morpholinomethyl-2-oxazolidinone,L-Tyrosine,1
 (pm)-alpha-Tocopherol acetate,"(R*,S*)-2,3-Dihydroxybutanoic acid",1
 (pm)-alpha-Tocopherol acetate,2-Naphthol,1
-(pm)-alpha-Tocopherol acetate,4-Hydroxybenzaldehyde,1
 (pm)-alpha-Tocopherol acetate,5-Hydroxytryptophan,1
 (pm)-alpha-Tocopherol acetate,Benzeneacetic acid,1
 (pm)-alpha-Tocopherol acetate, 5-Hydroxyhexanoic acid,1
-(pm)-alpha-Tocopherol acetate,Citric acid,1
 (pm)-alpha-Tocopherol acetate,Diphenyl ether,1
 (pm)-alpha-Tocopherol acetate,Hexanedioic acid,1
 (pm)-alpha-Tocopherol acetate,Itaconic acid,1
@@ -2232,16 +2069,13 @@ Uridine,Xylose,1
 "2-Hexenoic acid, 2-[(trimethylsilyl)oxy]-",Salsoline,1
 2-Hydroxy-2-methylbutyric acid,Albizziin,1
 "2-Propanone, bis(1-methylethyl)hydrazone",2-Naphthol,1
-"2-Propanone, bis(1-methylethyl)hydrazone",3-Indolepropionic acid,-1
 "2-Propanone, bis(1-methylethyl)hydrazone",5-Hydroxytryptophan,1
-"2-Propanone, bis(1-methylethyl)hydrazone","9,12-Octadecadienoic acid",-1
 "2-Propanone, bis(1-methylethyl)hydrazone",alpha-Tocopherol,1
 "2-Propanone, bis(1-methylethyl)hydrazone",Cholesterol,1
 "2-Propanone, bis(1-methylethyl)hydrazone",Diphenyl ether,1
 "2-Propanone, bis(1-methylethyl)hydrazone",Dodecanoic acid,1
 "2-Propanone, bis(1-methylethyl)hydrazone",N-Acetyl-L-glutamic acid,1
 "2-Propanone, bis(1-methylethyl)hydrazone",p-Hydroxydiisopropylbenzene,1
-"2-Propanone, bis(1-methylethyl)hydrazone","Phenol, 3,5-bis(1,1-dimethylethyl)-",1
 "2-Propanone, bis(1-methylethyl)hydrazone",Phloroglucinol,1
 alpha-Tocopherol,1-(4-Hydroxybenzylidene)acetone,1
 alpha-Tocopherol,5-(2-Aminopropyl)-2-methylphenol,-1
@@ -2286,15 +2120,12 @@ Phloroglucinol,"Trimethylsilyl (5-benzyl-3,6-dioxopiperazin-2-yl)acetate",1
 2-Naphthol,1-(4-Hydroxybenzylidene)acetone,1
 2-Naphthol,Phlorizin,1
 Dodecanoic acid,5-Ethyluracil,1
-Dodecanoic acid,"Benzene, 1,3-bis(1,1-dimethylethyl)-",1
-Dodecanoic acid,Boric acid,1
 Dodecanoic acid,Phlorizin,1
 Dodecanoic acid,L-Tyrosine,1
 Eicosapentaenoic acid,"Acetamide, N,N-diethyl-",1
 Eicosapentaenoic acid,"D-Erythro-Pentofuranose, 2-deoxy-1,3-bis-O-",1
 Phlorizin,"1,3-bis[(Trimethylsilyl)ethynyl]benzene",1
 Phlorizin,5-Hydroxytryptophan,1
-Phlorizin,"Benzene, 1,3-bis(1,1-dimethylethyl)-",1
 Phlorizin,Salsoline,1
 Phlorizin,Trimethylsilyl oct-2-enoate ,1
 4-Hydroxybenzaldehyde,2-Pyrrolidinone,1
@@ -2305,7 +2136,6 @@ Benzeneacetic acid,5-(2-Aminopropyl)-2-methylphenol,-1
 Benzeneacetic acid,"5-Androsten-17alpha-methyl-3beta,17beta-diol",1
 Benzeneacetic acid,7-(Trimethylsilyl)amino-4-methylcoumarin,1
 Benzeneacetic acid,"Ethanamine, N,N-diethyl-2,2-dimethyl-2-[(3,5-dimethoxy)phenyl]-",1
-Citric acid,1-Tetradecanol,1
 Hexanedioic acid,"Acetohydrazide, 2-(2-isopropyl-5-methylphenoxy)-N2-benzylideno-",1
 Itaconic acid,1-Phenylethanol,-1
 Itaconic acid,Arabinaric acid,1
@@ -2323,27 +2153,20 @@ L-Leucine,Phthalazin-1-one,-1
 Naphthofluorescein,Delorazepam,1
 Naphthofluorescein,Glucose,1
 (pm)-Phenylpropanolamine,3-Indolepropionic acid,-1
-(pm)-Phenylpropanolamine,Vanillylmandelic acid,1
 3-Indolepropionic acid,S-Methyl-L-cysteine,1
 Vanillylmandelic acid,DL-Ornithine,1
 "1,3-Cyclohexanebis(methylamine)",DL-Phenylalanine,1
 1-(4-Hydroxybenzylidene)acetone,"1,3-bis[(Trimethylsilyl)ethynyl]benzene",1
 1-(4-Hydroxybenzylidene)acetone,4-Hydroxy-5-(hydroxymethyl)oxolan-2-one,-1
-1-(4-Hydroxybenzylidene)acetone,D-Threitol,1
 1-(4-Hydroxybenzylidene)acetone,L-Threitol,1
 1-(4-Hydroxybenzylidene)acetone,S-Methyl-L-cysteine,1
 4-Hydroxy-5-(hydroxymethyl)oxolan-2-one,Cyclo(L-prolyl-L-valine) ,-1
-D-Threitol,12-Hydroxyoctadecanoic acid,1
 S-Methyl-L-cysteine,1-Tetradecanol,1
 S-Methyl-L-cysteine,4-Cumylphenol,1
 3'-Hydroxyacetophenone,"Methyl (3,4-dimethoxyphenyl)(hydroxy)acetate",1
-3'-Hydroxyacetophenone,Niacin,1
-3'-Hydroxyacetophenone,Niacinamide,1
 L-Glutamic acid,Cholesterol,1
-L-Glutamic acid,"Pentanedioic acid, 2-[(trimethylsilyl)oxy]-",1
 1-Octanol,"Acetohydrazide, 2-(2-isopropyl-5-methylphenoxy)-N2-benzylideno-",1
 1-Octanol,"beta-d-Fructopyranose, 1-deoxy-1-(4-morpholinyl)-2,3,4,5-tetrakis-O-(trimethylsilyl)-",1
-1-Octanol,Boric acid,1
 "Butanal, 2,3,4-tris[(trimethylsilyl)oxy]-, O-methyloxime, [R-(R*,R*)]-","DL-Proline, 5-oxo-",1
 "2-Amino-4,6-dihydroxypyrimidine",12-Hydroxyoctadecanoic acid,-1
 1-Phenylethanol,3-Hydroxybutyric acid,-1
@@ -2351,14 +2174,11 @@ L-Glutamic acid,"Pentanedioic acid, 2-[(trimethylsilyl)oxy]-",1
 1-Tetradecanol,"9,12-Octadecadienoic acid",1
 Bis(trimethylsilyl)acetylene,"Pyrazine, 3,6-dihydro-3,6-dimethyl-",-1
 "Benzene, 1,1'-(1,2-cyclobutanediyl)bis-","7-Acetyl-6-ethyl-1,1,4,4-tetramethyltetralin ",1
-"Benzene, 1,1'-(1,2-cyclobutanediyl)bis-","Pentanedioic acid, 2-[(trimethylsilyl)oxy]-",-1
 Cholesterol,4-Cumylphenol,1
-"Acetohydrazide, 2-(2-isopropyl-5-methylphenoxy)-N2-benzylideno-","9,12-Octadecadienoic acid",-1
 "Acetohydrazide, 2-(2-isopropyl-5-methylphenoxy)-N2-benzylideno-",Ammeline,1
 Trimethylsilyl 3-((trimethylsilyl)thio)propanoate,Arabinaric acid,1
 Trimethylsilyl 3-((trimethylsilyl)thio)propanoate,N-Acetyl-L-glutamic acid,1
 "Methyl (3,4-dimethoxyphenyl)(hydroxy)acetate",5-Aminovaleric acid,-1
-Lactic Acid,5-Aminovaleric acid,-1
 "9,12-Octadecadienoic acid",5-Aminovaleric acid,-1
 4-Cumylphenol,Octopamine,-1
 5-Aminovaleric acid,Palmitelaidic acid,-1
@@ -2367,13 +2187,10 @@ DL-Phenylalanine,DL-Ornithine,1
 "7-Acetyl-6-ethyl-1,1,4,4-tetramethyltetralin ",D-Ribose,-1
 Quazodine,N-Isobutyrylglycine,1
 "2-Acetyl-3-(1-methyl-2-pyrrolyl)-1,4-benzenediol",Norketamine,1
-"2-Acetyl-3-(1-methyl-2-pyrrolyl)-1,4-benzenediol",Trimethylsilyl oct-2-enoate ,1
 Norketamine,Ketamine ,1
 Trimethylsilyl oct-2-enoate ,"D-(-)-Lyxose, tetrakis",1
-2-Hexen-1-ol,"D-(-)-Ribofuranose, tetrakis",1
 2-Hexen-1-ol,D-Ribose,1
 2-Hexen-1-ol,Pyrrole-2-carboxylic acid,1
-Pyrrole-2-carboxylic acid,"Benzene, 1,3-bis(1,1-dimethylethyl)-",1
 5-(2-Aminopropyl)-2-methylphenol,"D-Xylofuranose, 1,2,3,5-tetrakis-O-",-1
 5-(2-Aminopropyl)-2-methylphenol,l-Histidine ethyl ester,-1
 N-Acetyl-L-glutamic acid,6-Hydroxyflavone-beta-D-glucoside,1
@@ -2382,7 +2199,6 @@ N-Acetyl-L-glutamic acid,6-Hydroxyflavone-beta-D-glucoside,1
 Ornithine,Phenylpropanolamine,-1
 "Ethanamine, N,N-diethyl-2,2-dimethyl-2-[(3,5-dimethoxy)phenyl]-",beta-Hydroxypyruvic acid,1
 Cinnamic acid,Octopamine,-1
-Delorazepam,6-Hydroxyflavone-beta-D-glucoside,-1
 (pm)-alpha-Tocopherol acetate,"(7a-Isopropenyl-4,5-dimethyloctahydroinden-4-yl)methanol",1
 "(R*,S*)-2,3-Dihydroxybutanoic acid","(7a-Isopropenyl-4,5-dimethyloctahydroinden-4-yl)methanol",1
 1-Cyclopentylethanol,"(7a-Isopropenyl-4,5-dimethyloctahydroinden-4-yl)methanol",1
@@ -2423,14 +2239,10 @@ Tartronic acid,"(7a-Isopropenyl-4,5-dimethyloctahydroinden-4-yl)methanol",1
 "Thymine, 1,3-dimethyl-6-(trimethylsilyloxymethyl)-","(7a-Isopropenyl-4,5-dimethyloctahydroinden-4-yl)methanol",1
 Triethanolamine,"(7a-Isopropenyl-4,5-dimethyloctahydroinden-4-yl)methanol",1
 "Trimethylsilyl (5-benzyl-3,6-dioxopiperazin-2-yl)acetate","(7a-Isopropenyl-4,5-dimethyloctahydroinden-4-yl)methanol",1
-"1,2-Butadiene, 1,1,4-triphenyl-3-trimethylsilyl-4-trimethylsilyloxy-",(CH3)2C=NC2H558,1
 2-Hydroxy-5-methoxybenzaldehyde,(CH3)2C=NC2H558,1
 "2,5-Cyclohexadiene-1,4-dione, 2,6-bis(1,1-dimethylethyl)-",(CH3)2C=NC2H558,1
-3-Hexenedinitrile,(CH3)2C=NC2H558,1
 4-Methylvaleric acid,(CH3)2C=NC2H558,1
 "Benzoic acid, methyl ester",(CH3)2C=NC2H558,1
-"Benzoic acid, pentadecyl ester",(CH3)2C=NC2H558,1
-Butylated Hydroxytoluene,(CH3)2C=NC2H558,1
 1-(4-Hydroxybenzylidene)acetone,1-(3-Methylphenyl)piperazine,1
 "1,2-Butadiene, 1,1,4-triphenyl-3-trimethylsilyl-4-trimethylsilyloxy-",1-(3-Methylphenyl)piperazine,1
 Benzophenone,1-(3-Methylphenyl)piperazine,1
@@ -2439,14 +2251,11 @@ Phlorizin,1-(3-Methylphenyl)piperazine,1
 "1-Methyl-N,N-bis(trimethylsilyl)-4-[(trimethylsilyl)oxy]-1H-imidazol-2-amine","1-(4-Methoxyphenyl)-4,6-dimethyl-2(1H)-pyrimidinone",1
 "3,4,5-Trihydroxypentanoic acid, tetrakis(trimethylsilyl)-","1-(4-Methoxyphenyl)-4,6-dimethyl-2(1H)-pyrimidinone",1
 3'-Hydroxyacetophenone,"1-(4-Methoxyphenyl)-4,6-dimethyl-2(1H)-pyrimidinone",1
-4-Hydroxybenzaldehyde,"1-(4-Methoxyphenyl)-4,6-dimethyl-2(1H)-pyrimidinone",1
  5-Hydroxyhexanoic acid,"1-(4-Methoxyphenyl)-4,6-dimethyl-2(1H)-pyrimidinone",1
 Isoxaben,"1-(4-Methoxyphenyl)-4,6-dimethyl-2(1H)-pyrimidinone",1
 Itaconic acid,"1-(4-Methoxyphenyl)-4,6-dimethyl-2(1H)-pyrimidinone",1
 L-Asparagine,"1-(4-Methoxyphenyl)-4,6-dimethyl-2(1H)-pyrimidinone",1
 L-Glutamic acid,"1-(4-Methoxyphenyl)-4,6-dimethyl-2(1H)-pyrimidinone",1
-Niacin,"1-(4-Methoxyphenyl)-4,6-dimethyl-2(1H)-pyrimidinone",1
-Niacinamide,"1-(4-Methoxyphenyl)-4,6-dimethyl-2(1H)-pyrimidinone",1
 3-Amino-2-piperidone,1-Aminocyclopropanecarboxylic acid,1
 "3-Cyclohexyl-L-alanine amide, N,N,N'N'-tetramethyl-",1-Aminocyclopropanecarboxylic acid,1
 "3-Methylpiperazine-2,5-dione, (R)-",1-Aminocyclopropanecarboxylic acid,1
@@ -2454,7 +2263,6 @@ Glycine,1-Aminocyclopropanecarboxylic acid,1
 "(R*,S*)-2,3-Dihydroxybutanoic acid","1-Butanamine, N,N-diethyl-",1
 1-Octanol,"1-Butanamine, N,N-diethyl-",1
 "1-Octene, 2-methyl-","1-Butanamine, N,N-diethyl-",1
-"1,2-Benzenedicarboxylic acid","1-Butanamine, N,N-diethyl-",1
 "1,2-Butadiene, 1,1,4-triphenyl-3-trimethylsilyl-4-trimethylsilyloxy-","1-Butanamine, N,N-diethyl-",1
 12-Oxooctadecanoate,"1-Butanamine, N,N-diethyl-",1
 2-Ethyl-3-hydroxypropionic acid,"1-Butanamine, N,N-diethyl-",1
@@ -2463,9 +2271,6 @@ Glycine,1-Aminocyclopropanecarboxylic acid,1
 3-Amino-5-morpholinomethyl-2-oxazolidinone,"1-Butanamine, N,N-diethyl-",1
 3-Hydroxyisovaleric acid,"1-Butanamine, N,N-diethyl-",1
 5-Henicosylresorcinol,"1-Butanamine, N,N-diethyl-",1
-"Acetic acid, bis[(trimethylsilyl)oxyl]-","1-Butanamine, N,N-diethyl-",1
-"Benzenemethanamine, 2,3-dimethoxy-","1-Butanamine, N,N-diethyl-",1
-Benzyl alcohol,"1-Butanamine, N,N-diethyl-",1
 "Butanal, 2,3,4-tris[(trimethylsilyl)oxy]-, O-methyloxime, [R-(R*,R*)]-","1-Butanamine, N,N-diethyl-",1
 Butylmethylamine,"1-Butanamine, N,N-diethyl-",1
 "Cholest-22-ene-21-ol, 3,5-dehydro-6-methoxy-, pivalate","1-Butanamine, N,N-diethyl-",1
@@ -2482,7 +2287,6 @@ Myristic acid,"1-Butanamine, N,N-diethyl-",1
 2-Naphthol,1-Cyclopentylethanol,1
 "2-Propanone, bis(1-methylethyl)hydrazone",1-Cyclopentylethanol,1
 "2,2,4-Trimethyl-1,3-pentanediol diisobutyrate",1-Cyclopentylethanol,1
-"2,5-di-tert-Butyl-1,4-benzoquinone",1-Cyclopentylethanol,1
 3-Hydroxyisovaleric acid,1-Cyclopentylethanol,1
 "3,5-Dimethylpyrazole",1-Cyclopentylethanol,1
 "Benzaldehyde, 2,5-dimethyl-",1-Cyclopentylethanol,1
@@ -2511,7 +2315,6 @@ Butylmethylamine,"1-Decene, 8-methyl-",1
 "Cyclohexene, 3-butyl-3-methyl-1-trimethylsilyloxy-","1-Decene, 8-methyl-",1
 (pm)-alpha-Tocopherol acetate,1-Deoxypentitol,1
 1-Tetradecanol,1-Deoxypentitol,1
-"1,4-diazabicyclo[4.3.0]nonan-2,5-dione, 3-methyl ",1-Deoxypentitol,1
 "2-(Decanoyloxy)propane-1,3-diyl dioctanoate",1-Deoxypentitol,1
 2-Acetyl-5-chloro-3-methylbenzo(b)thiophene,1-Deoxypentitol,1
 "2-Hexenoic acid, 2-[(trimethylsilyl)oxy]-",1-Deoxypentitol,1
@@ -2522,7 +2325,6 @@ Butylmethylamine,"1-Decene, 8-methyl-",1
 "beta-d-Fructopyranose, 1-deoxy-1-(4-morpholinyl)-2,3,4,5-tetrakis-O-(trimethylsilyl)-",1-Deoxypentitol,1
 "beta-D-Galactofuranose, 1,2,3,5,6-pentakis-O-(trimethylsilyl)-",1-Deoxypentitol,1
 "Butanoic acid, 2,4-bis[(trimethylsilyl)oxy]-",1-Deoxypentitol,1
-Carfentrazone-ethyl,1-Deoxypentitol,1
 "Cholest-22-ene-21-ol, 3,5-dehydro-6-methoxy-, pivalate",1-Deoxypentitol,1
 "Cyclopentaneacetic acid, 3-oxo-2-pentyl-",1-Deoxypentitol,1
 D-(-)-Citramalic acid,1-Deoxypentitol,1
@@ -2579,28 +2381,16 @@ Levulinic acid,"1-Octene, 2-methyl-",1
 Cadaverine,1-Phenethylamine,1
 "Furan, 2-pentyl-",1-Phenethylamine,1
 "L-Tryptophan, N-acetyl-1",1-Phenethylamine,1
-"Propiophenone, 3',4'-dimethoxy-",1-Phenethylamine,1
 "Stigmast-5-ene, 3beta-",1-Phenethylamine,1
 "Thymine, 1,3-dimethyl-6-(trimethylsilyloxymethyl)-",1-Phenethylamine,1
 Benzeneacetamide,"1-Phenyl-1,2-ethanediol",-1
-Decanoic acid,"1-Phenyl-1,2-ethanediol",1
 Octocrylene,"1-Phenyl-1,2-ethanediol",1
-"2-(Decanoyloxy)propane-1,3-diyl dioctanoate","1-Piperazineethanol, 4-dibenzo[b,f][1,4]thiazepin-11-yl-",1
-"2,4-Imidazolidinedione, 5,5-dimethyl-","1-Piperazineethanol, 4-dibenzo[b,f][1,4]thiazepin-11-yl-",1
-3-Aminobutanoic acid,"1-Piperazineethanol, 4-dibenzo[b,f][1,4]thiazepin-11-yl-",1
-"3-Cyclohexyl-L-alanine amide, N,N,N'N'-tetramethyl-","1-Piperazineethanol, 4-dibenzo[b,f][1,4]thiazepin-11-yl-",1
-3-Indoleacetic acid,"1-Piperazineethanol, 4-dibenzo[b,f][1,4]thiazepin-11-yl-",1
-Arsenous acid,"1-Piperazineethanol, 4-dibenzo[b,f][1,4]thiazepin-11-yl-",-1
-"Butanoic acid, 2-methyl-3-[(trimethylsilyl)oxy]-","1-Piperazineethanol, 4-dibenzo[b,f][1,4]thiazepin-11-yl-",1
-Glycine,"1-Piperazineethanol, 4-dibenzo[b,f][1,4]thiazepin-11-yl-",1
 Lactic Acid,"1-Piperazineethanol, 4-dibenzo[b,f][1,4]thiazepin-11-yl-",1
 Mirin,"1-Piperazineethanol, 4-dibenzo[b,f][1,4]thiazepin-11-yl-",-1
-N-(Trimethylsilyl)hexanamide,"1-Piperazineethanol, 4-dibenzo[b,f][1,4]thiazepin-11-yl-",1
 10-Heptadecenoic acid,"1,1'-Biphenyl, 3,4-diethyl-",1
 4-Cumylphenol,"1,1'-Biphenyl, 3,4-diethyl-",1
 Butylmethylamine,"1,1'-Biphenyl, 3,4-diethyl-",1
 Cadaverine,"1,1'-Biphenyl, 3,4-diethyl-",1
-Carfentrazone-ethyl,"1,1'-Biphenyl, 3,4-diethyl-",1
 "Stigmast-5-ene, 3beta-","1,1'-Biphenyl, 3,4-diethyl-",1
 "Thymine, 1,3-dimethyl-6-(trimethylsilyloxymethyl)-","1,1'-Biphenyl, 3,4-diethyl-",1
 "Trimethylsilyl (5-benzyl-3,6-dioxopiperazin-2-yl)acetate","1,1'-Biphenyl, 3,4-diethyl-",1
@@ -2611,7 +2401,6 @@ Benzyl alcohol,"1,2-Benzenedicarboxylic acid",1
 Boric acid,"1,2-Benzenedicarboxylic acid",1
 Decanoic acid,"1,2-Benzenedicarboxylic acid",1
 Lactic Acid,"1,2-Benzenedicarboxylic acid",1
-Myristic acid,"1,2-Benzenedicarboxylic acid",1
 "(R*,S*)-2,3-Dihydroxybutanoic acid","1,2-Butadiene, 1,1,4-triphenyl-3-trimethylsilyl-4-trimethylsilyloxy-",1
 1-(4-Hydroxybenzylidene)acetone,"1,2-Butadiene, 1,1,4-triphenyl-3-trimethylsilyl-4-trimethylsilyloxy-",1
 1-Monoacetin,"1,2-Butadiene, 1,1,4-triphenyl-3-trimethylsilyl-4-trimethylsilyloxy-",1
@@ -2632,7 +2421,6 @@ Myristic acid,"1,2-Benzenedicarboxylic acid",1
 7-(Trimethylsilyl)amino-4-methylcoumarin,"1,2-Butadiene, 1,1,4-triphenyl-3-trimethylsilyl-4-trimethylsilyloxy-",1
 "Acetin, bis-1,3-trimethylsilyl ether","1,2-Butadiene, 1,1,4-triphenyl-3-trimethylsilyl-4-trimethylsilyloxy-",1
 alpha-Tocopherol,"1,2-Butadiene, 1,1,4-triphenyl-3-trimethylsilyl-4-trimethylsilyloxy-",1
-"Benzenemethanamine, 2,3-dimethoxy-","1,2-Butadiene, 1,1,4-triphenyl-3-trimethylsilyl-4-trimethylsilyloxy-",1
 "Benzimidazole, 5-trifluoromethyl-2-methyl-","1,2-Butadiene, 1,1,4-triphenyl-3-trimethylsilyl-4-trimethylsilyloxy-",1
 Benzophenone,"1,2-Butadiene, 1,1,4-triphenyl-3-trimethylsilyl-4-trimethylsilyloxy-",1
 Butylmethylamine,"1,2-Butadiene, 1,1,4-triphenyl-3-trimethylsilyl-4-trimethylsilyloxy-",1
@@ -2659,12 +2447,10 @@ Salsoline,"1,2-Butadiene, 1,1,4-triphenyl-3-trimethylsilyl-4-trimethylsilyloxy-"
 "Stigmast-5-ene, 3beta-","1,2-Butadiene, 1,1,4-triphenyl-3-trimethylsilyl-4-trimethylsilyloxy-",1
 L-Tyrosine,"1,2-Butadiene, 1,1,4-triphenyl-3-trimethylsilyl-4-trimethylsilyloxy-",1
 (pm)-alpha-Tocopherol acetate,"1,2,3,10,11,11a-Hexahydro-6,7,8-trimethoxy-3-oxo-5H-dibenzo(a,d)cycloheptene",1
-2-Hydroxybutyric acid,"1,2,3,10,11,11a-Hexahydro-6,7,8-trimethoxy-3-oxo-5H-dibenzo(a,d)cycloheptene",1
 3'-Hydroxyacetophenone,"1,2,3,10,11,11a-Hexahydro-6,7,8-trimethoxy-3-oxo-5H-dibenzo(a,d)cycloheptene",1
 "3beta,4beta-Bis(trimethylsiloxy)cholest-5-ene","1,2,3,10,11,11a-Hexahydro-6,7,8-trimethoxy-3-oxo-5H-dibenzo(a,d)cycloheptene",1
 5-Aminovaleric acid,"1,2,3,10,11,11a-Hexahydro-6,7,8-trimethoxy-3-oxo-5H-dibenzo(a,d)cycloheptene",-1
 "6,7,4'-Trihydroxyisoflavone","1,2,3,10,11,11a-Hexahydro-6,7,8-trimethoxy-3-oxo-5H-dibenzo(a,d)cycloheptene",1
-Arsenous acid,"1,2,3,10,11,11a-Hexahydro-6,7,8-trimethoxy-3-oxo-5H-dibenzo(a,d)cycloheptene",1
 "Benzaldehyde, 2,5-dimethyl-","1,2,3,10,11,11a-Hexahydro-6,7,8-trimethoxy-3-oxo-5H-dibenzo(a,d)cycloheptene",1
 "Cetaben, N,O-bis(trimethylsilyl)-","1,2,3,10,11,11a-Hexahydro-6,7,8-trimethoxy-3-oxo-5H-dibenzo(a,d)cycloheptene",1
 D-Fructose,"1,2,3,10,11,11a-Hexahydro-6,7,8-trimethoxy-3-oxo-5H-dibenzo(a,d)cycloheptene",1
@@ -2691,7 +2477,6 @@ Methyl aminoacetate,"1,3,5-Benzetriol",1
 N-Methyl-N-(tetrahydro-2-furanylmethyl)-4-piperidinamine,"1,3,5-Benzetriol",1
 Nitrosothymol,"1,3,5-Benzetriol",1
 Nonadecanoic acid,"1,3,5-Benzetriol",1
-"Octane, 1-propoxy-","1,3,5-Benzetriol",1
 "Pentanedioic acid, 3-methyl-3-[(trimethylsilyl)oxy]-","1,3,5-Benzetriol",1
 "Thymine, 1,3-dimethyl-6-(trimethylsilyloxymethyl)-","1,3,5-Benzetriol",1
 Triethanolamine,"1,3,5-Benzetriol",1
@@ -2703,19 +2488,9 @@ Arachidonic acid,"1,3,5-Trimethyl-1H-pyrazol-4-amine",1
 D-(-)-Citramalic acid,"1,3,5-Trimethyl-1H-pyrazol-4-amine",1
 Eicosapentaenoic acid,"1,3,5-Trimethyl-1H-pyrazol-4-amine",1
 "1,5-Anhydroglucitol","1,4-diazabicyclo[4.3.0]nonan-2,5-dione, 3-methyl ",1
-2-Isopropyl-5-methyl-1-heptanol ,"1,4-diazabicyclo[4.3.0]nonan-2,5-dione, 3-methyl ",1
-4-Hydroxybenzoic acid,"1,4-diazabicyclo[4.3.0]nonan-2,5-dione, 3-methyl ",1
-Dihydrouracil,"1,4-diazabicyclo[4.3.0]nonan-2,5-dione, 3-methyl ",1
-Glycolic acid,"1,4-diazabicyclo[4.3.0]nonan-2,5-dione, 3-methyl ",1
 Malic acid,"1,4-diazabicyclo[4.3.0]nonan-2,5-dione, 3-methyl ",1
 Phosalone,"1,4-diazabicyclo[4.3.0]nonan-2,5-dione, 3-methyl ",1
-Tartronic acid,"1,4-diazabicyclo[4.3.0]nonan-2,5-dione, 3-methyl ",1
-D-Fructose,"1,5-Anhydroglucitol",1
-Glycolic acid,"1,5-Anhydroglucitol",1
-Triethanolamine,"1,5-Anhydroglucitol",1
 1-Monoacetin,10-Heptadecenoic acid,1
-"2-(2,5-Dimethoxy-phenyl)-propionaldehyde",10-Heptadecenoic acid,1
-2-Hydroxy-5-methoxybenzaldehyde,10-Heptadecenoic acid,1
 2-Methyl-4-pentenoic acid,10-Heptadecenoic acid,1
 2-Naphthol,10-Heptadecenoic acid,1
 3-Methyladenine,10-Heptadecenoic acid,1
@@ -2727,7 +2502,6 @@ Triethanolamine,"1,5-Anhydroglucitol",1
  5-Hydroxyhexanoic acid,10-Heptadecenoic acid,1
 Cyclohexanol,10-Heptadecenoic acid,1
 D-Fructose,10-Heptadecenoic acid,1
-Doconexent,10-Heptadecenoic acid,1
 "Ethanone, 1-(2,5-dimethoxyphenyl)-",10-Heptadecenoic acid,1
 Glyoxime,10-Heptadecenoic acid,1
 Heptadecanoic acid,10-Heptadecenoic acid,1
@@ -2740,7 +2514,6 @@ p-Toluic acid,10-Heptadecenoic acid,1
 Palmitelaidic acid,10-Heptadecenoic acid,1
 Pimelic acid,10-Heptadecenoic acid,1
 "Propanetriol, 2-methyl-",10-Heptadecenoic acid,1
-"Propanoic acid, 2-methyl-",10-Heptadecenoic acid,1
 "Pyrimidine, 5-methyl-2,4-bis[(trimethylsilyl)oxy]-",10-Heptadecenoic acid,1
 Tartronic acid,10-Heptadecenoic acid,1
 Triethanolamine,10-Heptadecenoic acid,1
@@ -2792,12 +2565,9 @@ Quazodine,"1H-Pyrazole, 3,4-bis(trimethylsilyl)-",-1
 2-Hydroxy-5-methoxybenzaldehyde,"2-(2,5-Dimethoxy-phenyl)-propionaldehyde",1
 3-Nonen-1-ol,"2-(2,5-Dimethoxy-phenyl)-propionaldehyde",1
 4-Hydroxybutanoic acid,"2-(2,5-Dimethoxy-phenyl)-propionaldehyde",1
-"Benzaldehyde, 2,5-dimethyl-","2-(2,5-Dimethoxy-phenyl)-propionaldehyde",1
-Butylated Hydroxytoluene,"2-(2,5-Dimethoxy-phenyl)-propionaldehyde",1
 1-Monoacetin,"2-(Decanoyloxy)propane-1,3-diyl dioctanoate",1
 2-Acetyl-5-chloro-3-methylbenzo(b)thiophene,"2-(Decanoyloxy)propane-1,3-diyl dioctanoate",1
 "2-Allyl-1,4-dimethoxybenzene","2-(Decanoyloxy)propane-1,3-diyl dioctanoate",1
-2-Aminobutanoic acid,"2-(Decanoyloxy)propane-1,3-diyl dioctanoate",1
 2-Methyl-4-pentenoic acid,"2-(Decanoyloxy)propane-1,3-diyl dioctanoate",1
 3-Amino-5-morpholinomethyl-2-oxazolidinone,"2-(Decanoyloxy)propane-1,3-diyl dioctanoate",1
 "3-Hydroxy-2,3-dihydromaltol","2-(Decanoyloxy)propane-1,3-diyl dioctanoate",1
@@ -2872,8 +2642,6 @@ Allylescaline ,2-Aminoadipic acid,1
 DL-Phenylalanine,2-Aminoadipic acid,1
 Hydantoic acid,2-Aminoadipic acid,1
 L-Glutamine,2-Aminoadipic acid,-1
-Octan-2-yl palmitate,2-Aminoadipic acid,1
-Glycine,2-Aminobutanoic acid,1
 Nonanoic acid,2-Aminobutanoic acid,1
 (pm)-alpha-Tocopherol acetate,2-Ethyl-3-hydroxypropionic acid,1
 1-(4-Hydroxybenzylidene)acetone,2-Ethyl-3-hydroxypropionic acid,1
@@ -2921,17 +2689,8 @@ Suberic acid,2-Heptenoic acid,1
 L-Tyrosine,2-Heptenoic acid,1
 Glucopyranose,2-Hydroxy-3-methylbutyric acid,1
 2-Hydroxybutyric acid,2-Hydroxy-5-methoxybenzaldehyde,1
-3-Hexenedinitrile,2-Hydroxy-5-methoxybenzaldehyde,1
-5-Henicosylresorcinol,2-Hydroxy-5-methoxybenzaldehyde,1
-"Benzaldehyde, 2,5-dimethyl-",2-Hydroxy-5-methoxybenzaldehyde,1
-Glyoxime,2-Hydroxy-5-methoxybenzaldehyde,1
-Hydantoic acid,2-Hydroxy-5-methoxybenzaldehyde,1
-Levulinic acid,2-Hydroxy-5-methoxybenzaldehyde,1
-Neostigmine ,2-Hydroxy-5-methoxybenzaldehyde,1
 "Propanoic acid, 2-methyl-",2-Hydroxy-5-methoxybenzaldehyde,1
 Arsenous acid,2-Hydroxybutyric acid,1
-"Benzaldehyde, 2,5-dimethyl-",2-Hydroxybutyric acid,1
-Glyoxime,2-Hydroxybutyric acid,1
 "3-Buten-2-one, 4-(4-methoxyphenyl)-",2-Isopropyl-5-methyl-1-heptanol ,-1
 Isopropyl palmitate,2-Isopropyl-5-methyl-1-heptanol ,1
 (pm)-alpha-Tocopherol acetate,2-Methyl-4-pentenoic acid,1
@@ -2976,7 +2735,6 @@ Aspartic acid,2-Pentenoic acid,-1
 N-Acetyltyrosine,"2-Propenamide, 3-phenyl-N-2-propenyl-",1
 2-Furoic acid,"2,2-Diallylpyrrolidine",1
 "3-Methylpiperazine-2,5-dione, (R)-","2,2-Diallylpyrrolidine",1
-"D-(+)-Talofuranose, pentakis","2,2-Diallylpyrrolidine",1
 "Thymine, 1,3-dimethyl-6-(trimethylsilyloxymethyl)-","2,2-Diallylpyrrolidine",1
 Trimidox,"2,2-Diallylpyrrolidine",-1
 (pm)-alpha-Tocopherol acetate,"2,2,4-Trimethyl-1,3-pentanediol diisobutyrate",1
@@ -3059,21 +2817,10 @@ Salsoline,"2,4-Imidazolidinedione, 5,5-dimethyl-",1
 Arabinaric acid,"2,5-Cyclohexadiene-1,4-dione, 2,6-bis(1,1-dimethylethyl)-",-1
 "Phenol, 3,5-bis(1,1-dimethylethyl)-","2,5-Cyclohexadiene-1,4-dione, 2,6-bis(1,1-dimethylethyl)-",1
 3-Amino-5-morpholinomethyl-2-oxazolidinone,"2,5-di-tert-Butyl-1,4-benzoquinone",-1
-"Butanoic acid, 2,4-bis[(trimethylsilyl)oxy]-","2,5-di-tert-Butyl-1,4-benzoquinone",1
-Cadaverine,"2,5-di-tert-Butyl-1,4-benzoquinone",1
-DL-Glyceraldehyde,"2,5-di-tert-Butyl-1,4-benzoquinone",1
-"Dodecane, 4,6-dimethyl-","2,5-di-tert-Butyl-1,4-benzoquinone",1
-Ethanolamine,"2,5-di-tert-Butyl-1,4-benzoquinone",1
-"Ethanone, 1-(5-methoxy-2-methyl-3(1H)-indolyl)-","2,5-di-tert-Butyl-1,4-benzoquinone",1
-Isofucosterol,"2,5-di-tert-Butyl-1,4-benzoquinone",1
-Methyl aminoacetate,"2,5-di-tert-Butyl-1,4-benzoquinone",1
 Niacin,"2,5-di-tert-Butyl-1,4-benzoquinone",1
 Palmitic Acid,"2,5-di-tert-Butyl-1,4-benzoquinone",1
-Tartronic acid,"2,5-di-tert-Butyl-1,4-benzoquinone",1
 "Tacrine, N-trimethylsilyl-","2,5-Di-tert-butylhydroquinone",-1
-Arabinaric acid,"2,5-Dimethoxy-4-methylamphetamine",-1
 Metanephrine,"2,5-Dimethoxy-4-methylamphetamine",1
-Ornithine,"2,5-Dimethoxy-4-methylamphetamine",-1
 Ornithine,"2,5-Dimethoxymandelic acid",-1
 alpha-Tocopherol,"2,5-Dimethyl-1-aza-bicyclo[2.2.1]heptane",-1
 "D-(+)-Ribono-1,4-lactone (R,S,R)-","2,5-Dimethyl-1-aza-bicyclo[2.2.1]heptane",-1
@@ -3118,7 +2865,6 @@ Neostigmine ,"2,5-Piperazinedione, 3-benzyl-6-isopropyl-",1
 Niclosamide,"2,5-Piperazinedione, 3-benzyl-6-isopropyl-",1
 Nonadecanoic acid,"2,5-Piperazinedione, 3-benzyl-6-isopropyl-",1
 Nonanal,"2,5-Piperazinedione, 3-benzyl-6-isopropyl-",1
-"Octane, 1-propoxy-","2,5-Piperazinedione, 3-benzyl-6-isopropyl-",1
 "Pentanedioic acid, 3-methyl-3-[(trimethylsilyl)oxy]-","2,5-Piperazinedione, 3-benzyl-6-isopropyl-",1
 "Pentenoic acid, 4-[(trimethylsilyl)oxy]-","2,5-Piperazinedione, 3-benzyl-6-isopropyl-",1
 Phenoxyacetic acid,"2,5-Piperazinedione, 3-benzyl-6-isopropyl-",1
@@ -3141,7 +2887,6 @@ Triethanolamine,"2,5-Piperazinedione, 3-benzyl-6-isopropyl-",1
 alpha-Tocopherol,"2,6-Bis[2-[2-S-thiosulfuroethylamino]ethoxy]pyrazine",1
 "beta-D-Galactofuranose, 1,2,3,5,6-pentakis-O-(trimethylsilyl)-","2,6-Bis[2-[2-S-thiosulfuroethylamino]ethoxy]pyrazine",1
 "Butanoic acid, 2,4-bis[(trimethylsilyl)oxy]-","2,6-Bis[2-[2-S-thiosulfuroethylamino]ethoxy]pyrazine",1
-Carfentrazone-ethyl,"2,6-Bis[2-[2-S-thiosulfuroethylamino]ethoxy]pyrazine",1
 "Cephalotaxine, 3-deoxy-3,11-epoxy-, (3alpha,11alpha)-","2,6-Bis[2-[2-S-thiosulfuroethylamino]ethoxy]pyrazine",-1
 "D-(+)-Ribono-1,4-lactone (R,S,R)-","2,6-Bis[2-[2-S-thiosulfuroethylamino]ethoxy]pyrazine",1
 D-Fructose,"2,6-Bis[2-[2-S-thiosulfuroethylamino]ethoxy]pyrazine",1
@@ -3177,7 +2922,6 @@ Dodecylcyclohexane,3-Aminobenzoic acid,1
 Hexanedioic acid,3-Aminobenzoic acid,1
 Hexanoic acid,3-Aminobenzoic acid,1
 Levulinic acid,3-Aminobenzoic acid,1
-"Benzenemethanamine, 2,3-dimethoxy-",3-Aminobutanoic acid,1
 "Glycine, N-(N-DL-leucylglycyl)-",3-Aminobutanoic acid,1
 Tributyl acetylcitrate,3-Aminobutanoic acid,-1
 Octanoic acid,"3-Buten-2-one, 3-trimethylsilyloxy-",1
@@ -3186,9 +2930,7 @@ Octanoic acid,"3-Buten-2-one, 3-trimethylsilyloxy-",1
 1-Monoacetin,"3-Cyclohexyl-L-alanine amide, N,N,N'N'-tetramethyl-",1
 1-Phenylethanol,"3-Cyclohexyl-L-alanine amide, N,N,N'N'-tetramethyl-",-1
 5-(2-Aminopropyl)-2-methylphenol,"3-Cyclohexyl-L-alanine amide, N,N,N'N'-tetramethyl-",-1
-Doconexent,"3-Cyclohexyl-L-alanine amide, N,N,N'N'-tetramethyl-",1
 Glycine,"3-Cyclohexyl-L-alanine amide, N,N,N'N'-tetramethyl-",1
-"Propanoic acid, 2-methyl-","3-Cyclohexyl-L-alanine amide, N,N,N'N'-tetramethyl-",1
 Propylamine,"3-Cyclohexyl-L-alanine amide, N,N,N'N'-tetramethyl-",1
 (pm)-alpha-Tocopherol acetate,3-Hexenedinitrile,1
 1-(4-Hydroxybenzylidene)acetone,3-Hexenedinitrile,1
@@ -3221,7 +2963,6 @@ L-Aspartic acid,"3-Hydroxy-2,3-dihydromaltol",1
 3-Amino-5-morpholinomethyl-2-oxazolidinone,3-Hydroxyisovaleric acid,1
 "3beta,4beta-Bis(trimethylsiloxy)cholest-5-ene",3-Hydroxyisovaleric acid,1
 5-Henicosylresorcinol,3-Hydroxyisovaleric acid,1
-"Acetic acid, bis[(trimethylsilyl)oxyl]-",3-Hydroxyisovaleric acid,1
 "Acetohydrazide, 2-(2-isopropyl-5-methylphenoxy)-N2-benzylideno-",3-Hydroxyisovaleric acid,1
 Arachidonic acid,3-Hydroxyisovaleric acid,1
 "Benzimidazole, 5-trifluoromethyl-2-methyl-",3-Hydroxyisovaleric acid,1
@@ -3239,7 +2980,6 @@ Metanephrine,3-Hydroxyisovaleric acid,1
 Myristic acid,3-Hydroxyisovaleric acid,1
 Nonadecanoic acid,3-Hydroxyisovaleric acid,1
 Nonanal,3-Hydroxyisovaleric acid,1
-Octanoic acid,3-Hydroxyisovaleric acid,1
 Phenoxyacetic acid,3-Hydroxyisovaleric acid,1
 "Propanetriol, 2-methyl-",3-Hydroxyisovaleric acid,1
 Triethanolamine,3-Hydroxyisovaleric acid,1
@@ -3301,7 +3041,6 @@ S-Methyl-L-cysteine,"3-Methylpiperazine-2,5-dione, (R)-",1
 "Stigmast-5-ene, 3beta-","3-Methylpiperazine-2,5-dione, (R)-",1
 "Tacrine, N-trimethylsilyl-","3-Methylpiperazine-2,5-dione, (R)-",1
 "Thymine, 1,3-dimethyl-6-(trimethylsilyloxymethyl)-","3-Methylpiperazine-2,5-dione, (R)-",1
-"Furan, 2-pentyl-",3-Nonen-1-ol,1
 "3beta-TRIMETHYLSILOXY-5alpha,6alpha-EPOXYCHOLESTANE",3-Ureidopropionic acid,1
 "3beta,4beta-Bis(trimethylsiloxy)cholest-5-ene",3-Ureidopropionic acid,1
 5-Hydroxyquinoline,3-Ureidopropionic acid,1
@@ -3320,12 +3059,8 @@ Propylamine,3-Ureidopropionic acid,1
 Tartronic acid,3-Ureidopropionic acid,1
 Uridine,3-Ureidopropionic acid,1
 Xylose,3-Ureidopropionic acid,1
-"(2S,3R)-3-[(4E,7E)-Nona-4,7-dienoyl]-N,N-bis(trimethylsilyl)oxirane-2-carboxamide ","3,4-Dihydrocoumarin, 4,4-dimethyl-6-dimethylamino-",1
-"2,5-Dimethoxyphenol","3,4-Dihydrocoumarin, 4,4-dimethyl-6-dimethylamino-",1
 "7-Isoquinolinol, 1,2,3,4-tetrahydro-1-[(4-hydroxyphenyl)methyl]-6-methoxy-","3,4-Dihydrocoumarin, 4,4-dimethyl-6-dimethylamino-",1
-Phlorizin,"3,4-Dihydrocoumarin, 4,4-dimethyl-6-dimethylamino-",1
 "Quinolin-4-one, 1-[2-(3,4-dimethoxyphenyl)ethyl]-octahydro-","3,4-Dihydrocoumarin, 4,4-dimethyl-6-dimethylamino-",1
-4-Hydroxy-5-(hydroxymethyl)oxolan-2-one,"3,4,5-Trihydroxypentanoic acid, tetrakis(trimethylsilyl)-",1
 Benzeneacetic acid,"3,4,5-Trihydroxypentanoic acid, tetrakis(trimethylsilyl)-",1
 beta-Lyxopyranose,"3,4,5-Trihydroxypentanoic acid, tetrakis(trimethylsilyl)-",1
 Methylmalonic monoamide,"3,4,5-Trihydroxypentanoic acid, tetrakis(trimethylsilyl)-",1
@@ -3408,7 +3143,6 @@ alpha-Tocopherol,"3beta,4beta-Bis(trimethylsiloxy)cholest-5-ene",1
 Benzeneacetic acid,"3beta,4beta-Bis(trimethylsiloxy)cholest-5-ene",1
 "Benzimidazole, 5-trifluoromethyl-2-methyl-","3beta,4beta-Bis(trimethylsiloxy)cholest-5-ene",1
 "Butanoic acid, 2,4-bis[(trimethylsilyl)oxy]-","3beta,4beta-Bis(trimethylsiloxy)cholest-5-ene",1
-Carfentrazone-ethyl,"3beta,4beta-Bis(trimethylsiloxy)cholest-5-ene",1
 cis-4-Trimethylsilyloxy-cyclohexyl(trimethylsilyl)carboxylate,"3beta,4beta-Bis(trimethylsiloxy)cholest-5-ene",1
 "Cyclopentaneacetic acid, 3-oxo-2-pentyl-","3beta,4beta-Bis(trimethylsiloxy)cholest-5-ene",1
 "Cyclopentanone, 2,2,4-trimethyl-","3beta,4beta-Bis(trimethylsiloxy)cholest-5-ene",1
@@ -3446,20 +3180,14 @@ L-Threitol,4-Hydroxybenzeneacetic acid,1
 Methyl-3-methoxy-5-methyl benzoate,4-Hydroxybenzeneacetic acid,1
 "N-(Trifluoroacetyl)-N,O,O'-tris(trimethylsilyl)normetanephrine",4-Hydroxybenzeneacetic acid,1
 Tartronic acid,4-Hydroxybenzeneacetic acid,1
-D-(-)-Citramalic acid,4-Hydroxybenzoic acid,-1
 Glycolic acid,4-Hydroxybenzoic acid,1
 "(2S,3R)-3-[(4E,7E)-Nona-4,7-dienoyl]-N,N-bis(trimethylsilyl)oxirane-2-carboxamide ",4-Hydroxyphenyllactic acid,1
 L-Tyrosine,4-Hydroxyphenyllactic acid,1
-(pm)-alpha-Tocopherol acetate,4-Methylvaleric acid,1
-"2,5-Dimethoxyphenol",4-Methylvaleric acid,1
 Norketamine,4-Methylvaleric acid,1
-Phlorizin,4-Methylvaleric acid,1
 "Pyrazine, 3,6-dihydro-3,6-dimethyl-",4-Methylvaleric acid,1
 Pyrrole-2-carboxylic acid,4-Pyridinol,1
 1-Octanol,5-Henicosylresorcinol,1
 3-Amino-5-morpholinomethyl-2-oxazolidinone,5-Henicosylresorcinol,1
-Atrazine desethyl,5-Henicosylresorcinol,-1
-"Benzenemethanamine, 2,3-dimethoxy-",5-Henicosylresorcinol,1
 "Benzimidazole, 5-trifluoromethyl-2-methyl-",5-Henicosylresorcinol,1
 "Benzoic acid, pentadecyl ester",5-Henicosylresorcinol,1
 Benzophenone,5-Henicosylresorcinol,1
@@ -3502,7 +3230,6 @@ N-Methyl-N-(tetrahydro-2-furanylmethyl)-4-piperidinamine,5-Hydroxyquinoline,1
 "N,O-Bis(trimethylsilyl)carbamate",5-Hydroxyquinoline,1
 Tartronic acid,5-Hydroxyquinoline,1
 "2-Propanone, bis(1-methylethyl)hydrazone","5,6-Dimethyl-4-phenyl-3-cyanopyridine-2(1H)-thione",-1
-Albizziin,"5,6-Dimethyl-4-phenyl-3-cyanopyridine-2(1H)-thione",1
 "(2S,3R)-3-[(4E,7E)-Nona-4,7-dienoyl]-N,N-bis(trimethylsilyl)oxirane-2-carboxamide ","6-Methoxy-1-methyl-1,2,3,4-tetrahydroisoquinolin-7-ol ",1
 Cadaverine,"6-Methoxy-1-methyl-1,2,3,4-tetrahydroisoquinolin-7-ol ",1
 Octocrylene,"6-Methoxy-1-methyl-1,2,3,4-tetrahydroisoquinolin-7-ol ",1
@@ -3527,8 +3254,6 @@ Indole-5-carboxylic acid,"6,8-Dioxapentadecane",1
 p-Toluic acid,"6,8-Dioxapentadecane",1
 Tartronic acid,"6,8-Dioxapentadecane",1
 Triethanolamine,"6,8-Dioxapentadecane",1
-"Benzene, 1-acetoxy-2,6-dimethoxy-4-(2-propenyl)-",9-Hexadecenoic acid,-1
-Desmosterol,9-Hexadecenoic acid,1
 "9,12-Octadecadienoic acid",9-Octadecenamide,1
 Ketamine ,9-Octadecenamide,-1
 (pm)-alpha-Tocopherol acetate,9-Octadecenoic acid,1
@@ -3562,14 +3287,9 @@ Triethanolamine,9-Octadecenoic acid,1
 Glyceric acid,"9H-Purine, 9-(trimethylsilyl)-2,6,8-tris[(trimethylsilyl)oxy]-",1
 "1,3-bis[(Trimethylsilyl)ethynyl]benzene","Acetamide, 2,2,2-trifluoro-",1
 4-Cumylphenol,"Acetamide, 2,2,2-trifluoro-",1
-5-(2-Aminopropyl)-2-methylphenol,"Acetamide, 2,2,2-trifluoro-",1
-Glucose,"Acetamide, 2,2,2-trifluoro-",-1
 Latanoprost lactone diol,"Acetamide, 2,2,2-trifluoro-",-1
-Naphthofluorescein,"Acetamide, 2,2,2-trifluoro-",-1
 S-Methyl-L-cysteine,"Acetamide, 2,2,2-trifluoro-",1
 "(S,S)-(-)-Hydrobenzoin","Acetic acid, bis[(trimethylsilyl)oxyl]-",-1
-Hexanoic acid,"Acetic acid, bis[(trimethylsilyl)oxyl]-",1
-Myristic acid,"Acetic acid, bis[(trimethylsilyl)oxyl]-",1
 "(R*,S*)-2,3-Dihydroxybutanoic acid",Acetoacetic acid,1
 7-(Trimethylsilyl)amino-4-methylcoumarin,Acetoacetic acid,1
 Aceturic acid,Acetoacetic acid,1
@@ -3606,10 +3326,8 @@ Benzophenone,Allylescaline ,1
 L-Aspartic acid,Allylescaline ,1
 Mirin,"alpha-L-Galactopyranoside, methyl 6-deoxy-, (R,R,R,S,S)-",1
 "Aziridine, 1-(2-buten-2-yl)-",alpha-Linolenic acid,-1
-"Benzene, 1-acetoxy-2,6-dimethoxy-4-(2-propenyl)-",alpha-Linolenic acid,-1
 "Benzoic acid, methyl ester",alpha-Linolenic acid,1
 Citric acid,alpha-Linolenic acid,1
-Hydracrylic acid,alpha-Linolenic acid,1
 "2-Propanone, bis(1-methylethyl)hydrazone","Arabinofuranose, 1,2,3,5-tetrakis-O-",1
 "Acetohydrazide, 2-(2-isopropyl-5-methylphenoxy)-N2-benzylideno-","Arabinofuranose, 1,2,3,5-tetrakis-O-",1
 N-Acetyl-L-glutamic acid,"Arabinofuranose, 1,2,3,5-tetrakis-O-",1
@@ -3624,7 +3342,6 @@ L-Threitol,Arachidonic acid,1
 Myristic acid,Arachidonic acid,1
 N-Methyl-N-(tetrahydro-2-furanylmethyl)-4-piperidinamine,Arachidonic acid,1
 "Benzene, 1,3-bis(1,1-dimethylethyl)-",Arsenous acid,1
-"Pentenoic acid, 4-[(trimethylsilyl)oxy]-",Arsenous acid,1
 Pyrrole-2-carboxylic acid,Aspartic acid,-1
 1-(4-Hydroxybenzylidene)acetone,Azatadine,1
 3-Amino-5-morpholinomethyl-2-oxazolidinone,Azatadine,1
@@ -3634,7 +3351,6 @@ L-Threitol,Azatadine,1
 Metanephrine,Azatadine,1
 N-Methyl-N-(tetrahydro-2-furanylmethyl)-4-piperidinamine,Azatadine,1
 Sertraline carbamoyl glucuronide,Azatadine,1
-D-(-)-Citramalic acid,"Aziridine, 1-(2-buten-2-yl)-",-1
 Ornithine,"Aziridine, 1-(2-buten-2-yl)-",1
 1-Phenylethanol,"Benzaldehyde, 2,5-dimethyl-",-1
 1-Tetradecanol,"Benzaldehyde, 2,5-dimethyl-",1
@@ -3654,7 +3370,6 @@ Deoxycholic Acid,"Benzaldehyde, 2,5-dimethyl-",1
 Dihydrouracil,"Benzaldehyde, 2,5-dimethyl-",1
 Dinoseb ,"Benzaldehyde, 2,5-dimethyl-",1
 Diphenyl ether,"Benzaldehyde, 2,5-dimethyl-",1
-Doconexent,"Benzaldehyde, 2,5-dimethyl-",1
 "Dodecanoic acid, 1-methylethyl ester","Benzaldehyde, 2,5-dimethyl-",1
 Dodecylcyclohexane,"Benzaldehyde, 2,5-dimethyl-",1
 "Furan, 2-pentyl-","Benzaldehyde, 2,5-dimethyl-",1
@@ -3670,40 +3385,31 @@ Neostigmine ,"Benzaldehyde, 2,5-dimethyl-",1
 Niclosamide,"Benzaldehyde, 2,5-dimethyl-",1
 Nonadecanoic acid,"Benzaldehyde, 2,5-dimethyl-",1
 Nonanal,"Benzaldehyde, 2,5-dimethyl-",1
-"Octane, 1-propoxy-","Benzaldehyde, 2,5-dimethyl-",1
 p-Toluic acid,"Benzaldehyde, 2,5-dimethyl-",1
 Phlorizin,"Benzaldehyde, 2,5-dimethyl-",1
 Pimelic acid,"Benzaldehyde, 2,5-dimethyl-",1
 "Propanetriol, 2-methyl-","Benzaldehyde, 2,5-dimethyl-",1
-"Propanoic acid, 2-methyl-","Benzaldehyde, 2,5-dimethyl-",1
 Propylamine,"Benzaldehyde, 2,5-dimethyl-",1
 "Pyrimidine, 5-methyl-2,4-bis[(trimethylsilyl)oxy]-","Benzaldehyde, 2,5-dimethyl-",1
 Quazodine,"Benzaldehyde, 2,5-dimethyl-",-1
 S-Methyl-L-cysteine,"Benzaldehyde, 2,5-dimethyl-",1
 Salsoline,"Benzaldehyde, 2,5-dimethyl-",1
-Ser-Leu,"Benzaldehyde, 2,5-dimethyl-",1
 "Stigmast-5-ene, 3beta-","Benzaldehyde, 2,5-dimethyl-",1
 Suberic acid,"Benzaldehyde, 2,5-dimethyl-",1
 Tartronic acid,"Benzaldehyde, 2,5-dimethyl-",1
 Triethanolamine,"Benzaldehyde, 2,5-dimethyl-",1
 Uridine,"Benzaldehyde, 2,5-dimethyl-",1
 "Cyclopentaneacetic acid, 3-oxo-2-pentyl-","Benzene, 1-acetoxy-2,6-dimethoxy-4-(2-propenyl)-",-1
-Dehydronorketamine,"Benzene, 1-acetoxy-2,6-dimethoxy-4-(2-propenyl)-",1
 "Dodecanamide, N-(2-hydroxyethyl)-","Benzene, 1-acetoxy-2,6-dimethoxy-4-(2-propenyl)-",1
 Galactopyranose,"Benzene, 1-acetoxy-2,6-dimethoxy-4-(2-propenyl)-",1
 Isonicotinic Acid,"Benzene, 1-acetoxy-2,6-dimethoxy-4-(2-propenyl)-",1
 L-Threitol,"Benzene, 1-acetoxy-2,6-dimethoxy-4-(2-propenyl)-",-1
-Malic acid,"Benzene, 1-acetoxy-2,6-dimethoxy-4-(2-propenyl)-",-1
 Phenylalanine,"Benzene, 1-acetoxy-2,6-dimethoxy-4-(2-propenyl)-",-1
 Triethanolamine,"Benzene, 1-acetoxy-2,6-dimethoxy-4-(2-propenyl)-",-1
 Uridine,"Benzene, 1-acetoxy-2,6-dimethoxy-4-(2-propenyl)-",-1
 "Acetohydrazide, 2-(2-isopropyl-5-methylphenoxy)-N2-benzylideno-","Benzene, 4-ethenyl-1,2-dimethoxy-",1
 D-Ribose,"Benzene, 4-ethenyl-1,2-dimethoxy-",1
 "Trimethylsilyl (5-benzyl-3,6-dioxopiperazin-2-yl)acetate","Benzene, 4-ethenyl-1,2-dimethoxy-",1
-"Furan, 2-pentyl-","Benzenemethanamine, 2,3-dimethoxy-",1
-"Glycine, N-(N-DL-leucylglycyl)-","Benzenemethanamine, 2,3-dimethoxy-",1
-"N,N-Diethyl-2-aminoethanol","Benzenemethanamine, 2,3-dimethoxy-",1
-Phenoxyacetic acid,"Benzenemethanamine, 2,3-dimethoxy-",1
 (pm)-alpha-Tocopherol acetate,"Benzimidazole, 5-trifluoromethyl-2-methyl-",1
 1-(4-Hydroxybenzylidene)acetone,"Benzimidazole, 5-trifluoromethyl-2-methyl-",1
 1-Octanol,"Benzimidazole, 5-trifluoromethyl-2-methyl-",1
@@ -3745,8 +3451,6 @@ Indole-3-carboxaldehyde,"Benzo[b]fluorene, 5-amino-7-methyl-1,2,3,4,6,7,8,9-octa
 L-5-Oxoproline,"Benzo[b]fluorene, 5-amino-7-methyl-1,2,3,4,6,7,8,9-octahydro-11-thia-10-aza-",1
 Methyl isovanillate,"Benzo[b]fluorene, 5-amino-7-methyl-1,2,3,4,6,7,8,9-octahydro-11-thia-10-aza-",1
 Citric acid,"Benzoic acid, methyl ester",1
-"Erythrono-1,4-lactone, (Z)-","Benzoic acid, methyl ester",1
-"Pyrimidine, 5-methyl-2,4-bis[(trimethylsilyl)oxy]-","Benzoic acid, methyl ester",1
 (pm)-alpha-Tocopherol acetate,"Benzoic acid, pentadecyl ester",1
 "(R*,S*)-2,3-Dihydroxybutanoic acid","Benzoic acid, pentadecyl ester",1
 1-Octanol,"Benzoic acid, pentadecyl ester",1
@@ -3771,7 +3475,6 @@ S-Methyl-L-cysteine,"Benzoic acid, pentadecyl ester",1
 alpha-Tocopherol,Benzophenone,1
 Arabinaric acid,Benzophenone,1
 Butylmethylamine,Benzophenone,1
-"Cholest-7-en-3-ol, (3beta,5alpha)-",Benzophenone,1
 Cyclohexanol,Benzophenone,1
 Dinoseb ,Benzophenone,1
 Diphenyl ether,Benzophenone,1
@@ -3788,7 +3491,6 @@ Phenoxyacetic acid,Benzophenone,1
 Phlorizin,Benzophenone,1
 Phloroglucinol,Benzophenone,1
 "Propanetriol, 2-methyl-",Benzophenone,1
-"Propanoic acid, 2-methyl-",Benzophenone,1
 Salsoline,Benzophenone,1
 "Stigmast-5-ene, 3beta-",Benzophenone,1
 "Thymine, 1,3-dimethyl-6-(trimethylsilyloxymethyl)-",Benzophenone,1
@@ -3816,7 +3518,6 @@ Tartronic acid,beta-Lyxopyranose,1
 "2-Propanone, bis(1-methylethyl)hydrazone","Butanoic acid, 2,4-bis[(trimethylsilyl)oxy]-",1
  5-Hydroxyhexanoic acid,"Butanoic acid, 2,4-bis[(trimethylsilyl)oxy]-",1
 Cadaverine,"Butanoic acid, 2,4-bis[(trimethylsilyl)oxy]-",1
-Carfentrazone-ethyl,"Butanoic acid, 2,4-bis[(trimethylsilyl)oxy]-",1
 "Cyclopentaneacetic acid, 3-oxo-2-pentyl-","Butanoic acid, 2,4-bis[(trimethylsilyl)oxy]-",1
 "Cyclopentanone, 2,2,4-trimethyl-","Butanoic acid, 2,4-bis[(trimethylsilyl)oxy]-",1
 D-Fructose,"Butanoic acid, 2,4-bis[(trimethylsilyl)oxy]-",1
@@ -3827,7 +3528,6 @@ Indole-5-carboxylic acid,"Butanoic acid, 2,4-bis[(trimethylsilyl)oxy]-",1
 Isofucosterol,"Butanoic acid, 2,4-bis[(trimethylsilyl)oxy]-",1
 Itaconic acid,"Butanoic acid, 2,4-bis[(trimethylsilyl)oxy]-",1
 Metanephrine,"Butanoic acid, 2,4-bis[(trimethylsilyl)oxy]-",1
-N-(Trimethylsilyl)hexanamide,"Butanoic acid, 2,4-bis[(trimethylsilyl)oxy]-",-1
 N-Methyl-N-(tetrahydro-2-furanylmethyl)-4-piperidinamine,"Butanoic acid, 2,4-bis[(trimethylsilyl)oxy]-",1
 "Propanetriol, 2-methyl-","Butanoic acid, 2,4-bis[(trimethylsilyl)oxy]-",1
 Tartronic acid,"Butanoic acid, 2,4-bis[(trimethylsilyl)oxy]-",1
@@ -3848,11 +3548,9 @@ Nonanal,Butylmethylamine,1
 Salsoline,Butylmethylamine,1
 "Stigmast-5-ene, 3beta-",Butylmethylamine,1
 "3,4-dimethyl-5-(3,4-methylenedioxy)phenyloxazolidine",Cadaverine,-1
-"Cholest-7-en-3-ol, (3beta,5alpha)-",Cadaverine,1
 "Cholesta-3,5-dien-7-one",Cadaverine,1
 DL-Glyceraldehyde,Cadaverine,1
 Isoxaben,Cadaverine,1
-Latanoprost lactone diol,Cadaverine,1
 Methyl aminoacetate,Cadaverine,1
 Methyl-3-methoxy-5-methyl benzoate,Cadaverine,1
 Nonadecanoic acid,Cadaverine,1
@@ -3862,22 +3560,9 @@ S-Methyl-L-cysteine,Cadaverine,1
 Tartronic acid,Cadaverine,1
 5-Hydroxytryptophan,Campesterol,1
 Arabinaric acid,Campesterol,1
-"Butanal, 2,3,4-tris[(trimethylsilyl)oxy]-, O-methyloxime, [R-(R*,R*)]-",Campesterol,-1
 Phlorizin,Campesterol,1
 "Stigmast-5-ene, 3beta-",Campesterol,1
-cis-4-Trimethylsilyloxy-cyclohexyl(trimethylsilyl)carboxylate,Carfentrazone-ethyl,1
-Cyclobutanol,Carfentrazone-ethyl,1
-Deoxycholic Acid,Carfentrazone-ethyl,1
-Glyceric acid,Carfentrazone-ethyl,1
-Methyl-3-methoxy-5-methyl benzoate,Carfentrazone-ethyl,1
-Propylamine,Carfentrazone-ethyl,1
-Tartronic acid,Carfentrazone-ethyl,1
-Triethanolamine,Carfentrazone-ethyl,1
-DL-Glyceraldehyde,"Cholest-7-en-3-ol, (3beta,5alpha)-",1
-Nonadecanoic acid,"Cholest-7-en-3-ol, (3beta,5alpha)-",1
-"Pentanedioic acid, 3-methyl-3-[(trimethylsilyl)oxy]-","Cholest-7-en-3-ol, (3beta,5alpha)-",1
 "Pregn-16-en-20-one, 3,18-bis(acetyloxy)-14,15-epoxy-, (3beta,5alpha,14beta,15beta)-","Cholest-7-en-3-ol, (3beta,5alpha)-",-1
-"Stigmast-5-ene, 3beta-","Cholest-7-en-3-ol, (3beta,5alpha)-",1
 Triethanolamine,"Cholesta-3,5-dien-7-one",1
 5-(2-Aminopropyl)-2-methylphenol,cis-4-Trimethylsilyloxy-cyclohexyl(trimethylsilyl)carboxylate,-1
 "5-Androsten-17alpha-methyl-3beta,17beta-diol",cis-4-Trimethylsilyloxy-cyclohexyl(trimethylsilyl)carboxylate,1
@@ -3891,16 +3576,12 @@ Methylmalonic monoamide,cis-4-Trimethylsilyloxy-cyclohexyl(trimethylsilyl)carbox
 "Propanetriol, 2-methyl-",cis-4-Trimethylsilyloxy-cyclohexyl(trimethylsilyl)carboxylate,1
 Propylamine,cis-4-Trimethylsilyloxy-cyclohexyl(trimethylsilyl)carboxylate,1
 Tartronic acid,cis-4-Trimethylsilyloxy-cyclohexyl(trimethylsilyl)carboxylate,1
-DL-Glyceraldehyde,Cyclo-(l-leucyl-l-phenylalanyl) ,1
-"Pentanedioic acid, 3-methyl-3-[(trimethylsilyl)oxy]-",Cyclo-(l-leucyl-l-phenylalanyl) ,1
-Ribitol,Cyclo-(l-leucyl-l-phenylalanyl) ,1
 5-Hydroxytryptophan,cyclobutanecarboxylic acid,1
 "5alpha-Pregnane-3,20-dione",cyclobutanecarboxylic acid,1
  5-Hydroxyhexanoic acid,Cyclobutanol,1
 "Ethanone, 1-(2,5-dimethoxyphenyl)-",Cyclobutanol,1
 Glyoxime,Cyclobutanol,1
 Nonadecanoic acid,Cyclobutanol,1
-"Octane, 1-propoxy-",Cyclobutanol,1
 (pm)-alpha-Tocopherol acetate,Cyclohexanol,1
 "(R*,S*)-2,3-Dihydroxybutanoic acid",Cyclohexanol,1
 1-(4-Hydroxybenzylidene)acetone,Cyclohexanol,1
@@ -3988,9 +3669,7 @@ L-5-Oxoproline,"D-Isoleucine, N-acetyl-",1
 "Pyrimidine, 5-methyl-2,4-bis[(trimethylsilyl)oxy]-","D-Isoleucine, N-acetyl-",1
 Phlorizin,D-Mannose,1
 (pm)-Phenylpropanolamine,Decanoic acid,1
-Dodecylcyclohexane,Decanoic acid,1
 Lactic Acid,Decanoic acid,1
-Myristic acid,Decanoic acid,1
 Octanoic acid,Decanoic acid,1
 "1,3-Dioxane-4-methanol, 4,5-dimethyl-",Dehydronorketamine,1
 1-Phenylethanol,Deoxycholic Acid,-1
@@ -4012,7 +3691,6 @@ Benzeneacetic acid,Dihydrouracil,1
 Glycolic acid,Dihydrouracil,1
 Hydracrylic acid,Dihydrouracil,1
 L-Asparagine,Dihydrouracil,1
-Malic acid,Dihydrouracil,1
 Ornithine,Dihydrouracil,1
 Phenylalanine,Dihydrouracil,1
 Propylamine,Dihydrouracil,1
@@ -4038,7 +3716,6 @@ Methyl aminoacetate,Dinoseb ,1
 Niclosamide,Dinoseb ,1
 Nonadecanoic acid,Dinoseb ,1
 Nonanal,Dinoseb ,1
-"Octane, 1-propoxy-",Dinoseb ,1
 "Pentenoic acid, 4-[(trimethylsilyl)oxy]-",Dinoseb ,1
 Phenoxyacetic acid,Dinoseb ,1
 "Propanetriol, 2-methyl-",Dinoseb ,1
@@ -4069,10 +3746,6 @@ Tartronic acid,DL-Glyceraldehyde,1
 "Thymine, 1,3-dimethyl-6-(trimethylsilyloxymethyl)-",DL-Glyceraldehyde,1
 Triethanolamine,DL-Glyceraldehyde,1
 "Trimethylsilyl (5-benzyl-3,6-dioxopiperazin-2-yl)acetate",DL-Glyceraldehyde,1
-Glycine,Doconexent,1
-Heptadecanoic acid,Doconexent,1
-"L-Tryptophan, N-acetyl-1",Doconexent,1
-Niclosamide,Doconexent,1
 "2-Hexenoic acid, 2-[(trimethylsilyl)oxy]-","Dodecane, 4,6-dimethyl-",1
 "Butanal, 2,3,4-tris[(trimethylsilyl)oxy]-, O-methyloxime, [R-(R*,R*)]-","Dodecane, 4,6-dimethyl-",1
 Methylmalonic monoamide,"Dodecane, 4,6-dimethyl-",1
@@ -4123,18 +3796,15 @@ Nonadecanoic acid,Glycine,1
 Pimelic acid,Glycine,1
 "Propanetriol, 2-methyl-",Glycine,1
 Salsoline,Glycine,1
-Malic acid,"Glycine, N-(1-oxobutyl)-",1
 N-Valerylglycine,"Glycine, N-(1-oxobutyl)-",1
 Uracil,"Glycine, N-(1-oxobutyl)-",1
 7-(Trimethylsilyl)amino-4-methylcoumarin,"Glycine, N-(N-DL-leucylglycyl)-",1
 alpha-Tocopherol,"Glycine, N-(N-DL-leucylglycyl)-",1
 Hexanoic acid,"Glycine, N-(N-DL-leucylglycyl)-",1
-"Octane, 1-propoxy-","Glycine, N-(N-DL-leucylglycyl)-",1
 Phlorizin,"Glycine, N-(N-DL-leucylglycyl)-",1
 Isoxaben,"Glycine, N-[4-[(trimethylsilyl)oxy]benzoyl]-",1
 "2-Propanone, bis(1-methylethyl)hydrazone",Glycolic acid,1
 Hydracrylic acid,Glycolic acid,1
-Malic acid,Glycolic acid,1
 Phenylalanine,Glycolic acid,1
 Uridine,Glycolic acid,1
 (pm)-alpha-Tocopherol acetate,Glyoxime,1
@@ -4143,8 +3813,6 @@ Uridine,Glycolic acid,1
 "Acetohydrazide, 2-(2-isopropyl-5-methylphenoxy)-N2-benzylideno-",Glyoxime,1
 "beta-d-Fructopyranose, 1-deoxy-1-(4-morpholinyl)-2,3,4,5-tetrakis-O-(trimethylsilyl)-",Glyoxime,1
 Octopamine,Glyoxime,-1
-"Propanoic acid, 2-methyl-",Glyoxime,1
-Ser-Leu,Glyoxime,1
 5-(2-Aminopropyl)-2-methylphenol,Guanabenz,-1
 3'-Hydroxyacetophenone,Heptadecanoic acid,1
 Hexanoic acid,Heptadecanoic acid,1
@@ -4170,7 +3838,6 @@ DL-Phenylalanine,Hydroquinidine,1
 L-5-Oxoproline,Hydroquinidine,1
 Uridine,Hydroquinidine,1
 3-Indolepropionic acid,Hydroquinone,-1
-Indole-5-carboxylic acid,Hydroquinone,1
 3-Indolepropionic acid,Indole-3-lactic acid,1
 alpha-Tocopherol,Indole-3-lactic acid,1
 Arabinaric acid,Indole-3-lactic acid,1
@@ -4198,7 +3865,6 @@ Triethanolamine,Indole-5-carboxylic acid,1
 Cholesterol,"Inosose-2, 1,3,4,5,6-pentakis-",1
 Hexanedioic acid,"Inosose-2, 1,3,4,5,6-pentakis-",1
 L-Aspartic acid,"Inosose-2, 1,3,4,5,6-pentakis-",1
-Trisaminol,"Inosose-2, 1,3,4,5,6-pentakis-",1
 (pm)-alpha-Tocopherol acetate,Isofucosterol,1
 "(R*,S*)-2,3-Dihydroxybutanoic acid",Isofucosterol,1
 1-(4-Hydroxybenzylidene)acetone,Isofucosterol,1
@@ -4227,7 +3893,6 @@ Salsoline,Isofucosterol,1
 "Stigmast-5-ene, 3beta-",Isofucosterol,1
 Triethanolamine,Isofucosterol,1
 L-Tyrosine,Isofucosterol,1
-"Pentanedioic acid, 2-[(trimethylsilyl)oxy]-",Isonicotinic Acid,-1
 (pm)-alpha-Tocopherol acetate,Isopropyl palmitate,1
 1-(4-Hydroxybenzylidene)acetone,Isopropyl palmitate,1
 "2-Amino-4,6-dihydroxypyrimidine",Isopropyl palmitate,-1
@@ -4263,11 +3928,9 @@ Ornithine,L-Aspartic acid,1
 Dimethyl fumarate,L-Hydroxyproline,1
 Metanephrine,L-Hydroxyproline,1
 Eicosapentaenoic acid,L-Isoleucine,1
-1-Phenylethanol,L-Lysine,1
 Stearic acid,L-Lysine,1
 Delorazepam,L-Tryptophan,1
 "Tacrine, N-trimethylsilyl-",L-Tryptophan,1
-"N-isobutyl-2-(trimethylsilyloxy]-4,5-dihydro-1H-imidazole-1-carboxamide",Latanoprost lactone diol,1
 "O-Methyl-N,N'-diisopropylisourea ",Latanoprost lactone diol,1
 1-Octanol,Levulinic acid,1
 "2-Propanone, bis(1-methylethyl)hydrazone",Levulinic acid,1
@@ -4281,7 +3944,6 @@ Nonanal,Levulinic acid,1
 Phlorizin,Levulinic acid,1
 Pimelic acid,Levulinic acid,1
 "Propanetriol, 2-methyl-",Levulinic acid,1
-Phenylalanine,Malic acid,1
 (pm)-alpha-Tocopherol acetate,Methyl aminoacetate,1
 1-(4-Hydroxybenzylidene)acetone,Methyl aminoacetate,1
 1-Monoacetin,Methyl aminoacetate,1
@@ -4327,7 +3989,6 @@ Vanillylmandelic acid,Methylmalonic monoamide,1
 "Acetamide, N,N-diethyl-",Myristic acid,1
 Dodecanoic acid,Myristic acid,1
 Eicosapentaenoic acid,Myristic acid,1
-Octanoic acid,Myristic acid,1
 Pentadecanoic acid,Myristic acid,1
 L-Tyrosine,Myristic acid,1
 (pm)-alpha-Tocopherol acetate,"N-(Trifluoroacetyl)-N,O,O'-tris(trimethylsilyl)normetanephrine",1
@@ -4338,7 +3999,6 @@ Pimelic acid,"N-(Trifluoroacetyl)-N,O,O'-tris(trimethylsilyl)normetanephrine",1
 5-Ethyluracil,N-(Trimethylsilyl)hexanamide,1
 "Tacrine, N-trimethylsilyl-",N-(Trimethylsilyl)hexanamide,1
 N-Valerylglycine,N-Acetyltyrosine,1
-Xylitol,"N-isobutyl-2-(trimethylsilyloxy]-4,5-dihydro-1H-imidazole-1-carboxamide",1
 1-(4-Hydroxybenzylidene)acetone,N-Isovaleroylglycine,1
 5-Aminovaleric acid,N-Isovaleroylglycine,-1
 "beta-d-Fructopyranose, 1-deoxy-1-(4-morpholinyl)-2,3,4,5-tetrakis-O-(trimethylsilyl)-",N-Isovaleroylglycine,1
@@ -4363,7 +4023,6 @@ Octopamine,"N,9-bis(Trimethylsilyl)-6-[(trimethylsilyl)oxy]-9H-purin-2-amine",-1
 "1,3-bis[(Trimethylsilyl)ethynyl]benzene","N,N-Diethyl-2-aminoethanol",1
 "2-Hexenoic acid, 2-[(trimethylsilyl)oxy]-","N,N-Diethyl-2-aminoethanol",1
 "5alpha-Pregnane-3,20-dione","N,N-Diethyl-2-aminoethanol",1
-"Octane, 1-propoxy-","N,N-Diethyl-2-aminoethanol",1
 Phenoxyacetic acid,"N,N-Diethyl-2-aminoethanol",1
 S-Methyl-L-cysteine,"N,N-Diethyl-2-aminoethanol",1
 3'-Hydroxyacetophenone,"N,N-Dimethyl-2-cyclohexyloxyethylamine",1
@@ -4380,7 +4039,6 @@ Nonadecanoic acid,Neostigmine ,1
 Phloroglucinol,Neostigmine ,1
 Pimelic acid,Neostigmine ,1
 "Propanetriol, 2-methyl-",Neostigmine ,1
-"Propanoic acid, 2-methyl-",Neostigmine ,1
 Propylamine,Neostigmine ,1
 S-Methyl-L-cysteine,Neostigmine ,1
 Suberic acid,Neostigmine ,1
@@ -4399,7 +4057,6 @@ Phlorizin,Niclosamide,1
 Phloroglucinol,Niclosamide,1
 Pimelic acid,Niclosamide,1
 "Propanetriol, 2-methyl-",Niclosamide,1
-"Propanoic acid, 2-methyl-",Niclosamide,1
 Salsoline,Niclosamide,1
 L-Tyrosine,Niclosamide,1
 "2-Hexenoic acid, 2-[(trimethylsilyl)oxy]-",Nitrosothymol,1
@@ -4487,7 +4144,6 @@ Trimethylsilyl oct-2-enoate ,Phenoxyacetic acid,1
 Uridine,Phenylalanine,1
 Xylose,Phenylalanine,1
 "Butanal, 2,3,4-tris[(trimethylsilyl)oxy]-, O-methyloxime, [R-(R*,R*)]-",Phosalone,-1
-"Propiophenone, 3',4'-dimethoxy-",Phosalone,-1
 (pm)-alpha-Tocopherol acetate,Pimelic acid,1
 1-Monoacetin,Pimelic acid,1
 1-Phenylethanol,Pimelic acid,-1
@@ -4579,7 +4235,6 @@ Niacinamide,Trisaminol,1
 1-Phenylethanol,Uridine,-1
 3-Hydroxybutyric acid,Uridine,1
 Xylose,Uridine,1
-3-Amino-5-morpholinomethyl-2-oxazolidinone,"(2S,3R)-3-[(4E,7E)-Nona-4,7-dienoyl]-N,N-bis(trimethylsilyl)oxirane-2-carboxamide ",-1
 1-(4-Hydroxybenzylidene)acetone,3-Amino-5-morpholinomethyl-2-oxazolidinone,1
 1-Octanol,3-Amino-5-morpholinomethyl-2-oxazolidinone,1
 "Acetamide, N,N-diethyl-",3-Amino-5-morpholinomethyl-2-oxazolidinone,1
@@ -4587,11 +4242,9 @@ Xylose,Uridine,1
 L-Tyrosine,3-Amino-5-morpholinomethyl-2-oxazolidinone,1
 "(R*,S*)-2,3-Dihydroxybutanoic acid",(pm)-alpha-Tocopherol acetate,1
 2-Naphthol,(pm)-alpha-Tocopherol acetate,1
-4-Hydroxybenzaldehyde,(pm)-alpha-Tocopherol acetate,1
 5-Hydroxytryptophan,(pm)-alpha-Tocopherol acetate,1
 Benzeneacetic acid,(pm)-alpha-Tocopherol acetate,1
  5-Hydroxyhexanoic acid,(pm)-alpha-Tocopherol acetate,1
-Citric acid,(pm)-alpha-Tocopherol acetate,1
 Diphenyl ether,(pm)-alpha-Tocopherol acetate,1
 Hexanedioic acid,(pm)-alpha-Tocopherol acetate,1
 Itaconic acid,(pm)-alpha-Tocopherol acetate,1
@@ -4616,16 +4269,13 @@ S-Methyl-L-cysteine,"2-Hexenoic acid, 2-[(trimethylsilyl)oxy]-",1
 Salsoline,"2-Hexenoic acid, 2-[(trimethylsilyl)oxy]-",1
 Albizziin,2-Hydroxy-2-methylbutyric acid,1
 2-Naphthol,"2-Propanone, bis(1-methylethyl)hydrazone",1
-3-Indolepropionic acid,"2-Propanone, bis(1-methylethyl)hydrazone",-1
 5-Hydroxytryptophan,"2-Propanone, bis(1-methylethyl)hydrazone",1
-"9,12-Octadecadienoic acid","2-Propanone, bis(1-methylethyl)hydrazone",-1
 alpha-Tocopherol,"2-Propanone, bis(1-methylethyl)hydrazone",1
 Cholesterol,"2-Propanone, bis(1-methylethyl)hydrazone",1
 Diphenyl ether,"2-Propanone, bis(1-methylethyl)hydrazone",1
 Dodecanoic acid,"2-Propanone, bis(1-methylethyl)hydrazone",1
 N-Acetyl-L-glutamic acid,"2-Propanone, bis(1-methylethyl)hydrazone",1
 p-Hydroxydiisopropylbenzene,"2-Propanone, bis(1-methylethyl)hydrazone",1
-"Phenol, 3,5-bis(1,1-dimethylethyl)-","2-Propanone, bis(1-methylethyl)hydrazone",1
 Phloroglucinol,"2-Propanone, bis(1-methylethyl)hydrazone",1
 1-(4-Hydroxybenzylidene)acetone,alpha-Tocopherol,1
 5-(2-Aminopropyl)-2-methylphenol,alpha-Tocopherol,-1
@@ -4670,15 +4320,12 @@ Dobutamine,"Trimethylsilyl (5-benzyl-3,6-dioxopiperazin-2-yl)acetate",-1
 1-(4-Hydroxybenzylidene)acetone,2-Naphthol,1
 Phlorizin,2-Naphthol,1
 5-Ethyluracil,Dodecanoic acid,1
-"Benzene, 1,3-bis(1,1-dimethylethyl)-",Dodecanoic acid,1
-Boric acid,Dodecanoic acid,1
 Phlorizin,Dodecanoic acid,1
 L-Tyrosine,Dodecanoic acid,1
 "Acetamide, N,N-diethyl-",Eicosapentaenoic acid,1
 "D-Erythro-Pentofuranose, 2-deoxy-1,3-bis-O-",Eicosapentaenoic acid,1
 "1,3-bis[(Trimethylsilyl)ethynyl]benzene",Phlorizin,1
 5-Hydroxytryptophan,Phlorizin,1
-"Benzene, 1,3-bis(1,1-dimethylethyl)-",Phlorizin,1
 Salsoline,Phlorizin,1
 Trimethylsilyl oct-2-enoate ,Phlorizin,1
 2-Pyrrolidinone,4-Hydroxybenzaldehyde,1
@@ -4689,7 +4336,6 @@ Salsoline,5-Hydroxytryptophan,1
 "5-Androsten-17alpha-methyl-3beta,17beta-diol",Benzeneacetic acid,1
 7-(Trimethylsilyl)amino-4-methylcoumarin,Benzeneacetic acid,1
 "Ethanamine, N,N-diethyl-2,2-dimethyl-2-[(3,5-dimethoxy)phenyl]-",Benzeneacetic acid,1
-1-Tetradecanol,Citric acid,1
 "Acetohydrazide, 2-(2-isopropyl-5-methylphenoxy)-N2-benzylideno-",Hexanedioic acid,1
 1-Phenylethanol,Itaconic acid,-1
 Arabinaric acid,Itaconic acid,1
@@ -4707,27 +4353,20 @@ Phthalazin-1-one,L-Leucine,-1
 Delorazepam,Naphthofluorescein,1
 Glucose,Naphthofluorescein,1
 3-Indolepropionic acid,(pm)-Phenylpropanolamine,-1
-Vanillylmandelic acid,(pm)-Phenylpropanolamine,1
 S-Methyl-L-cysteine,3-Indolepropionic acid,1
 DL-Ornithine,Vanillylmandelic acid,1
 DL-Phenylalanine,"1,3-Cyclohexanebis(methylamine)",1
 "1,3-bis[(Trimethylsilyl)ethynyl]benzene",1-(4-Hydroxybenzylidene)acetone,1
 4-Hydroxy-5-(hydroxymethyl)oxolan-2-one,1-(4-Hydroxybenzylidene)acetone,-1
-D-Threitol,1-(4-Hydroxybenzylidene)acetone,1
 L-Threitol,1-(4-Hydroxybenzylidene)acetone,1
 S-Methyl-L-cysteine,1-(4-Hydroxybenzylidene)acetone,1
 Cyclo(L-prolyl-L-valine) ,4-Hydroxy-5-(hydroxymethyl)oxolan-2-one,-1
-12-Hydroxyoctadecanoic acid,D-Threitol,1
 1-Tetradecanol,S-Methyl-L-cysteine,1
 4-Cumylphenol,S-Methyl-L-cysteine,1
 "Methyl (3,4-dimethoxyphenyl)(hydroxy)acetate",3'-Hydroxyacetophenone,1
-Niacin,3'-Hydroxyacetophenone,1
-Niacinamide,3'-Hydroxyacetophenone,1
 Cholesterol,L-Glutamic acid,1
-"Pentanedioic acid, 2-[(trimethylsilyl)oxy]-",L-Glutamic acid,1
 "Acetohydrazide, 2-(2-isopropyl-5-methylphenoxy)-N2-benzylideno-",1-Octanol,1
 "beta-d-Fructopyranose, 1-deoxy-1-(4-morpholinyl)-2,3,4,5-tetrakis-O-(trimethylsilyl)-",1-Octanol,1
-Boric acid,1-Octanol,1
 "DL-Proline, 5-oxo-","Butanal, 2,3,4-tris[(trimethylsilyl)oxy]-, O-methyloxime, [R-(R*,R*)]-",1
 12-Hydroxyoctadecanoic acid,"2-Amino-4,6-dihydroxypyrimidine",-1
 3-Hydroxybutyric acid,1-Phenylethanol,-1
@@ -4735,14 +4374,11 @@ Boric acid,1-Octanol,1
 "9,12-Octadecadienoic acid",1-Tetradecanol,1
 "Pyrazine, 3,6-dihydro-3,6-dimethyl-",Bis(trimethylsilyl)acetylene,-1
 "7-Acetyl-6-ethyl-1,1,4,4-tetramethyltetralin ","Benzene, 1,1'-(1,2-cyclobutanediyl)bis-",1
-"Pentanedioic acid, 2-[(trimethylsilyl)oxy]-","Benzene, 1,1'-(1,2-cyclobutanediyl)bis-",-1
 4-Cumylphenol,Cholesterol,1
-"9,12-Octadecadienoic acid","Acetohydrazide, 2-(2-isopropyl-5-methylphenoxy)-N2-benzylideno-",-1
 Ammeline,"Acetohydrazide, 2-(2-isopropyl-5-methylphenoxy)-N2-benzylideno-",1
 Arabinaric acid,Trimethylsilyl 3-((trimethylsilyl)thio)propanoate,1
 N-Acetyl-L-glutamic acid,Trimethylsilyl 3-((trimethylsilyl)thio)propanoate,1
 5-Aminovaleric acid,"Methyl (3,4-dimethoxyphenyl)(hydroxy)acetate",-1
-5-Aminovaleric acid,Lactic Acid,-1
 5-Aminovaleric acid,"9,12-Octadecadienoic acid",-1
 Octopamine,4-Cumylphenol,-1
 Palmitelaidic acid,5-Aminovaleric acid,-1
@@ -4751,13 +4387,10 @@ DL-Ornithine,DL-Phenylalanine,1
 D-Ribose,"7-Acetyl-6-ethyl-1,1,4,4-tetramethyltetralin ",-1
 N-Isobutyrylglycine,Quazodine,1
 Norketamine,"2-Acetyl-3-(1-methyl-2-pyrrolyl)-1,4-benzenediol",1
-Trimethylsilyl oct-2-enoate ,"2-Acetyl-3-(1-methyl-2-pyrrolyl)-1,4-benzenediol",1
 Ketamine ,Norketamine,1
 "D-(-)-Lyxose, tetrakis",Trimethylsilyl oct-2-enoate ,1
-"D-(-)-Ribofuranose, tetrakis",2-Hexen-1-ol,1
 D-Ribose,2-Hexen-1-ol,1
 Pyrrole-2-carboxylic acid,2-Hexen-1-ol,1
-"Benzene, 1,3-bis(1,1-dimethylethyl)-",Pyrrole-2-carboxylic acid,1
 "D-Xylofuranose, 1,2,3,5-tetrakis-O-",5-(2-Aminopropyl)-2-methylphenol,-1
 l-Histidine ethyl ester,5-(2-Aminopropyl)-2-methylphenol,-1
 6-Hydroxyflavone-beta-D-glucoside,N-Acetyl-L-glutamic acid,1
@@ -4766,4 +4399,3 @@ L-Norleucine,2-Pyrrolidinone,1
 Phenylpropanolamine,Ornithine,-1
 beta-Hydroxypyruvic acid,"Ethanamine, N,N-diethyl-2,2-dimethyl-2-[(3,5-dimethoxy)phenyl]-",1
 Octopamine,Cinnamic acid,-1
-6-Hydroxyflavone-beta-D-glucoside,Delorazepam,-1

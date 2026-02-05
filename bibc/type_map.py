@@ -1,9 +1,9 @@
 import pandas as pd
 
 #deal with UNKNOWN genes in ctx
-def unknowns(name, tissue, uid):
+def unknowns(name, tissue, node_id):
     if name == "UNKNOWN" and tissue == "Cortex":
-        return f"{name}_{uid}"
+        return f"{name}_{node_id}"
     else:
         return name
     
@@ -21,8 +21,6 @@ def filter_edges(df : pd.DataFrame, valid_pairs):
 
     return edges
 
-
-
 def extract_tissue(node):
 
     flag = node.split("__")[-1]
@@ -36,7 +34,7 @@ def build_typemap(edge_file, out_file):
         "n" : nodes,
         "t" :nodes.apply(extract_tissue)})
 
-    type_map.to_csv(out_file, index=False)
+    type_map.to_csv(out_file, index=False, header=False)
     
 
 
@@ -50,19 +48,17 @@ flag_map = {v: k for k, v in tissue_flag.items()}
 df = df[~df["Node 1 Tissue"].isin(["Remaining Brain", "Striatum"])]
 df = df[~df["Node 2 Tissue"].isin(["Remaining Brain", "Striatum"])]
 
-df["Node1_u"] = df.groupby(["Node 1 Name", "Node 1 Tissue"]).cumcount() +1
-df["Node2_u"] = df.groupby(["Node 2 Name", "Node 2 Tissue"]).cumcount()+1
-
 df["Node1_unique"] = df.apply(
-    lambda r: unknowns(r["Node 1 Name"], r["Node 1 Tissue"], r["Node1_u"]), axis=1)
+    lambda r: unknowns(r["Node 1 Name"], r["Node 1 Tissue"], r["Node 1 ID"]), axis=1)
 df["Node2_unique"] = df.apply(
-    lambda r: unknowns(r["Node 2 Name"], r["Node 2 Tissue"], r["Node2_u"]), axis=1)
+    lambda r: unknowns(r["Node 2 Name"], r["Node 2 Tissue"], r["Node 2 ID"]), axis=1)
 df["Node1_labeled"] = df["Node1_unique"] + "__" + df["Node 1 Tissue"].map(tissue_flag)
 df["Node2_labeled"] = df["Node2_unique"] + "__" + df["Node 2 Tissue"].map(tissue_flag)
 
 
 pls_ctx_pairs = {("Plasma", "Plasma"), ("Plasma", "Choroid Plexus"), ("Choroid Plexus", "Choroid Plexus"),
                   ("Choroid Plexus", "Plasma"), ("Choroid Plexus", "Cortex"), ("Cortex", "Cortex"), ("Cortex", "Choroid Plexus")}
+
 fec_ctx_pairs = {("Feces","Feces"), ("Feces", "Plasma"),("Plasma", "Plasma"), ("Plasma", "Feces"),("Plasma", "Choroid Plexus"),
     ("Choroid Plexus", "Choroid Plexus"), ("Choroid Plexus", "Plasma"),("Choroid Plexus", "Cortex"),("Cortex", "Cortex"),
     ("Cortex", "Choroid Plexus")}

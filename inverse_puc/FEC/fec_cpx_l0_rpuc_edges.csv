@@ -1,0 +1,2083 @@
+n1,n2,edge_dir
+Cope,"2,4-Di-tert-butylphenol",-1
+"2,4-Di-tert-butylphenol",Spmip6,-1
+"2,4-Di-tert-butylphenol",Vps37d,-1
+Nedd4,L-Valine,1
+L-Valine,Wbp11,1
+L-Valine,Usf3,1
+L-Valine,Fn3krp,1
+L-Valine,Pak2,1
+L-Valine,Cebpz,1
+L-Valine,Kin,1
+L-Valine,Ibtk,1
+L-Valine,Ctdspl2,1
+L-Valine,Pabpc1,1
+L-Valine,Kif2a,1
+L-Valine,Arhgef12,1
+L-Valine,Arhgap5,1
+L-Valine,Slk,1
+L-Valine,Cdkn1c,1
+L-Valine,Smim10l1,1
+L-Valine,Ap3b1,1
+L-Valine,Wasl,1
+L-Valine,Gsk3b,1
+L-Valine,D630036H23Rik,1
+L-Valine,Pbx1,1
+L-Valine,Tulp4,1
+L-Valine,Wbp4,1
+L-Valine,Vps13b,1
+L-Valine,Setx,1
+L-Valine,Pcmtd1,1
+L-Valine,Mafg,1
+L-Valine,B230219D22Rik,1
+L-Valine,Stag2,1
+L-Valine,Phactr2,1
+L-Valine,Fcho2,1
+L-Valine,Smarca5,1
+L-Valine,Gtpbp4,1
+L-Valine,Vps36,1
+Mob4,Deoxyglucose,-1
+Deoxyglucose,Igfbp6,-1
+Vanillin,Silc1,-1
+Vanillin,Adcy9,-1
+Vanillin,Cdkn1c,1
+Vanillin,Gm43568,1
+Vanillin,Smim10l1,1
+Vanillin,Rdx,1
+Vanillin,Golm2,1
+Vanillin,Cnih2,-1
+Vanillin,Osgepl1,1
+Vanillin,Atn1,1
+Vanillin,Map3k5,1
+Vanillin,Ptgr3,1
+Vanillin,Serpinb8,1
+Vanillin,Gsta4,1
+Dnajc21,"beta-d-Glucopyranose, 2-(acetylamino)-3,6-anhydro-2-deoxy",1
+"beta-d-Glucopyranose, 2-(acetylamino)-3,6-anhydro-2-deoxy",Bhmt2,1
+"beta-d-Glucopyranose, 2-(acetylamino)-3,6-anhydro-2-deoxy",Psma4,1
+"beta-d-Glucopyranose, 2-(acetylamino)-3,6-anhydro-2-deoxy",Prxl2c,1
+"beta-d-Glucopyranose, 2-(acetylamino)-3,6-anhydro-2-deoxy",Smim10l1,1
+"beta-d-Glucopyranose, 2-(acetylamino)-3,6-anhydro-2-deoxy",Asb8,-1
+"beta-d-Glucopyranose, 2-(acetylamino)-3,6-anhydro-2-deoxy",Wbp4,1
+"beta-d-Glucopyranose, 2-(acetylamino)-3,6-anhydro-2-deoxy",Setx,1
+"beta-d-Glucopyranose, 2-(acetylamino)-3,6-anhydro-2-deoxy",Cep57,1
+"beta-d-Glucopyranose, 2-(acetylamino)-3,6-anhydro-2-deoxy",Ofd1,1
+"beta-d-Glucopyranose, 2-(acetylamino)-3,6-anhydro-2-deoxy",Efhb,1
+"beta-d-Glucopyranose, 2-(acetylamino)-3,6-anhydro-2-deoxy",Vmp1,-1
+"beta-d-Glucopyranose, 2-(acetylamino)-3,6-anhydro-2-deoxy",Zfp1007,1
+"beta-d-Glucopyranose, 2-(acetylamino)-3,6-anhydro-2-deoxy",Gtpbp4,1
+Wbp11,"2-Propenoic acid, 2-hydroxy-3-(4-hydroxyphenyl)",1
+Wbp11,L-Aspartic acid,1
+Wbp11,Methylsuccinic acid,1
+"2-Propenoic acid, 2-hydroxy-3-(4-hydroxyphenyl)",Ibtk,1
+"2-Propenoic acid, 2-hydroxy-3-(4-hydroxyphenyl)",Ctdspl2,1
+"2-Propenoic acid, 2-hydroxy-3-(4-hydroxyphenyl)",Srebf2,-1
+"2-Propenoic acid, 2-hydroxy-3-(4-hydroxyphenyl)",Gpaa1,-1
+"2-Propenoic acid, 2-hydroxy-3-(4-hydroxyphenyl)",Ap3b1,1
+"2-Propenoic acid, 2-hydroxy-3-(4-hydroxyphenyl)",Rhob,-1
+"2-Propenoic acid, 2-hydroxy-3-(4-hydroxyphenyl)",Pi4ka,-1
+"2-Propenoic acid, 2-hydroxy-3-(4-hydroxyphenyl)",Pbx1,1
+"2-Propenoic acid, 2-hydroxy-3-(4-hydroxyphenyl)",Tulp4,1
+"2-Propenoic acid, 2-hydroxy-3-(4-hydroxyphenyl)",Vps13b,1
+"2-Propenoic acid, 2-hydroxy-3-(4-hydroxyphenyl)",Setx,1
+"2-Propenoic acid, 2-hydroxy-3-(4-hydroxyphenyl)",Pja2,1
+"2-Propenoic acid, 2-hydroxy-3-(4-hydroxyphenyl)",Dync1h1,-1
+"2-Propenoic acid, 2-hydroxy-3-(4-hydroxyphenyl)",Tceal8,1
+"2-Propenoic acid, 2-hydroxy-3-(4-hydroxyphenyl)",Vps36,1
+L-Aspartic acid,Ibtk,1
+L-Aspartic acid,Ctdspl2,1
+L-Aspartic acid,Kcmf1,1
+L-Aspartic acid,Cep78,1
+Methylsuccinic acid,Ibtk,1
+Methylsuccinic acid,Apc2,-1
+Methylsuccinic acid,Mtpn,1
+Methylsuccinic acid,Pthlh,1
+Methylsuccinic acid,Serpinb8,1
+Plgrkt,2-Pyrrolidinone,1
+Plgrkt,Decyl oleate,1
+Plgrkt,DL-Phenylalanine,1
+Plgrkt,"Gluconolactone (3R,4S,5R,6R)",1
+Plgrkt,L-Isoleucine,1
+2-Pyrrolidinone,Dek,1
+2-Pyrrolidinone,Cdkn1c,1
+2-Pyrrolidinone,Upf2,1
+2-Pyrrolidinone,Atn1,1
+Decyl oleate,Dnajc7,-1
+Decyl oleate,4930550C14Rik,1
+Decyl oleate,Opa1,1
+Decyl oleate,Jph1,1
+DL-Phenylalanine,Pak2,1
+DL-Phenylalanine,Cebpz,1
+DL-Phenylalanine,Ibtk,1
+DL-Phenylalanine,Ctdspl2,1
+DL-Phenylalanine,Lmtk3,-1
+DL-Phenylalanine,Cyyr1,1
+DL-Phenylalanine,Cdkn1c,1
+DL-Phenylalanine,Ap3b1,1
+DL-Phenylalanine,Rhob,-1
+DL-Phenylalanine,Mtpn,1
+DL-Phenylalanine,Pi4ka,-1
+DL-Phenylalanine,Pbx1,1
+DL-Phenylalanine,Tulp4,1
+DL-Phenylalanine,Wbp4,1
+DL-Phenylalanine,Vps13b,1
+DL-Phenylalanine,Setx,1
+DL-Phenylalanine,Fundc2,1
+DL-Phenylalanine,Stag2,1
+DL-Phenylalanine,Phactr2,1
+DL-Phenylalanine,Smarca5,1
+DL-Phenylalanine,Dhx9,1
+"Gluconolactone (3R,4S,5R,6R)",Adcy9,-1
+"Gluconolactone (3R,4S,5R,6R)",Nfe2l2,1
+"Gluconolactone (3R,4S,5R,6R)",Dynlt2b,1
+"Gluconolactone (3R,4S,5R,6R)",Gm43568,1
+"Gluconolactone (3R,4S,5R,6R)",Smim10l1,1
+"Gluconolactone (3R,4S,5R,6R)",Gnas,1
+"Gluconolactone (3R,4S,5R,6R)",5430402O13Rik,1
+L-Isoleucine,Fn3krp,1
+L-Isoleucine,Ctdspl2,1
+L-Isoleucine,Pdlim5,1
+L-Isoleucine,Lmtk3,-1
+L-Isoleucine,Cyyr1,1
+L-Isoleucine,Lepr,1
+L-Isoleucine,Osbp,1
+L-Isoleucine,Klf3,1
+L-Isoleucine,Ccdc148,1
+L-Isoleucine,Cdkn1c,1
+L-Isoleucine,Mrps18a,-1
+L-Isoleucine,Smim10l1,1
+L-Isoleucine,Stk26,1
+L-Isoleucine,Iqgap2,1
+L-Isoleucine,Gnas,1
+L-Isoleucine,Pi4ka,-1
+L-Isoleucine,Pbx1,1
+L-Isoleucine,Golm2,1
+L-Isoleucine,Vps13b,1
+L-Isoleucine,Ahcyl2,1
+L-Isoleucine,Myof,1
+L-Isoleucine,Nsmf,-1
+L-Isoleucine,Serp2,-1
+L-Isoleucine,Rpp30,1
+L-Isoleucine,Gtpbp4,1
+L-Isoleucine,Stxbp4,1
+Ankmy2,5-Oxohexanoic Acid,-1
+5-Oxohexanoic Acid,Poglut1,1
+5-Oxohexanoic Acid,Grcc10,1
+5-Oxohexanoic Acid,4632415L05Rik,-1
+Usf3,Deoxycholic Acid,1
+Usf3,D-Fructose,1
+Deoxycholic Acid,Smarca2,1
+Deoxycholic Acid,Gdpd3,-1
+Deoxycholic Acid,Smim15,1
+Deoxycholic Acid,Fgl2,-1
+D-Fructose,Pla2g3,-1
+D-Fructose,Strada,1
+Zkscan8,D-(-)-Fructopyranose,1
+D-(-)-Fructopyranose,Kpna4,1
+D-(-)-Fructopyranose,Sh3bgrl2,1
+D-(-)-Fructopyranose,Ube3c,1
+Chmp4c,"2-Butenoic acid, 2-hydroxy-",-1
+"2-Butenoic acid, 2-hydroxy-",Baiap2l1,1
+"2-Butenoic acid, 2-hydroxy-",Agbl3,1
+"2-Butenoic acid, 2-hydroxy-",Sulf2,-1
+"2-Butenoic acid, 2-hydroxy-",Zbtb39,-1
+Zfp975,1-Hexacosene,1
+Zfp975,"2,5-Dimethoxyphenol",1
+Zfp975,"2-Allyl-1,4-dimethoxybenzene ",1
+Zfp975,"2-Butenoic acid, 2-methyl-, 2-methyl-2-propenyl ester",1
+Zfp975,3-Hexenedioic acid,1
+1-Hexacosene,Ppp1r12a,1
+1-Hexacosene,Zbtb7a,1
+1-Hexacosene,Pebp4,1
+"2,5-Dimethoxyphenol",Fn3krp,1
+"2-Allyl-1,4-dimethoxybenzene ",Fn3krp,1
+"2-Allyl-1,4-dimethoxybenzene ",Hmces,-1
+"2-Allyl-1,4-dimethoxybenzene ",Cpxm2,1
+"2-Allyl-1,4-dimethoxybenzene ",Tm9sf3,1
+"2-Allyl-1,4-dimethoxybenzene ",Gsta4,1
+"2-Butenoic acid, 2-methyl-, 2-methyl-2-propenyl ester",A930024E05Rik,1
+3-Hexenedioic acid,Zbtb37,1
+Fn3krp,2-Ethylhexanoic acid,1
+Fn3krp,pyrazole,1
+Fn3krp,beta-Alanine,1
+Fn3krp,L-5-Oxoproline,1
+Fn3krp,Niacin,1
+Fn3krp,Phenol,1
+Fn3krp,Syringaldehyde,1
+Fn3krp,Urea,1
+2-Ethylhexanoic acid,Gm15408,1
+2-Ethylhexanoic acid,Cspg5,-1
+2-Ethylhexanoic acid,Ibtk,1
+2-Ethylhexanoic acid,Cep41,1
+2-Ethylhexanoic acid,Wapl,1
+2-Ethylhexanoic acid,Apc2,-1
+2-Ethylhexanoic acid,Wasl,1
+2-Ethylhexanoic acid,Stk26,1
+2-Ethylhexanoic acid,Gnas,1
+2-Ethylhexanoic acid,Wbp4,1
+2-Ethylhexanoic acid,Nsmf,-1
+2-Ethylhexanoic acid,Fgfr1op2,1
+2-Ethylhexanoic acid,Aasdhppt,1
+2-Ethylhexanoic acid,Qser1,1
+2-Ethylhexanoic acid,Stag2,1
+pyrazole,Smim10l1,1
+pyrazole,Gnas,1
+pyrazole,H1f10,-1
+pyrazole,Clec14a,1
+pyrazole,Serp2,-1
+pyrazole,Ric3,1
+pyrazole,Rpp30,1
+beta-Alanine,Ibtk,1
+beta-Alanine,Ctdspl2,1
+beta-Alanine,Lmtk3,-1
+beta-Alanine,Cdkn1c,1
+beta-Alanine,Gm6548,1
+beta-Alanine,Slc6a13,-1
+beta-Alanine,Pi4ka,-1
+beta-Alanine,Pbx1,1
+beta-Alanine,Cerox1,-1
+beta-Alanine,Vps13b,1
+beta-Alanine,Lrrc8c,1
+beta-Alanine,Nsmf,-1
+beta-Alanine,Dnajc13,1
+beta-Alanine,Upf2,1
+L-5-Oxoproline,Ibtk,1
+L-5-Oxoproline,Ap3b1,1
+L-5-Oxoproline,Rhob,-1
+L-5-Oxoproline,Irak1bp1,1
+L-5-Oxoproline,Cnih2,-1
+L-5-Oxoproline,Slc25a20,1
+L-5-Oxoproline,Stag2,1
+L-5-Oxoproline,Map3k5,1
+Phenol,Serbp1,1
+Phenol,Hdac9,-1
+Phenol,Ibtk,1
+Phenol,Birc2,1
+Phenol,Prpf6,1
+Phenol,Rufy3,-1
+Phenol,Ap3b1,1
+Phenol,Wasl,1
+Phenol,H1f10,-1
+Phenol,Chi3l1,1
+Phenol,Luzp1,1
+Phenol,Slc35a3,1
+Phenol,Bcl2l12,1
+Phenol,Dcaf12l1,1
+Phenol,Kmt5b,1
+Syringaldehyde,Ibtk,1
+Syringaldehyde,Dynlt2b,1
+Syringaldehyde,Smim10l1,1
+Syringaldehyde,Ptger1,1
+Syringaldehyde,Ap3b1,1
+Syringaldehyde,Gnas,1
+Syringaldehyde,Ahcyl2,1
+Syringaldehyde,mt-Tv,-1
+Syringaldehyde,mt-Tl1,-1
+Syringaldehyde,Tm9sf3,1
+Syringaldehyde,Stag2,1
+Syringaldehyde,Gsta4,1
+Urea,Ibtk,1
+Urea,Mtap,1
+Urea,Ubl3,1
+Urea,Cdkn1c,1
+Urea,Wapl,1
+Urea,Prxl2c,1
+Urea,Smim10l1,1
+Urea,Eef1a1,1
+Urea,Zfp322a,1
+Urea,Iqgap2,1
+Urea,Pbx1,1
+Urea,Wbp4,1
+Urea,Ahcyl2,1
+Urea,Evi5,1
+Urea,Lrrc8c,1
+Urea,Serp2,-1
+Urea,Fgfr1op2,1
+Urea,Ric3,1
+Urea,Sin3a,1
+Urea,Mpp7,1
+Urea,Sytl2,1
+Urea,Kpna3,1
+Urea,Tm9sf3,1
+Urea,Stag2,1
+Urea,Smarca5,1
+Urea,Slain2,1
+Serbp1,1-Dodecanol,1
+Serbp1,Benzoic Acid,1
+Serbp1,D-Allofuranose,1
+1-Dodecanol,Sec62,1
+1-Dodecanol,Wasl,1
+1-Dodecanol,Chd5,-1
+1-Dodecanol,Slc35a3,1
+1-Dodecanol,Kmt5b,1
+Benzoic Acid,Pura,1
+Benzoic Acid,Zbtb7a,1
+Benzoic Acid,Sec62,1
+Benzoic Acid,Nkapd1,1
+Benzoic Acid,Lrrc8c,1
+Benzoic Acid,Ric3,1
+D-Allofuranose,Pura,1
+D-Allofuranose,Sec62,1
+D-Allofuranose,Slc35a3,1
+Fsbp,L-Valyl-L-leucine,1
+L-Valyl-L-leucine,Dynlt2b,-1
+L-Valyl-L-leucine,Osbp,-1
+L-Valyl-L-leucine,Prxl2c,-1
+L-Valyl-L-leucine,Sc5d,-1
+L-Valyl-L-leucine,Recql5,1
+L-Valyl-L-leucine,Gm25517,-1
+L-Valyl-L-leucine,Serp2,1
+L-Valyl-L-leucine,Sox13,-1
+L-Valyl-L-leucine,Dnase1l1,-1
+H2az2,Azelaic acid,1
+H2az2,l-Leucyl-l-valine,1
+2-Piperidinone,Lmtk3,-1
+2-Piperidinone,Cdkn1c,1
+2-Piperidinone,Gnas,1
+2-Piperidinone,Zfp383,1
+2-Piperidinone,Gm15083,1
+2-Piperidinone,Wbp4,1
+2-Piperidinone,Vps13b,1
+2-Piperidinone,5430402O13Rik,1
+2-Piperidinone,Col8a1,1
+2-Piperidinone,Nsmf,-1
+2-Piperidinone,Dcaf12l1,1
+2-Piperidinone,Tm9sf3,1
+l-Leucyl-l-valine,Acox1,1
+l-Leucyl-l-valine,Grcc10,1
+l-Leucyl-l-valine,Uqcc5,1
+l-Leucyl-l-valine,Zfp27,1
+Poglut1,"1,4-Butanediol",1
+"1,4-Butanediol",Usp9x,-1
+"1,4-Butanediol",Ap3b1,-1
+"1,4-Butanediol",Wasl,-1
+"1,4-Butanediol",Tulp4,-1
+"1,4-Butanediol",Jph1,-1
+"1,4-Butanediol",Dhx36,-1
+"1,4-Butanediol",Camk1d,-1
+Wdr38,3-Buten-2-one,1
+3-Buten-2-one,Kpna4,-1
+3-Buten-2-one,Gm42636,-1
+3-Buten-2-one,Kcmf1,-1
+Pak2,D-Ribose,1
+D-Ribose,Baiap2l1,1
+D-Ribose,Psma4,1
+D-Ribose,Ccdc148,1
+D-Ribose,Csnk1a1,1
+D-Ribose,Evi5,1
+D-Ribose,Ofd1,1
+Rpn2,D-(-)-Ribofuranose,1
+Gm43339,1-Tetradecanol,1
+Gm43339,Pyrogallol,1
+Gm43339,Tripropylene glycol monomethyl ether,1
+1-Tetradecanol,Hdac9,-1
+1-Tetradecanol,Birc2,1
+1-Tetradecanol,Cmtm8,1
+1-Tetradecanol,Tmem204,1
+1-Tetradecanol,Samd14,-1
+1-Tetradecanol,H1f10,-1
+1-Tetradecanol,5330425B07Rik,1
+1-Tetradecanol,Chd5,-1
+1-Tetradecanol,Slc35a3,1
+1-Tetradecanol,Sytl2,1
+1-Tetradecanol,Klf8,-1
+Tripropylene glycol monomethyl ether,Ibtk,1
+Tripropylene glycol monomethyl ether,Psma4,1
+Tripropylene glycol monomethyl ether,Ccdc59,1
+Tripropylene glycol monomethyl ether,Wapl,1
+Tripropylene glycol monomethyl ether,Smim10l1,1
+Tripropylene glycol monomethyl ether,Limch1,1
+Tripropylene glycol monomethyl ether,Wasl,1
+Tripropylene glycol monomethyl ether,Ergic2,1
+Tripropylene glycol monomethyl ether,Bcat1,-1
+Tripropylene glycol monomethyl ether,Samd14,-1
+Tripropylene glycol monomethyl ether,Csnk1a1,1
+Tripropylene glycol monomethyl ether,Wbp4,1
+Tripropylene glycol monomethyl ether,Evi5,1
+Tripropylene glycol monomethyl ether,Fgfr1op2,1
+Tripropylene glycol monomethyl ether,Sin3a,1
+Tripropylene glycol monomethyl ether,Mpp7,1
+Tripropylene glycol monomethyl ether,Zfp1007,1
+Tripropylene glycol monomethyl ether,Kpna3,1
+Tripropylene glycol monomethyl ether,Gsta4,1
+Xpc,Supraene,-1
+Supraene,Gm15675,-1
+6-Hydroxyhexanoic acid,Cmtm8,1
+6-Hydroxyhexanoic acid,Atp5mg,1
+6-Hydroxyhexanoic acid,2310014F06Rik,1
+6-Hydroxyhexanoic acid,Kmt5b,1
+Hmga1,Pentadecanoic acid,-1
+Octanoic acid,Slc11a2,1
+Octanoic acid,Gpaa1,1
+Octanoic acid,Mfge8,1
+Octanoic acid,Atp7a,1
+Pentadecanoic acid,Prpf6,1
+Pentadecanoic acid,Sec62,1
+Pentadecanoic acid,Ifi30,1
+Ankrd12,11-Hydroxy-.DELTA.-9-tetrahydrocannabinol,1
+11-Hydroxy-.DELTA.-9-tetrahydrocannabinol,Zfp322a,1
+11-Hydroxy-.DELTA.-9-tetrahydrocannabinol,Ildr2,1
+11-Hydroxy-.DELTA.-9-tetrahydrocannabinol,Dnajc13,1
+11-Hydroxy-.DELTA.-9-tetrahydrocannabinol,Ric3,1
+11-Hydroxy-.DELTA.-9-tetrahydrocannabinol,Ppfibp1,1
+"2,3-Butanediol",Tmem204,1
+"2,3-Butanediol",Apc2,-1
+"2,3-Butanediol",Bcat1,-1
+"2,3-Butanediol",Samd14,-1
+"2,3-Butanediol",H1f10,-1
+"2,3-Butanediol",Sh3bgrl2,1
+"2,3-Butanediol",Mpp7,1
+"2,3-Butanediol",Ube3c,1
+"2,3-Butanediol",Klf8,-1
+Ddit4,L-Glutamic acid,-1
+L-Glutamic acid,Ibtk,1
+L-Glutamic acid,Rhob,-1
+Rai14,L-Rhamnose,1
+L-Rhamnose,Tmem204,1
+L-Rhamnose,Actr3,1
+L-Rhamnose,Rbm20,1
+L-Rhamnose,Atp5mg,1
+L-Rhamnose,Hook2,1
+L-Rhamnose,Suclg2,1
+L-Rhamnose,St8sia2,-1
+Gm38037,"2,3,4,5-Tetrahydroxypentanoic acid-1,4-lactone",1
+Hdac9,alpha-Linolenic acid,-1
+Hdac9,Monomethyl succinate,-1
+Hdac9,N-(2-hydroxyethyl)-succinimide,-1
+alpha-Linolenic acid,Zbtb7a,1
+alpha-Linolenic acid,Cdc14a,1
+alpha-Linolenic acid,Secisbp2l,1
+alpha-Linolenic acid,Lrp6,1
+Monomethyl succinate,Cmtm8,1
+Monomethyl succinate,Rufy3,-1
+Monomethyl succinate,Casp8,1
+Monomethyl succinate,Ildr2,1
+Monomethyl succinate,Chi3l1,1
+Monomethyl succinate,Col8a1,1
+Monomethyl succinate,Sh3bgrl2,1
+Monomethyl succinate,Slc35a3,1
+Monomethyl succinate,Lrp6,1
+Monomethyl succinate,Leprotl1,1
+Monomethyl succinate,Ube3c,1
+Monomethyl succinate,Stxbp4,1
+Monomethyl succinate,Klf8,-1
+N-(2-hydroxyethyl)-succinimide,Por,1
+N-(2-hydroxyethyl)-succinimide,Agbl3,1
+N-(2-hydroxyethyl)-succinimide,Maco1,1
+N-(2-hydroxyethyl)-succinimide,Rufy3,-1
+N-(2-hydroxyethyl)-succinimide,Pomgnt1,1
+N-(2-hydroxyethyl)-succinimide,Zfp383,1
+N-(2-hydroxyethyl)-succinimide,Col8a1,1
+N-(2-hydroxyethyl)-succinimide,Slc35a3,1
+N-(2-hydroxyethyl)-succinimide,Lrp6,1
+N-(2-hydroxyethyl)-succinimide,Mpp7,1
+N-(2-hydroxyethyl)-succinimide,Stxbp4,1
+Gm15408,Cyclohexanecarboxylic acid,1
+Cyclohexanecarboxylic acid,Pcgf5,1
+Cyclohexanecarboxylic acid,Ess2,1
+Cyclohexanecarboxylic acid,Fchsd2,1
+Cyclohexanecarboxylic acid,Heatr3,1
+Cyclohexanecarboxylic acid,Abitram,-1
+Galnt15,Glyceric acid,1
+Glyceric acid,Col9a2,1
+Glyceric acid,Nod1,1
+Por,D-Psicofuranose,-1
+Rpl18a,"D-(+)-Ribono-1,4-lactone ",1
+Rpl18a,Hymexazole,1
+"D-(+)-Ribono-1,4-lactone ",Map3k8,1
+"D-(+)-Ribono-1,4-lactone ",Dynlt2b,1
+Hymexazole,Cmtm8,1
+Hymexazole,Dync2li1,1
+Hymexazole,Actr3,1
+Hymexazole,Rlbp1,1
+Hymexazole,Vasp,1
+Grpel1,Thr-Leu,1
+Thr-Leu,Alkbh6,1
+Cspg5,"1,3-Dioxane, 2,2-dimethyl-5-hydroxy-",-1
+"1,3-Dioxane, 2,2-dimethyl-5-hydroxy-",Arhgef12,1
+"1,3-Dioxane, 2,2-dimethyl-5-hydroxy-",Zfp638,1
+"1,3-Dioxane, 2,2-dimethyl-5-hydroxy-",Wapl,1
+"1,3-Dioxane, 2,2-dimethyl-5-hydroxy-",Gm14798,-1
+"1,3-Dioxane, 2,2-dimethyl-5-hydroxy-",Gsk3b,1
+"1,3-Dioxane, 2,2-dimethyl-5-hydroxy-",Acad9,-1
+"1,3-Dioxane, 2,2-dimethyl-5-hydroxy-",Phactr2,1
+"1,3-Dioxane, 2,2-dimethyl-5-hydroxy-",Gtpbp4,1
+Klc1,Deoxyribopyranose,1
+Deoxyribopyranose,Gm6548,-1
+Deoxyribopyranose,Rufy3,1
+Deoxyribopyranose,Magix,-1
+Deoxyribopyranose,Asb16,-1
+Deoxyribopyranose,Klhl18,1
+Deoxyribopyranose,Eif3l,-1
+Kcnk5,"2',2,3,6'-Tetramethoxychalcone",-1
+"2',2,3,6'-Tetramethoxychalcone",Cox18,1
+"2',2,3,6'-Tetramethoxychalcone",Zhx1,-1
+"2',2,3,6'-Tetramethoxychalcone",Cebpd,1
+"2',2,3,6'-Tetramethoxychalcone",Twsg1,1
+Repin1,D-(+)-Talofuranose,1
+Ibtk,9H-Purin-6-ol,1
+Ibtk,"cis-4,5-Dihydroxy-o-dithiane",1
+Ibtk,D-(+)-Glucosamine,1
+Ibtk,Hydracrylic acid,1
+Ibtk,L-Threonine,1
+Ibtk,"N-Acetyl-D-galactosamine, (R,R,R,R)",1
+Ibtk,N-Acetyl-L-glutamic acid,1
+Ibtk,Salsoline,1
+Ibtk,Undecanoic acid,1
+Ibtk,Uracil,1
+9H-Purin-6-ol,Srebf2,-1
+9H-Purin-6-ol,Rhob,-1
+9H-Purin-6-ol,Tmem229b,-1
+9H-Purin-6-ol,Stag2,1
+9H-Purin-6-ol,Phactr2,1
+9H-Purin-6-ol,Ncbp2,1
+"cis-4,5-Dihydroxy-o-dithiane",Mtap,1
+"cis-4,5-Dihydroxy-o-dithiane",Dync2li1,1
+"cis-4,5-Dihydroxy-o-dithiane",Cep41,1
+"cis-4,5-Dihydroxy-o-dithiane",Actr3,1
+"cis-4,5-Dihydroxy-o-dithiane",Cdkn1c,1
+"cis-4,5-Dihydroxy-o-dithiane",Atp5mg,1
+"cis-4,5-Dihydroxy-o-dithiane",Ap3b1,1
+"cis-4,5-Dihydroxy-o-dithiane",Wbp4,1
+"cis-4,5-Dihydroxy-o-dithiane",Setx,1
+"cis-4,5-Dihydroxy-o-dithiane",Chi3l1,1
+"cis-4,5-Dihydroxy-o-dithiane",Hip1,1
+"cis-4,5-Dihydroxy-o-dithiane",Dcaf12l1,1
+"cis-4,5-Dihydroxy-o-dithiane",mt-Tl1,-1
+"cis-4,5-Dihydroxy-o-dithiane",Gsta4,1
+D-(+)-Glucosamine,Cep41,1
+D-(+)-Glucosamine,mt-Tl1,-1
+D-(+)-Glucosamine,Stag2,1
+D-(+)-Glucosamine,Pthlh,1
+D-(+)-Glucosamine,Serpinb8,1
+Hydracrylic acid,Mtap,1
+Hydracrylic acid,Wapl,1
+Hydracrylic acid,Zfp322a,1
+Hydracrylic acid,Tmem229b,-1
+Hydracrylic acid,Erbin,1
+Hydracrylic acid,Stag2,1
+Hydracrylic acid,Phactr2,1
+L-Threonine,Cdkn1c,1
+L-Threonine,Tceal8,1
+"N-Acetyl-D-galactosamine, (R,R,R,R)",Wapl,1
+"N-Acetyl-D-galactosamine, (R,R,R,R)",Prxl2c,1
+"N-Acetyl-D-galactosamine, (R,R,R,R)",Smim10l1,1
+"N-Acetyl-D-galactosamine, (R,R,R,R)",Stk26,1
+"N-Acetyl-D-galactosamine, (R,R,R,R)",Kcmf1,1
+"N-Acetyl-D-galactosamine, (R,R,R,R)",Setx,1
+"N-Acetyl-D-galactosamine, (R,R,R,R)",Evi5,1
+"N-Acetyl-D-galactosamine, (R,R,R,R)",Nsmf,-1
+"N-Acetyl-D-galactosamine, (R,R,R,R)",Aasdhppt,1
+"N-Acetyl-D-galactosamine, (R,R,R,R)",Erbin,1
+"N-Acetyl-D-galactosamine, (R,R,R,R)",Kpna3,1
+"N-Acetyl-D-galactosamine, (R,R,R,R)",Smarca5,1
+N-Acetyl-L-glutamic acid,Ano8,-1
+Salsoline,Birc2,1
+Salsoline,Slk,1
+Salsoline,Rbm27,1
+Salsoline,Atp5mg,1
+Salsoline,Ildr2,1
+Salsoline,Chi3l1,1
+Salsoline,Serp2,-1
+Salsoline,Fundc2,1
+Salsoline,Meis2,-1
+Salsoline,Ric3,1
+Salsoline,mt-Tv,-1
+Salsoline,Sin3a,1
+Salsoline,Sytl2,1
+Salsoline,2310014F06Rik,1
+Salsoline,Slain2,1
+Undecanoic acid,Slk,1
+Undecanoic acid,Zbtb37,1
+Undecanoic acid,H1f10,-1
+Undecanoic acid,Slc35a3,1
+Uracil,Cyyr1,1
+Uracil,Tmem229b,-1
+Uracil,Olfm2,-1
+Uracil,Kcmf1,1
+Uracil,mt-Tl1,-1
+Uracil,Stag2,1
+Uracil,Phactr2,1
+Uracil,Serpinb8,1
+Fam13b,5-Hydroxymethyl-2-furoic acid,1
+Ctdspl2,4-Hydroxybenzoic acid,1
+4-Hydroxybenzoic acid,Nfe2l2,1
+4-Hydroxybenzoic acid,Gpaa1,-1
+4-Hydroxybenzoic acid,Rhob,-1
+4-Hydroxybenzoic acid,Kcmf1,1
+4-Hydroxybenzoic acid,Setx,1
+4-Hydroxybenzoic acid,Stag2,1
+4-Hydroxybenzoic acid,Tceal8,1
+Ppp1r12a,Pyridoxic acid,1
+Pyridoxic acid,Sppl3,-1
+Dctn2,Cyclohexanol,1
+"2,5-Cyclohexadiene-1,4-dione, 2,6-bis(1,1-dimethylethyl)",Cmtm8,1
+"2,5-Cyclohexadiene-1,4-dione, 2,6-bis(1,1-dimethylethyl)",Gm43568,1
+"2,5-Cyclohexadiene-1,4-dione, 2,6-bis(1,1-dimethylethyl)",H1f10,-1
+"2,5-Cyclohexadiene-1,4-dione, 2,6-bis(1,1-dimethylethyl)",5330425B07Rik,1
+"2,5-Cyclohexadiene-1,4-dione, 2,6-bis(1,1-dimethylethyl)",Vasp,1
+"2,5-Cyclohexadiene-1,4-dione, 2,6-bis(1,1-dimethylethyl)",Sin3a,1
+"2,5-Cyclohexadiene-1,4-dione, 2,6-bis(1,1-dimethylethyl)",Usp22,-1
+"2,5-Cyclohexadiene-1,4-dione, 2,6-bis(1,1-dimethylethyl)",Ube3c,1
+"2,5-Cyclohexadiene-1,4-dione, 2,6-bis(1,1-dimethylethyl)",Klf8,-1
+Hydroquinone,Agbl3,1
+Hydroquinone,Atp5mg,1
+Hydroquinone,Pomgnt1,1
+Hydroquinone,Dcaf12l1,1
+Ncaph2,Monolaurin,1
+Monolaurin,Slc29a4,1
+Monolaurin,Hlf,-1
+9-Octadecenamide,Ubl3,1
+9-Octadecenamide,Gm25517,1
+9-Octadecenamide,G2e3,-1
+9-Octadecenamide,Serp2,-1
+Pdlim5,Serine,1
+Serine,Klf3,1
+Serine,Cdkn1c,1
+Serine,Smim10l1,1
+Serine,Zfp322a,1
+Serine,Iqgap2,1
+Serine,Pi4ka,-1
+Serine,Pbx1,1
+Serine,Vps13b,1
+Serine,Secisbp2l,1
+Serine,Ahcyl2,1
+Serine,Lrrc8c,1
+Serine,Nsmf,-1
+Serine,Ric3,1
+Serine,Cep290,1
+Serine,Gtpbp4,1
+Serine,Stxbp4,1
+Serine,Mia2,1
+Cast,Picolinic acid,1
+Cast,Suberic acid,1
+Picolinic acid,Ccdc148,1
+Picolinic acid,Casp8,1
+Picolinic acid,Zhx1,1
+Picolinic acid,Olfm2,-1
+Picolinic acid,Pbx1,1
+Picolinic acid,Ildr2,1
+Picolinic acid,Chi3l1,1
+Picolinic acid,Myof,1
+Picolinic acid,Serp2,-1
+Picolinic acid,Ric3,1
+Picolinic acid,mt-Tv,-1
+Picolinic acid,Osgepl1,1
+Picolinic acid,mt-Tl1,-1
+Suberic acid,Dynlt2b,1
+Suberic acid,Serp2,-1
+Suberic acid,Osgepl1,1
+Suberic acid,Sh2b3,1
+Suberic acid,Ube3c,1
+Suberic acid,Stxbp4,1
+Emd,Xanthine,-1
+Emd,13-Docosenamide,-1
+Xanthine,Sppl3,-1
+Xanthine,Aox3,1
+Xanthine,Gpsm3,1
+Xanthine,Ehd1,-1
+13-Docosenamide,Aox3,1
+Birc2,4-Methyl-5-thiazoleethanol,1
+4-Methyl-5-thiazoleethanol,Cmtm8,1
+4-Methyl-5-thiazoleethanol,Dync2li1,1
+4-Methyl-5-thiazoleethanol,Cep41,1
+4-Methyl-5-thiazoleethanol,Wapl,1
+4-Methyl-5-thiazoleethanol,Prxl2c,1
+4-Methyl-5-thiazoleethanol,Npas3,-1
+4-Methyl-5-thiazoleethanol,Sin3a,1
+4-Methyl-5-thiazoleethanol,Xaf1,1
+4-Methyl-5-thiazoleethanol,Stag2,1
+Usp9x,1-Monopalmitin,-1
+1-Monopalmitin,Enpp5,1
+1-Monopalmitin,Zfp27,1
+Nfe2l2,L-Norvaline,1
+L-Norvaline,Kcmf1,1
+L-Norvaline,Klhl18,-1
+Baiap2l1,Pipecolic acid,1
+Baiap2l1,Pyrrole-2-carboxylic acid,1
+Pipecolic acid,Atp5mg,1
+Pipecolic acid,Pla2g3,-1
+Pipecolic acid,St8sia2,-1
+Pyrrole-2-carboxylic acid,Col5a3,-1
+Pyrrole-2-carboxylic acid,Setx,1
+Pyrrole-2-carboxylic acid,Tceal8,1
+Pyrrole-2-carboxylic acid,Dhx9,1
+Abtb2,Myristic acid,1
+Myristic acid,Atp5mg,1
+Map3k8,"Inosose-2, myo",1
+"Inosose-2, myo",Btg1,1
+"Inosose-2, myo",2310014F06Rik,1
+Smpdl3b,"Arabinofuranose, 1,2,3,5-tetrakis",1
+"Arabinofuranose, 1,2,3,5-tetrakis",Actr3,1
+"Arabinofuranose, 1,2,3,5-tetrakis",Stk26,1
+"Arabinofuranose, 1,2,3,5-tetrakis",mt-Tl1,-1
+Kif2a,D-Glucose,1
+D-Glucose,Sp4,1
+D-Glucose,5430402O13Rik,1
+D-Glucose,Hip1,1
+D-Glucose,2610020C07Rik,1
+D-Glucose,Stag2,1
+D-Glucose,Smarca5,1
+Pura,Tetrahydrogeranyl formate,1
+Tetrahydrogeranyl formate,Sema3g,1
+Tetrahydrogeranyl formate,Vangl1,1
+Tetrahydrogeranyl formate,Cntn1,1
+Gm15675,3-O-methyl-beta-D-Glucopyranose,-1
+3-O-methyl-beta-D-Glucopyranose,Ccdc148,-1
+3-O-methyl-beta-D-Glucopyranose,Zhx1,-1
+3-O-methyl-beta-D-Glucopyranose,Hspa1b,1
+3-O-methyl-beta-D-Glucopyranose,Camk1d,-1
+3-O-methyl-beta-D-Glucopyranose,Serpinb8,-1
+Cyyr1,"2,5-Di-tert-butyl-4-hydroxyphenol",1
+Cyyr1,5-Methyluridine,1
+"2,5-Di-tert-butyl-4-hydroxyphenol",1700125H03Rik,1
+"2,5-Di-tert-butyl-4-hydroxyphenol",Hcn3,-1
+"2,5-Di-tert-butyl-4-hydroxyphenol",Serp2,-1
+"2,5-Di-tert-butyl-4-hydroxyphenol",Ube3c,1
+"2,5-Di-tert-butyl-4-hydroxyphenol",Klf8,-1
+5-Methyluridine,Foxk2,-1
+Dynlt2b,2-Ethylacetoacetate,1
+Dynlt2b,Aconitic acid,1
+Dynlt2b,D-(-)-Fructofuranose,1
+Dynlt2b,Ethyl alpha-D-glucopyranoside,1
+Dynlt2b,Norketamine,-1
+Dynlt2b,"Trimethylsilyl (5-benzyl-3,6-dioxopiperazin-2-yl)acetate",1
+2-Ethylacetoacetate,Dync2li1,1
+2-Ethylacetoacetate,Actr3,1
+2-Ethylacetoacetate,Ptger1,1
+2-Ethylacetoacetate,Suclg2,1
+2-Ethylacetoacetate,Osgepl1,1
+2-Ethylacetoacetate,Sox13,1
+2-Ethylacetoacetate,Gsta4,1
+Aconitic acid,Actr3,1
+Aconitic acid,Pomgnt1,1
+Aconitic acid,Opa1,1
+Aconitic acid,mt-Tl1,-1
+Aconitic acid,Rpp30,1
+D-(-)-Fructofuranose,Cep41,1
+D-(-)-Fructofuranose,Gpaa1,-1
+D-(-)-Fructofuranose,Mfge8,-1
+D-(-)-Fructofuranose,Opa1,1
+D-(-)-Fructofuranose,Pi4ka,-1
+D-(-)-Fructofuranose,Adamts15,-1
+D-(-)-Fructofuranose,Ramac,1
+D-(-)-Fructofuranose,Acad9,-1
+D-(-)-Fructofuranose,Dync1h1,-1
+D-(-)-Fructofuranose,Ptgr3,1
+D-(-)-Fructofuranose,Fam98b,1
+Ethyl alpha-D-glucopyranoside,Stk26,1
+Ethyl alpha-D-glucopyranoside,Zfp36l2,1
+Ethyl alpha-D-glucopyranoside,Suclg2,1
+Ethyl alpha-D-glucopyranoside,Arhgap15,-1
+Ethyl alpha-D-glucopyranoside,Serp2,-1
+Ethyl alpha-D-glucopyranoside,Klhl18,-1
+Norketamine,Dync2li1,-1
+Norketamine,Gm43568,-1
+Norketamine,Suclg2,-1
+Norketamine,Klhl18,1
+Norketamine,Yars1,1
+"Trimethylsilyl (5-benzyl-3,6-dioxopiperazin-2-yl)acetate",Ubl3,1
+"Trimethylsilyl (5-benzyl-3,6-dioxopiperazin-2-yl)acetate",Smim10l1,1
+"Trimethylsilyl (5-benzyl-3,6-dioxopiperazin-2-yl)acetate",mt-Tl1,-1
+"Trimethylsilyl (5-benzyl-3,6-dioxopiperazin-2-yl)acetate",Rpp30,1
+"Trimethylsilyl (5-benzyl-3,6-dioxopiperazin-2-yl)acetate",Pthlh,1
+Cmtm8,Cyclohexanemethanol,1
+Cmtm8,"Guanidine, N,N-dimethyl",1
+Cmtm8,N-Acetyl glucosamine methoxime,1
+Cyclohexanemethanol,Rlbp1,1
+Cyclohexanemethanol,Vasp,1
+Cyclohexanemethanol,Flvcr1,1
+Cyclohexanemethanol,Klf8,-1
+"Guanidine, N,N-dimethyl",Chi3l1,1
+"Guanidine, N,N-dimethyl",Col8a1,1
+"Guanidine, N,N-dimethyl",Ifi30,1
+"Guanidine, N,N-dimethyl",2310014F06Rik,1
+"Guanidine, N,N-dimethyl",Kmt5b,1
+N-Acetyl glucosamine methoxime,Cbarp,-1
+N-Acetyl glucosamine methoxime,Casp8,1
+N-Acetyl glucosamine methoxime,Apc2,-1
+N-Acetyl glucosamine methoxime,Ccdc33,-1
+N-Acetyl glucosamine methoxime,Hmmr,1
+Tmem259,2-Hydroxy-3-methylbutyric acid,-1
+2-Hydroxy-3-methylbutyric acid,Ptges2,-1
+Lepr,L-Leucine,1
+L-Leucine,Cdkn1c,1
+L-Leucine,Zhx1,1
+L-Leucine,Vps13b,1
+L-Leucine,Rab5a,1
+L-Leucine,5430402O13Rik,1
+L-Leucine,Clcn2,1
+L-Leucine,Gtpbp4,1
+Zbtb37,2-Aminobutanoic acid,1
+Zbtb37,Decanoic acid,1
+2-Aminobutanoic acid,Rhob,-1
+Decanoic acid,Nup214,1
+Decanoic acid,Prpf6,1
+Decanoic acid,Aqp11,1
+Decanoic acid,Slc35a3,1
+Decanoic acid,Fer,1
+Decanoic acid,Klf8,-1
+Slc16a7,Butyl caprylate,-1
+Butyl caprylate,Irak3,1
+Butyl caprylate,Zmat5,-1
+Fam167b,9-Octadecenoic acid,1
+9-Octadecenoic acid,Pdss1,1
+Zfp513,Pentanoic acid,1
+Pentanoic acid,Sema3g,1
+Pentanoic acid,Ric3,1
+Ndufs3,N-Acetylglucosamine,1
+N-Acetylglucosamine,Plekhn1,1
+N-Acetylglucosamine,Setx,1
+Osbp,Tyrosine,1
+Tyrosine,Cep41,1
+Tyrosine,Cdkn1c,1
+Tyrosine,Stk26,1
+Tyrosine,Osgepl1,1
+Tyrosine,Smarca5,1
+Tyrosine,Dhx9,1
+Mtap,"2,3,4-Trihydroxybutyric acid",1
+Mtap,3-Pyridylcarbinol,1
+Mtap,4-Pyridinol,1
+Mtap,Cytosine,1
+Mtap,Dihydrouracil,1
+"2,3,4-Trihydroxybutyric acid",Prxl2c,1
+"2,3,4-Trihydroxybutyric acid",Smim10l1,1
+"2,3,4-Trihydroxybutyric acid",Erbin,1
+3-Pyridylcarbinol,Cdkn1c,1
+3-Pyridylcarbinol,Smim10l1,1
+3-Pyridylcarbinol,Zfp322a,1
+3-Pyridylcarbinol,Wbp4,1
+3-Pyridylcarbinol,Setx,1
+3-Pyridylcarbinol,Evi5,1
+3-Pyridylcarbinol,Serp2,-1
+3-Pyridylcarbinol,Ric3,1
+3-Pyridylcarbinol,Gtpbp4,1
+3-Pyridylcarbinol,Gsta4,1
+4-Pyridinol,H1f10,-1
+4-Pyridinol,Gsta4,1
+Dihydrouracil,Krt23,1
+Dihydrouracil,Kcmf1,1
+Dihydrouracil,mt-Tv,-1
+Dihydrouracil,Stag2,1
+Stat3,Methylmaleic acid,1
+Methylmaleic acid,Casp8,-1
+Methylmaleic acid,Kcmf1,-1
+Nek8,2'-Desoxyuridine,1
+Nek8,"Hexadecanoic acid, tetradecyl ester",1
+2'-Desoxyuridine,Srebf2,-1
+2'-Desoxyuridine,Gpaa1,-1
+2'-Desoxyuridine,Eef1a1,1
+2'-Desoxyuridine,Mfge8,-1
+2'-Desoxyuridine,Armcx2,-1
+2'-Desoxyuridine,Kat8,-1
+2'-Desoxyuridine,Rit1,-1
+2'-Desoxyuridine,Stag2,1
+"Hexadecanoic acid, tetradecyl ester",Ubl3,1
+"Hexadecanoic acid, tetradecyl ester",Zfp358,-1
+"Hexadecanoic acid, tetradecyl ester",Gm5141,1
+Dync2li1,Butyl Succinate,1
+Butyl Succinate,Olfm2,-1
+Butyl Succinate,Gsta4,1
+Amfr,alpha-Tocopheryl acetate,1
+alpha-Tocopheryl acetate,Ramac,-1
+alpha-Tocopheryl acetate,Fance,1
+Fchsd2,Ribonic acid,1
+Ribonic acid,Smim10l1,1
+Ribonic acid,Stag2,1
+Tmem204,Pentanedioic acid,1
+Pentanedioic acid,St8sia2,-1
+Ubl3,L-Serine,1
+L-Serine,Actr3,1
+L-Serine,Smim10l1,1
+L-Serine,Gnas,1
+L-Serine,Setx,1
+Maco1,3-(3-Hydroxyphenyl)propanoic acid,1
+3-(3-Hydroxyphenyl)propanoic acid,Recql5,-1
+3-(3-Hydroxyphenyl)propanoic acid,Gm25517,1
+3-(3-Hydroxyphenyl)propanoic acid,Zfp383,1
+Actr3,beta-D-(-)-Ribopyranose,1
+beta-D-(-)-Ribopyranose,Cdkn1c,1
+beta-D-(-)-Ribopyranose,Ap3b1,1
+beta-D-(-)-Ribopyranose,Afg3l1,1
+beta-D-(-)-Ribopyranose,Olfm2,-1
+beta-D-(-)-Ribopyranose,Slc25a16,1
+beta-D-(-)-Ribopyranose,St8sia2,-1
+Acacb,N-Methyl-alpha-aminoisobutyric acid,-1
+N-Methyl-alpha-aminoisobutyric acid,Irak1bp1,1
+N-Methyl-alpha-aminoisobutyric acid,Setx,1
+N-Methyl-alpha-aminoisobutyric acid,Ofd1,1
+Btg1,Xylazine,1
+Srebf2,Niacinamide,-1
+Srebf2,"2-Pentenedioic acid, 2-hydroxy-",-1
+Srebf2,Thymidine,-1
+Niacinamide,Mpi,-1
+Niacinamide,Vmp1,-1
+"2-Pentenedioic acid, 2-hydroxy-",Zfp322a,1
+Thymidine,Gpaa1,-1
+Thymidine,Mfge8,-1
+Thymidine,Armcx2,-1
+Thymidine,Kat8,-1
+Fndc3a,"D-Erythro-Pentitol, 2-deoxy-",-1
+Cdkn1c,Phenylalanine,1
+Phenylalanine,Gpaa1,-1
+Phenylalanine,Rhob,-1
+Phenylalanine,Pi4ka,-1
+Phenylalanine,Stag2,1
+Phenylalanine,Smarca5,1
+Phenylalanine,Fam98b,1
+Phenylalanine,Dhx9,1
+Prpf6,1-Octadecanol,1
+1-Octadecanol,Sec62,1
+1-Octadecanol,Vangl1,1
+1-Octadecanol,Bcl2l12,1
+1-Octadecanol,Ric3,1
+Ruvbl1,N-Methyl-L-proline,1
+N-Methyl-L-proline,Cltb,1
+Scp2-ps2,Campesterol,-1
+Casp8,3-Undecene,1
+3-Undecene,Sec62,1
+3-Undecene,Ifih1,1
+3-Undecene,Sema3g,1
+3-Undecene,Chi3l1,1
+3-Undecene,Vangl1,1
+3-Undecene,Cntn1,1
+3-Undecene,Klf8,-1
+Ifih1,Menthol,1
+Nfyb,4-Hydroxy-5-(hydroxymethyl)oxolan-2-one,1
+Apc2,Itaconic acid,1
+Adck2,"D-Erythro-Pentofuranose, 2-deoxy-1,3-bis-O-posphate",-1
+"D-Erythro-Pentofuranose, 2-deoxy-1,3-bis-O-posphate",Dok1,1
+Mtmr2,L-Glutamine,1
+C130089K02Rik,L-(+)-Lactic acid,-1
+Ap3b1,"2,5-Dimethoxybenzhydrazide",1
+"2,5-Dimethoxybenzhydrazide",Stag2,1
+Ada,Arabinose,1
+Arabinose,Fzr1,1
+Sp4,"1H-Indole-2-carboxylic acid, 5-ethyl-1-(trimethylsilyl)",1
+"1H-Indole-2-carboxylic acid, 5-ethyl-1-(trimethylsilyl)",Olfm2,-1
+"1H-Indole-2-carboxylic acid, 5-ethyl-1-(trimethylsilyl)",Kpna4,1
+"1H-Indole-2-carboxylic acid, 5-ethyl-1-(trimethylsilyl)",Osgepl1,1
+Dok1,1-Hexanol,-1
+1-Hexanol,Ndn,1
+Stk26,"3-Hydroxy-2,3-dihydromaltol",1
+"3-Hydroxy-2,3-dihydromaltol",Rlbp1,1
+Rhob,Uridine,-1
+Uridine,Adamts15,-1
+Hsdl2,"2-Furanacetaldehyde, tetrahydro-alpha",1
+Iqgap2,Citric acid,1
+Citric acid,Ric3,1
+Citric acid,Lrp2bp,1
+Citric acid,Gm15587,1
+Dcp2,Glycolic acid,1
+Cul7,Octadecyl octyl ether,-1
+Gm25517,3-Methyl-2-furoic acid,-1
+3-Methyl-2-furoic acid,Rassf4,1
+Sema3g,"Azetidine, 1-acetyl-2-methyl",1
+Sema3g,"Hexadecanoic acid, 4-hydroxybutyl ester",1
+"Azetidine, 1-acetyl-2-methyl",Mafg,1
+"Hexadecanoic acid, 4-hydroxybutyl ester",H1f10,-1
+Bcat1,Palmitic Acid,-1
+Palmitic Acid,Ric3,1
+Palmitic Acid,Sytl2,1
+Afg3l1,3-Hydroxyisovaleric acid,1
+Afg3l1,"Erythrono-1,4-lactone",1
+3-Hydroxyisovaleric acid,Klf8,-1
+"Erythrono-1,4-lactone",Gsta4,1
+Tmem229b,beta-Arabinopyranose,-1
+beta-Arabinopyranose,Cebpd,-1
+beta-Arabinopyranose,Sulf2,-1
+beta-Arabinopyranose,Dr1,1
+Olfm2,2'-Deoxyribolactone,-1
+Olfm2,8-Hydroxy-5-(hydroxymethyl)quinoline,-1
+2'-Deoxyribolactone,Ppp4c,-1
+2'-Deoxyribolactone,Hip1,1
+2'-Deoxyribolactone,Slc35a3,1
+8-Hydroxy-5-(hydroxymethyl)quinoline,Mkrn3,-1
+8-Hydroxy-5-(hydroxymethyl)quinoline,Lama1,1
+Spen,Phloroglucinol,1
+Eeig1,"Xylonic acid, delta-lactone",1
+Ints11,1-Tetracosene,-1
+Itch,L-(-)-Sorbofuranose,1
+L-(-)-Sorbofuranose,Reep2,-1
+L-(-)-Sorbofuranose,Stag2,1
+Ppp4c,Idoxuridine ,-1
+Emc3,"1-Propanamine, N,N-diethyl-",-1
+"1-Propanamine, N,N-diethyl-",Ubc,-1
+Dync2i2,Ketamine,-1
+Dennd2c,4-Hydroxybenzaldehyde,1
+4-Hydroxybenzaldehyde,Stag2,1
+Sncg,Arabinitol,-1
+Ptges2,Xylose,1
+Xylose,Arl2bp,1
+Nop16,12-Oxooctadecanoate,-1
+Rab5a,Cholesterol,1
+Chi3l1,Pimelic acid,1
+Pimelic acid,Col8a1,1
+Pimelic acid,Slc35a3,1
+Pimelic acid,Ube3c,1
+Pimelic acid,Klf8,-1
+A930024E05Rik,Lignoceric acid,1
+Rassf4,Isonicotinic Acid,1
+Nsg2,1-Octanol,1
+Fundc2,L-Proline,1
+Cebpd,Erythritol,1
+Erythritol,Ap3s2,1
+Erythritol,Ccpg1,1
+Aasdhppt,3-Deoxyhexitol,1
+Vps37d,Sebacic acid,-1
+Sebacic acid,Cstf2,-1
+Sebacic acid,Zfp300,-1
+Fance,3-Aminobutanoic acid,1
+3-Aminobutanoic acid,Hlf,-1
+Ubc,alpha-L-(-)-Fucopyranose,1
+Sema6a,"Pentitol, 3-desoxy",-1
+Gm15587,"Propane, 2-methyl",1
+Leprotl1,Phloretic acid,1
+Phloretic acid,Osgepl1,1
+Phloretic acid,Tm9sf3,1
+Id1,D-Mannopyranose,1
+Scrib,"beta-D-Galactopyranoside, methyl-, acetate",1
+Foxc2,Butanedioic acid,-1
+Gtpbp4,Tricine,1
+Dynll1,Dihydroxyacetone,1
+"2,4-Di-tert-butylphenol",Cope,-1
+Spmip6,"2,4-Di-tert-butylphenol",-1
+Vps37d,"2,4-Di-tert-butylphenol",-1
+L-Valine,Nedd4,1
+Wbp11,L-Valine,1
+Usf3,L-Valine,1
+Fn3krp,L-Valine,1
+Pak2,L-Valine,1
+Cebpz,L-Valine,1
+Kin,L-Valine,1
+Ibtk,L-Valine,1
+Ctdspl2,L-Valine,1
+Pabpc1,L-Valine,1
+Kif2a,L-Valine,1
+Arhgef12,L-Valine,1
+Arhgap5,L-Valine,1
+Slk,L-Valine,1
+Cdkn1c,L-Valine,1
+Smim10l1,L-Valine,1
+Ap3b1,L-Valine,1
+Wasl,L-Valine,1
+Gsk3b,L-Valine,1
+D630036H23Rik,L-Valine,1
+Pbx1,L-Valine,1
+Tulp4,L-Valine,1
+Wbp4,L-Valine,1
+Vps13b,L-Valine,1
+Setx,L-Valine,1
+Pcmtd1,L-Valine,1
+Mafg,L-Valine,1
+B230219D22Rik,L-Valine,1
+Stag2,L-Valine,1
+Phactr2,L-Valine,1
+Fcho2,L-Valine,1
+Smarca5,L-Valine,1
+Gtpbp4,L-Valine,1
+Vps36,L-Valine,1
+Deoxyglucose,Mob4,-1
+Igfbp6,Deoxyglucose,-1
+Silc1,Vanillin,-1
+Adcy9,Vanillin,-1
+Cdkn1c,Vanillin,1
+Gm43568,Vanillin,1
+Smim10l1,Vanillin,1
+Rdx,Vanillin,1
+Golm2,Vanillin,1
+Cnih2,Vanillin,-1
+Osgepl1,Vanillin,1
+Atn1,Vanillin,1
+Map3k5,Vanillin,1
+Ptgr3,Vanillin,1
+Serpinb8,Vanillin,1
+Gsta4,Vanillin,1
+"beta-d-Glucopyranose, 2-(acetylamino)-3,6-anhydro-2-deoxy",Dnajc21,1
+Bhmt2,"beta-d-Glucopyranose, 2-(acetylamino)-3,6-anhydro-2-deoxy",1
+Psma4,"beta-d-Glucopyranose, 2-(acetylamino)-3,6-anhydro-2-deoxy",1
+Prxl2c,"beta-d-Glucopyranose, 2-(acetylamino)-3,6-anhydro-2-deoxy",1
+Smim10l1,"beta-d-Glucopyranose, 2-(acetylamino)-3,6-anhydro-2-deoxy",1
+Asb8,"beta-d-Glucopyranose, 2-(acetylamino)-3,6-anhydro-2-deoxy",-1
+Wbp4,"beta-d-Glucopyranose, 2-(acetylamino)-3,6-anhydro-2-deoxy",1
+Setx,"beta-d-Glucopyranose, 2-(acetylamino)-3,6-anhydro-2-deoxy",1
+Cep57,"beta-d-Glucopyranose, 2-(acetylamino)-3,6-anhydro-2-deoxy",1
+Ofd1,"beta-d-Glucopyranose, 2-(acetylamino)-3,6-anhydro-2-deoxy",1
+Efhb,"beta-d-Glucopyranose, 2-(acetylamino)-3,6-anhydro-2-deoxy",1
+Vmp1,"beta-d-Glucopyranose, 2-(acetylamino)-3,6-anhydro-2-deoxy",-1
+Zfp1007,"beta-d-Glucopyranose, 2-(acetylamino)-3,6-anhydro-2-deoxy",1
+Gtpbp4,"beta-d-Glucopyranose, 2-(acetylamino)-3,6-anhydro-2-deoxy",1
+"2-Propenoic acid, 2-hydroxy-3-(4-hydroxyphenyl)",Wbp11,1
+L-Aspartic acid,Wbp11,1
+Methylsuccinic acid,Wbp11,1
+Ibtk,"2-Propenoic acid, 2-hydroxy-3-(4-hydroxyphenyl)",1
+Ctdspl2,"2-Propenoic acid, 2-hydroxy-3-(4-hydroxyphenyl)",1
+Srebf2,"2-Propenoic acid, 2-hydroxy-3-(4-hydroxyphenyl)",-1
+Gpaa1,"2-Propenoic acid, 2-hydroxy-3-(4-hydroxyphenyl)",-1
+Ap3b1,"2-Propenoic acid, 2-hydroxy-3-(4-hydroxyphenyl)",1
+Rhob,"2-Propenoic acid, 2-hydroxy-3-(4-hydroxyphenyl)",-1
+Pi4ka,"2-Propenoic acid, 2-hydroxy-3-(4-hydroxyphenyl)",-1
+Pbx1,"2-Propenoic acid, 2-hydroxy-3-(4-hydroxyphenyl)",1
+Tulp4,"2-Propenoic acid, 2-hydroxy-3-(4-hydroxyphenyl)",1
+Vps13b,"2-Propenoic acid, 2-hydroxy-3-(4-hydroxyphenyl)",1
+Setx,"2-Propenoic acid, 2-hydroxy-3-(4-hydroxyphenyl)",1
+Pja2,"2-Propenoic acid, 2-hydroxy-3-(4-hydroxyphenyl)",1
+Dync1h1,"2-Propenoic acid, 2-hydroxy-3-(4-hydroxyphenyl)",-1
+Tceal8,"2-Propenoic acid, 2-hydroxy-3-(4-hydroxyphenyl)",1
+Vps36,"2-Propenoic acid, 2-hydroxy-3-(4-hydroxyphenyl)",1
+Ibtk,L-Aspartic acid,1
+Ctdspl2,L-Aspartic acid,1
+Kcmf1,L-Aspartic acid,1
+Cep78,L-Aspartic acid,1
+Ibtk,Methylsuccinic acid,1
+Apc2,Methylsuccinic acid,-1
+Mtpn,Methylsuccinic acid,1
+Pthlh,Methylsuccinic acid,1
+Serpinb8,Methylsuccinic acid,1
+2-Pyrrolidinone,Plgrkt,1
+Decyl oleate,Plgrkt,1
+DL-Phenylalanine,Plgrkt,1
+"Gluconolactone (3R,4S,5R,6R)",Plgrkt,1
+L-Isoleucine,Plgrkt,1
+Dek,2-Pyrrolidinone,1
+Cdkn1c,2-Pyrrolidinone,1
+Upf2,2-Pyrrolidinone,1
+Atn1,2-Pyrrolidinone,1
+Dnajc7,Decyl oleate,-1
+4930550C14Rik,Decyl oleate,1
+Opa1,Decyl oleate,1
+Jph1,Decyl oleate,1
+Pak2,DL-Phenylalanine,1
+Cebpz,DL-Phenylalanine,1
+Ibtk,DL-Phenylalanine,1
+Ctdspl2,DL-Phenylalanine,1
+Lmtk3,DL-Phenylalanine,-1
+Cyyr1,DL-Phenylalanine,1
+Cdkn1c,DL-Phenylalanine,1
+Ap3b1,DL-Phenylalanine,1
+Rhob,DL-Phenylalanine,-1
+Mtpn,DL-Phenylalanine,1
+Pi4ka,DL-Phenylalanine,-1
+Pbx1,DL-Phenylalanine,1
+Tulp4,DL-Phenylalanine,1
+Wbp4,DL-Phenylalanine,1
+Vps13b,DL-Phenylalanine,1
+Setx,DL-Phenylalanine,1
+Fundc2,DL-Phenylalanine,1
+Stag2,DL-Phenylalanine,1
+Phactr2,DL-Phenylalanine,1
+Smarca5,DL-Phenylalanine,1
+Dhx9,DL-Phenylalanine,1
+Adcy9,"Gluconolactone (3R,4S,5R,6R)",-1
+Nfe2l2,"Gluconolactone (3R,4S,5R,6R)",1
+Dynlt2b,"Gluconolactone (3R,4S,5R,6R)",1
+Gm43568,"Gluconolactone (3R,4S,5R,6R)",1
+Smim10l1,"Gluconolactone (3R,4S,5R,6R)",1
+Gnas,"Gluconolactone (3R,4S,5R,6R)",1
+5430402O13Rik,"Gluconolactone (3R,4S,5R,6R)",1
+Fn3krp,L-Isoleucine,1
+Ctdspl2,L-Isoleucine,1
+Pdlim5,L-Isoleucine,1
+Lmtk3,L-Isoleucine,-1
+Cyyr1,L-Isoleucine,1
+Lepr,L-Isoleucine,1
+Osbp,L-Isoleucine,1
+Klf3,L-Isoleucine,1
+Ccdc148,L-Isoleucine,1
+Cdkn1c,L-Isoleucine,1
+Mrps18a,L-Isoleucine,-1
+Smim10l1,L-Isoleucine,1
+Stk26,L-Isoleucine,1
+Iqgap2,L-Isoleucine,1
+Gnas,L-Isoleucine,1
+Pi4ka,L-Isoleucine,-1
+Pbx1,L-Isoleucine,1
+Golm2,L-Isoleucine,1
+Vps13b,L-Isoleucine,1
+Ahcyl2,L-Isoleucine,1
+Myof,L-Isoleucine,1
+Nsmf,L-Isoleucine,-1
+Serp2,L-Isoleucine,-1
+Rpp30,L-Isoleucine,1
+Gtpbp4,L-Isoleucine,1
+Stxbp4,L-Isoleucine,1
+5-Oxohexanoic Acid,Ankmy2,-1
+Poglut1,5-Oxohexanoic Acid,1
+Grcc10,5-Oxohexanoic Acid,1
+4632415L05Rik,5-Oxohexanoic Acid,-1
+Deoxycholic Acid,Usf3,1
+D-Fructose,Usf3,1
+Smarca2,Deoxycholic Acid,1
+Gdpd3,Deoxycholic Acid,-1
+Smim15,Deoxycholic Acid,1
+Fgl2,Deoxycholic Acid,-1
+Pla2g3,D-Fructose,-1
+Strada,D-Fructose,1
+D-(-)-Fructopyranose,Zkscan8,1
+Kpna4,D-(-)-Fructopyranose,1
+Sh3bgrl2,D-(-)-Fructopyranose,1
+Ube3c,D-(-)-Fructopyranose,1
+"2-Butenoic acid, 2-hydroxy-",Chmp4c,-1
+Baiap2l1,"2-Butenoic acid, 2-hydroxy-",1
+Agbl3,"2-Butenoic acid, 2-hydroxy-",1
+Sulf2,"2-Butenoic acid, 2-hydroxy-",-1
+Zbtb39,"2-Butenoic acid, 2-hydroxy-",-1
+1-Hexacosene,Zfp975,1
+"2,5-Dimethoxyphenol",Zfp975,1
+"2-Allyl-1,4-dimethoxybenzene ",Zfp975,1
+"2-Butenoic acid, 2-methyl-, 2-methyl-2-propenyl ester",Zfp975,1
+3-Hexenedioic acid,Zfp975,1
+Ppp1r12a,1-Hexacosene,1
+Zbtb7a,1-Hexacosene,1
+Pebp4,1-Hexacosene,1
+Fn3krp,"2,5-Dimethoxyphenol",1
+Fn3krp,"2-Allyl-1,4-dimethoxybenzene ",1
+Hmces,"2-Allyl-1,4-dimethoxybenzene ",-1
+Cpxm2,"2-Allyl-1,4-dimethoxybenzene ",1
+Tm9sf3,"2-Allyl-1,4-dimethoxybenzene ",1
+Gsta4,"2-Allyl-1,4-dimethoxybenzene ",1
+A930024E05Rik,"2-Butenoic acid, 2-methyl-, 2-methyl-2-propenyl ester",1
+Zbtb37,3-Hexenedioic acid,1
+2-Ethylhexanoic acid,Fn3krp,1
+pyrazole,Fn3krp,1
+beta-Alanine,Fn3krp,1
+L-5-Oxoproline,Fn3krp,1
+Niacin,Fn3krp,1
+Phenol,Fn3krp,1
+Syringaldehyde,Fn3krp,1
+Urea,Fn3krp,1
+Gm15408,2-Ethylhexanoic acid,1
+Cspg5,2-Ethylhexanoic acid,-1
+Ibtk,2-Ethylhexanoic acid,1
+Cep41,2-Ethylhexanoic acid,1
+Wapl,2-Ethylhexanoic acid,1
+Apc2,2-Ethylhexanoic acid,-1
+Wasl,2-Ethylhexanoic acid,1
+Stk26,2-Ethylhexanoic acid,1
+Gnas,2-Ethylhexanoic acid,1
+Wbp4,2-Ethylhexanoic acid,1
+Nsmf,2-Ethylhexanoic acid,-1
+Fgfr1op2,2-Ethylhexanoic acid,1
+Aasdhppt,2-Ethylhexanoic acid,1
+Qser1,2-Ethylhexanoic acid,1
+Stag2,2-Ethylhexanoic acid,1
+Smim10l1,pyrazole,1
+Gnas,pyrazole,1
+H1f10,pyrazole,-1
+Clec14a,pyrazole,1
+Serp2,pyrazole,-1
+Ric3,pyrazole,1
+Rpp30,pyrazole,1
+Ibtk,beta-Alanine,1
+Ctdspl2,beta-Alanine,1
+Lmtk3,beta-Alanine,-1
+Cdkn1c,beta-Alanine,1
+Gm6548,beta-Alanine,1
+Slc6a13,beta-Alanine,-1
+Pi4ka,beta-Alanine,-1
+Pbx1,beta-Alanine,1
+Cerox1,beta-Alanine,-1
+Vps13b,beta-Alanine,1
+Lrrc8c,beta-Alanine,1
+Nsmf,beta-Alanine,-1
+Dnajc13,beta-Alanine,1
+Upf2,beta-Alanine,1
+Ibtk,L-5-Oxoproline,1
+Ap3b1,L-5-Oxoproline,1
+Rhob,L-5-Oxoproline,-1
+Irak1bp1,L-5-Oxoproline,1
+Cnih2,L-5-Oxoproline,-1
+Slc25a20,L-5-Oxoproline,1
+Stag2,L-5-Oxoproline,1
+Map3k5,L-5-Oxoproline,1
+Serbp1,Phenol,1
+Hdac9,Phenol,-1
+Ibtk,Phenol,1
+Birc2,Phenol,1
+Prpf6,Phenol,1
+Rufy3,Phenol,-1
+Ap3b1,Phenol,1
+Wasl,Phenol,1
+H1f10,Phenol,-1
+Chi3l1,Phenol,1
+Luzp1,Phenol,1
+Slc35a3,Phenol,1
+Bcl2l12,Phenol,1
+Dcaf12l1,Phenol,1
+Kmt5b,Phenol,1
+Ibtk,Syringaldehyde,1
+Dynlt2b,Syringaldehyde,1
+Smim10l1,Syringaldehyde,1
+Ptger1,Syringaldehyde,1
+Ap3b1,Syringaldehyde,1
+Gnas,Syringaldehyde,1
+Ahcyl2,Syringaldehyde,1
+mt-Tv,Syringaldehyde,-1
+mt-Tl1,Syringaldehyde,-1
+Tm9sf3,Syringaldehyde,1
+Stag2,Syringaldehyde,1
+Gsta4,Syringaldehyde,1
+Ibtk,Urea,1
+Mtap,Urea,1
+Ubl3,Urea,1
+Cdkn1c,Urea,1
+Wapl,Urea,1
+Prxl2c,Urea,1
+Smim10l1,Urea,1
+Eef1a1,Urea,1
+Zfp322a,Urea,1
+Iqgap2,Urea,1
+Pbx1,Urea,1
+Wbp4,Urea,1
+Ahcyl2,Urea,1
+Evi5,Urea,1
+Lrrc8c,Urea,1
+Serp2,Urea,-1
+Fgfr1op2,Urea,1
+Ric3,Urea,1
+Sin3a,Urea,1
+Mpp7,Urea,1
+Sytl2,Urea,1
+Kpna3,Urea,1
+Tm9sf3,Urea,1
+Stag2,Urea,1
+Smarca5,Urea,1
+Slain2,Urea,1
+1-Dodecanol,Serbp1,1
+Benzoic Acid,Serbp1,1
+D-Allofuranose,Serbp1,1
+Sec62,1-Dodecanol,1
+Wasl,1-Dodecanol,1
+Chd5,1-Dodecanol,-1
+Slc35a3,1-Dodecanol,1
+Kmt5b,1-Dodecanol,1
+Pura,Benzoic Acid,1
+Zbtb7a,Benzoic Acid,1
+Sec62,Benzoic Acid,1
+Nkapd1,Benzoic Acid,1
+Lrrc8c,Benzoic Acid,1
+Ric3,Benzoic Acid,1
+Pura,D-Allofuranose,1
+Sec62,D-Allofuranose,1
+Slc35a3,D-Allofuranose,1
+L-Valyl-L-leucine,Fsbp,1
+Dynlt2b,L-Valyl-L-leucine,-1
+Osbp,L-Valyl-L-leucine,-1
+Prxl2c,L-Valyl-L-leucine,-1
+Sc5d,L-Valyl-L-leucine,-1
+Recql5,L-Valyl-L-leucine,1
+Gm25517,L-Valyl-L-leucine,-1
+Serp2,L-Valyl-L-leucine,1
+Sox13,L-Valyl-L-leucine,-1
+Dnase1l1,L-Valyl-L-leucine,-1
+Azelaic acid,H2az2,1
+l-Leucyl-l-valine,H2az2,1
+Lmtk3,2-Piperidinone,-1
+Cdkn1c,2-Piperidinone,1
+Gnas,2-Piperidinone,1
+Zfp383,2-Piperidinone,1
+Gm15083,2-Piperidinone,1
+Wbp4,2-Piperidinone,1
+Vps13b,2-Piperidinone,1
+5430402O13Rik,2-Piperidinone,1
+Col8a1,2-Piperidinone,1
+Nsmf,2-Piperidinone,-1
+Dcaf12l1,2-Piperidinone,1
+Tm9sf3,2-Piperidinone,1
+Acox1,l-Leucyl-l-valine,1
+Grcc10,l-Leucyl-l-valine,1
+Uqcc5,l-Leucyl-l-valine,1
+Zfp27,l-Leucyl-l-valine,1
+"1,4-Butanediol",Poglut1,1
+Usp9x,"1,4-Butanediol",-1
+Ap3b1,"1,4-Butanediol",-1
+Wasl,"1,4-Butanediol",-1
+Tulp4,"1,4-Butanediol",-1
+Jph1,"1,4-Butanediol",-1
+Dhx36,"1,4-Butanediol",-1
+Camk1d,"1,4-Butanediol",-1
+3-Buten-2-one,Wdr38,1
+Kpna4,3-Buten-2-one,-1
+Gm42636,3-Buten-2-one,-1
+Kcmf1,3-Buten-2-one,-1
+D-Ribose,Pak2,1
+Baiap2l1,D-Ribose,1
+Psma4,D-Ribose,1
+Ccdc148,D-Ribose,1
+Csnk1a1,D-Ribose,1
+Evi5,D-Ribose,1
+Ofd1,D-Ribose,1
+D-(-)-Ribofuranose,Rpn2,1
+1-Tetradecanol,Gm43339,1
+Pyrogallol,Gm43339,1
+Tripropylene glycol monomethyl ether,Gm43339,1
+Hdac9,1-Tetradecanol,-1
+Birc2,1-Tetradecanol,1
+Cmtm8,1-Tetradecanol,1
+Tmem204,1-Tetradecanol,1
+Samd14,1-Tetradecanol,-1
+H1f10,1-Tetradecanol,-1
+5330425B07Rik,1-Tetradecanol,1
+Chd5,1-Tetradecanol,-1
+Slc35a3,1-Tetradecanol,1
+Sytl2,1-Tetradecanol,1
+Klf8,1-Tetradecanol,-1
+Ibtk,Tripropylene glycol monomethyl ether,1
+Psma4,Tripropylene glycol monomethyl ether,1
+Ccdc59,Tripropylene glycol monomethyl ether,1
+Wapl,Tripropylene glycol monomethyl ether,1
+Smim10l1,Tripropylene glycol monomethyl ether,1
+Limch1,Tripropylene glycol monomethyl ether,1
+Wasl,Tripropylene glycol monomethyl ether,1
+Ergic2,Tripropylene glycol monomethyl ether,1
+Bcat1,Tripropylene glycol monomethyl ether,-1
+Samd14,Tripropylene glycol monomethyl ether,-1
+Csnk1a1,Tripropylene glycol monomethyl ether,1
+Wbp4,Tripropylene glycol monomethyl ether,1
+Evi5,Tripropylene glycol monomethyl ether,1
+Fgfr1op2,Tripropylene glycol monomethyl ether,1
+Sin3a,Tripropylene glycol monomethyl ether,1
+Mpp7,Tripropylene glycol monomethyl ether,1
+Zfp1007,Tripropylene glycol monomethyl ether,1
+Kpna3,Tripropylene glycol monomethyl ether,1
+Gsta4,Tripropylene glycol monomethyl ether,1
+Supraene,Xpc,-1
+Gm15675,Supraene,-1
+Cmtm8,6-Hydroxyhexanoic acid,1
+Atp5mg,6-Hydroxyhexanoic acid,1
+2310014F06Rik,6-Hydroxyhexanoic acid,1
+Kmt5b,6-Hydroxyhexanoic acid,1
+Pentadecanoic acid,Hmga1,-1
+Slc11a2,Octanoic acid,1
+Gpaa1,Octanoic acid,1
+Mfge8,Octanoic acid,1
+Atp7a,Octanoic acid,1
+Prpf6,Pentadecanoic acid,1
+Sec62,Pentadecanoic acid,1
+Ifi30,Pentadecanoic acid,1
+11-Hydroxy-.DELTA.-9-tetrahydrocannabinol,Ankrd12,1
+Zfp322a,11-Hydroxy-.DELTA.-9-tetrahydrocannabinol,1
+Ildr2,11-Hydroxy-.DELTA.-9-tetrahydrocannabinol,1
+Dnajc13,11-Hydroxy-.DELTA.-9-tetrahydrocannabinol,1
+Ric3,11-Hydroxy-.DELTA.-9-tetrahydrocannabinol,1
+Ppfibp1,11-Hydroxy-.DELTA.-9-tetrahydrocannabinol,1
+Tmem204,"2,3-Butanediol",1
+Apc2,"2,3-Butanediol",-1
+Bcat1,"2,3-Butanediol",-1
+Samd14,"2,3-Butanediol",-1
+H1f10,"2,3-Butanediol",-1
+Sh3bgrl2,"2,3-Butanediol",1
+Mpp7,"2,3-Butanediol",1
+Ube3c,"2,3-Butanediol",1
+Klf8,"2,3-Butanediol",-1
+L-Glutamic acid,Ddit4,-1
+Ibtk,L-Glutamic acid,1
+Rhob,L-Glutamic acid,-1
+L-Rhamnose,Rai14,1
+Tmem204,L-Rhamnose,1
+Actr3,L-Rhamnose,1
+Rbm20,L-Rhamnose,1
+Atp5mg,L-Rhamnose,1
+Hook2,L-Rhamnose,1
+Suclg2,L-Rhamnose,1
+St8sia2,L-Rhamnose,-1
+"2,3,4,5-Tetrahydroxypentanoic acid-1,4-lactone",Gm38037,1
+alpha-Linolenic acid,Hdac9,-1
+Monomethyl succinate,Hdac9,-1
+N-(2-hydroxyethyl)-succinimide,Hdac9,-1
+Zbtb7a,alpha-Linolenic acid,1
+Cdc14a,alpha-Linolenic acid,1
+Secisbp2l,alpha-Linolenic acid,1
+Lrp6,alpha-Linolenic acid,1
+Cmtm8,Monomethyl succinate,1
+Rufy3,Monomethyl succinate,-1
+Casp8,Monomethyl succinate,1
+Ildr2,Monomethyl succinate,1
+Chi3l1,Monomethyl succinate,1
+Col8a1,Monomethyl succinate,1
+Sh3bgrl2,Monomethyl succinate,1
+Slc35a3,Monomethyl succinate,1
+Lrp6,Monomethyl succinate,1
+Leprotl1,Monomethyl succinate,1
+Ube3c,Monomethyl succinate,1
+Stxbp4,Monomethyl succinate,1
+Klf8,Monomethyl succinate,-1
+Por,N-(2-hydroxyethyl)-succinimide,1
+Agbl3,N-(2-hydroxyethyl)-succinimide,1
+Maco1,N-(2-hydroxyethyl)-succinimide,1
+Rufy3,N-(2-hydroxyethyl)-succinimide,-1
+Pomgnt1,N-(2-hydroxyethyl)-succinimide,1
+Zfp383,N-(2-hydroxyethyl)-succinimide,1
+Col8a1,N-(2-hydroxyethyl)-succinimide,1
+Slc35a3,N-(2-hydroxyethyl)-succinimide,1
+Lrp6,N-(2-hydroxyethyl)-succinimide,1
+Mpp7,N-(2-hydroxyethyl)-succinimide,1
+Stxbp4,N-(2-hydroxyethyl)-succinimide,1
+Cyclohexanecarboxylic acid,Gm15408,1
+Pcgf5,Cyclohexanecarboxylic acid,1
+Ess2,Cyclohexanecarboxylic acid,1
+Fchsd2,Cyclohexanecarboxylic acid,1
+Heatr3,Cyclohexanecarboxylic acid,1
+Abitram,Cyclohexanecarboxylic acid,-1
+Glyceric acid,Galnt15,1
+Col9a2,Glyceric acid,1
+Nod1,Glyceric acid,1
+D-Psicofuranose,Por,-1
+"D-(+)-Ribono-1,4-lactone ",Rpl18a,1
+Hymexazole,Rpl18a,1
+Map3k8,"D-(+)-Ribono-1,4-lactone ",1
+Dynlt2b,"D-(+)-Ribono-1,4-lactone ",1
+Cmtm8,Hymexazole,1
+Dync2li1,Hymexazole,1
+Actr3,Hymexazole,1
+Rlbp1,Hymexazole,1
+Vasp,Hymexazole,1
+Thr-Leu,Grpel1,1
+Alkbh6,Thr-Leu,1
+"1,3-Dioxane, 2,2-dimethyl-5-hydroxy-",Cspg5,-1
+Arhgef12,"1,3-Dioxane, 2,2-dimethyl-5-hydroxy-",1
+Zfp638,"1,3-Dioxane, 2,2-dimethyl-5-hydroxy-",1
+Wapl,"1,3-Dioxane, 2,2-dimethyl-5-hydroxy-",1
+Gm14798,"1,3-Dioxane, 2,2-dimethyl-5-hydroxy-",-1
+Gsk3b,"1,3-Dioxane, 2,2-dimethyl-5-hydroxy-",1
+Acad9,"1,3-Dioxane, 2,2-dimethyl-5-hydroxy-",-1
+Phactr2,"1,3-Dioxane, 2,2-dimethyl-5-hydroxy-",1
+Gtpbp4,"1,3-Dioxane, 2,2-dimethyl-5-hydroxy-",1
+Deoxyribopyranose,Klc1,1
+Gm6548,Deoxyribopyranose,-1
+Rufy3,Deoxyribopyranose,1
+Magix,Deoxyribopyranose,-1
+Asb16,Deoxyribopyranose,-1
+Klhl18,Deoxyribopyranose,1
+Eif3l,Deoxyribopyranose,-1
+"2',2,3,6'-Tetramethoxychalcone",Kcnk5,-1
+Cox18,"2',2,3,6'-Tetramethoxychalcone",1
+Zhx1,"2',2,3,6'-Tetramethoxychalcone",-1
+Cebpd,"2',2,3,6'-Tetramethoxychalcone",1
+Twsg1,"2',2,3,6'-Tetramethoxychalcone",1
+D-(+)-Talofuranose,Repin1,1
+9H-Purin-6-ol,Ibtk,1
+"cis-4,5-Dihydroxy-o-dithiane",Ibtk,1
+D-(+)-Glucosamine,Ibtk,1
+Hydracrylic acid,Ibtk,1
+L-Threonine,Ibtk,1
+"N-Acetyl-D-galactosamine, (R,R,R,R)",Ibtk,1
+N-Acetyl-L-glutamic acid,Ibtk,1
+Salsoline,Ibtk,1
+Undecanoic acid,Ibtk,1
+Uracil,Ibtk,1
+Srebf2,9H-Purin-6-ol,-1
+Rhob,9H-Purin-6-ol,-1
+Tmem229b,9H-Purin-6-ol,-1
+Stag2,9H-Purin-6-ol,1
+Phactr2,9H-Purin-6-ol,1
+Ncbp2,9H-Purin-6-ol,1
+Mtap,"cis-4,5-Dihydroxy-o-dithiane",1
+Dync2li1,"cis-4,5-Dihydroxy-o-dithiane",1
+Cep41,"cis-4,5-Dihydroxy-o-dithiane",1
+Actr3,"cis-4,5-Dihydroxy-o-dithiane",1
+Cdkn1c,"cis-4,5-Dihydroxy-o-dithiane",1
+Atp5mg,"cis-4,5-Dihydroxy-o-dithiane",1
+Ap3b1,"cis-4,5-Dihydroxy-o-dithiane",1
+Wbp4,"cis-4,5-Dihydroxy-o-dithiane",1
+Setx,"cis-4,5-Dihydroxy-o-dithiane",1
+Chi3l1,"cis-4,5-Dihydroxy-o-dithiane",1
+Hip1,"cis-4,5-Dihydroxy-o-dithiane",1
+Dcaf12l1,"cis-4,5-Dihydroxy-o-dithiane",1
+mt-Tl1,"cis-4,5-Dihydroxy-o-dithiane",-1
+Gsta4,"cis-4,5-Dihydroxy-o-dithiane",1
+Cep41,D-(+)-Glucosamine,1
+mt-Tl1,D-(+)-Glucosamine,-1
+Stag2,D-(+)-Glucosamine,1
+Pthlh,D-(+)-Glucosamine,1
+Serpinb8,D-(+)-Glucosamine,1
+Mtap,Hydracrylic acid,1
+Wapl,Hydracrylic acid,1
+Zfp322a,Hydracrylic acid,1
+Tmem229b,Hydracrylic acid,-1
+Erbin,Hydracrylic acid,1
+Stag2,Hydracrylic acid,1
+Phactr2,Hydracrylic acid,1
+Cdkn1c,L-Threonine,1
+Tceal8,L-Threonine,1
+Wapl,"N-Acetyl-D-galactosamine, (R,R,R,R)",1
+Prxl2c,"N-Acetyl-D-galactosamine, (R,R,R,R)",1
+Smim10l1,"N-Acetyl-D-galactosamine, (R,R,R,R)",1
+Stk26,"N-Acetyl-D-galactosamine, (R,R,R,R)",1
+Kcmf1,"N-Acetyl-D-galactosamine, (R,R,R,R)",1
+Setx,"N-Acetyl-D-galactosamine, (R,R,R,R)",1
+Evi5,"N-Acetyl-D-galactosamine, (R,R,R,R)",1
+Nsmf,"N-Acetyl-D-galactosamine, (R,R,R,R)",-1
+Aasdhppt,"N-Acetyl-D-galactosamine, (R,R,R,R)",1
+Erbin,"N-Acetyl-D-galactosamine, (R,R,R,R)",1
+Kpna3,"N-Acetyl-D-galactosamine, (R,R,R,R)",1
+Smarca5,"N-Acetyl-D-galactosamine, (R,R,R,R)",1
+Ano8,N-Acetyl-L-glutamic acid,-1
+Birc2,Salsoline,1
+Slk,Salsoline,1
+Rbm27,Salsoline,1
+Atp5mg,Salsoline,1
+Ildr2,Salsoline,1
+Chi3l1,Salsoline,1
+Serp2,Salsoline,-1
+Fundc2,Salsoline,1
+Meis2,Salsoline,-1
+Ric3,Salsoline,1
+mt-Tv,Salsoline,-1
+Sin3a,Salsoline,1
+Sytl2,Salsoline,1
+2310014F06Rik,Salsoline,1
+Slain2,Salsoline,1
+Slk,Undecanoic acid,1
+Zbtb37,Undecanoic acid,1
+H1f10,Undecanoic acid,-1
+Slc35a3,Undecanoic acid,1
+Cyyr1,Uracil,1
+Tmem229b,Uracil,-1
+Olfm2,Uracil,-1
+Kcmf1,Uracil,1
+mt-Tl1,Uracil,-1
+Stag2,Uracil,1
+Phactr2,Uracil,1
+Serpinb8,Uracil,1
+5-Hydroxymethyl-2-furoic acid,Fam13b,1
+4-Hydroxybenzoic acid,Ctdspl2,1
+Nfe2l2,4-Hydroxybenzoic acid,1
+Gpaa1,4-Hydroxybenzoic acid,-1
+Rhob,4-Hydroxybenzoic acid,-1
+Kcmf1,4-Hydroxybenzoic acid,1
+Setx,4-Hydroxybenzoic acid,1
+Stag2,4-Hydroxybenzoic acid,1
+Tceal8,4-Hydroxybenzoic acid,1
+Pyridoxic acid,Ppp1r12a,1
+Sppl3,Pyridoxic acid,-1
+Cyclohexanol,Dctn2,1
+Cmtm8,"2,5-Cyclohexadiene-1,4-dione, 2,6-bis(1,1-dimethylethyl)",1
+Gm43568,"2,5-Cyclohexadiene-1,4-dione, 2,6-bis(1,1-dimethylethyl)",1
+H1f10,"2,5-Cyclohexadiene-1,4-dione, 2,6-bis(1,1-dimethylethyl)",-1
+5330425B07Rik,"2,5-Cyclohexadiene-1,4-dione, 2,6-bis(1,1-dimethylethyl)",1
+Vasp,"2,5-Cyclohexadiene-1,4-dione, 2,6-bis(1,1-dimethylethyl)",1
+Sin3a,"2,5-Cyclohexadiene-1,4-dione, 2,6-bis(1,1-dimethylethyl)",1
+Usp22,"2,5-Cyclohexadiene-1,4-dione, 2,6-bis(1,1-dimethylethyl)",-1
+Ube3c,"2,5-Cyclohexadiene-1,4-dione, 2,6-bis(1,1-dimethylethyl)",1
+Klf8,"2,5-Cyclohexadiene-1,4-dione, 2,6-bis(1,1-dimethylethyl)",-1
+Agbl3,Hydroquinone,1
+Atp5mg,Hydroquinone,1
+Pomgnt1,Hydroquinone,1
+Dcaf12l1,Hydroquinone,1
+Monolaurin,Ncaph2,1
+Slc29a4,Monolaurin,1
+Hlf,Monolaurin,-1
+Ubl3,9-Octadecenamide,1
+Gm25517,9-Octadecenamide,1
+G2e3,9-Octadecenamide,-1
+Serp2,9-Octadecenamide,-1
+Serine,Pdlim5,1
+Klf3,Serine,1
+Cdkn1c,Serine,1
+Smim10l1,Serine,1
+Zfp322a,Serine,1
+Iqgap2,Serine,1
+Pi4ka,Serine,-1
+Pbx1,Serine,1
+Vps13b,Serine,1
+Secisbp2l,Serine,1
+Ahcyl2,Serine,1
+Lrrc8c,Serine,1
+Nsmf,Serine,-1
+Ric3,Serine,1
+Cep290,Serine,1
+Gtpbp4,Serine,1
+Stxbp4,Serine,1
+Mia2,Serine,1
+Picolinic acid,Cast,1
+Suberic acid,Cast,1
+Ccdc148,Picolinic acid,1
+Casp8,Picolinic acid,1
+Zhx1,Picolinic acid,1
+Olfm2,Picolinic acid,-1
+Pbx1,Picolinic acid,1
+Ildr2,Picolinic acid,1
+Chi3l1,Picolinic acid,1
+Myof,Picolinic acid,1
+Serp2,Picolinic acid,-1
+Ric3,Picolinic acid,1
+mt-Tv,Picolinic acid,-1
+Osgepl1,Picolinic acid,1
+mt-Tl1,Picolinic acid,-1
+Dynlt2b,Suberic acid,1
+Serp2,Suberic acid,-1
+Osgepl1,Suberic acid,1
+Sh2b3,Suberic acid,1
+Ube3c,Suberic acid,1
+Stxbp4,Suberic acid,1
+Xanthine,Emd,-1
+13-Docosenamide,Emd,-1
+Sppl3,Xanthine,-1
+Aox3,Xanthine,1
+Gpsm3,Xanthine,1
+Ehd1,Xanthine,-1
+Aox3,13-Docosenamide,1
+4-Methyl-5-thiazoleethanol,Birc2,1
+Cmtm8,4-Methyl-5-thiazoleethanol,1
+Dync2li1,4-Methyl-5-thiazoleethanol,1
+Cep41,4-Methyl-5-thiazoleethanol,1
+Wapl,4-Methyl-5-thiazoleethanol,1
+Prxl2c,4-Methyl-5-thiazoleethanol,1
+Npas3,4-Methyl-5-thiazoleethanol,-1
+Sin3a,4-Methyl-5-thiazoleethanol,1
+Xaf1,4-Methyl-5-thiazoleethanol,1
+Stag2,4-Methyl-5-thiazoleethanol,1
+1-Monopalmitin,Usp9x,-1
+Enpp5,1-Monopalmitin,1
+Zfp27,1-Monopalmitin,1
+L-Norvaline,Nfe2l2,1
+Kcmf1,L-Norvaline,1
+Klhl18,L-Norvaline,-1
+Pipecolic acid,Baiap2l1,1
+Pyrrole-2-carboxylic acid,Baiap2l1,1
+Atp5mg,Pipecolic acid,1
+Pla2g3,Pipecolic acid,-1
+St8sia2,Pipecolic acid,-1
+Col5a3,Pyrrole-2-carboxylic acid,-1
+Setx,Pyrrole-2-carboxylic acid,1
+Tceal8,Pyrrole-2-carboxylic acid,1
+Dhx9,Pyrrole-2-carboxylic acid,1
+Myristic acid,Abtb2,1
+Atp5mg,Myristic acid,1
+"Inosose-2, myo",Map3k8,1
+Btg1,"Inosose-2, myo",1
+2310014F06Rik,"Inosose-2, myo",1
+"Arabinofuranose, 1,2,3,5-tetrakis",Smpdl3b,1
+Actr3,"Arabinofuranose, 1,2,3,5-tetrakis",1
+Stk26,"Arabinofuranose, 1,2,3,5-tetrakis",1
+mt-Tl1,"Arabinofuranose, 1,2,3,5-tetrakis",-1
+D-Glucose,Kif2a,1
+Sp4,D-Glucose,1
+5430402O13Rik,D-Glucose,1
+Hip1,D-Glucose,1
+2610020C07Rik,D-Glucose,1
+Stag2,D-Glucose,1
+Smarca5,D-Glucose,1
+Tetrahydrogeranyl formate,Pura,1
+Sema3g,Tetrahydrogeranyl formate,1
+Vangl1,Tetrahydrogeranyl formate,1
+Cntn1,Tetrahydrogeranyl formate,1
+3-O-methyl-beta-D-Glucopyranose,Gm15675,-1
+Ccdc148,3-O-methyl-beta-D-Glucopyranose,-1
+Zhx1,3-O-methyl-beta-D-Glucopyranose,-1
+Hspa1b,3-O-methyl-beta-D-Glucopyranose,1
+Camk1d,3-O-methyl-beta-D-Glucopyranose,-1
+Serpinb8,3-O-methyl-beta-D-Glucopyranose,-1
+"2,5-Di-tert-butyl-4-hydroxyphenol",Cyyr1,1
+5-Methyluridine,Cyyr1,1
+1700125H03Rik,"2,5-Di-tert-butyl-4-hydroxyphenol",1
+Hcn3,"2,5-Di-tert-butyl-4-hydroxyphenol",-1
+Serp2,"2,5-Di-tert-butyl-4-hydroxyphenol",-1
+Ube3c,"2,5-Di-tert-butyl-4-hydroxyphenol",1
+Klf8,"2,5-Di-tert-butyl-4-hydroxyphenol",-1
+Foxk2,5-Methyluridine,-1
+2-Ethylacetoacetate,Dynlt2b,1
+Aconitic acid,Dynlt2b,1
+D-(-)-Fructofuranose,Dynlt2b,1
+Ethyl alpha-D-glucopyranoside,Dynlt2b,1
+Norketamine,Dynlt2b,-1
+"Trimethylsilyl (5-benzyl-3,6-dioxopiperazin-2-yl)acetate",Dynlt2b,1
+Dync2li1,2-Ethylacetoacetate,1
+Actr3,2-Ethylacetoacetate,1
+Ptger1,2-Ethylacetoacetate,1
+Suclg2,2-Ethylacetoacetate,1
+Osgepl1,2-Ethylacetoacetate,1
+Sox13,2-Ethylacetoacetate,1
+Gsta4,2-Ethylacetoacetate,1
+Actr3,Aconitic acid,1
+Pomgnt1,Aconitic acid,1
+Opa1,Aconitic acid,1
+mt-Tl1,Aconitic acid,-1
+Rpp30,Aconitic acid,1
+Cep41,D-(-)-Fructofuranose,1
+Gpaa1,D-(-)-Fructofuranose,-1
+Mfge8,D-(-)-Fructofuranose,-1
+Opa1,D-(-)-Fructofuranose,1
+Pi4ka,D-(-)-Fructofuranose,-1
+Adamts15,D-(-)-Fructofuranose,-1
+Ramac,D-(-)-Fructofuranose,1
+Acad9,D-(-)-Fructofuranose,-1
+Dync1h1,D-(-)-Fructofuranose,-1
+Ptgr3,D-(-)-Fructofuranose,1
+Fam98b,D-(-)-Fructofuranose,1
+Stk26,Ethyl alpha-D-glucopyranoside,1
+Zfp36l2,Ethyl alpha-D-glucopyranoside,1
+Suclg2,Ethyl alpha-D-glucopyranoside,1
+Arhgap15,Ethyl alpha-D-glucopyranoside,-1
+Serp2,Ethyl alpha-D-glucopyranoside,-1
+Klhl18,Ethyl alpha-D-glucopyranoside,-1
+Dync2li1,Norketamine,-1
+Gm43568,Norketamine,-1
+Suclg2,Norketamine,-1
+Klhl18,Norketamine,1
+Yars1,Norketamine,1
+Ubl3,"Trimethylsilyl (5-benzyl-3,6-dioxopiperazin-2-yl)acetate",1
+Smim10l1,"Trimethylsilyl (5-benzyl-3,6-dioxopiperazin-2-yl)acetate",1
+mt-Tl1,"Trimethylsilyl (5-benzyl-3,6-dioxopiperazin-2-yl)acetate",-1
+Rpp30,"Trimethylsilyl (5-benzyl-3,6-dioxopiperazin-2-yl)acetate",1
+Pthlh,"Trimethylsilyl (5-benzyl-3,6-dioxopiperazin-2-yl)acetate",1
+Cyclohexanemethanol,Cmtm8,1
+"Guanidine, N,N-dimethyl",Cmtm8,1
+N-Acetyl glucosamine methoxime,Cmtm8,1
+Rlbp1,Cyclohexanemethanol,1
+Vasp,Cyclohexanemethanol,1
+Flvcr1,Cyclohexanemethanol,1
+Klf8,Cyclohexanemethanol,-1
+Chi3l1,"Guanidine, N,N-dimethyl",1
+Col8a1,"Guanidine, N,N-dimethyl",1
+Ifi30,"Guanidine, N,N-dimethyl",1
+2310014F06Rik,"Guanidine, N,N-dimethyl",1
+Kmt5b,"Guanidine, N,N-dimethyl",1
+Cbarp,N-Acetyl glucosamine methoxime,-1
+Casp8,N-Acetyl glucosamine methoxime,1
+Apc2,N-Acetyl glucosamine methoxime,-1
+Ccdc33,N-Acetyl glucosamine methoxime,-1
+Hmmr,N-Acetyl glucosamine methoxime,1
+2-Hydroxy-3-methylbutyric acid,Tmem259,-1
+Ptges2,2-Hydroxy-3-methylbutyric acid,-1
+L-Leucine,Lepr,1
+Cdkn1c,L-Leucine,1
+Zhx1,L-Leucine,1
+Vps13b,L-Leucine,1
+Rab5a,L-Leucine,1
+5430402O13Rik,L-Leucine,1
+Clcn2,L-Leucine,1
+Gtpbp4,L-Leucine,1
+2-Aminobutanoic acid,Zbtb37,1
+Decanoic acid,Zbtb37,1
+Rhob,2-Aminobutanoic acid,-1
+Nup214,Decanoic acid,1
+Prpf6,Decanoic acid,1
+Aqp11,Decanoic acid,1
+Slc35a3,Decanoic acid,1
+Fer,Decanoic acid,1
+Klf8,Decanoic acid,-1
+Butyl caprylate,Slc16a7,-1
+Irak3,Butyl caprylate,1
+Zmat5,Butyl caprylate,-1
+9-Octadecenoic acid,Fam167b,1
+Pdss1,9-Octadecenoic acid,1
+Pentanoic acid,Zfp513,1
+Sema3g,Pentanoic acid,1
+Ric3,Pentanoic acid,1
+N-Acetylglucosamine,Ndufs3,1
+Plekhn1,N-Acetylglucosamine,1
+Setx,N-Acetylglucosamine,1
+Tyrosine,Osbp,1
+Cep41,Tyrosine,1
+Cdkn1c,Tyrosine,1
+Stk26,Tyrosine,1
+Osgepl1,Tyrosine,1
+Smarca5,Tyrosine,1
+Dhx9,Tyrosine,1
+"2,3,4-Trihydroxybutyric acid",Mtap,1
+3-Pyridylcarbinol,Mtap,1
+4-Pyridinol,Mtap,1
+Cytosine,Mtap,1
+Dihydrouracil,Mtap,1
+Prxl2c,"2,3,4-Trihydroxybutyric acid",1
+Smim10l1,"2,3,4-Trihydroxybutyric acid",1
+Erbin,"2,3,4-Trihydroxybutyric acid",1
+Cdkn1c,3-Pyridylcarbinol,1
+Smim10l1,3-Pyridylcarbinol,1
+Zfp322a,3-Pyridylcarbinol,1
+Wbp4,3-Pyridylcarbinol,1
+Setx,3-Pyridylcarbinol,1
+Evi5,3-Pyridylcarbinol,1
+Serp2,3-Pyridylcarbinol,-1
+Ric3,3-Pyridylcarbinol,1
+Gtpbp4,3-Pyridylcarbinol,1
+Gsta4,3-Pyridylcarbinol,1
+H1f10,4-Pyridinol,-1
+Gsta4,4-Pyridinol,1
+Krt23,Dihydrouracil,1
+Kcmf1,Dihydrouracil,1
+mt-Tv,Dihydrouracil,-1
+Stag2,Dihydrouracil,1
+Methylmaleic acid,Stat3,1
+Casp8,Methylmaleic acid,-1
+Kcmf1,Methylmaleic acid,-1
+2'-Desoxyuridine,Nek8,1
+"Hexadecanoic acid, tetradecyl ester",Nek8,1
+Srebf2,2'-Desoxyuridine,-1
+Gpaa1,2'-Desoxyuridine,-1
+Eef1a1,2'-Desoxyuridine,1
+Mfge8,2'-Desoxyuridine,-1
+Armcx2,2'-Desoxyuridine,-1
+Kat8,2'-Desoxyuridine,-1
+Rit1,2'-Desoxyuridine,-1
+Stag2,2'-Desoxyuridine,1
+Ubl3,"Hexadecanoic acid, tetradecyl ester",1
+Zfp358,"Hexadecanoic acid, tetradecyl ester",-1
+Gm5141,"Hexadecanoic acid, tetradecyl ester",1
+Butyl Succinate,Dync2li1,1
+Olfm2,Butyl Succinate,-1
+Gsta4,Butyl Succinate,1
+alpha-Tocopheryl acetate,Amfr,1
+Ramac,alpha-Tocopheryl acetate,-1
+Fance,alpha-Tocopheryl acetate,1
+Ribonic acid,Fchsd2,1
+Smim10l1,Ribonic acid,1
+Stag2,Ribonic acid,1
+Pentanedioic acid,Tmem204,1
+St8sia2,Pentanedioic acid,-1
+L-Serine,Ubl3,1
+Actr3,L-Serine,1
+Smim10l1,L-Serine,1
+Gnas,L-Serine,1
+Setx,L-Serine,1
+3-(3-Hydroxyphenyl)propanoic acid,Maco1,1
+Recql5,3-(3-Hydroxyphenyl)propanoic acid,-1
+Gm25517,3-(3-Hydroxyphenyl)propanoic acid,1
+Zfp383,3-(3-Hydroxyphenyl)propanoic acid,1
+beta-D-(-)-Ribopyranose,Actr3,1
+Cdkn1c,beta-D-(-)-Ribopyranose,1
+Ap3b1,beta-D-(-)-Ribopyranose,1
+Afg3l1,beta-D-(-)-Ribopyranose,1
+Olfm2,beta-D-(-)-Ribopyranose,-1
+Slc25a16,beta-D-(-)-Ribopyranose,1
+St8sia2,beta-D-(-)-Ribopyranose,-1
+N-Methyl-alpha-aminoisobutyric acid,Acacb,-1
+Irak1bp1,N-Methyl-alpha-aminoisobutyric acid,1
+Setx,N-Methyl-alpha-aminoisobutyric acid,1
+Ofd1,N-Methyl-alpha-aminoisobutyric acid,1
+Xylazine,Btg1,1
+Niacinamide,Srebf2,-1
+"2-Pentenedioic acid, 2-hydroxy-",Srebf2,-1
+Thymidine,Srebf2,-1
+Mpi,Niacinamide,-1
+Vmp1,Niacinamide,-1
+Zfp322a,"2-Pentenedioic acid, 2-hydroxy-",1
+Gpaa1,Thymidine,-1
+Mfge8,Thymidine,-1
+Armcx2,Thymidine,-1
+Kat8,Thymidine,-1
+"D-Erythro-Pentitol, 2-deoxy-",Fndc3a,-1
+Phenylalanine,Cdkn1c,1
+Gpaa1,Phenylalanine,-1
+Rhob,Phenylalanine,-1
+Pi4ka,Phenylalanine,-1
+Stag2,Phenylalanine,1
+Smarca5,Phenylalanine,1
+Fam98b,Phenylalanine,1
+Dhx9,Phenylalanine,1
+1-Octadecanol,Prpf6,1
+Sec62,1-Octadecanol,1
+Vangl1,1-Octadecanol,1
+Bcl2l12,1-Octadecanol,1
+Ric3,1-Octadecanol,1
+N-Methyl-L-proline,Ruvbl1,1
+Cltb,N-Methyl-L-proline,1
+Campesterol,Scp2-ps2,-1
+3-Undecene,Casp8,1
+Sec62,3-Undecene,1
+Ifih1,3-Undecene,1
+Sema3g,3-Undecene,1
+Chi3l1,3-Undecene,1
+Vangl1,3-Undecene,1
+Cntn1,3-Undecene,1
+Klf8,3-Undecene,-1
+Menthol,Ifih1,1
+4-Hydroxy-5-(hydroxymethyl)oxolan-2-one,Nfyb,1
+Itaconic acid,Apc2,1
+"D-Erythro-Pentofuranose, 2-deoxy-1,3-bis-O-posphate",Adck2,-1
+Dok1,"D-Erythro-Pentofuranose, 2-deoxy-1,3-bis-O-posphate",1
+L-Glutamine,Mtmr2,1
+L-(+)-Lactic acid,C130089K02Rik,-1
+"2,5-Dimethoxybenzhydrazide",Ap3b1,1
+Stag2,"2,5-Dimethoxybenzhydrazide",1
+Arabinose,Ada,1
+Fzr1,Arabinose,1
+"1H-Indole-2-carboxylic acid, 5-ethyl-1-(trimethylsilyl)",Sp4,1
+Olfm2,"1H-Indole-2-carboxylic acid, 5-ethyl-1-(trimethylsilyl)",-1
+Kpna4,"1H-Indole-2-carboxylic acid, 5-ethyl-1-(trimethylsilyl)",1
+Osgepl1,"1H-Indole-2-carboxylic acid, 5-ethyl-1-(trimethylsilyl)",1
+1-Hexanol,Dok1,-1
+Ndn,1-Hexanol,1
+"3-Hydroxy-2,3-dihydromaltol",Stk26,1
+Rlbp1,"3-Hydroxy-2,3-dihydromaltol",1
+Uridine,Rhob,-1
+Adamts15,Uridine,-1
+"2-Furanacetaldehyde, tetrahydro-alpha",Hsdl2,1
+Citric acid,Iqgap2,1
+Ric3,Citric acid,1
+Lrp2bp,Citric acid,1
+Gm15587,Citric acid,1
+Glycolic acid,Dcp2,1
+Octadecyl octyl ether,Cul7,-1
+3-Methyl-2-furoic acid,Gm25517,-1
+Rassf4,3-Methyl-2-furoic acid,1
+"Azetidine, 1-acetyl-2-methyl",Sema3g,1
+"Hexadecanoic acid, 4-hydroxybutyl ester",Sema3g,1
+Mafg,"Azetidine, 1-acetyl-2-methyl",1
+H1f10,"Hexadecanoic acid, 4-hydroxybutyl ester",-1
+Palmitic Acid,Bcat1,-1
+Ric3,Palmitic Acid,1
+Sytl2,Palmitic Acid,1
+3-Hydroxyisovaleric acid,Afg3l1,1
+"Erythrono-1,4-lactone",Afg3l1,1
+Klf8,3-Hydroxyisovaleric acid,-1
+Gsta4,"Erythrono-1,4-lactone",1
+beta-Arabinopyranose,Tmem229b,-1
+Cebpd,beta-Arabinopyranose,-1
+Sulf2,beta-Arabinopyranose,-1
+Dr1,beta-Arabinopyranose,1
+2'-Deoxyribolactone,Olfm2,-1
+8-Hydroxy-5-(hydroxymethyl)quinoline,Olfm2,-1
+Ppp4c,2'-Deoxyribolactone,-1
+Hip1,2'-Deoxyribolactone,1
+Slc35a3,2'-Deoxyribolactone,1
+Mkrn3,8-Hydroxy-5-(hydroxymethyl)quinoline,-1
+Lama1,8-Hydroxy-5-(hydroxymethyl)quinoline,1
+Phloroglucinol,Spen,1
+"Xylonic acid, delta-lactone",Eeig1,1
+1-Tetracosene,Ints11,-1
+L-(-)-Sorbofuranose,Itch,1
+Reep2,L-(-)-Sorbofuranose,-1
+Stag2,L-(-)-Sorbofuranose,1
+Idoxuridine ,Ppp4c,-1
+"1-Propanamine, N,N-diethyl-",Emc3,-1
+Ubc,"1-Propanamine, N,N-diethyl-",-1
+Ketamine,Dync2i2,-1
+4-Hydroxybenzaldehyde,Dennd2c,1
+Stag2,4-Hydroxybenzaldehyde,1
+Arabinitol,Sncg,-1
+Xylose,Ptges2,1
+Arl2bp,Xylose,1
+12-Oxooctadecanoate,Nop16,-1
+Cholesterol,Rab5a,1
+Pimelic acid,Chi3l1,1
+Col8a1,Pimelic acid,1
+Slc35a3,Pimelic acid,1
+Ube3c,Pimelic acid,1
+Klf8,Pimelic acid,-1
+Lignoceric acid,A930024E05Rik,1
+Isonicotinic Acid,Rassf4,1
+1-Octanol,Nsg2,1
+L-Proline,Fundc2,1
+Erythritol,Cebpd,1
+Ap3s2,Erythritol,1
+Ccpg1,Erythritol,1
+3-Deoxyhexitol,Aasdhppt,1
+Sebacic acid,Vps37d,-1
+Cstf2,Sebacic acid,-1
+Zfp300,Sebacic acid,-1
+3-Aminobutanoic acid,Fance,1
+Hlf,3-Aminobutanoic acid,-1
+alpha-L-(-)-Fucopyranose,Ubc,1
+"Pentitol, 3-desoxy",Sema6a,-1
+"Propane, 2-methyl",Gm15587,1
+Phloretic acid,Leprotl1,1
+Osgepl1,Phloretic acid,1
+Tm9sf3,Phloretic acid,1
+D-Mannopyranose,Id1,1
+"beta-D-Galactopyranoside, methyl-, acetate",Scrib,1
+Butanedioic acid,Foxc2,-1
+Tricine,Gtpbp4,1
+Dihydroxyacetone,Dynll1,1

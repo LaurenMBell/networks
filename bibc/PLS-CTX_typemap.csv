@@ -1420,7 +1420,7 @@ Rpl31__CTX,Cortex
 4930513N10Rik__CTX,Cortex
 Chst14__CTX,Cortex
 Heg1__CTX,Cortex
-UNKNOWN_1__CTX,Cortex
+UNKNOWN_1454__CTX,Cortex
 Ppil6__CTX,Cortex
 Alkbh1__CTX,Cortex
 Neu2__CTX,Cortex
@@ -1574,7 +1574,7 @@ Irf3__CPX,Choroid Plexus
 Dap3__CTX,Cortex
 Slain2__CPX,Choroid Plexus
 Mto1__CTX,Cortex
-UNKNOWN_2__CTX,Cortex
+UNKNOWN_1473__CTX,Cortex
 Gm12999__CTX,Cortex
 Fgl2__CPX,Choroid Plexus
 Errfi1__CPX,Choroid Plexus
@@ -1606,7 +1606,7 @@ Gm43420__CTX,Cortex
 Il10ra__CTX,Cortex
 Trp53i13__CTX,Cortex
 Gm42989__CTX,Cortex
-UNKNOWN_3__CTX,Cortex
+UNKNOWN_1531__CTX,Cortex
 Smpdl3b__CPX,Choroid Plexus
 Neu1__CTX,Cortex
 Gm26652__CTX,Cortex
@@ -1676,7 +1676,7 @@ Myo9a__CTX,Cortex
 Ptger1__CPX,Choroid Plexus
 Kif22__CPX,Choroid Plexus
 Lrrc8c__CPX,Choroid Plexus
-UNKNOWN_4__CTX,Cortex
+UNKNOWN_1343__CTX,Cortex
 Trabd__CPX,Choroid Plexus
 Ndufaf1__CPX,Choroid Plexus
 Ncaph__CTX,Cortex
@@ -1764,7 +1764,7 @@ Gm42442__CTX,Cortex
 Ncl__CTX,Cortex
 Sfi1__CPX,Choroid Plexus
 Pole__CTX,Cortex
-UNKNOWN_5__CTX,Cortex
+UNKNOWN_1345__CTX,Cortex
 Gm26225__CTX,Cortex
 Zc3h12c__CTX,Cortex
 Ddx6__CTX,Cortex
@@ -1781,10 +1781,8 @@ Cebpd__CTX,Cortex
 Gm43417__CTX,Cortex
 Zcwpw2__CTX,Cortex
 Gm1976__CTX,Cortex
-UNKNOWN_6__CTX,Cortex
 Sntg1__CTX,Cortex
 Naip6__CTX,Cortex
-UNKNOWN_7__CTX,Cortex
 Gm18284__CTX,Cortex
 Gm42482__CTX,Cortex
 Gm43751__CTX,Cortex
@@ -1797,7 +1795,6 @@ Htr6__CTX,Cortex
 Errfi1__CTX,Cortex
 Dzip1l__CTX,Cortex
 Nhsl1__CTX,Cortex
-UNKNOWN_8__CTX,Cortex
 Gm42771__CTX,Cortex
 Elf4__CTX,Cortex
 Gm16168__CTX,Cortex
@@ -1808,22 +1805,16 @@ Kctd12b__CTX,Cortex
 Aard__CTX,Cortex
 Qng1__CTX,Cortex
 Thumpd1__CTX,Cortex
-UNKNOWN_9__CTX,Cortex
 Zfp664__CTX,Cortex
 Vash2__CTX,Cortex
-UNKNOWN_10__CTX,Cortex
-UNKNOWN_11__CTX,Cortex
 Nkain1__CTX,Cortex
 Gm37033__CTX,Cortex
 Mecp2__CTX,Cortex
-UNKNOWN_12__CTX,Cortex
 Tet1__CTX,Cortex
 2310057M21Rik__CTX,Cortex
 Col8a1__CTX,Cortex
-UNKNOWN_13__CTX,Cortex
 Cfh__CTX,Cortex
 Dynlt1a__CTX,Cortex
-UNKNOWN_14__CTX,Cortex
 Ankib1__CTX,Cortex
 Ltbp4__CTX,Cortex
 Rdh11__CTX,Cortex
@@ -1838,28 +1829,20 @@ Tbx3os1__CTX,Cortex
 Gm12144__CTX,Cortex
 Flnc__CTX,Cortex
 Hectd1__CTX,Cortex
-UNKNOWN_15__CTX,Cortex
 Or52b2__CTX,Cortex
 Dgkeos__CTX,Cortex
 Ccdc149__CTX,Cortex
 Pramel1__CTX,Cortex
-UNKNOWN_16__CTX,Cortex
 Gm37968__CTX,Cortex
 Lrrc40__CTX,Cortex
-UNKNOWN_17__CTX,Cortex
-UNKNOWN_18__CTX,Cortex
 Gm4804__CTX,Cortex
 Smim24__CTX,Cortex
-UNKNOWN_19__CTX,Cortex
 Kcnh7__CTX,Cortex
-UNKNOWN_20__CTX,Cortex
 Celrr__CTX,Cortex
 Gm5475__CTX,Cortex
 Gm42897__CTX,Cortex
-UNKNOWN_21__CTX,Cortex
 Gm19439__CTX,Cortex
 Tmem8b__CTX,Cortex
-UNKNOWN_22__CTX,Cortex
 Taco1os__CTX,Cortex
 A330040F15Rik__CTX,Cortex
 Gm27151__CTX,Cortex
