@@ -1,33 +1,16 @@
 n1,n2,edge_dir
-4-Coumaric acid,2-Aminobutanoic acid,-1
-L-(+)-Rhamnopyranose,L-Serine,-1
-L-(+)-Rhamnopyranose,5-Hydroxymethyl-2-furoic acid,-1
 L-Valine,L-Serine,1
 L-Valine,4-Hydroxybenzaldehyde,1
-L-Valine,4-Hydroxybenzeneacetic acid,1
 L-Valine,D-(+)-Glucosamine,1
-L-Valine,Menthol,-1
-Deoxyglucose,L-(-)-Sorbofuranose,-1
-Vanillin,Palmitelaidic acid,1
-L-Hydroxyproline,Niacinamide,1
-L-Hydroxyproline,Arabinose,-1
-L-Hydroxyproline,Pyrrole-2-carboxylic acid,1
-2-Hydroxy-5-methoxybenzaldehyde,Octadecyl octyl ether,1
 "beta-d-Glucopyranose, 2-(acetylamino)-3,6-anhydro-2-deoxy",Serine,1
 "2-Propenoic acid, 2-hydroxy-3-(4-hydroxyphenyl)",4-Hydroxybenzaldehyde,1
-L-Aspartic acid,Isocitric acid lactone,-1
 Methylsuccinic acid,Niacinamide,1
 Methylsuccinic acid,17-alpha-Hydroxypregnenolone,-1
-Methylsuccinic acid,"2,6-Di-O-methyl-d-galactopyranose",-1
 Methylsuccinic acid,9H-Purin-6-ol,1
-Methylsuccinic acid,Cyclohexanemethanol,-1
 Methylsuccinic acid,D-(+)-Glucosamine,1
 Methylsuccinic acid,Hydracrylic acid,1
 Methylsuccinic acid,L-(-)-Sorbofuranose,1
 Methylsuccinic acid,L-Glutamic acid,1
-Methylsuccinic acid,N-Ethyldiethanolamine,1
-Methylsuccinic acid,Pantothenic acid ,1
-Methylsuccinic acid,Syringic acid,-1
 DL-Phenylalanine,4-Hydroxybenzaldehyde,1
 DL-Phenylalanine,L-Isoleucine,1
 DL-Phenylalanine,Phenylalanine,1
@@ -36,281 +19,142 @@ DL-Phenylalanine,Uracil,1
 L-Isoleucine,Phenylalanine,1
 L-Isoleucine,Serine,1
 L-Isoleucine,Tyrosine,1
-D-Fructose,Syringic acid,-1
 "2-Butenoic acid, 2-hydroxy-",1-Tetradecanol,1
 "2-Butenoic acid, 2-hydroxy-","2',2,3,6'-Tetramethoxychalcone",-1
 "2-Butenoic acid, 2-hydroxy-",3-Deoxyhexitol,1
 "2-Butenoic acid, 2-hydroxy-",Butyl Succinate,1
-"2-Butenoic acid, 2-hydroxy-",Dodecanamide,-1
 "2-Butenoic acid, 2-hydroxy-","Hexadecanoic acid, 4-hydroxybutyl ester",1
-"2-Butenoic acid, 2-hydroxy-","Xylonic acid, delta-lactone",1
-1-Hexacosene,Ethyl glycolate,1
-"2,5-Dimethoxymandelic acid",l-Leucyl-l-valine,1
 "2,5-Dimethoxyphenol","2-Allyl-1,4-dimethoxybenzene ",1
 "2,5-Dimethoxyphenol",2-Hydroxy-3-methylbutyric acid,1
-"2,5-Dimethoxyphenol","3,4-Dihydrocoumarin, 4,4-dimethyl-6-dimethylamino",1
-"2,5-Dimethoxyphenol",L-Valyl-L-leucine,1
 "2,5-Dimethoxyphenol",Syringaldehyde,1
 "2-Allyl-1,4-dimethoxybenzene ",3-Hexenedioic acid,1
 "2-Allyl-1,4-dimethoxybenzene ",4-Pyridinol,1
 "2-Allyl-1,4-dimethoxybenzene ",Syringaldehyde,1
 "2-Butenoic acid, 2-methyl-, 2-methyl-2-propenyl ester",Cyclohexanecarboxylic acid,1
 "2-Butenoic acid, 2-methyl-, 2-methyl-2-propenyl ester","Hexadecanoic acid, 4-hydroxybutyl ester",1
-"2-Butenoic acid, 2-methyl-, 2-methyl-2-propenyl ester",Methyl stearate,1
 "2-Butenoic acid, 2-methyl-, 2-methyl-2-propenyl ester",Myristic acid,1
-"2-Butenoic acid, 2-methyl-, 2-methyl-2-propenyl ester",Nonadecanoic acid,1
 "2-Butenoic acid, 2-methyl-, 2-methyl-2-propenyl ester",Pentanoic acid,1
-"2-Butenoic acid, 2-methyl-, 2-methyl-2-propenyl ester","Propanoic acid, 2-hydroxy-3-phosphate-",1
 "2-Butenoic acid, 2-methyl-, 2-methyl-2-propenyl ester",Tetrahydrogeranyl formate,1
 3-Hexenedioic acid,5-Hydroxymethyl-2-furoic acid,1
 3-Hexenedioic acid,beta-Arabinopyranose,1
 3-Hexenedioic acid,L-5-Oxoproline,1
-3-Hexenedioic acid,L-Valyl-L-leucine,1
 3-Hexenedioic acid,Syringaldehyde,1
-Methyl stearate,6-Hydroxyhexanoic acid,1
-Methyl stearate,Pentadecanoic acid,1
-Methyl stearate,Tetrahydrogeranyl formate,1
 2-Ethylhexanoic acid,D-Mannopyranose,-1
 2-Ethylhexanoic acid,Phenol,1
-pyrazole,Isonicotinic Acid,1
 beta-Alanine,L-Glutamic acid,1
 beta-Alanine,N-Acetyl-L-glutamic acid,1
-beta-Alanine,Pantothenic acid ,1
 beta-Alanine,Thymidine,1
-Kojic acid,4-Hydroxybenzoic acid,1
 L-5-Oxoproline,L-(-)-Sorbofuranose,1
 L-5-Oxoproline,L-Glutamic acid,1
-L-5-Oxoproline,Pantothenic acid ,1
-L-5-Oxoproline,Syringic acid,-1
 Niacin,Niacinamide,1
-Niacin,3-(3-Hydroxyphenyl)propanoic acid,-1
 Niacin,L-(-)-Sorbofuranose,1
 Niacin,N-Acetyl-L-glutamic acid,1
 Phenol,Xanthine,1
-Phenol,2-tert-Butyl-4-ethylphenol ,1
 Phenol,Cholesterol,1
-Phenol,"Cyclopenta[g]-2-benzopyran, 1,3,4,6,7,8-hexahydro-4,6,6,7,8,8-hexamethyl",1
-Syringaldehyde,"3,4-Dihydrocoumarin, 4,4-dimethyl-6-dimethylamino",1
 Syringaldehyde,beta-D-(-)-Ribopyranose,1
 Syringaldehyde,"D-(+)-Ribono-1,4-lactone ",1
 Syringaldehyde,"Erythrono-1,4-lactone",1
-Syringaldehyde,L-Valyl-L-leucine,1
 Syringaldehyde,"Propanoic acid, 2-oxo",1
-11-Methyldodecanol,D-(+)-Talofuranose,-1
-11-Methyldodecanol,"Guanidine, N,N-dimethyl",1
-11-Methyldodecanol,"Hexadecanoic acid, 4-hydroxybutyl ester",1
 1-Dodecanol,2'-Deoxyribolactone,1
 1-Dodecanol,3-Deoxyhexitol,1
-1-Dodecanol,D-Arabinose,-1
 1-Dodecanol,"Hexadecanoic acid, 4-hydroxybutyl ester",1
 1-Dodecanol,Undecanoic acid,1
 Benzoic Acid,13-Docosenamide,1
-Benzoic Acid,Arachidic acid,1
 Benzoic Acid,Pentanoic acid,1
 Benzoic Acid,"Propane, 2-methyl",1
 Benzoic Acid,Pyridoxic acid,1
-Benzoic Acid,Stearic acid,1
 D-Allofuranose,Octadecyl octyl ether,1
-"Hexadecanoic acid, ethyl ester",2'-Deoxyribolactone,1
-"Hexadecanoic acid, ethyl ester",2-Hydroxy-3-methylbutyric acid,1
-"Hexadecanoic acid, ethyl ester",Octadecyl octyl ether,1
-"Hexadecanoic acid, ethyl ester",Pentadecanoic acid,1
 L-Valyl-L-leucine,3-(3-Hydroxyphenyl)propanoic acid,-1
 L-Valyl-L-leucine,Cyclohexanemethanol,-1
 L-Valyl-L-leucine,"Xylonic acid, delta-lactone",1
-2-Piperidinone,5-Aminovaleric acid,1
 2-Piperidinone,Butanedioic acid,1
-2-Piperidinone,N-Acetyl-L-glutamic acid,-1
-2-Piperidinone,"Thymine, 1,3-dimethyl-6-hydroxymethyl",-1
-N-Ethyldiethanolamine,N-Methyl-alpha-aminoisobutyric acid,1
-N-Ethyldiethanolamine,5-Methyluridine,1
-N-Ethyldiethanolamine,D-(+)-Glucosamine,1
-Valylvaline,3-Undecene,-1
-3-Buten-2-one,Hydroquinone,1
-Oxalic acid,"2-Furanacetaldehyde, tetrahydro-alpha",-1
-5-Aminovaleric acid,"beta-D-Galactopyranoside, methyl-, acetate",-1
-D-Ribose,L-Glutamine,-1
-D-Ribose,alpha-Ketoisovaleric acid,-1
-Dodecanamide,"2',2,3,6'-Tetramethoxychalcone",1
-Dodecanamide,3-(3-Hydroxyphenyl)propanoic acid,-1
 D-(-)-Ribofuranose,Lignoceric acid,-1
-1-Tetradecanol,"Cyclopenta[g]-2-benzopyran, 1,3,4,6,7,8-hexahydro-4,6,6,7,8,8-hexamethyl",1
 1-Tetradecanol,"Hexadecanoic acid, 4-hydroxybutyl ester",1
 1-Tetradecanol,Palmitic Acid,1
 Pyrogallol,Xanthine,1
 Pyrogallol,"Hexadecanoic acid, 4-hydroxybutyl ester",1
-Tripropylene glycol monomethyl ether,Isonicotinic Acid,1
-Supraene,Myristic acid,1
 6-Hydroxyhexanoic acid,2-Hydroxy-3-methylbutyric acid,1
-6-Hydroxyhexanoic acid,"beta-D-Galactopyranoside, methyl-, acetate",1
-Isopropyl palmitate,1-Octadecanol,1
-Isopropyl palmitate,L-(+)-Lactic acid,1
-Octanoic acid,Decanoic acid,1
-Pentadecanoic acid,1-Monopalmitin,1
-Pentadecanoic acid,Arachidic acid,1
 Pentadecanoic acid,Cyclohexanecarboxylic acid,1
-Pentadecanoic acid,"Hexadecanoic acid, methyl ester",1
 Pentadecanoic acid,Myristic acid,1
 11-Hydroxy-.DELTA.-9-tetrahydrocannabinol,2'-Deoxyribolactone,1
 11-Hydroxy-.DELTA.-9-tetrahydrocannabinol,4-Hydroxybutanoic acid,1
 11-Hydroxy-.DELTA.-9-tetrahydrocannabinol,Pimelic acid,1
 "2,3-Butanediol",Pimelic acid,1
-L-Glutamic acid,"2,6-Di-O-methyl-d-galactopyranose",-1
 L-Glutamic acid,"2-Pentenedioic acid, 2-hydroxy-",1
-L-Glutamic acid,3-(3-Hydroxyphenyl)propanoic acid,-1
-L-Glutamic acid,Cyclohexanemethanol,-1
 L-Glutamic acid,L-(-)-Sorbofuranose,1
 L-Glutamic acid,N-Acetyl-L-glutamic acid,1
-L-Glutamic acid,Pantothenic acid ,1
-L-Glutamic acid,Syringic acid,-1
-D-Arabinose,"Hexadecanoic acid, 4-hydroxybutyl ester",-1
-D-Arabinose,Lignoceric acid,-1
-D-Arabinose,Pentanoic acid,-1
-L-Rhamnose,L-(-)-Sorbofuranose,-1
 L-Rhamnose,"Propanoic acid, 2-oxo",1
 "2,3,4,5-Tetrahydroxypentanoic acid-1,4-lactone",d-Erythrotetrofuranose,1
 "2,3,4,5-Tetrahydroxypentanoic acid-1,4-lactone",Octadecyl octyl ether,1
-Monomethyl succinate,1-Octanol,1
-Monomethyl succinate,4-Hydroxybenzaldehyde,-1
-Monomethyl succinate,L-(-)-Sorbofuranose,-1
 N-(2-hydroxyethyl)-succinimide,Phloretic acid,1
 Cyclohexanecarboxylic acid,4-Methyl-5-thiazoleethanol,1
-Cyclohexanecarboxylic acid,Cyclo(L-prolyl-L-valine),1
-Cyclohexanecarboxylic acid,"Cyclopenta[g]-2-benzopyran, 1,3,4,6,7,8-hexahydro-4,6,6,7,8,8-hexamethyl",1
 Cyclohexanecarboxylic acid,"Inosose-2, myo",1
 Cyclohexanecarboxylic acid,Nonanoic acid,1
-alpha-Ketoisovaleric acid,3-O-methyl-beta-D-Glucopyranose,1
 "D-(+)-Ribono-1,4-lactone ",N-Acetylglucosamine,1
 "D-(+)-Ribono-1,4-lactone ","(4,4-Dimethyl-5-methylene-4,5-dihydro-3H-pyrrol-2-yl)-(4,4-dimethyl-5-methylene-pyrrolidin-2-ylidene)-acetonitrile",1
-"D-(+)-Ribono-1,4-lactone ",Sebacic acid,-1
-4-hydroxy-3-penten-2-one,4-Pyridinol,1
-Thr-Leu,Niacinamide,1
-Thr-Leu,N-Methyl-alpha-aminoisobutyric acid,1
 Thr-Leu,L-(+)-Lactic acid,-1
 Thr-Leu,Pimelic acid,-1
-"1,3-Dioxane, 2,2-dimethyl-5-hydroxy-","2,3-Dihydroxy-2-methylpropanoic acid",-1
 "2',2,3,6'-Tetramethoxychalcone","beta-D-Galactopyranoside, methyl-, acetate",1
-"2',2,3,6'-Tetramethoxychalcone",Glycolic acid,1
-"2',2,3,6'-Tetramethoxychalcone",Pyridoxic acid,1
-"2',2,3,6'-Tetramethoxychalcone",Xylazine,1
 D-(+)-Talofuranose,Decanoic acid,-1
-"Benzenepropanoic acid, 3,5-bis(1,1-dimethylethyl)-4-hydroxy-, methyl ester","Guanidine, N,N-dimethyl",1
-"Benzenepropanoic acid, 3,5-bis(1,1-dimethylethyl)-4-hydroxy-, methyl ester",Myristic acid,1
-Heptadecanoic acid,Pentanoic acid,1
-Heptadecanoic acid,Sebacic acid,1
-Nonadecanoic acid,Sebacic acid,1
 9H-Purin-6-ol,N-Methyl-alpha-aminoisobutyric acid,1
-9H-Purin-6-ol,9-Octadecenamide,-1
 9H-Purin-6-ol,Dihydrouracil,1
-9H-Purin-6-ol,Levulinic acid,-1
-9H-Purin-6-ol,Pimelic acid,-1
-9H-Purin-6-ol,"Thymidine, 5'-phosphate",1
-D-(+)-Glucosamine,"1,5-Anhydroglucitol",1
-D-(+)-Glucosamine,1-Hexanol,1
 D-(+)-Glucosamine,4-Hydroxybenzaldehyde,1
 D-(+)-Glucosamine,Aconitic acid,1
-D-(+)-Glucosamine,Butanedioic acid,-1
-D-(+)-Glucosamine,Pantothenic acid ,1
 D-(+)-Glucosamine,trans-Coniferryl alchool,1
 Hydracrylic acid,5-Methyluridine,1
 Hydracrylic acid,Dihydrouracil,1
 Hydracrylic acid,L-(-)-Sorbofuranose,1
-L-Threonine,Myristic acid,-1
 L-Threonine,Tyrosine,1
 N-Acetyl-L-glutamic acid,Niacinamide,1
-N-Acetyl-L-glutamic acid,3-(3-Hydroxyphenyl)propanoic acid,-1
-N-Acetyl-L-glutamic acid,Cyclohexanemethanol,-1
 Undecanoic acid,Nonanoic acid,1
-Uracil,Xanthine,-1
-5-Hydroxymethyl-2-furoic acid,"1,5-Anhydroglucitol",1
-5-Hydroxymethyl-2-furoic acid,3-O-methyl-beta-D-Glucopyranose,1
-5-Hydroxymethyl-2-furoic acid,Levoglucosan,-1
-5-Hydroxymethyl-2-furoic acid,phenoxyethanol,1
 4-Hydroxybenzoic acid,L-Norvaline,1
 4-Hydroxybenzoic acid,N-Methyl-alpha-aminoisobutyric acid,1
 4-Hydroxybenzoic acid,1-Octanol,-1
-"Dimethyl hexopyranosiduronate, alpha-D",Cholesterol,1
-Pantothenic acid ,"2-Pentenedioic acid, 2-hydroxy-",1
-Pantothenic acid ,L-(-)-Sorbofuranose,1
-Pantothenic acid ,Sebacic acid,1
-Argininosuccinic acid,2-Hydroxy-3-methylbutyric acid,1
-Argininosuccinic acid,"Hexadecanoic acid, tetradecyl ester",1
-Arachidic acid,Palmitic Acid,1
-Arachidic acid,Sebacic acid,1
-Cyclohexanol,"Hexadecanoic acid, 4-hydroxybutyl ester",1
 "2,5-Cyclohexadiene-1,4-dione, 2,6-bis(1,1-dimethylethyl)","2,5-Di-tert-butyl-4-hydroxyphenol",1
 "2,5-Cyclohexadiene-1,4-dione, 2,6-bis(1,1-dimethylethyl)",3-Methyl-2-furoic acid,-1
 "2,5-Cyclohexadiene-1,4-dione, 2,6-bis(1,1-dimethylethyl)",3-Undecene,1
 "2,5-Cyclohexadiene-1,4-dione, 2,6-bis(1,1-dimethylethyl)",d-Erythrotetrofuranose,1
 "2,5-Cyclohexadiene-1,4-dione, 2,6-bis(1,1-dimethylethyl)","Guanidine, N,N-dimethyl",1
 "2,5-Cyclohexadiene-1,4-dione, 2,6-bis(1,1-dimethylethyl)",Pimelic acid,1
-Trisaminol,2'-Deoxyribolactone,1
-Monolaurin,"2,5-Dimethoxybenzhydrazide",1
-Monolaurin,beta-Arabinopyranose,1
 Monolaurin,Methyl 2-acetamido-2-deoxy-3-O-methyl-alpha-D-galactopyranoside,1
 Monolaurin,"Xylonic acid, delta-lactone",1
 Monolaurin,Xylose,1
-9-Octadecenamide,5-Methyluridine,-1
-Methyl beta-Arabinofuranoside,"Hexadecanoic acid, tetradecyl ester",-1
 Serine,"2-Furanacetaldehyde, tetrahydro-alpha",-1
 Serine,L-Leucine,1
 Serine,Phenylalanine,1
-Isocitric acid lactone,Norketamine,1
 Picolinic acid,Glycerol tricaprylate,1
 Xanthine,Citric acid,1
 Xanthine,Pentanoic acid,1
-13-Docosenamide,5-Methyluridine,-1
-Hexanedioic acid,1-Monopalmitin,1
-Hexanedioic acid,1-Octanol,1
-1-Monopalmitin,D-Mannopyranose,-1
 1-Monopalmitin,Pipecolic acid,-1
-L-Norvaline,"Thymidine, 5'-phosphate",1
 Pipecolic acid,1-Octanol,-1
 Pyrrole-2-carboxylic acid,1-Octanol,-1
-Pyrrole-2-carboxylic acid,Butanedioic acid,-1
-Pyrrole-2-carboxylic acid,Menthol,-1
-phenoxyethanol,Butyl caprylate,1
 Myristic acid,2'-Deoxyribolactone,1
 Myristic acid,"Hexadecanoic acid, 4-hydroxybutyl ester",1
-Myristic acid,"Hexadecanoic acid, methyl ester",1
 "Inosose-2, myo",1-Methyl-4-hydroxy-1H-imidazol-2-amine,1
 "Inosose-2, myo",trans-Coniferryl alchool,1
-Cyclo(L-prolyl-L-valine),1-Hexanol,-1
 D-Glucose,Glycerol tricaprylate,1
 Tetrahydrogeranyl formate,3-Undecene,1
 Tetrahydrogeranyl formate,"Guanidine, N,N-dimethyl",1
 Tetrahydrogeranyl formate,Pentanoic acid,1
 "2,5-Di-tert-butyl-4-hydroxyphenol",Pimelic acid,1
 5-Methyluridine,12-Oxooctadecanoate,-1
-5-Methyluridine,Cyclohexanemethanol,-1
-4-Pentenoic acid,Glycolic acid,1
 2-Ethylacetoacetate,"2,3,4-Trihydroxybutyric acid",1
 2-Ethylacetoacetate,8-Hydroxy-5-(hydroxymethyl)quinoline,1
 2-Ethylacetoacetate,beta-D-(-)-Ribopyranose,1
 2-Ethylacetoacetate,"Erythrono-1,4-lactone",1
 2-Ethylacetoacetate,"Propanoic acid, 2-oxo",1
 2-Ethylacetoacetate,Tricine,1
-Aconitic acid,9-Octadecen-1-ol,1
-"L-Valinamide, N(2),N(2)-dimethyl",Tyrosine,-1
 Cyclohexanemethanol,3-(3-Hydroxyphenyl)propanoic acid,1
-Cyclohexanemethanol,L-(-)-Sorbofuranose,-1
-Ethyl glycolate,L-(+)-Lactic acid,1
 "Guanidine, N,N-dimethyl",3-Undecene,1
-"Guanidine, N,N-dimethyl",4-Hydroxybenzaldehyde,-1
 "Guanidine, N,N-dimethyl","Acetamide, N-(2-butyl)-N-methyl-",1
 "Guanidine, N,N-dimethyl","Hexadecanoic acid, 4-hydroxybutyl ester",1
 "Guanidine, N,N-dimethyl",Menthol,1
-Levulinic acid,N-Methyl-alpha-aminoisobutyric acid,-1
 N-Acetyl glucosamine methoxime,Uridine,1
-2-Hydroxy-3-methylbutyric acid,3-Aminobutanoic acid,1
-2-Hydroxy-3-methylbutyric acid,2-tert-Butyl-4-ethylphenol ,1
 2-Hydroxy-3-methylbutyric acid,Decanoic acid,1
 2-Hydroxy-3-methylbutyric acid,Glycerol tricaprylate,1
-Decanoic acid,3-Aminobutanoic acid,1
 Decanoic acid,Glycerol tricaprylate,1
 Butyl caprylate,"1,7-Dimethyl-4-(1-methylethyl)cyclodecane",1
 Butyl caprylate,Arabinitol,1
-Butyl caprylate,"cis,cis,cis-1-Isobutyl-2,5-dimethylcyclohexane",1
 9-Octadecenoic acid,4-Pyridinol,-1
 Pentanoic acid,3-Undecene,1
 N-Acetylglucosamine,"(4,4-Dimethyl-5-methylene-4,5-dihydro-3H-pyrrol-2-yl)-(4,4-dimethyl-5-methylene-pyrrolidin-2-ylidene)-acetonitrile",1
@@ -318,110 +162,67 @@ Tyrosine,Phenylalanine,1
 "2,3,4-Trihydroxybutyric acid","3-Hydroxy-2,3-dihydromaltol",1
 "2,3,4-Trihydroxybutyric acid","Erythrono-1,4-lactone",1
 "2,3,4-Trihydroxybutyric acid",Ribonic acid,1
-4-Pyridinol,"2,3-Dihydroxy-2-methylpropanoic acid",-1
 Cytosine,L-Serine,1
-Dihydrouracil,Isonicotinic Acid,1
 Dihydrouracil,"Propanoic acid, 2-oxo",1
-2-tert-Butyl-4-ethylphenol ,Arabinitol,1
-2-tert-Butyl-4-ethylphenol ,Lignoceric acid,1
-2-tert-Butyl-4-ethylphenol ,Sebacic acid,1
-"Cyclopenta[g]-2-benzopyran, 1,3,4,6,7,8-hexahydro-4,6,6,7,8,8-hexamethyl",Lignoceric acid,1
-"Hexadecanoic acid, methyl ester",Sebacic acid,1
-2'-Desoxyuridine,L-(+)-Lactic acid,-1
 2'-Desoxyuridine,Thymidine,1
 Butyl Succinate,"Hexadecanoic acid, 4-hydroxybutyl ester",1
 Butyl Succinate,L-(+)-Lactic acid,1
 Butyl Succinate,"Propanoic acid, 2-oxo",1
-alpha-Tocopheryl acetate,L-Glutamine,1
 alpha-Tocopheryl acetate,4-Hydroxy-5-(hydroxymethyl)oxolan-2-one,-1
-3-(3-Hydroxyphenyl)propanoic acid,Niacinamide,-1
-Lactic Acid,L-(+)-Lactic acid,1
 beta-D-(-)-Ribopyranose,"Erythrono-1,4-lactone",1
 N-Methyl-alpha-aminoisobutyric acid,4-Hydroxybenzaldehyde,1
-N-Methyl-alpha-aminoisobutyric acid,Palmitic Acid,-1
 N-Methyl-alpha-aminoisobutyric acid,Phloretic acid,1
-Niacinamide,"2,6-Di-O-methyl-d-galactopyranose",-1
 Niacinamide,"2-Pentenedioic acid, 2-hydroxy-",1
-"2-Pentenedioic acid, 2-hydroxy-","2,6-Di-O-methyl-d-galactopyranose",-1
 "D-Erythro-Pentitol, 2-deoxy-",1-Hexanol,1
 Phenylalanine,4-Hydroxybenzaldehyde,1
 1-Octadecanol,Ethanamine,1
 1-Octadecanol,"2-Furanacetaldehyde, tetrahydro-alpha",-1
 1-Octadecanol,"Acetamide, N-(2-butyl)-N-methyl-",1
 1-Octadecanol,d-Erythrotetrofuranose,1
-N-Methyl-L-proline,L-Glutamine,1
-"7,9-Di-tert-butyl-1-oxaspiro(4,5)deca-6,9-diene-2,8-dione","Propane, 2-methyl",1
-Propanedioic acid,Campesterol,1
-3-Undecene,1-Octanol,1
 3-Undecene,"Hexadecanoic acid, 4-hydroxybutyl ester",1
 3-Undecene,Menthol,1
-Menthol,1-Octanol,1
-Menthol,4-Hydroxybenzaldehyde,-1
 4-Hydroxy-5-(hydroxymethyl)oxolan-2-one,Nonanoic acid,1
-L-(+)-Lactic acid,"Methyl (3,4-dimethoxyphenyl)(hydroxy)acetate",1
 L-(+)-Lactic acid,Pimelic acid,1
 L-(+)-Lactic acid,"Propanoic acid, 2-oxo",1
-Tetrahydrolinalool,1-Octanol,1
-Tetrahydrolinalool,4-Hydroxybenzaldehyde,-1
-"N,N-Diethyl-2-aminoethanol",L-(-)-Sorbofuranose,-1
-"2-Furanacetaldehyde, tetrahydro-alpha",beta-Arabinopyranose,1
-"2-Furanacetaldehyde, tetrahydro-alpha",Dehydroabietic acid,-1
 "2-Furanacetaldehyde, tetrahydro-alpha",Idoxuridine ,-1
 Glycolic acid,"Propanoic acid, 2-oxo",1
 Octadecyl octyl ether,"1,7-Dimethyl-4-(1-methylethyl)cyclodecane",1
 Octadecyl octyl ether,d-Erythrotetrofuranose,1
 "Azetidine, 1-acetyl-2-methyl",Hexacosanoic acid,1
-Palmitic Acid,1-Octanol,1
 Palmitic Acid,"Acetamide, N-(2-butyl)-N-methyl-",1
 3-Hydroxyisovaleric acid,trans-Coniferryl alchool,1
 "Erythrono-1,4-lactone",Idoxuridine ,1
 2'-Deoxyribolactone,1-Methyl-4-hydroxy-1H-imidazol-2-amine,1
 2'-Deoxyribolactone,d-Erythrotetrofuranose,1
 2'-Deoxyribolactone,Glycerol tricaprylate,1
-L-(-)-Sorbofuranose,Pimelic acid,-1
-L-(-)-Sorbofuranose,Xylose,1
 Idoxuridine ,"(4,4-Dimethyl-5-methylene-4,5-dihydro-3H-pyrrol-2-yl)-(4,4-dimethyl-5-methylene-pyrrolidin-2-ylidene)-acetonitrile",1
-Idoxuridine ,"Methyl (3,4-dimethoxyphenyl)(hydroxy)acetate",1
 Idoxuridine ,Tricine,1
 Ketamine,"Butanoic acid, 3,4-dihydroxy-",1
 4-Hydroxybenzaldehyde,1-Octanol,-1
 Lignoceric acid,"beta-D-Galactopyranoside, methyl-, acetate",-1
-Lignoceric acid,Phloretic acid,-1
-1-Octanol,Sebacic acid,1
 3-Deoxyhexitol,2-Palmitoylglycerol,-1
 3-Deoxyhexitol,Phloretic acid,1
 "Propane, 2-methyl","Acetamide, N-(2-butyl)-N-methyl-",1
 D-Mannopyranose,"(2,2-Dimethyl-5-[2-(2-ethoxymethoxy)propyl][1,3]dioxolan-4-yl)methanol",-1
 Tricine,d-Erythrotetrofuranose,1
-2-Aminobutanoic acid,4-Coumaric acid,-1
-L-Serine,L-(+)-Rhamnopyranose,-1
-5-Hydroxymethyl-2-furoic acid,L-(+)-Rhamnopyranose,-1
+3-Hydroxypicolinic acid,trans-Coniferryl alchool,-1
+1-Methyl-4-hydroxy-1H-imidazol-2-amine,d-Erythrotetrofuranose,1
+d-Erythrotetrofuranose,4-Hydroxyphenyllactic acid,1
+d-Erythrotetrofuranose,Glycerol,1
+Glycerol tricaprylate,Glycerol,1
+3-Hydroxybutyric acid,Hexacosanoic acid,1
 L-Serine,L-Valine,1
 4-Hydroxybenzaldehyde,L-Valine,1
-4-Hydroxybenzeneacetic acid,L-Valine,1
 D-(+)-Glucosamine,L-Valine,1
-Menthol,L-Valine,-1
-L-(-)-Sorbofuranose,Deoxyglucose,-1
-Palmitelaidic acid,Vanillin,1
-Niacinamide,L-Hydroxyproline,1
-Arabinose,L-Hydroxyproline,-1
-Pyrrole-2-carboxylic acid,L-Hydroxyproline,1
-Octadecyl octyl ether,2-Hydroxy-5-methoxybenzaldehyde,1
 Serine,"beta-d-Glucopyranose, 2-(acetylamino)-3,6-anhydro-2-deoxy",1
 4-Hydroxybenzaldehyde,"2-Propenoic acid, 2-hydroxy-3-(4-hydroxyphenyl)",1
-Isocitric acid lactone,L-Aspartic acid,-1
 Niacinamide,Methylsuccinic acid,1
 17-alpha-Hydroxypregnenolone,Methylsuccinic acid,-1
-"2,6-Di-O-methyl-d-galactopyranose",Methylsuccinic acid,-1
 9H-Purin-6-ol,Methylsuccinic acid,1
-Cyclohexanemethanol,Methylsuccinic acid,-1
 D-(+)-Glucosamine,Methylsuccinic acid,1
 Hydracrylic acid,Methylsuccinic acid,1
 L-(-)-Sorbofuranose,Methylsuccinic acid,1
 L-Glutamic acid,Methylsuccinic acid,1
-N-Ethyldiethanolamine,Methylsuccinic acid,1
-Pantothenic acid ,Methylsuccinic acid,1
-Syringic acid,Methylsuccinic acid,-1
 4-Hydroxybenzaldehyde,DL-Phenylalanine,1
 L-Isoleucine,DL-Phenylalanine,1
 Phenylalanine,DL-Phenylalanine,1
@@ -430,281 +231,142 @@ Syringaldehyde,"Gluconolactone (3R,4S,5R,6R)",1
 Phenylalanine,L-Isoleucine,1
 Serine,L-Isoleucine,1
 Tyrosine,L-Isoleucine,1
-Syringic acid,D-Fructose,-1
 1-Tetradecanol,"2-Butenoic acid, 2-hydroxy-",1
 "2',2,3,6'-Tetramethoxychalcone","2-Butenoic acid, 2-hydroxy-",-1
 3-Deoxyhexitol,"2-Butenoic acid, 2-hydroxy-",1
 Butyl Succinate,"2-Butenoic acid, 2-hydroxy-",1
-Dodecanamide,"2-Butenoic acid, 2-hydroxy-",-1
 "Hexadecanoic acid, 4-hydroxybutyl ester","2-Butenoic acid, 2-hydroxy-",1
-"Xylonic acid, delta-lactone","2-Butenoic acid, 2-hydroxy-",1
-Ethyl glycolate,1-Hexacosene,1
-l-Leucyl-l-valine,"2,5-Dimethoxymandelic acid",1
 "2-Allyl-1,4-dimethoxybenzene ","2,5-Dimethoxyphenol",1
 2-Hydroxy-3-methylbutyric acid,"2,5-Dimethoxyphenol",1
-"3,4-Dihydrocoumarin, 4,4-dimethyl-6-dimethylamino","2,5-Dimethoxyphenol",1
-L-Valyl-L-leucine,"2,5-Dimethoxyphenol",1
 Syringaldehyde,"2,5-Dimethoxyphenol",1
 3-Hexenedioic acid,"2-Allyl-1,4-dimethoxybenzene ",1
 4-Pyridinol,"2-Allyl-1,4-dimethoxybenzene ",1
 Syringaldehyde,"2-Allyl-1,4-dimethoxybenzene ",1
 Cyclohexanecarboxylic acid,"2-Butenoic acid, 2-methyl-, 2-methyl-2-propenyl ester",1
 "Hexadecanoic acid, 4-hydroxybutyl ester","2-Butenoic acid, 2-methyl-, 2-methyl-2-propenyl ester",1
-Methyl stearate,"2-Butenoic acid, 2-methyl-, 2-methyl-2-propenyl ester",1
 Myristic acid,"2-Butenoic acid, 2-methyl-, 2-methyl-2-propenyl ester",1
-Nonadecanoic acid,"2-Butenoic acid, 2-methyl-, 2-methyl-2-propenyl ester",1
 Pentanoic acid,"2-Butenoic acid, 2-methyl-, 2-methyl-2-propenyl ester",1
-"Propanoic acid, 2-hydroxy-3-phosphate-","2-Butenoic acid, 2-methyl-, 2-methyl-2-propenyl ester",1
 Tetrahydrogeranyl formate,"2-Butenoic acid, 2-methyl-, 2-methyl-2-propenyl ester",1
 5-Hydroxymethyl-2-furoic acid,3-Hexenedioic acid,1
 beta-Arabinopyranose,3-Hexenedioic acid,1
 L-5-Oxoproline,3-Hexenedioic acid,1
-L-Valyl-L-leucine,3-Hexenedioic acid,1
 Syringaldehyde,3-Hexenedioic acid,1
-6-Hydroxyhexanoic acid,Methyl stearate,1
-Pentadecanoic acid,Methyl stearate,1
-Tetrahydrogeranyl formate,Methyl stearate,1
 D-Mannopyranose,2-Ethylhexanoic acid,-1
 Phenol,2-Ethylhexanoic acid,1
-Isonicotinic Acid,pyrazole,1
 L-Glutamic acid,beta-Alanine,1
 N-Acetyl-L-glutamic acid,beta-Alanine,1
-Pantothenic acid ,beta-Alanine,1
 Thymidine,beta-Alanine,1
-4-Hydroxybenzoic acid,Kojic acid,1
 L-(-)-Sorbofuranose,L-5-Oxoproline,1
 L-Glutamic acid,L-5-Oxoproline,1
-Pantothenic acid ,L-5-Oxoproline,1
-Syringic acid,L-5-Oxoproline,-1
 Niacinamide,Niacin,1
-3-(3-Hydroxyphenyl)propanoic acid,Niacin,-1
 L-(-)-Sorbofuranose,Niacin,1
 N-Acetyl-L-glutamic acid,Niacin,1
 Xanthine,Phenol,1
-2-tert-Butyl-4-ethylphenol ,Phenol,1
 Cholesterol,Phenol,1
-"Cyclopenta[g]-2-benzopyran, 1,3,4,6,7,8-hexahydro-4,6,6,7,8,8-hexamethyl",Phenol,1
-"3,4-Dihydrocoumarin, 4,4-dimethyl-6-dimethylamino",Syringaldehyde,1
 beta-D-(-)-Ribopyranose,Syringaldehyde,1
 "D-(+)-Ribono-1,4-lactone ",Syringaldehyde,1
 "Erythrono-1,4-lactone",Syringaldehyde,1
-L-Valyl-L-leucine,Syringaldehyde,1
 "Propanoic acid, 2-oxo",Syringaldehyde,1
-D-(+)-Talofuranose,11-Methyldodecanol,-1
-"Guanidine, N,N-dimethyl",11-Methyldodecanol,1
-"Hexadecanoic acid, 4-hydroxybutyl ester",11-Methyldodecanol,1
 2'-Deoxyribolactone,1-Dodecanol,1
 3-Deoxyhexitol,1-Dodecanol,1
-D-Arabinose,1-Dodecanol,-1
 "Hexadecanoic acid, 4-hydroxybutyl ester",1-Dodecanol,1
 Undecanoic acid,1-Dodecanol,1
 13-Docosenamide,Benzoic Acid,1
-Arachidic acid,Benzoic Acid,1
 Pentanoic acid,Benzoic Acid,1
 "Propane, 2-methyl",Benzoic Acid,1
 Pyridoxic acid,Benzoic Acid,1
-Stearic acid,Benzoic Acid,1
 Octadecyl octyl ether,D-Allofuranose,1
-2'-Deoxyribolactone,"Hexadecanoic acid, ethyl ester",1
-2-Hydroxy-3-methylbutyric acid,"Hexadecanoic acid, ethyl ester",1
-Octadecyl octyl ether,"Hexadecanoic acid, ethyl ester",1
-Pentadecanoic acid,"Hexadecanoic acid, ethyl ester",1
 3-(3-Hydroxyphenyl)propanoic acid,L-Valyl-L-leucine,-1
 Cyclohexanemethanol,L-Valyl-L-leucine,-1
 "Xylonic acid, delta-lactone",L-Valyl-L-leucine,1
-5-Aminovaleric acid,2-Piperidinone,1
 Butanedioic acid,2-Piperidinone,1
-N-Acetyl-L-glutamic acid,2-Piperidinone,-1
-"Thymine, 1,3-dimethyl-6-hydroxymethyl",2-Piperidinone,-1
-N-Methyl-alpha-aminoisobutyric acid,N-Ethyldiethanolamine,1
-5-Methyluridine,N-Ethyldiethanolamine,1
-D-(+)-Glucosamine,N-Ethyldiethanolamine,1
-3-Undecene,Valylvaline,-1
-Hydroquinone,3-Buten-2-one,1
-"2-Furanacetaldehyde, tetrahydro-alpha",Oxalic acid,-1
-"beta-D-Galactopyranoside, methyl-, acetate",5-Aminovaleric acid,-1
-L-Glutamine,D-Ribose,-1
-alpha-Ketoisovaleric acid,D-Ribose,-1
-"2',2,3,6'-Tetramethoxychalcone",Dodecanamide,1
-3-(3-Hydroxyphenyl)propanoic acid,Dodecanamide,-1
 Lignoceric acid,D-(-)-Ribofuranose,-1
-"Cyclopenta[g]-2-benzopyran, 1,3,4,6,7,8-hexahydro-4,6,6,7,8,8-hexamethyl",1-Tetradecanol,1
 "Hexadecanoic acid, 4-hydroxybutyl ester",1-Tetradecanol,1
 Palmitic Acid,1-Tetradecanol,1
 Xanthine,Pyrogallol,1
 "Hexadecanoic acid, 4-hydroxybutyl ester",Pyrogallol,1
-Isonicotinic Acid,Tripropylene glycol monomethyl ether,1
-Myristic acid,Supraene,1
 2-Hydroxy-3-methylbutyric acid,6-Hydroxyhexanoic acid,1
-"beta-D-Galactopyranoside, methyl-, acetate",6-Hydroxyhexanoic acid,1
-1-Octadecanol,Isopropyl palmitate,1
-L-(+)-Lactic acid,Isopropyl palmitate,1
-Decanoic acid,Octanoic acid,1
-1-Monopalmitin,Pentadecanoic acid,1
-Arachidic acid,Pentadecanoic acid,1
 Cyclohexanecarboxylic acid,Pentadecanoic acid,1
-"Hexadecanoic acid, methyl ester",Pentadecanoic acid,1
 Myristic acid,Pentadecanoic acid,1
 2'-Deoxyribolactone,11-Hydroxy-.DELTA.-9-tetrahydrocannabinol,1
 4-Hydroxybutanoic acid,11-Hydroxy-.DELTA.-9-tetrahydrocannabinol,1
 Pimelic acid,11-Hydroxy-.DELTA.-9-tetrahydrocannabinol,1
 Pimelic acid,"2,3-Butanediol",1
-"2,6-Di-O-methyl-d-galactopyranose",L-Glutamic acid,-1
 "2-Pentenedioic acid, 2-hydroxy-",L-Glutamic acid,1
-3-(3-Hydroxyphenyl)propanoic acid,L-Glutamic acid,-1
-Cyclohexanemethanol,L-Glutamic acid,-1
 L-(-)-Sorbofuranose,L-Glutamic acid,1
 N-Acetyl-L-glutamic acid,L-Glutamic acid,1
-Pantothenic acid ,L-Glutamic acid,1
-Syringic acid,L-Glutamic acid,-1
-"Hexadecanoic acid, 4-hydroxybutyl ester",D-Arabinose,-1
-Lignoceric acid,D-Arabinose,-1
-Pentanoic acid,D-Arabinose,-1
-L-(-)-Sorbofuranose,L-Rhamnose,-1
 "Propanoic acid, 2-oxo",L-Rhamnose,1
 d-Erythrotetrofuranose,"2,3,4,5-Tetrahydroxypentanoic acid-1,4-lactone",1
 Octadecyl octyl ether,"2,3,4,5-Tetrahydroxypentanoic acid-1,4-lactone",1
-1-Octanol,Monomethyl succinate,1
-4-Hydroxybenzaldehyde,Monomethyl succinate,-1
-L-(-)-Sorbofuranose,Monomethyl succinate,-1
 Phloretic acid,N-(2-hydroxyethyl)-succinimide,1
 4-Methyl-5-thiazoleethanol,Cyclohexanecarboxylic acid,1
-Cyclo(L-prolyl-L-valine),Cyclohexanecarboxylic acid,1
-"Cyclopenta[g]-2-benzopyran, 1,3,4,6,7,8-hexahydro-4,6,6,7,8,8-hexamethyl",Cyclohexanecarboxylic acid,1
 "Inosose-2, myo",Cyclohexanecarboxylic acid,1
 Nonanoic acid,Cyclohexanecarboxylic acid,1
-3-O-methyl-beta-D-Glucopyranose,alpha-Ketoisovaleric acid,1
 N-Acetylglucosamine,"D-(+)-Ribono-1,4-lactone ",1
 "(4,4-Dimethyl-5-methylene-4,5-dihydro-3H-pyrrol-2-yl)-(4,4-dimethyl-5-methylene-pyrrolidin-2-ylidene)-acetonitrile","D-(+)-Ribono-1,4-lactone ",1
-Sebacic acid,"D-(+)-Ribono-1,4-lactone ",-1
-4-Pyridinol,4-hydroxy-3-penten-2-one,1
-Niacinamide,Thr-Leu,1
-N-Methyl-alpha-aminoisobutyric acid,Thr-Leu,1
 L-(+)-Lactic acid,Thr-Leu,-1
 Pimelic acid,Thr-Leu,-1
-"2,3-Dihydroxy-2-methylpropanoic acid","1,3-Dioxane, 2,2-dimethyl-5-hydroxy-",-1
 "beta-D-Galactopyranoside, methyl-, acetate","2',2,3,6'-Tetramethoxychalcone",1
-Glycolic acid,"2',2,3,6'-Tetramethoxychalcone",1
-Pyridoxic acid,"2',2,3,6'-Tetramethoxychalcone",1
-Xylazine,"2',2,3,6'-Tetramethoxychalcone",1
 Decanoic acid,D-(+)-Talofuranose,-1
-"Guanidine, N,N-dimethyl","Benzenepropanoic acid, 3,5-bis(1,1-dimethylethyl)-4-hydroxy-, methyl ester",1
-Myristic acid,"Benzenepropanoic acid, 3,5-bis(1,1-dimethylethyl)-4-hydroxy-, methyl ester",1
-Pentanoic acid,Heptadecanoic acid,1
-Sebacic acid,Heptadecanoic acid,1
-Sebacic acid,Nonadecanoic acid,1
 N-Methyl-alpha-aminoisobutyric acid,9H-Purin-6-ol,1
-9-Octadecenamide,9H-Purin-6-ol,-1
 Dihydrouracil,9H-Purin-6-ol,1
-Levulinic acid,9H-Purin-6-ol,-1
-Pimelic acid,9H-Purin-6-ol,-1
-"Thymidine, 5'-phosphate",9H-Purin-6-ol,1
-"1,5-Anhydroglucitol",D-(+)-Glucosamine,1
-1-Hexanol,D-(+)-Glucosamine,1
 4-Hydroxybenzaldehyde,D-(+)-Glucosamine,1
 Aconitic acid,D-(+)-Glucosamine,1
-Butanedioic acid,D-(+)-Glucosamine,-1
-Pantothenic acid ,D-(+)-Glucosamine,1
 trans-Coniferryl alchool,D-(+)-Glucosamine,1
 5-Methyluridine,Hydracrylic acid,1
 Dihydrouracil,Hydracrylic acid,1
 L-(-)-Sorbofuranose,Hydracrylic acid,1
-Myristic acid,L-Threonine,-1
 Tyrosine,L-Threonine,1
 Niacinamide,N-Acetyl-L-glutamic acid,1
-3-(3-Hydroxyphenyl)propanoic acid,N-Acetyl-L-glutamic acid,-1
-Cyclohexanemethanol,N-Acetyl-L-glutamic acid,-1
 Nonanoic acid,Undecanoic acid,1
-Xanthine,Uracil,-1
-"1,5-Anhydroglucitol",5-Hydroxymethyl-2-furoic acid,1
-3-O-methyl-beta-D-Glucopyranose,5-Hydroxymethyl-2-furoic acid,1
-Levoglucosan,5-Hydroxymethyl-2-furoic acid,-1
-phenoxyethanol,5-Hydroxymethyl-2-furoic acid,1
 L-Norvaline,4-Hydroxybenzoic acid,1
 N-Methyl-alpha-aminoisobutyric acid,4-Hydroxybenzoic acid,1
 1-Octanol,4-Hydroxybenzoic acid,-1
-Cholesterol,"Dimethyl hexopyranosiduronate, alpha-D",1
-"2-Pentenedioic acid, 2-hydroxy-",Pantothenic acid ,1
-L-(-)-Sorbofuranose,Pantothenic acid ,1
-Sebacic acid,Pantothenic acid ,1
-2-Hydroxy-3-methylbutyric acid,Argininosuccinic acid,1
-"Hexadecanoic acid, tetradecyl ester",Argininosuccinic acid,1
-Palmitic Acid,Arachidic acid,1
-Sebacic acid,Arachidic acid,1
-"Hexadecanoic acid, 4-hydroxybutyl ester",Cyclohexanol,1
 "2,5-Di-tert-butyl-4-hydroxyphenol","2,5-Cyclohexadiene-1,4-dione, 2,6-bis(1,1-dimethylethyl)",1
 3-Methyl-2-furoic acid,"2,5-Cyclohexadiene-1,4-dione, 2,6-bis(1,1-dimethylethyl)",-1
 3-Undecene,"2,5-Cyclohexadiene-1,4-dione, 2,6-bis(1,1-dimethylethyl)",1
 d-Erythrotetrofuranose,"2,5-Cyclohexadiene-1,4-dione, 2,6-bis(1,1-dimethylethyl)",1
 "Guanidine, N,N-dimethyl","2,5-Cyclohexadiene-1,4-dione, 2,6-bis(1,1-dimethylethyl)",1
 Pimelic acid,"2,5-Cyclohexadiene-1,4-dione, 2,6-bis(1,1-dimethylethyl)",1
-2'-Deoxyribolactone,Trisaminol,1
-"2,5-Dimethoxybenzhydrazide",Monolaurin,1
-beta-Arabinopyranose,Monolaurin,1
 Methyl 2-acetamido-2-deoxy-3-O-methyl-alpha-D-galactopyranoside,Monolaurin,1
 "Xylonic acid, delta-lactone",Monolaurin,1
 Xylose,Monolaurin,1
-5-Methyluridine,9-Octadecenamide,-1
-"Hexadecanoic acid, tetradecyl ester",Methyl beta-Arabinofuranoside,-1
 "2-Furanacetaldehyde, tetrahydro-alpha",Serine,-1
 L-Leucine,Serine,1
 Phenylalanine,Serine,1
-Norketamine,Isocitric acid lactone,1
 Glycerol tricaprylate,Picolinic acid,1
 Citric acid,Xanthine,1
 Pentanoic acid,Xanthine,1
-5-Methyluridine,13-Docosenamide,-1
-1-Monopalmitin,Hexanedioic acid,1
-1-Octanol,Hexanedioic acid,1
-D-Mannopyranose,1-Monopalmitin,-1
 Pipecolic acid,1-Monopalmitin,-1
-"Thymidine, 5'-phosphate",L-Norvaline,1
 1-Octanol,Pipecolic acid,-1
 1-Octanol,Pyrrole-2-carboxylic acid,-1
-Butanedioic acid,Pyrrole-2-carboxylic acid,-1
-Menthol,Pyrrole-2-carboxylic acid,-1
-Butyl caprylate,phenoxyethanol,1
 2'-Deoxyribolactone,Myristic acid,1
 "Hexadecanoic acid, 4-hydroxybutyl ester",Myristic acid,1
-"Hexadecanoic acid, methyl ester",Myristic acid,1
 1-Methyl-4-hydroxy-1H-imidazol-2-amine,"Inosose-2, myo",1
 trans-Coniferryl alchool,"Inosose-2, myo",1
-1-Hexanol,Cyclo(L-prolyl-L-valine),-1
 Glycerol tricaprylate,D-Glucose,1
 3-Undecene,Tetrahydrogeranyl formate,1
 "Guanidine, N,N-dimethyl",Tetrahydrogeranyl formate,1
 Pentanoic acid,Tetrahydrogeranyl formate,1
 Pimelic acid,"2,5-Di-tert-butyl-4-hydroxyphenol",1
 12-Oxooctadecanoate,5-Methyluridine,-1
-Cyclohexanemethanol,5-Methyluridine,-1
-Glycolic acid,4-Pentenoic acid,1
 "2,3,4-Trihydroxybutyric acid",2-Ethylacetoacetate,1
 8-Hydroxy-5-(hydroxymethyl)quinoline,2-Ethylacetoacetate,1
 beta-D-(-)-Ribopyranose,2-Ethylacetoacetate,1
 "Erythrono-1,4-lactone",2-Ethylacetoacetate,1
 "Propanoic acid, 2-oxo",2-Ethylacetoacetate,1
 Tricine,2-Ethylacetoacetate,1
-9-Octadecen-1-ol,Aconitic acid,1
-Tyrosine,"L-Valinamide, N(2),N(2)-dimethyl",-1
 3-(3-Hydroxyphenyl)propanoic acid,Cyclohexanemethanol,1
-L-(-)-Sorbofuranose,Cyclohexanemethanol,-1
-L-(+)-Lactic acid,Ethyl glycolate,1
 3-Undecene,"Guanidine, N,N-dimethyl",1
-4-Hydroxybenzaldehyde,"Guanidine, N,N-dimethyl",-1
 "Acetamide, N-(2-butyl)-N-methyl-","Guanidine, N,N-dimethyl",1
 "Hexadecanoic acid, 4-hydroxybutyl ester","Guanidine, N,N-dimethyl",1
 Menthol,"Guanidine, N,N-dimethyl",1
-N-Methyl-alpha-aminoisobutyric acid,Levulinic acid,-1
 Uridine,N-Acetyl glucosamine methoxime,1
-3-Aminobutanoic acid,2-Hydroxy-3-methylbutyric acid,1
-2-tert-Butyl-4-ethylphenol ,2-Hydroxy-3-methylbutyric acid,1
 Decanoic acid,2-Hydroxy-3-methylbutyric acid,1
 Glycerol tricaprylate,2-Hydroxy-3-methylbutyric acid,1
-3-Aminobutanoic acid,Decanoic acid,1
 Glycerol tricaprylate,Decanoic acid,1
 "1,7-Dimethyl-4-(1-methylethyl)cyclodecane",Butyl caprylate,1
 Arabinitol,Butyl caprylate,1
-"cis,cis,cis-1-Isobutyl-2,5-dimethylcyclohexane",Butyl caprylate,1
 4-Pyridinol,9-Octadecenoic acid,-1
 3-Undecene,Pentanoic acid,1
 "(4,4-Dimethyl-5-methylene-4,5-dihydro-3H-pyrrol-2-yl)-(4,4-dimethyl-5-methylene-pyrrolidin-2-ylidene)-acetonitrile",N-Acetylglucosamine,1
@@ -712,78 +374,52 @@ Phenylalanine,Tyrosine,1
 "3-Hydroxy-2,3-dihydromaltol","2,3,4-Trihydroxybutyric acid",1
 "Erythrono-1,4-lactone","2,3,4-Trihydroxybutyric acid",1
 Ribonic acid,"2,3,4-Trihydroxybutyric acid",1
-"2,3-Dihydroxy-2-methylpropanoic acid",4-Pyridinol,-1
 L-Serine,Cytosine,1
-Isonicotinic Acid,Dihydrouracil,1
 "Propanoic acid, 2-oxo",Dihydrouracil,1
-Arabinitol,2-tert-Butyl-4-ethylphenol ,1
-Lignoceric acid,2-tert-Butyl-4-ethylphenol ,1
-Sebacic acid,2-tert-Butyl-4-ethylphenol ,1
-Lignoceric acid,"Cyclopenta[g]-2-benzopyran, 1,3,4,6,7,8-hexahydro-4,6,6,7,8,8-hexamethyl",1
-Sebacic acid,"Hexadecanoic acid, methyl ester",1
-L-(+)-Lactic acid,2'-Desoxyuridine,-1
 Thymidine,2'-Desoxyuridine,1
 "Hexadecanoic acid, 4-hydroxybutyl ester",Butyl Succinate,1
 L-(+)-Lactic acid,Butyl Succinate,1
 "Propanoic acid, 2-oxo",Butyl Succinate,1
-L-Glutamine,alpha-Tocopheryl acetate,1
 4-Hydroxy-5-(hydroxymethyl)oxolan-2-one,alpha-Tocopheryl acetate,-1
-Niacinamide,3-(3-Hydroxyphenyl)propanoic acid,-1
-L-(+)-Lactic acid,Lactic Acid,1
 "Erythrono-1,4-lactone",beta-D-(-)-Ribopyranose,1
 4-Hydroxybenzaldehyde,N-Methyl-alpha-aminoisobutyric acid,1
-Palmitic Acid,N-Methyl-alpha-aminoisobutyric acid,-1
 Phloretic acid,N-Methyl-alpha-aminoisobutyric acid,1
-"2,6-Di-O-methyl-d-galactopyranose",Niacinamide,-1
 "2-Pentenedioic acid, 2-hydroxy-",Niacinamide,1
-"2,6-Di-O-methyl-d-galactopyranose","2-Pentenedioic acid, 2-hydroxy-",-1
 1-Hexanol,"D-Erythro-Pentitol, 2-deoxy-",1
 4-Hydroxybenzaldehyde,Phenylalanine,1
 Ethanamine,1-Octadecanol,1
 "2-Furanacetaldehyde, tetrahydro-alpha",1-Octadecanol,-1
 "Acetamide, N-(2-butyl)-N-methyl-",1-Octadecanol,1
 d-Erythrotetrofuranose,1-Octadecanol,1
-L-Glutamine,N-Methyl-L-proline,1
-"Propane, 2-methyl","7,9-Di-tert-butyl-1-oxaspiro(4,5)deca-6,9-diene-2,8-dione",1
-Campesterol,Propanedioic acid,1
-1-Octanol,3-Undecene,1
 "Hexadecanoic acid, 4-hydroxybutyl ester",3-Undecene,1
 Menthol,3-Undecene,1
-1-Octanol,Menthol,1
-4-Hydroxybenzaldehyde,Menthol,-1
 Nonanoic acid,4-Hydroxy-5-(hydroxymethyl)oxolan-2-one,1
-"Methyl (3,4-dimethoxyphenyl)(hydroxy)acetate",L-(+)-Lactic acid,1
 Pimelic acid,L-(+)-Lactic acid,1
 "Propanoic acid, 2-oxo",L-(+)-Lactic acid,1
-1-Octanol,Tetrahydrolinalool,1
-4-Hydroxybenzaldehyde,Tetrahydrolinalool,-1
-L-(-)-Sorbofuranose,"N,N-Diethyl-2-aminoethanol",-1
-beta-Arabinopyranose,"2-Furanacetaldehyde, tetrahydro-alpha",1
-Dehydroabietic acid,"2-Furanacetaldehyde, tetrahydro-alpha",-1
 Idoxuridine ,"2-Furanacetaldehyde, tetrahydro-alpha",-1
 "Propanoic acid, 2-oxo",Glycolic acid,1
 "1,7-Dimethyl-4-(1-methylethyl)cyclodecane",Octadecyl octyl ether,1
 d-Erythrotetrofuranose,Octadecyl octyl ether,1
 Hexacosanoic acid,"Azetidine, 1-acetyl-2-methyl",1
-1-Octanol,Palmitic Acid,1
 "Acetamide, N-(2-butyl)-N-methyl-",Palmitic Acid,1
 trans-Coniferryl alchool,3-Hydroxyisovaleric acid,1
 Idoxuridine ,"Erythrono-1,4-lactone",1
 1-Methyl-4-hydroxy-1H-imidazol-2-amine,2'-Deoxyribolactone,1
 d-Erythrotetrofuranose,2'-Deoxyribolactone,1
 Glycerol tricaprylate,2'-Deoxyribolactone,1
-Pimelic acid,L-(-)-Sorbofuranose,-1
-Xylose,L-(-)-Sorbofuranose,1
 "(4,4-Dimethyl-5-methylene-4,5-dihydro-3H-pyrrol-2-yl)-(4,4-dimethyl-5-methylene-pyrrolidin-2-ylidene)-acetonitrile",Idoxuridine ,1
-"Methyl (3,4-dimethoxyphenyl)(hydroxy)acetate",Idoxuridine ,1
 Tricine,Idoxuridine ,1
 "Butanoic acid, 3,4-dihydroxy-",Ketamine,1
 1-Octanol,4-Hydroxybenzaldehyde,-1
 "beta-D-Galactopyranoside, methyl-, acetate",Lignoceric acid,-1
-Phloretic acid,Lignoceric acid,-1
-Sebacic acid,1-Octanol,1
 2-Palmitoylglycerol,3-Deoxyhexitol,-1
 Phloretic acid,3-Deoxyhexitol,1
 "Acetamide, N-(2-butyl)-N-methyl-","Propane, 2-methyl",1
 "(2,2-Dimethyl-5-[2-(2-ethoxymethoxy)propyl][1,3]dioxolan-4-yl)methanol",D-Mannopyranose,-1
 d-Erythrotetrofuranose,Tricine,1
+trans-Coniferryl alchool,3-Hydroxypicolinic acid,-1
+d-Erythrotetrofuranose,1-Methyl-4-hydroxy-1H-imidazol-2-amine,1
+4-Hydroxyphenyllactic acid,d-Erythrotetrofuranose,1
+Glycerol,d-Erythrotetrofuranose,1
+Glycerol,Glycerol tricaprylate,1
+Hexacosanoic acid,3-Hydroxybutyric acid,1

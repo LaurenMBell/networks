@@ -20,164 +20,138 @@ def vote(G, neighbor, target):
 
 #G = [l0, l1, l2, l3...ln] = UNION OF ALL LAYERS
 
-def define_next_layer(G, ln, visited):
-    lm = set() #Ln+1
+def build_layers(G, layer_0, max_depth=None):
+    base_layer = []
+    for node in layer_0:
+        if G.has_node(node) and G.degree(node) > 0:
+            base_layer.append(node)
 
-    for node in ln:
-        neighbors = set(G.neighbors(node))
-        for neighbor in neighbors:
-            if neighbor not in visited: 
-                #SHOULD ONLY BE NEIGHBORS IN THE NEXT LAYER, NOT VISITED OR CURRENT LAYER
-                lm.add(neighbor)
-                
-    return lm
+    if not base_layer:
+        return []
 
-def build_layers(G, layer_0):
-    layers = []
-    layers.append(set(layer_0))
-    visited = set(layer_0)
-    current_layer = set(layer_0)
-    
+    layers = [set(base_layer)]
+    visited = set(base_layer)
+    current_layer = set(base_layer)
+    depth = 0
+
     while current_layer:
+        if max_depth is not None and depth >= max_depth:
+            break
+
         next_layer = set()
         for node in current_layer:
             for neighbor in G.neighbors(node):
                 if neighbor not in visited:
                     next_layer.add(neighbor)
-        
+
         if not next_layer:
             break
-        
+
         layers.append(next_layer)
         visited.update(next_layer)
         current_layer = next_layer
-    
+        depth += 1
+
     return layers
 
-def reverse_puc(G, ln, visited, i, f=None, thresh=0.2, first=False):
-    #function to take each node in a layer and find directionality for it
-    to_remove_nodes = set() #set to collect nodes to remove instead of during iteration
-    #to_remove_edges = set()
+def reverse_puc(G, curr_layer, prev_layer, depth, f=None, thresh=0.2, first=False):
+    for node in list(curr_layer):
+        if not G.has_node(node):
+            continue
 
-    lm = define_next_layer(G, ln, visited)
+        if f:
+            f.write(f"\nNODE- {node},\nLAYER-{depth}\n")
 
-    for node in lm:
-        if f: f.write(f"NODE: {node}\n")
-        if f: f.write(f"LAYER: {i+1}\n")
-
-        up = 0
-        up_e = []
-        down = 0
-        down_e = []
-        n_ln = [] #nodes in previous layer, will vote
-        n_lm = [] #nodes in current layer, will NOT vote but will be removed 
+        pos_votes = 0
+        neg_votes = 0
+        pos_edges = []
+        neg_edges = []
 
         for neighbor in list(G.neighbors(node)):
-            if neighbor in ln:
-                n_ln.append(neighbor)
-                #every neighbor in ln should vote 
-                f.write(f"neighbor vote {neighbor}: ")
-                n_vote = vote(G, neighbor, node)
-                if n_vote == 1:
-                    f.write("up\n")
-                    up += 1
-                    up_e.append(neighbor)
-                if n_vote == -1:
-                    f.write("down\n")
-                    down += 1
-                    down_e.append(neighbor)
-            if neighbor in lm:
-                n_lm.append(neighbor)
-
-        score = up - down
-        if f: f.write(f"SCORE: {score}\n")
-        if f: f.write(f"UP: {up}\n")
-        if f: f.write(f"DOWN: {down}\n")
-
-        if score == 0: #tie or no neighbors
-            frustration = None
-            to_remove_nodes.add(node)
-            if f: f.write("score == 0, node to be removed\n\n")
-
-            if first:
-                for n in n_ln:
-                    G.remove_edge(node, n)
-
-            continue
-        elif score < 0:
-            dir = -1
-            frustration = up/(up+down)
-
-            for neighbor in up_e:
-                G.remove_edge(node, neighbor)
-                n_ln.remove(neighbor)
-                if f: f.write(f"removing edge {node} - {neighbor}\n")
-
-        elif score > 0:
-            dir = 1
-            frustration = down/(up+down)
-
-            for neighbor in down_e:
-                G.remove_edge(node, neighbor)
-                n_ln.remove(neighbor)
-                if f: f.write(f"removing edge {node} - {neighbor}\n")
-
-        if frustration is not None:
-            if frustration > thresh: #if frustration is > 0.2, remove node
-                to_remove_nodes.add(node)
-
-                if first: 
-                    for n in n_ln:
-                        G.remove_edge(node, n)
-                else:
-                    G.remove_node(node)
-                if f: f.write(f"{frustration} > {thresh}, node to be removed\n\n")
-
-            else:
-                G.nodes[node]['dir'] = dir
-                if f: f.write("node updated!\n\n")
-
-    #if not first: G.remove_nodes_from(to_remove_nodes)
-
-    return lm - to_remove_nodes
-
-# deletes edges in same level
-def same_level_edges(G, lm, d, f):
-    lm = set(lm)
-    edges_to_remove = []
-
-    # identify disagreeing same-layer edges
-    for u, v in G.edges():
-        if u in lm and v in lm:
-
-            if "dir" not in G.nodes[u] or "dir" not in G.nodes[v]:
-                print(f"NO DIR: {u} or {v}\n")
+            if neighbor not in prev_layer:
+                continue
+            if "dir" not in G.nodes[neighbor]:
                 continue
 
-            node_prod = G.nodes[u]["dir"] * G.nodes[v]["dir"]
-            edge_dir = G[u][v]["dir"]
-
-            if node_prod != edge_dir:
-                edges_to_remove.append((u, v))
-
-    # remove edges
-    for u, v in edges_to_remove:
-        if G.has_edge(u, v):
+            vote_val = vote(G, neighbor, node)
             if f:
-                f.write(f"SAME EDGE REMOVAL {u}-{v} in layer {d}\n")
-            G.remove_edge(u, v)
+                f.write(f"neighbor vote {neighbor}: {'up' if vote_val == 1 else 'down'}\n")
 
-    # build altered layer set
-    new_lm = set()
-    for u in lm:
-        if not G.has_node(u):
+            if vote_val > 0:
+                pos_votes += 1
+                pos_edges.append((neighbor, node))
+            else:
+                neg_votes += 1
+                neg_edges.append((neighbor, node))
+
+        total_votes = pos_votes + neg_votes
+        if f:
+            f.write(f"positive votes: {pos_votes}\n") 
+            f.write(f"negative votes: {neg_votes}\n")
+
+        if total_votes == 0:
+            print("NO. NO NO")
+            if f:
+                f.write("No votes, node unchanged\n")
             continue
-        for v in G.neighbors(u):
-            if v in lm:
-                new_lm.add(u)
-                break
 
-    return new_lm
+        if pos_votes > neg_votes:
+            G.nodes[node]["dir"] = 1
+            minority_edges = neg_edges
+        elif neg_votes > pos_votes:
+            G.nodes[node]["dir"] = -1
+            minority_edges = pos_edges
+        else:
+            minority_edges = pos_edges + neg_edges
+
+        frustration = len(minority_edges) / total_votes
+
+        if frustration > thresh:
+            if first:
+                if "dir" in G.nodes[node]:
+                    del G.nodes[node]["dir"]
+                for neighbor in list(G.neighbors(node)):
+                    if neighbor in prev_layer and G.has_edge(node, neighbor):
+                        G.remove_edge(node, neighbor)
+                        if f:
+                            f.write(f"{node}-{neighbor} edge is removed\n")
+                if f:
+                    f.write(f"{frustration} > {thresh}, edges cleared for {node}\n")
+            else:
+                if G.has_node(node):
+                    G.remove_node(node)
+                    if f:
+                        f.write(f"{node} node is removed ({frustration} > {thresh})\n")
+        else:
+            for a, b in minority_edges:
+                if G.has_edge(a, b):
+                    G.remove_edge(a, b)
+                    if f:
+                        f.write(f"{a} - {b} edge is removed\n")
+
+        if f:
+            f.write(f"frustration={frustration}\n")
+
+# deletes edges in same level
+def same_level_edges(G, curr_layer, d, f):
+    layer_nodes = set(n for n in curr_layer if G.has_node(n))
+
+    for u in list(layer_nodes):
+        for v in list(G.neighbors(u)):
+            if v not in layer_nodes:
+                continue
+            if "dir" not in G.nodes[u] or "dir" not in G.nodes[v]:
+                continue
+
+            node_prod = float(G.nodes[u]["dir"]) * float(G.nodes[v]["dir"])
+            edge_dir = float(G[u][v]["dir"])
+
+            if node_prod != edge_dir and G.has_edge(u, v):
+                if f:
+                    f.write(f"SAME EDGE REMOVAL {v}-{u} edge is removed in layer {d}\n")
+                G.remove_edge(u, v)
+
+    return G
 
 
 
@@ -215,32 +189,24 @@ def pls_cpx_rpuc(f):
         G.add_edge(r["Metabolite 1"], r["Metabolite 2"], dir=r["edge_dir"])
 
     # ==================== PERFORMING INVERSE PUC =====================================
-    # reverse_puc(G, ln, visited, f=None, thresh=0.2, first=False) -> lm - to_remove
-    
-    # GET L1 FROM L0
-    visited = set(l0)
+    layer_zero = [node for node in l0 if G.has_node(node) and G.degree(node) > 0]
+    layers = build_layers(G, layer_zero)
 
-    l1 = reverse_puc(G, l0, visited, 0, f, first=True)
+    d = 1
+    while d < len(layers):
+        kept = 0
+        for idx, layer in enumerate(layers):
+            if idx > 0:
+                kept += len(layer)
 
-    visited |= l1 #visited = visited | l1
+        prev_layer = set(layers[d - 1])
+        curr_layer = set(layers[d])
 
-    layers = [set(l0), set(l1)] #list of sets of nodes
+        reverse_puc(G, curr_layer, prev_layer, d, f)
+        same_level_edges(G, curr_layer, d, f)
 
-    ln = l1
-    i = 1
-    while True:
-        lm = reverse_puc(G, ln, visited, i, f, first=False)
-
-        if not lm:
-            break
-
-        curr_layer = set(lm)  
-        same_level_edges(G, curr_layer, i, f)
-
-        layers.append(curr_layer)
-        visited |= curr_layer
-        ln = curr_layer
-        i += 1
+        layers = build_layers(G, layer_zero)
+        d += 1
 
 
     f.write("FINAL NETWORK NODES:\n")
@@ -317,6 +283,8 @@ def pls_cpx_rpuc(f):
     #save node table 
     nodes = []
     for n, d in G.nodes(data=True):
+        #n = n.replace("-P", "").replace(name_dict)
+
         nodes.append({"node": n,"node_dir": G.nodes[n]["dir"]})
         if n not in l0:
             try:
@@ -331,6 +299,7 @@ def pls_cpx_rpuc(f):
         count+=1
 
     G.clear()
+    print("done with pls-cpx")
 
 def fec_cpx_rpuc(f):
     f.write(time.strftime("CURRENT TIME: %Y-%m-%d %H:%M:%S\n\n"))
@@ -366,38 +335,18 @@ def fec_cpx_rpuc(f):
     for i, r in fec.iterrows(): 
         G.add_edge(r["Metabolite 1"], r["Metabolite 2"], dir=r["edge_dir"])
     # ==================== PERFORMING INVERSE PUC =====================================
-    # reverse_puc(G, ln, visited, f=None, thresh=0.2, first=False) -> lm - to_remove
-    
-    # GET L1 FROM L0
-    visited = set(l0)
-
-    l1 = reverse_puc(G, l0, visited, 0, f, first=True)
-
-    visited |= l1 #visited = visited | l1
-
-    layers = [set(l0), set(l1)] #list of sets of nodes
-
-
-     # GET L1 FROM L0
-    visited = set(l0)
-
-    l1 = reverse_puc(G, l0, visited, 0, f, first=True)
-
-    visited |= l1 #visited = visited | l1
-
-    layers = [set(l0), set(l1)] #list of sets of nodes
-
-    layers = build_layers(G, l0)
+    layer_zero = [node for node in l0 if G.has_node(node) and G.degree(node) > 0]
+    layers = build_layers(G, layer_zero)
 
     i = 1
     while i < len(layers):
-        prev_layer = layers[i - 1]
-        curr_layer = layers[i]
+        prev_layer = set(layers[i - 1])
+        curr_layer = set(layers[i])
 
-        reverse_puc(G, prev_layer, set().union(*layers[:i]), i-1, f, first=(i==1))
+        reverse_puc(G, curr_layer, prev_layer, i, f)
         same_level_edges(G, curr_layer, i, f)
 
-        layers = build_layers(G, l0)
+        layers = build_layers(G, layer_zero)
         i += 1
 
     f.write("FINAL NETWORK NODES:\n")
@@ -483,6 +432,7 @@ def fec_cpx_rpuc(f):
         count+=1
 
     G.clear()
+    print("done with fec-cpx")
 
 
 def main():

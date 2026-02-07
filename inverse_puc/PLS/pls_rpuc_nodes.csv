@@ -1,7 +1,5 @@
 node,node_dir
 ENSMUSG00000031451-P,1.0
-"(7a-Isopropenyl-4,5-dimethyloctahydroinden-4-yl)methanol",-1.0
-"(7a-Isopropenyl-4,5-dimethyloctahydroinden-4-yl)methanol",-1.0
 ENSMUSG00000042010-P,1.0
 ENSMUSG00000038545-P,1.0
 ENSMUSG00000048612-P,-1.0
@@ -26,8 +24,6 @@ ENSMUSG00000034377-P,-1.0
 ENSMUSG00000039959-P,-1.0
 ENSMUSG00000021990-P,1.0
 ENSMUSG00000069631-P,-1.0
-"1-(4-Methoxyphenyl)-4,6-dimethyl-2(1H)-pyrimidinone",-1.0
-"1-(4-Methoxyphenyl)-4,6-dimethyl-2(1H)-pyrimidinone",-1.0
 ENSMUSG00000028811-P,1.0
 ENSMUSG00000071637-P,1.0
 1-Aminocyclopropanecarboxylic acid,-1.0
@@ -85,8 +81,6 @@ ENSMUSG00000026483-P,-1.0
 "1-Octanol, 2-butyl-",1.0
 "1-Octanol, 2-butyl-",1.0
 ENSMUSG00000025437-P,1.0
-"1-Octene, 2-methyl-",-1.0
-"1-Octene, 2-methyl-",-1.0
 ENSMUSG00000051510-P,-1.0
 ENSMUSG00000014075-P,-1.0
 1-Phenethylamine,-1.0
@@ -119,8 +113,6 @@ ENSMUSG00000051074-P,1.0
 ENSMUSG00000001054-P,1.0
 ENSMUSG00000020491-P,-1.0
 ENSMUSG00000072763-P,-1.0
-"1,3,5-Trimethyl-1H-pyrazol-4-amine",-1.0
-"1,3,5-Trimethyl-1H-pyrazol-4-amine",-1.0
 ENSMUSG00000051297-P,1.0
 ENSMUSG00000035293-P,1.0
 "1,4-diazabicyclo[4.3.0]nonan-2,5-dione, 3-methyl ",1.0
@@ -148,12 +140,8 @@ ENSMUSG00000066595-P,-1.0
 13-Docosenamide,1.0
 13-Docosenamide,1.0
 ENSMUSG00000025474-P,-1.0
-"15-Oxo-11Z,13E-eicosadienoic acid",-1.0
-"15-Oxo-11Z,13E-eicosadienoic acid",-1.0
 ENSMUSG00000049739-P,1.0
 ENSMUSG00000030060-P,1.0
-"1H-Pyrazole, 3,4-bis(trimethylsilyl)-",-1.0
-"1H-Pyrazole, 3,4-bis(trimethylsilyl)-",-1.0
 ENSMUSG00000058351-P,1.0
 ENSMUSG00000071072-P,-1.0
 "2-(2,5-Dimethoxy-phenyl)-propionaldehyde",1.0
@@ -166,8 +154,6 @@ ENSMUSG00000029623-P,-1.0
 ENSMUSG00000046351-P,-1.0
 ENSMUSG00000031922-P,-1.0
 ENSMUSG00000021709-P,-1.0
-2-Acetyl-5-chloro-3-methylbenzo(b)thiophene,-1.0
-2-Acetyl-5-chloro-3-methylbenzo(b)thiophene,-1.0
 ENSMUSG00000004895-P,1.0
 ENSMUSG00000039883-P,1.0
 ENSMUSG00000040661-P,-1.0
@@ -184,8 +170,6 @@ ENSMUSG00000043263-P,-1.0
 2-Aminobutanoic acid,1.0
 2-Aminobutanoic acid,1.0
 ENSMUSG00000032238-P,-1.0
-2-Ethyl-3-hydroxypropionic acid,-1.0
-2-Ethyl-3-hydroxypropionic acid,-1.0
 ENSMUSG00000031489-P,-1.0
 ENSMUSG00000004098-P,1.0
 "2-Heptanone, 4,6-dimethyl-",-1.0
@@ -226,8 +210,6 @@ ENSMUSG00000024772-P,1.0
 ENSMUSG00000016495-P,-1.0
 ENSMUSG00000031511-P,1.0
 ENSMUSG00000050822-P,1.0
-2-Pentenoic acid,-1.0
-2-Pentenoic acid,-1.0
 "2-Propenamide, 3-phenyl-N-2-propenyl-",-1.0
 "2-Propenamide, 3-phenyl-N-2-propenyl-",-1.0
 ENSMUSG00000066057-P,-1.0
@@ -255,12 +237,8 @@ ENSMUSG00000054484-P,1.0
 ENSMUSG00000029265-P,-1.0
 "2,5-di-tert-Butyl-1,4-benzoquinone",1.0
 "2,5-di-tert-Butyl-1,4-benzoquinone",1.0
-"2,5-Di-tert-butylhydroquinone",1.0
-"2,5-Di-tert-butylhydroquinone",1.0
 ENSMUSG00000053746-P,1.0
 ENSMUSG00000015970-P,1.0
-"2,5-Dimethoxy-4-methylamphetamine",-1.0
-"2,5-Dimethoxy-4-methylamphetamine",-1.0
 ENSMUSG00000039000-P,-1.0
 ENSMUSG00000064246-P,-1.0
 ENSMUSG00000026527-P,-1.0
@@ -269,8 +247,6 @@ ENSMUSG00000046714-P,1.0
 "2,5-Dimethoxymandelic acid",1.0
 ENSMUSG00000042506-P,1.0
 ENSMUSG00000061533-P,-1.0
-"2,5-Dimethyl-1-aza-bicyclo[2.2.1]heptane",1.0
-"2,5-Dimethyl-1-aza-bicyclo[2.2.1]heptane",1.0
 ENSMUSG00000035934-P,-1.0
 ENSMUSG00000028700-P,-1.0
 "2,5-Piperazinedione, 3-benzyl-6-isopropyl-",-1.0
@@ -296,8 +272,6 @@ ENSMUSG00000038555-P,1.0
 3-Amino-2-piperidone,-1.0
 ENSMUSG00000042699-P,-1.0
 ENSMUSG00000063894-P,-1.0
-3-Aminobenzoic acid,-1.0
-3-Aminobenzoic acid,-1.0
 ENSMUSG00000028133-P,1.0
 ENSMUSG00000030265-P,-1.0
 ENSMUSG00000040167-P,-1.0
@@ -334,30 +308,18 @@ ENSMUSG00000021243-P,1.0
 3-Methoxysalicylic acid,1.0
 ENSMUSG00000029790-P,-1.0
 ENSMUSG00000018707-P,1.0
-3-Methyladenine,-1.0
-3-Methyladenine,-1.0
 ENSMUSG00000090877-P,1.0
-"3-Methylpiperazine-2,5-dione, (R)-",-1.0
-"3-Methylpiperazine-2,5-dione, (R)-",-1.0
 ENSMUSG00000056735-P,-1.0
 ENSMUSG00000070527-P,1.0
 ENSMUSG00000032560-P,-1.0
 3-Nonen-1-ol,1.0
 3-Nonen-1-ol,1.0
-3-Ureidopropionic acid,-1.0
-3-Ureidopropionic acid,-1.0
 ENSMUSG00000022568-P,1.0
-"3,4-Dihydrocoumarin, 4,4-dimethyl-6-dimethylamino-",1.0
-"3,4-Dihydrocoumarin, 4,4-dimethyl-6-dimethylamino-",1.0
 ENSMUSG00000032261-P,-1.0
 ENSMUSG00000023046-P,1.0
 ENSMUSG00000030862-P,-1.0
-"3,4,5-Trihydroxypentanoic acid, tetrakis(trimethylsilyl)-",-1.0
-"3,4,5-Trihydroxypentanoic acid, tetrakis(trimethylsilyl)-",-1.0
 ENSMUSG00000020752-P,1.0
 ENSMUSG00000041134-P,-1.0
-"3,5-di-tert-Butyl-4-hydroxyacetophenone",-1.0
-"3,5-di-tert-Butyl-4-hydroxyacetophenone",-1.0
 ENSMUSG00000028051-P,1.0
 ENSMUSG00000034930-P,-1.0
 "3,5-Dimethylpyrazole",-1.0
@@ -369,8 +331,6 @@ ENSMUSG00000026803-P,-1.0
 ENSMUSG00000064345-P,-1.0
 ENSMUSG00000006005-P,-1.0
 ENSMUSG00000020297-P,1.0
-"3beta-TRIMETHYLSILOXY-5alpha,6alpha-EPOXYCHOLESTANE",-1.0
-"3beta-TRIMETHYLSILOXY-5alpha,6alpha-EPOXYCHOLESTANE",-1.0
 "3beta,4beta-Bis(trimethylsiloxy)cholest-5-ene",-1.0
 "3beta,4beta-Bis(trimethylsiloxy)cholest-5-ene",-1.0
 ENSMUSG00000025060-P,-1.0
@@ -387,11 +347,7 @@ ENSMUSG00000070858-P,1.0
 4-Hydroxyphenyllactic acid,-1.0
 4-Hydroxyphenyllactic acid,-1.0
 ENSMUSG00000031479-P,-1.0
-4-Methylvaleric acid,1.0
-4-Methylvaleric acid,1.0
 ENSMUSG00000083899-P,1.0
-4-Pyridinol,-1.0
-4-Pyridinol,-1.0
 ENSMUSG00000041649-P,1.0
 ENSMUSG00000046947-P,1.0
 5-Henicosylresorcinol,-1.0
@@ -400,19 +356,13 @@ ENSMUSG00000046947-P,1.0
 5-Hydroxyquinoline,-1.0
 ENSMUSG00000041685-P,-1.0
 ENSMUSG00000068762-P,1.0
-"5,6-Dimethyl-4-phenyl-3-cyanopyridine-2(1H)-thione",1.0
-"5,6-Dimethyl-4-phenyl-3-cyanopyridine-2(1H)-thione",1.0
 ENSMUSG00000031513-P,-1.0
 ENSMUSG00000032641-P,1.0
-"6-Methoxy-1-methyl-1,2,3,4-tetrahydroisoquinolin-7-ol ",-1.0
-"6-Methoxy-1-methyl-1,2,3,4-tetrahydroisoquinolin-7-ol ",-1.0
 "6,7,4'-Trihydroxyisoflavone",-1.0
 "6,7,4'-Trihydroxyisoflavone",-1.0
 ENSMUSG00000094002-P,1.0
 ENSMUSG00000030557-P,-1.0
 ENSMUSG00000038717-P,-1.0
-"6,8-Dioxapentadecane",-1.0
-"6,8-Dioxapentadecane",-1.0
 ENSMUSG00000064338-P,1.0
 "7-Isoquinolinol, 1,2,3,4-tetrahydro-1-[(4-hydroxyphenyl)methyl]-6-methoxy-",1.0
 "7-Isoquinolinol, 1,2,3,4-tetrahydro-1-[(4-hydroxyphenyl)methyl]-6-methoxy-",1.0
@@ -421,17 +371,9 @@ ENSMUSG00000002660-P,1.0
 9-Hexadecenoic acid,1.0
 9-Octadecenamide,-1.0
 9-Octadecenamide,-1.0
-9-Octadecenoic acid,-1.0
-9-Octadecenoic acid,-1.0
-"9H-Fluorene, 9-methylene-",-1.0
-"9H-Fluorene, 9-methylene-",-1.0
 ENSMUSG00000023236-P,1.0
-"9H-Purine, 9-(trimethylsilyl)-2,6,8-tris[(trimethylsilyl)oxy]-",-1.0
-"9H-Purine, 9-(trimethylsilyl)-2,6,8-tris[(trimethylsilyl)oxy]-",-1.0
 ENSMUSG00000036815-P,-1.0
 ENSMUSG00000037012-P,1.0
-"Acetamide, 2,2,2-trifluoro-",-1.0
-"Acetamide, 2,2,2-trifluoro-",-1.0
 ENSMUSG00000031967-P,-1.0
 ENSMUSG00000005699-P,1.0
 "Acetic acid, bis[(trimethylsilyl)oxyl]-",1.0
@@ -445,8 +387,6 @@ Adipoyl-L-carnitine,-1.0
 Adipoyl-L-carnitine,-1.0
 ENSMUSG00000042426-P,1.0
 ENSMUSG00000030016-P,-1.0
-Alloxanic acid,-1.0
-Alloxanic acid,-1.0
 ENSMUSG00000021215-P,-1.0
 ENSMUSG00000032018-P,-1.0
 ENSMUSG00000038884-P,1.0
@@ -458,8 +398,6 @@ ENSMUSG00000022843-P,-1.0
 "alpha-L-Galactopyranoside, methyl 6-deoxy-, (R,R,R,S,S)-",-1.0
 alpha-Linolenic acid,1.0
 alpha-Linolenic acid,1.0
-"Arabinofuranose, 1,2,3,5-tetrakis-O-",-1.0
-"Arabinofuranose, 1,2,3,5-tetrakis-O-",-1.0
 ENSMUSG00000038827-P,1.0
 Arachidonic acid,-1.0
 Arachidonic acid,-1.0
@@ -489,8 +427,6 @@ ENSMUSG00000058756-P,1.0
 "Benzene, 1-acetoxy-2,6-dimethoxy-4-(2-propenyl)-",1.0
 ENSMUSG00000027598-P,-1.0
 ENSMUSG00000018293-P,-1.0
-"Benzene, 4-ethenyl-1,2-dimethoxy-",-1.0
-"Benzene, 4-ethenyl-1,2-dimethoxy-",-1.0
 ENSMUSG00000036718-P,1.0
 ENSMUSG00000034957-P,1.0
 "Benzeneethanamine, N-[(pentafluorophenyl)methylene]-4-[(trimethylsilyl)oxy]-",1.0
@@ -522,8 +458,6 @@ Benzyl alcohol,1.0
 Benzyl alcohol,1.0
 "beta-D-Galactofuranose, 1,2,3,5,6-pentakis-O-(trimethylsilyl)-",-1.0
 "beta-D-Galactofuranose, 1,2,3,5,6-pentakis-O-(trimethylsilyl)-",-1.0
-beta-D-Glucopyranose,1.0
-beta-D-Glucopyranose,1.0
 ENSMUSG00000029840-P,-1.0
 ENSMUSG00000070348-P,-1.0
 beta-Lyxopyranose,-1.0
@@ -545,22 +479,16 @@ ENSMUSG00000099689-P,-1.0
 Butylated Hydroxytoluene,-1.0
 Butylated Hydroxytoluene,-1.0
 ENSMUSG00000047141-P,-1.0
-Butylmethylamine,-1.0
-Butylmethylamine,-1.0
 ENSMUSG00000026820-P,1.0
 Cadaverine,-1.0
 Cadaverine,-1.0
 ENSMUSG00000029198-P,1.0
-Campesterol,-1.0
-Campesterol,-1.0
 ENSMUSG00000039157-P,1.0
 Carfentrazone-ethyl,1.0
 Carfentrazone-ethyl,1.0
 ENSMUSG00000005580-P,1.0
 "Cholest-7-en-3-ol, (3beta,5alpha)-",1.0
 "Cholest-7-en-3-ol, (3beta,5alpha)-",1.0
-"Cholesta-3,5-dien-7-one",-1.0
-"Cholesta-3,5-dien-7-one",-1.0
 ENSMUSG00000087368-P,-1.0
 cis-4-Trimethylsilyloxy-cyclohexyl(trimethylsilyl)carboxylate,-1.0
 cis-4-Trimethylsilyloxy-cyclohexyl(trimethylsilyl)carboxylate,-1.0
@@ -572,10 +500,6 @@ cyclobutanecarboxylic acid,-1.0
 ENSMUSG00000019173-P,1.0
 Cyclobutanol,-1.0
 Cyclobutanol,-1.0
-Cyclohexanol,-1.0
-Cyclohexanol,-1.0
-"Cyclohexene, 3-butyl-3-methyl-1-trimethylsilyloxy-",-1.0
-"Cyclohexene, 3-butyl-3-methyl-1-trimethylsilyloxy-",-1.0
 ENSMUSG00000032172-P,1.0
 ENSMUSG00000098098-P,-1.0
 ENSMUSG00000039450-P,1.0
@@ -598,8 +522,6 @@ ENSMUSG00000024151-P,1.0
 ENSMUSG00000066113-P,1.0
 "D-(+)-Talofuranose, pentakis",1.0
 "D-(+)-Talofuranose, pentakis",1.0
-D-Arabinose,1.0
-D-Arabinose,1.0
 ENSMUSG00000043411-P,1.0
 D-Fructose,-1.0
 D-Fructose,-1.0
@@ -639,21 +561,15 @@ ENSMUSG00000031027-P,1.0
 Doconexent,1.0
 Doconexent,1.0
 ENSMUSG00000040158-P,1.0
-"Dodecanamide, N-(2-hydroxyethyl)-",1.0
-"Dodecanamide, N-(2-hydroxyethyl)-",1.0
 "Dodecane, 4,6-dimethyl-",-1.0
 "Dodecane, 4,6-dimethyl-",-1.0
 ENSMUSG00000016018-P,1.0
-"Dodecanoic acid, 1-methylethyl ester",-1.0
-"Dodecanoic acid, 1-methylethyl ester",-1.0
 ENSMUSG00000014603-P,-1.0
 ENSMUSG00000008690-P,1.0
 Dodecylcyclohexane,-1.0
 Dodecylcyclohexane,-1.0
 ENSMUSG00000030256-P,-1.0
 ENSMUSG00000046157-P,1.0
-Dopamine,1.0
-Dopamine,1.0
 ENSMUSG00000067148-P,1.0
 ENSMUSG00000039813-P,1.0
 Erythritol,-1.0
@@ -669,8 +585,6 @@ ENSMUSG00000025505-P,-1.0
 "Ethanone, 1-(5-methoxy-2-methyl-3(1H)-indolyl)-",-1.0
 "Ethanone, 1-(5-methoxy-2-methyl-3(1H)-indolyl)-",-1.0
 ENSMUSG00000049295-P,1.0
-Ethyl cis-2-trimethylsilyl-cyclopropane-1-carboxylate,-1.0
-Ethyl cis-2-trimethylsilyl-cyclopropane-1-carboxylate,-1.0
 "Furan, 2-pentyl-",-1.0
 "Furan, 2-pentyl-",-1.0
 ENSMUSG00000058420-P,1.0
@@ -731,8 +645,6 @@ ENSMUSG00000024170-P,1.0
 Isofucosterol,-1.0
 Isofucosterol,-1.0
 ENSMUSG00000039253-P,-1.0
-Isonicotinic Acid,1.0
-Isonicotinic Acid,1.0
 ENSMUSG00000024098-P,1.0
 ENSMUSG00000068284-P,-1.0
 Isopropyl palmitate,-1.0
@@ -752,8 +664,6 @@ L-Aspartic acid,-1.0
 L-Aspartic acid,-1.0
 L-Cysteine,1.0
 L-Cysteine,1.0
-L-Glutamine,1.0
-L-Glutamine,1.0
 ENSMUSG00000098113-P,1.0
 L-Hydroxyproline,-1.0
 L-Hydroxyproline,-1.0
@@ -761,8 +671,6 @@ ENSMUSG00000033453-P,1.0
 L-Isoleucine,-1.0
 L-Isoleucine,-1.0
 ENSMUSG00000030403-P,-1.0
-L-Lysine,-1.0
-L-Lysine,-1.0
 ENSMUSG00000017670-P,1.0
 "L-Lysine, ethyl ester ",-1.0
 "L-Lysine, ethyl ester ",-1.0
@@ -796,15 +704,11 @@ Methylmalonic monoamide,-1.0
 Myristic acid,-1.0
 Myristic acid,-1.0
 ENSMUSG00000022199-P,1.0
-"N-(Trifluoroacetyl)-N,O,O'-tris(trimethylsilyl)normetanephrine",-1.0
-"N-(Trifluoroacetyl)-N,O,O'-tris(trimethylsilyl)normetanephrine",-1.0
 ENSMUSG00000020553-P,-1.0
 ENSMUSG00000032763-P,1.0
 N-(Trimethylsilyl)hexanamide,-1.0
 N-(Trimethylsilyl)hexanamide,-1.0
 ENSMUSG00000036501-P,-1.0
-N-Acetyltyrosine,-1.0
-N-Acetyltyrosine,-1.0
 ENSMUSG00000106365-P,-1.0
 ENSMUSG00000046807-P,1.0
 "N-isobutyl-2-(trimethylsilyloxy]-4,5-dihydro-1H-imidazole-1-carboxamide",-1.0
@@ -842,10 +746,6 @@ ENSMUSG00000041841-P,1.0
 Nonadecanoic acid,-1.0
 Nonadecanoic acid,-1.0
 ENSMUSG00000010607-P,-1.0
-Nonanal,-1.0
-Nonanal,-1.0
-Nonanoic acid,1.0
-Nonanoic acid,1.0
 Octan-2-yl palmitate,1.0
 Octan-2-yl palmitate,1.0
 "Octane, 1-propoxy-",1.0
@@ -861,8 +761,6 @@ p-Toluic acid,-1.0
 p-Toluic acid,-1.0
 ENSMUSG00000024150-P,-1.0
 ENSMUSG00000027646-P,-1.0
-Pentadecanoic acid,-1.0
-Pentadecanoic acid,-1.0
 "Pentanedioic acid, 3-methyl-3-[(trimethylsilyl)oxy]-",-1.0
 "Pentanedioic acid, 3-methyl-3-[(trimethylsilyl)oxy]-",-1.0
 ENSMUSG00000105302-P,1.0
@@ -887,8 +785,6 @@ Pipecolic acid,-1.0
 "Propanetriol, 2-methyl-",-1.0
 "Propanoic acid, 2-methyl-",1.0
 "Propanoic acid, 2-methyl-",1.0
-"Propanoic acid, 2-oxo-",-1.0
-"Propanoic acid, 2-oxo-",-1.0
 ENSMUSG00000057181-P,-1.0
 ENSMUSG00000043614-P,1.0
 "Propiophenone, 3',4'-dimethoxy-",1.0
@@ -897,8 +793,6 @@ Propylamine,-1.0
 Propylamine,-1.0
 "Pyrimidine, 5-methyl-2,4-bis[(trimethylsilyl)oxy]-",-1.0
 "Pyrimidine, 5-methyl-2,4-bis[(trimethylsilyl)oxy]-",-1.0
-"Quinolin-4-one, 1-[2-(3,4-dimethoxyphenyl)ethyl]-octahydro-",1.0
-"Quinolin-4-one, 1-[2-(3,4-dimethoxyphenyl)ethyl]-octahydro-",1.0
 Ribitol,-1.0
 Ribitol,-1.0
 Ser-Leu,1.0
@@ -935,8 +829,6 @@ Trisaminol,1.0
 Uracil,-1.0
 Uracil,-1.0
 ENSMUSG00000065799-P,-1.0
-Uridine,-1.0
-Uridine,-1.0
 ENSMUSG00000019647-P,-1.0
 Xylazine,-1.0
 Xylazine,-1.0
@@ -954,8 +846,6 @@ Xylitol,1.0
 1-Monoacetin,-1.0
 "2-Hexenoic acid, 2-[(trimethylsilyl)oxy]-",-1.0
 "2-Hexenoic acid, 2-[(trimethylsilyl)oxy]-",-1.0
-2-Hydroxy-2-methylbutyric acid,-1.0
-2-Hydroxy-2-methylbutyric acid,-1.0
 "2-Propanone, bis(1-methylethyl)hydrazone",-1.0
 "2-Propanone, bis(1-methylethyl)hydrazone",-1.0
 alpha-Tocopherol,-1.0
@@ -1006,6 +896,8 @@ Naphthofluorescein,-1.0
 Naphthofluorescein,-1.0
 (pm)-Phenylpropanolamine,1.0
 (pm)-Phenylpropanolamine,1.0
+3-(2-Hydroxyethyl)imidazole-2-thione,1.0
+3-(2-Hydroxyethyl)imidazole-2-thione,1.0
 3-Indolepropionic acid,-1.0
 3-Indolepropionic acid,-1.0
 Vanillylmandelic acid,-1.0
@@ -1120,6 +1012,8 @@ Palmitelaidic acid,-1.0
 "7-Acetyl-6-ethyl-1,1,4,4-tetramethyltetralin ",1.0
 Quazodine,1.0
 Quazodine,1.0
+"Talonic acid, gamma-lactone",1.0
+"Talonic acid, gamma-lactone",1.0
 "2-Acetyl-3-(1-methyl-2-pyrrolyl)-1,4-benzenediol",1.0
 "2-Acetyl-3-(1-methyl-2-pyrrolyl)-1,4-benzenediol",1.0
 Norketamine,1.0
@@ -1136,8 +1030,6 @@ D-Ribose,-1.0
 D-Ribose,-1.0
 Pyrrole-2-carboxylic acid,-1.0
 Pyrrole-2-carboxylic acid,-1.0
-Albizziin,-1.0
-Albizziin,-1.0
 5-(2-Aminopropyl)-2-methylphenol,1.0
 5-(2-Aminopropyl)-2-methylphenol,1.0
 5-Ethyluracil,-1.0
@@ -1158,8 +1050,6 @@ Arabinaric acid,-1.0
 Arabinaric acid,-1.0
 "2,2,8,8-Tetramethyl-3,7-dioxa-4-aza-2,8-disilanon-4-ene",-1.0
 "2,2,8,8-Tetramethyl-3,7-dioxa-4-aza-2,8-disilanon-4-ene",-1.0
-"Pyrazine, 3,6-dimethyl-2,5-bis(trimethylsilyloxy)-",1.0
-"Pyrazine, 3,6-dimethyl-2,5-bis(trimethylsilyloxy)-",1.0
 "Ribonic acid, 2,3,4,5-tetrakis-",1.0
 "Ribonic acid, 2,3,4,5-tetrakis-",1.0
 Ornithine,-1.0
@@ -1182,8 +1072,8 @@ Cinnamic acid,-1.0
 Cinnamic acid,-1.0
 Ketamine ,1.0
 Ketamine ,1.0
-"3-Methoxyamphetamine, 4-Trimethylsilyloxy, N,N-bis(Trimethylsilyloxy)-",1.0
-"3-Methoxyamphetamine, 4-Trimethylsilyloxy, N,N-bis(Trimethylsilyloxy)-",1.0
+Methyl alpha-Lyxofuranoside,1.0
+Methyl alpha-Lyxofuranoside,1.0
 Xylose,-1.0
 Xylose,-1.0
 "3,4-Dihydroxymandelic acid, ethyl ester",-1.0
