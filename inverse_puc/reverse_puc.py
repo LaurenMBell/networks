@@ -60,7 +60,7 @@ def reverse_puc(G, curr_layer, prev_layer, depth, f=None, thresh=0.2, first=Fals
             continue
 
         if f:
-            f.write(f"\nNODE- {node},\nLAYER-{depth}\n")
+            f.write(f"\nNODE:{node},\nLAYER:{depth}\n")
 
         pos_votes = 0
         neg_votes = 0
