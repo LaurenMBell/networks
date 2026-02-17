@@ -1,0 +1,669 @@
+Node 1 Name,Node 1 Tissue,Node 2 Name,Node 2 Tissue,edge_dir
+Gas6,Choroid Plexus,"N,N-Dimethyl-2-cyclohexyloxyethylamine",Plasma,-1
+Dlgap4,Choroid Plexus,"(9H-fluoren-9-yl)methanol, O-methoxycarbonyl-",Plasma,-1
+Dlgap4,Choroid Plexus,Dodecylcyclohexane,Plasma,-1
+Iba57,Choroid Plexus,"(9H-fluoren-9-yl)methanol, O-methoxycarbonyl-",Plasma,-1
+Hmga1,Choroid Plexus,(CH3)2C=NC2H558,Plasma,1
+Rai14,Choroid Plexus,"Morpholine, 4-[2,3,4,6-tetrakis-O-(trimethylsilyl)-alpha-d-mannopyranosyl]-",Plasma,-1
+Trpc4ap,Choroid Plexus,2-Hydroxybutyric acid,Plasma,1
+Trpc4ap,Choroid Plexus,Octan-2-yl palmitate,Plasma,1
+Trpc4ap,Choroid Plexus,Xylazine,Plasma,-1
+Eipr1,Choroid Plexus,1-Cyclopentylethanol,Plasma,-1
+Eipr1,Choroid Plexus,Dehydronorketamine,Plasma,-1
+Eipr1,Choroid Plexus,Heptadecanoic acid,Plasma,-1
+Eipr1,Choroid Plexus,Indole-5-carboxylic acid,Plasma,-1
+Cmtm8,Choroid Plexus,1-Hydroxy-3-methoxy-6-methylanthraquinone,Plasma,-1
+Cmtm8,Choroid Plexus,"Propanoic acid, 2-methyl-",Plasma,-1
+Rplp1,Choroid Plexus,Indole-5-carboxylic acid,Plasma,-1
+Aox3,Choroid Plexus,1-(3-Methylphenyl)piperazine,Plasma,1
+Tulp4,Choroid Plexus,1-(3-Methylphenyl)piperazine,Plasma,1
+Hip1,Choroid Plexus,1-(3-Methylphenyl)piperazine,Plasma,1
+Spata13,Choroid Plexus,1-(3-Methylphenyl)piperazine,Plasma,-1
+Tulp4,Choroid Plexus,"Benzoic acid, pentadecyl ester",Plasma,1
+Spata13,Choroid Plexus,12-Oxooctadecanoate,Plasma,-1
+Spata13,Choroid Plexus,Tributyl acetylcitrate,Plasma,1
+Strada,Choroid Plexus,"beta-D-Galactofuranose, 1,2,3,5,6-pentakis-O-(trimethylsilyl)-",Plasma,1
+Strada,Choroid Plexus,Propylamine,Plasma,1
+Cebpd,Choroid Plexus,1-Aminocyclopropanecarboxylic acid,Plasma,-1
+Cebpd,Choroid Plexus,2-Hydroxy-3-methylbutyric acid,Plasma,-1
+Cebpd,Choroid Plexus,"3-Cyclohexyl-L-alanine amide, N,N,N'N'-tetramethyl-",Plasma,-1
+Cebpd,Choroid Plexus,Acetoacetic acid,Plasma,-1
+Ddb1,Choroid Plexus,"1-Butanamine, N,N-diethyl-",Plasma,-1
+Igfbp2,Choroid Plexus,"1-Butanamine, N,N-diethyl-",Plasma,-1
+Mfge8,Choroid Plexus,"1-Butanamine, N,N-diethyl-",Plasma,-1
+Gprc5c,Choroid Plexus,"1-Butanamine, N,N-diethyl-",Plasma,-1
+Pi4ka,Choroid Plexus,"1-Butanamine, N,N-diethyl-",Plasma,-1
+Imp3,Choroid Plexus,"1-Butanamine, N,N-diethyl-",Plasma,-1
+Mfge8,Choroid Plexus,12-Oxooctadecanoate,Plasma,-1
+Mfge8,Choroid Plexus,Nitrosothymol,Plasma,-1
+Pi4ka,Choroid Plexus,Nonadecanoic acid,Plasma,-1
+Imp3,Choroid Plexus,1-Cyclopentylethanol,Plasma,-1
+Ubc,Choroid Plexus,1-Cyclopentylethanol,Plasma,-1
+Tada1,Choroid Plexus,"1-Decene, 8-methyl-",Plasma,-1
+Tada1,Choroid Plexus,Benzophenone,Plasma,-1
+Haus4,Choroid Plexus,"1-Decene, 8-methyl-",Plasma,1
+Mrps5,Choroid Plexus,alpha-Linolenic acid,Plasma,-1
+Wbp11,Choroid Plexus,1-Deoxypentitol,Plasma,1
+Dctn2,Choroid Plexus,1-Deoxypentitol,Plasma,-1
+Dnajc7,Choroid Plexus,1-Deoxypentitol,Plasma,-1
+Ndufs3,Choroid Plexus,1-Deoxypentitol,Plasma,1
+Ubl3,Choroid Plexus,1-Deoxypentitol,Plasma,1
+Eif3h,Choroid Plexus,1-Deoxypentitol,Plasma,-1
+Opa1,Choroid Plexus,1-Deoxypentitol,Plasma,1
+Fzr1,Choroid Plexus,1-Deoxypentitol,Plasma,-1
+Tmem184c,Choroid Plexus,1-Deoxypentitol,Plasma,1
+Wbp11,Choroid Plexus,"2,5-Piperazinedione, 3-benzyl-6-isopropyl-",Plasma,1
+Wbp11,Choroid Plexus,"3beta,4beta-Bis(trimethylsiloxy)cholest-5-ene",Plasma,1
+Wbp11,Choroid Plexus,"6,7,4'-Trihydroxyisoflavone",Plasma,1
+Wbp11,Choroid Plexus,"Benzoic acid, pentadecyl ester",Plasma,1
+Wbp11,Choroid Plexus,Cadaverine,Plasma,1
+Wbp11,Choroid Plexus,D-(-)-Citramalic acid,Plasma,1
+Wbp11,Choroid Plexus,Dinoseb ,Plasma,1
+Wbp11,Choroid Plexus,DL-Glyceraldehyde,Plasma,1
+Wbp11,Choroid Plexus,Isofucosterol,Plasma,1
+Wbp11,Choroid Plexus,Methyl aminoacetate,Plasma,1
+Wbp11,Choroid Plexus,"N,O-Bis(trimethylsilyl)carbamate",Plasma,1
+Wbp11,Choroid Plexus,Nonadecanoic acid,Plasma,1
+Wbp11,Choroid Plexus,p-Toluic acid,Plasma,1
+Wbp11,Choroid Plexus,"Pentanedioic acid, 3-methyl-3-[(trimethylsilyl)oxy]-",Plasma,1
+Dctn2,Choroid Plexus,"Benzoic acid, pentadecyl ester",Plasma,-1
+Dctn2,Choroid Plexus,beta-Lyxopyranose,Plasma,-1
+Dnajc7,Choroid Plexus,"3-Hydroxy-2,3-dihydromaltol",Plasma,-1
+Dnajc7,Choroid Plexus,4-Hydroxybenzeneacetic acid,Plasma,-1
+Dnajc7,Choroid Plexus,"Dodecane, 4,6-dimethyl-",Plasma,-1
+Dnajc7,Choroid Plexus,Triethanolamine,Plasma,-1
+Ndufs3,Choroid Plexus,"Benzaldehyde, 2,5-dimethyl-",Plasma,1
+Ndufs3,Choroid Plexus,Isofucosterol,Plasma,1
+Ndufs3,Choroid Plexus,Methyl aminoacetate,Plasma,1
+Ndufs3,Choroid Plexus,"Stigmast-5-ene, 3beta-",Plasma,1
+Ubl3,Choroid Plexus,"1,3,5-Benzetriol",Plasma,1
+Ubl3,Choroid Plexus,"2,3,4-Trihydroxybutyric acid tetrakis",Plasma,1
+Ubl3,Choroid Plexus,"2,5-Piperazinedione, 3-benzyl-6-isopropyl-",Plasma,1
+Ubl3,Choroid Plexus,"3-Hydroxy-2,3-dihydromaltol",Plasma,1
+Ubl3,Choroid Plexus,4-Hydroxybenzeneacetic acid,Plasma,1
+Ubl3,Choroid Plexus,beta-Lyxopyranose,Plasma,1
+Ubl3,Choroid Plexus,Dinoseb ,Plasma,1
+Ubl3,Choroid Plexus,Isofucosterol,Plasma,1
+Ubl3,Choroid Plexus,Isopropyl palmitate,Plasma,1
+Ubl3,Choroid Plexus,Methyl aminoacetate,Plasma,1
+Ubl3,Choroid Plexus,"Pentanedioic acid, 3-methyl-3-[(trimethylsilyl)oxy]-",Plasma,1
+Ubl3,Choroid Plexus,Propylamine,Plasma,1
+Ubl3,Choroid Plexus,Tartronic acid,Plasma,1
+Ubl3,Choroid Plexus,Triethanolamine,Plasma,1
+Eif3h,Choroid Plexus,"Dodecane, 4,6-dimethyl-",Plasma,-1
+Opa1,Choroid Plexus,1-Hydroxy-3-methoxy-6-methylanthraquinone,Plasma,-1
+Opa1,Choroid Plexus,beta-Lyxopyranose,Plasma,1
+Opa1,Choroid Plexus,Isofucosterol,Plasma,1
+Opa1,Choroid Plexus,"N,O-Bis(trimethylsilyl)carbamate",Plasma,1
+Opa1,Choroid Plexus,p-Toluic acid,Plasma,1
+Opa1,Choroid Plexus,"Pentanedioic acid, 3-methyl-3-[(trimethylsilyl)oxy]-",Plasma,1
+Opa1,Choroid Plexus,Triethanolamine,Plasma,1
+Bnip1,Choroid Plexus,"Benzoic acid, methyl ester",Plasma,1
+Fzr1,Choroid Plexus,"2,4-Imidazolidinedione, 5,5-dimethyl-",Plasma,-1
+Fzr1,Choroid Plexus,Nitrosothymol,Plasma,-1
+Tmem184c,Choroid Plexus,"3beta,4beta-Bis(trimethylsiloxy)cholest-5-ene",Plasma,1
+Tmem184c,Choroid Plexus,cis-4-Trimethylsilyloxy-cyclohexyl(trimethylsilyl)carboxylate,Plasma,1
+Tmem184c,Choroid Plexus,N-Methyl-N-(tetrahydro-2-furanylmethyl)-4-piperidinamine,Plasma,1
+Tmem184c,Choroid Plexus,Triethanolamine,Plasma,1
+Apc2,Choroid Plexus,1-Hexadecanol,Plasma,1
+Apc2,Choroid Plexus,"1,2-Benzenedicarboxylic acid",Plasma,1
+Apc2,Choroid Plexus,Decanoic acid,Plasma,1
+Apc2,Choroid Plexus,Dihydrouracil,Plasma,-1
+Apc2,Choroid Plexus,Ethanolamine,Plasma,-1
+Apc2,Choroid Plexus,Glyceric acid,Plasma,-1
+Apc2,Choroid Plexus,L-Isoleucine,Plasma,-1
+Apc2,Choroid Plexus,"Pyrimidine, 5-methyl-2,4-bis[(trimethylsilyl)oxy]-",Plasma,-1
+Kpna4,Choroid Plexus,1-Hexadecanol,Plasma,-1
+Gm43339,Choroid Plexus,1-Hydroxy-3-methoxy-6-methylanthraquinone,Plasma,-1
+Por,Choroid Plexus,1-Hydroxy-3-methoxy-6-methylanthraquinone,Plasma,-1
+Lpgat1,Choroid Plexus,1-Hydroxy-3-methoxy-6-methylanthraquinone,Plasma,-1
+Tmem204,Choroid Plexus,1-Hydroxy-3-methoxy-6-methylanthraquinone,Plasma,-1
+Aqp11,Choroid Plexus,1-Hydroxy-3-methoxy-6-methylanthraquinone,Plasma,-1
+Col8a1,Choroid Plexus,1-Hydroxy-3-methoxy-6-methylanthraquinone,Plasma,-1
+Ric3,Choroid Plexus,1-Hydroxy-3-methoxy-6-methylanthraquinone,Plasma,-1
+Dcaf12l1,Choroid Plexus,1-Hydroxy-3-methoxy-6-methylanthraquinone,Plasma,-1
+Por,Choroid Plexus,"Glycine, N-(1-oxobutyl)-",Plasma,1
+Por,Choroid Plexus,Uracil,Plasma,1
+Lpgat1,Choroid Plexus,10-Heptadecenoic acid,Plasma,1
+Lpgat1,Choroid Plexus,2-Amino-4-methylphenol,Plasma,1
+Lpgat1,Choroid Plexus,3-Hexenedinitrile,Plasma,1
+Lpgat1,Choroid Plexus,"6,7,4'-Trihydroxyisoflavone",Plasma,1
+Lpgat1,Choroid Plexus,p-Toluic acid,Plasma,1
+Flcn,Choroid Plexus,2-Hydroxybutyric acid,Plasma,1
+Tmem204,Choroid Plexus,N-Isovaleroylglycine,Plasma,1
+Ric3,Choroid Plexus,"2,6-Dimethyl-N-[3-(trimethylsilyl)-1,3-thiazinan-2-ylidene]aniline",Plasma,1
+Ric3,Choroid Plexus,Aceturic acid,Plasma,1
+Ric3,Choroid Plexus,"D-(-)-Fructofuranose, pentakis",Plasma,-1
+Dcaf12l1,Choroid Plexus,"Benzimidazole, 5-trifluoromethyl-2-methyl-",Plasma,1
+Dcaf12l1,Choroid Plexus,"Benzoic acid, pentadecyl ester",Plasma,1
+Dcaf12l1,Choroid Plexus,Butylated Hydroxytoluene,Plasma,1
+Dcaf12l1,Choroid Plexus,Latanoprost lactone diol,Plasma,-1
+Dcaf12l1,Choroid Plexus,"N,O-Bis(trimethylsilyl)carbamate",Plasma,1
+Dcaf12l1,Choroid Plexus,p-Toluic acid,Plasma,1
+Glod4,Choroid Plexus,"1-Methyl-N,N-bis(trimethylsilyl)-4-[(trimethylsilyl)oxy]-1H-imidazol-2-amine",Plasma,1
+Glod4,Choroid Plexus,cyclobutanecarboxylic acid,Plasma,1
+Glod4,Choroid Plexus,L-5-Oxoproline,Plasma,1
+Glod4,Choroid Plexus,L-Aspartic acid,Plasma,1
+Niban1,Choroid Plexus,"1-Octanol, 2-butyl-",Plasma,-1
+Niban1,Choroid Plexus,Atrazine desethyl,Plasma,1
+Mafg,Choroid Plexus,"2,2,4-Trimethyl-1,3-pentanediol diisobutyrate",Plasma,1
+Mafg,Choroid Plexus,"3beta,4beta-Bis(trimethylsiloxy)cholest-5-ene",Plasma,1
+Mafg,Choroid Plexus,Aceturic acid,Plasma,1
+Mafg,Choroid Plexus,Dinoseb ,Plasma,1
+Mafg,Choroid Plexus,Isofucosterol,Plasma,1
+Mafg,Choroid Plexus,Isopropyl palmitate,Plasma,1
+Dynlt2b,Choroid Plexus,1-Phenethylamine,Plasma,1
+Dynlt2b,Choroid Plexus,10-Heptadecenoic acid,Plasma,1
+Dynlt2b,Choroid Plexus,2-Hydroxy-3-methylbutyric acid,Plasma,1
+Dynlt2b,Choroid Plexus,5-Hydroxyquinoline,Plasma,1
+mt-Tl1,Choroid Plexus,1-Phenethylamine,Plasma,-1
+mt-Tl1,Choroid Plexus,DL-Glyceraldehyde,Plasma,-1
+mt-Tl1,Choroid Plexus,L-Aspartic acid,Plasma,-1
+Cope,Choroid Plexus,"1-Phenyl-1,2-ethanediol",Plasma,-1
+Nt5m,Choroid Plexus,"1-Phenyl-1,2-ethanediol",Plasma,-1
+Mfsd2a,Choroid Plexus,"1-Piperazineethanol, 4-dibenzo[b,f][1,4]thiazepin-11-yl-",Plasma,1
+Tatdn2,Choroid Plexus,"1,1'-Biphenyl, 3,4-diethyl-",Plasma,-1
+Tatdn2,Choroid Plexus,2-Aminoadipic acid,Plasma,-1
+Tatdn2,Choroid Plexus,"Inosose-2, 1,3,4,5,6-pentakis-",Plasma,-1
+Tatdn2,Choroid Plexus,"N,9-bis(Trimethylsilyl)-6-[(trimethylsilyl)oxy]-9H-purin-2-amine",Plasma,-1
+Mrps18a,Choroid Plexus,"1,2-Butadiene, 1,1,4-triphenyl-3-trimethylsilyl-4-trimethylsilyloxy-",Plasma,-1
+Mrps18a,Choroid Plexus,"2,5-Piperazinedione, 3-benzyl-6-isopropyl-",Plasma,-1
+Mrps18a,Choroid Plexus,D-(-)-Citramalic acid,Plasma,-1
+Sox13,Choroid Plexus,"1,2,3,10,11,11a-Hexahydro-6,7,8-trimethoxy-3-oxo-5H-dibenzo(a,d)cycloheptene",Plasma,1
+Sox13,Choroid Plexus,2-Aminoadipic acid,Plasma,1
+Sox13,Choroid Plexus,Sertraline carbamoyl glucuronide,Plasma,1
+Rmnd5b,Choroid Plexus,"1,3,5-Benzetriol",Plasma,-1
+2810021J22Rik,Choroid Plexus,"1,3,5-Benzetriol",Plasma,1
+Zfp1007,Choroid Plexus,"1,3,5-Benzetriol",Plasma,1
+Zfp1007,Choroid Plexus,"2,6-Dimethyl-N-[3-(trimethylsilyl)-1,3-thiazinan-2-ylidene]aniline",Plasma,1
+Zfp1007,Choroid Plexus,Dinoseb ,Plasma,1
+Zfp1007,Choroid Plexus,Guanabenz,Plasma,1
+Zfp1007,Choroid Plexus,Isopropyl palmitate,Plasma,1
+Zfp1007,Choroid Plexus,Propylamine,Plasma,1
+Zfp1007,Choroid Plexus,Triethanolamine,Plasma,1
+2410124H12Rik,Choroid Plexus,2-Ketoisocaproic acid,Plasma,1
+G2e3,Choroid Plexus,"1,4-diazabicyclo[4.3.0]nonan-2,5-dione, 3-methyl ",Plasma,1
+G2e3,Choroid Plexus,2-Isopropyl-5-methyl-1-heptanol ,Plasma,-1
+G2e3,Choroid Plexus,3-Amino-2-piperidone,Plasma,-1
+G2e3,Choroid Plexus,"6,7,4'-Trihydroxyisoflavone",Plasma,-1
+Ergic2,Choroid Plexus,"1,5-Anhydroglucitol",Plasma,-1
+Ergic2,Choroid Plexus,N-(Trimethylsilyl)hexanamide,Plasma,1
+Ibtk,Choroid Plexus,10-Heptadecenoic acid,Plasma,1
+Ibtk,Choroid Plexus,Trimidox,Plasma,-1
+Osbp,Choroid Plexus,10-Heptadecenoic acid,Plasma,1
+Rpp30,Choroid Plexus,10-Heptadecenoic acid,Plasma,1
+Sh2b3,Choroid Plexus,10-Heptadecenoic acid,Plasma,1
+Stxbp4,Choroid Plexus,10-Heptadecenoic acid,Plasma,1
+Cnnm4,Choroid Plexus,10-Heptadecenoic acid,Plasma,1
+Osbp,Choroid Plexus,2-Amino-4-methylphenol,Plasma,1
+Osbp,Choroid Plexus,2-Isopropyl-5-methyl-1-heptanol ,Plasma,1
+Osbp,Choroid Plexus,3-Methoxysalicylic acid,Plasma,-1
+Osbp,Choroid Plexus,5-Hydroxyquinoline,Plasma,1
+Osbp,Choroid Plexus,"6,7,4'-Trihydroxyisoflavone",Plasma,1
+Osbp,Choroid Plexus,Arachidonic acid,Plasma,1
+Osbp,Choroid Plexus,beta-Lyxopyranose,Plasma,1
+Osbp,Choroid Plexus,DL-Glyceraldehyde,Plasma,1
+Osbp,Choroid Plexus,p-Toluic acid,Plasma,1
+Osbp,Choroid Plexus,Sertraline carbamoyl glucuronide,Plasma,1
+Rpp30,Choroid Plexus,"2,4-Imidazolidinedione, 5,5-dimethyl-",Plasma,1
+Rpp30,Choroid Plexus,3-Hexenedinitrile,Plasma,1
+Rpp30,Choroid Plexus,3-Methoxysalicylic acid,Plasma,-1
+Rpp30,Choroid Plexus,"3,5-Dimethylpyrazole",Plasma,1
+Rpp30,Choroid Plexus,"6,7,4'-Trihydroxyisoflavone",Plasma,1
+Rpp30,Choroid Plexus,"Benzimidazole, 5-trifluoromethyl-2-methyl-",Plasma,1
+Rpp30,Choroid Plexus,"Benzoic acid, pentadecyl ester",Plasma,1
+Rpp30,Choroid Plexus,Dinoseb ,Plasma,1
+Rpp30,Choroid Plexus,Levulinic acid,Plasma,1
+Rpp30,Choroid Plexus,"Propanetriol, 2-methyl-",Plasma,1
+Sh2b3,Choroid Plexus,Levulinic acid,Plasma,1
+Stxbp4,Choroid Plexus,D-Fructose,Plasma,1
+Stxbp4,Choroid Plexus,Isopropyl palmitate,Plasma,1
+Stxbp4,Choroid Plexus,Levulinic acid,Plasma,1
+Stxbp4,Choroid Plexus,Methyl aminoacetate,Plasma,1
+Atf6b,Choroid Plexus,12-Oxooctadecanoate,Plasma,-1
+Atf6b,Choroid Plexus,Nitrosothymol,Plasma,-1
+Amfr,Choroid Plexus,12-Oxooctadecanoate,Plasma,-1
+Sppl3,Choroid Plexus,12-Oxooctadecanoate,Plasma,-1
+Psmd3,Choroid Plexus,12-Oxooctadecanoate,Plasma,-1
+Atp6v1f,Choroid Plexus,12-Oxooctadecanoate,Plasma,-1
+Emc3,Choroid Plexus,12-Oxooctadecanoate,Plasma,-1
+Amfr,Choroid Plexus,Suberic acid,Plasma,-1
+Sppl3,Choroid Plexus,Pimelic acid,Plasma,-1
+Sppl3,Choroid Plexus,Suberic acid,Plasma,-1
+Psmd3,Choroid Plexus,Nitrosothymol,Plasma,-1
+Atp6v1f,Choroid Plexus,"2,4-Imidazolidinedione, 5,5-dimethyl-",Plasma,-1
+Atp6v1f,Choroid Plexus,Nitrosothymol,Plasma,-1
+Flvcr1,Choroid Plexus,13-Docosenamide,Plasma,-1
+Tubgcp2,Choroid Plexus,Dihydrouracil,Plasma,1
+Tubgcp2,Choroid Plexus,Hydracrylic acid,Plasma,1
+Tubgcp2,Choroid Plexus,L-Asparagine,Plasma,1
+Hmces,Choroid Plexus,"Ethanone, 1-(5-methoxy-2-methyl-3(1H)-indolyl)-",Plasma,-1
+Hmces,Choroid Plexus,Tartronic acid,Plasma,-1
+Uqcc5,Choroid Plexus,2-Hydroxybutyric acid,Plasma,1
+Uqcc5,Choroid Plexus,L-Cysteine,Plasma,1
+Uqcc5,Choroid Plexus,"N,N-Dimethyl-2-cyclohexyloxyethylamine",Plasma,-1
+Uqcc5,Choroid Plexus,Xylitol,Plasma,1
+Ptges3,Choroid Plexus,"2-(2,5-Dimethoxy-phenyl)-propionaldehyde",Plasma,-1
+Ankrd12,Choroid Plexus,"2-(Decanoyloxy)propane-1,3-diyl dioctanoate",Plasma,1
+UNKNOWN,Choroid Plexus,"2-(Decanoyloxy)propane-1,3-diyl dioctanoate",Plasma,1
+Pdap1,Choroid Plexus,"2-(Decanoyloxy)propane-1,3-diyl dioctanoate",Plasma,1
+Zfp322a,Choroid Plexus,"2-(Decanoyloxy)propane-1,3-diyl dioctanoate",Plasma,1
+Cep57,Choroid Plexus,"2-(Decanoyloxy)propane-1,3-diyl dioctanoate",Plasma,1
+Erbin,Choroid Plexus,"2-(Decanoyloxy)propane-1,3-diyl dioctanoate",Plasma,1
+Pdap1,Choroid Plexus,3'-(Trimethylsilyl)oxy-beta-naphthoflavone,Plasma,-1
+Zfp322a,Choroid Plexus,4-Hydroxybenzoic acid,Plasma,1
+Zfp322a,Choroid Plexus,"Benzaldehyde, 2,5-dimethyl-",Plasma,1
+Zfp322a,Choroid Plexus,Trimidox,Plasma,-1
+Erbin,Choroid Plexus,"2,5-Piperazinedione, 3-benzyl-6-isopropyl-",Plasma,1
+Erbin,Choroid Plexus,"2,6-Bis[2-[2-S-thiosulfuroethylamino]ethoxy]pyrazine",Plasma,1
+Erbin,Choroid Plexus,4-Hydroxybenzeneacetic acid,Plasma,1
+Erbin,Choroid Plexus,beta-Lyxopyranose,Plasma,1
+Erbin,Choroid Plexus,Ethanolamine,Plasma,1
+Lrrc17,Choroid Plexus,"2-Allyl-1,4-dimethoxybenzene",Plasma,-1
+Lrrc17,Choroid Plexus,2-Amino-4-methylphenol,Plasma,-1
+Lrrc17,Choroid Plexus,"2,3,4-Trihydroxybutyric acid tetrakis",Plasma,-1
+Lrrc17,Choroid Plexus,"3beta,4beta-Bis(trimethylsiloxy)cholest-5-ene",Plasma,-1
+Lrrc17,Choroid Plexus,"6,7,4'-Trihydroxyisoflavone",Plasma,-1
+Lrrc17,Choroid Plexus,Arachidonic acid,Plasma,-1
+Lrrc17,Choroid Plexus,Azatadine,Plasma,-1
+Lrrc17,Choroid Plexus,beta-Lyxopyranose,Plasma,-1
+Lrrc17,Choroid Plexus,"D-(+)-Ribono-1,4-lactone (R,S,R)-",Plasma,-1
+Lrrc17,Choroid Plexus,DL-Glyceraldehyde,Plasma,-1
+Lrrc17,Choroid Plexus,Isofucosterol,Plasma,-1
+Lrrc17,Choroid Plexus,L-Aspartic acid,Plasma,-1
+Lrrc17,Choroid Plexus,Methylmalonic monoamide,Plasma,-1
+Lrrc17,Choroid Plexus,N-Methyl-N-(tetrahydro-2-furanylmethyl)-4-piperidinamine,Plasma,-1
+Lrrc17,Choroid Plexus,p-Toluic acid,Plasma,-1
+Lrrc17,Choroid Plexus,"Pentanedioic acid, 3-methyl-3-[(trimethylsilyl)oxy]-",Plasma,-1
+Rad54l2,Choroid Plexus,"2,3,4-Trihydroxybutyric acid tetrakis",Plasma,1
+Rad54l2,Choroid Plexus,"2,5-Piperazinedione, 3-benzyl-6-isopropyl-",Plasma,1
+Rad54l2,Choroid Plexus,"3beta,4beta-Bis(trimethylsiloxy)cholest-5-ene",Plasma,1
+Rad54l2,Choroid Plexus,Arachidonic acid,Plasma,1
+Rad54l2,Choroid Plexus,"D-(+)-Ribono-1,4-lactone (R,S,R)-",Plasma,1
+Rad54l2,Choroid Plexus,D-Fructose,Plasma,1
+Rad54l2,Choroid Plexus,Dinoseb ,Plasma,1
+Rad54l2,Choroid Plexus,DL-Glyceraldehyde,Plasma,1
+Rad54l2,Choroid Plexus,Isofucosterol,Plasma,1
+Rad54l2,Choroid Plexus,Isopropyl palmitate,Plasma,1
+Rad54l2,Choroid Plexus,Methyl aminoacetate,Plasma,1
+Rad54l2,Choroid Plexus,Methyl-3-methoxy-5-methyl benzoate,Plasma,1
+Rad54l2,Choroid Plexus,Methylmalonic monoamide,Plasma,1
+Rad54l2,Choroid Plexus,N-Methyl-N-(tetrahydro-2-furanylmethyl)-4-piperidinamine,Plasma,1
+Rad54l2,Choroid Plexus,"Pentanedioic acid, 3-methyl-3-[(trimethylsilyl)oxy]-",Plasma,1
+Rad54l2,Choroid Plexus,Triethanolamine,Plasma,1
+Tppp3,Choroid Plexus,"2-Allyl-1,4-dimethoxybenzene",Plasma,-1
+Crygn,Choroid Plexus,"2-Allyl-1,4-dimethoxybenzene",Plasma,-1
+Tppp3,Choroid Plexus,Isopropyl palmitate,Plasma,-1
+Tppp3,Choroid Plexus,Methyl aminoacetate,Plasma,-1
+Tppp3,Choroid Plexus,Propylamine,Plasma,-1
+Crygn,Choroid Plexus,2-Amino-4-methylphenol,Plasma,-1
+Crygn,Choroid Plexus,4-Hydroxybenzeneacetic acid,Plasma,-1
+Cast,Choroid Plexus,2-Amino-4-methylphenol,Plasma,1
+Ifi209,Choroid Plexus,2-Aminobutanoic acid,Plasma,-1
+Rora,Choroid Plexus,2-Methyl-4-pentenoic acid,Plasma,1
+Rora,Choroid Plexus,3-Indoleacetic acid,Plasma,1
+Rora,Choroid Plexus,Guanabenz,Plasma,1
+Rora,Choroid Plexus,Pimelic acid,Plasma,1
+Col5a3,Choroid Plexus,"2-Heptanone, 4,6-dimethyl-",Plasma,-1
+Kif21b,Choroid Plexus,"2-Heptanone, 4,6-dimethyl-",Plasma,-1
+Frg1,Choroid Plexus,"2-Heptanone, 4,6-dimethyl-",Plasma,1
+Camk1d,Choroid Plexus,"2-Heptanone, 4,6-dimethyl-",Plasma,1
+Tmem203,Choroid Plexus,"2-Heptanone, 4,6-dimethyl-",Plasma,1
+Kif21b,Choroid Plexus,"Erythrono-1,4-lactone, (Z)-",Plasma,-1
+Tmem203,Choroid Plexus,Azatadine,Plasma,1
+Tmem259,Choroid Plexus,2-Heptenoic acid,Plasma,-1
+Tmem259,Choroid Plexus,2-Methyl-4-pentenoic acid,Plasma,-1
+Tmem259,Choroid Plexus,3-Hydroxyisovaleric acid,Plasma,-1
+Tmem259,Choroid Plexus,4-Hydroxyphenyllactic acid,Plasma,-1
+Tmem259,Choroid Plexus,Glycine,Plasma,-1
+Tmem259,Choroid Plexus,Guanabenz,Plasma,-1
+Tmem259,Choroid Plexus,Octocrylene,Plasma,-1
+Plekhn1,Choroid Plexus,2-Heptenoic acid,Plasma,1
+Pmm2,Choroid Plexus,2-Hydroxy-3-methylbutyric acid,Plasma,1
+Bcl7a,Choroid Plexus,2-Hydroxy-3-methylbutyric acid,Plasma,1
+Cep78,Choroid Plexus,2-Hydroxy-3-methylbutyric acid,Plasma,1
+Pmm2,Choroid Plexus,"Azetidine, 1-acetyl-2-methyl-",Plasma,1
+Bcl7a,Choroid Plexus,"Azetidine, 1-acetyl-2-methyl-",Plasma,1
+Bcl7a,Choroid Plexus,Dihydrouracil,Plasma,1
+Bcl7a,Choroid Plexus,Glycolic acid,Plasma,1
+Cep78,Choroid Plexus,"2-Propenamide, 3-phenyl-N-2-propenyl-",Plasma,1
+Cep78,Choroid Plexus,Dihydrouracil,Plasma,1
+Cep78,Choroid Plexus,Hydracrylic acid,Plasma,1
+Cep78,Choroid Plexus,"Pyrimidine, 5-methyl-2,4-bis[(trimethylsilyl)oxy]-",Plasma,1
+Cyren,Choroid Plexus,2-Hydroxy-5-methoxybenzaldehyde,Plasma,-1
+Stat3,Choroid Plexus,2-Hydroxybutyric acid,Plasma,1
+Brd2,Choroid Plexus,2-Hydroxybutyric acid,Plasma,1
+Atp7a,Choroid Plexus,2-Hydroxybutyric acid,Plasma,1
+Stat3,Choroid Plexus,L-Hydroxyproline,Plasma,-1
+Stat3,Choroid Plexus,Trisaminol,Plasma,1
+Atp7a,Choroid Plexus,Cyclo-(l-leucyl-l-phenylalanyl) ,Plasma,1
+Atp7a,Choroid Plexus,Dodecylcyclohexane,Plasma,-1
+Sufu,Choroid Plexus,Guanabenz,Plasma,-1
+Wapl,Choroid Plexus,2-Isopropyl-5-methyl-1-heptanol ,Plasma,1
+Wapl,Choroid Plexus,"2,5-Piperazinedione, 3-benzyl-6-isopropyl-",Plasma,1
+Wapl,Choroid Plexus,"Benzoic acid, pentadecyl ester",Plasma,1
+Wapl,Choroid Plexus,Dinoseb ,Plasma,1
+Wapl,Choroid Plexus,"Morpholine, 4-[2,3,4,6-tetrakis-O-(trimethylsilyl)-alpha-d-mannopyranosyl]-",Plasma,-1
+Tspan9,Choroid Plexus,2-Methyl-4-pentenoic acid,Plasma,-1
+Ehd1,Choroid Plexus,2-Methylglutaconic acid,Plasma,-1
+Slc29a4,Choroid Plexus,Dodecylcyclohexane,Plasma,-1
+Slc29a4,Choroid Plexus,"N,N-Diethyl-2-aminoethanol",Plasma,-1
+Gm1976,Choroid Plexus,"2-Propenamide, 3-phenyl-N-2-propenyl-",Plasma,1
+Gm1976,Choroid Plexus,"2,5-di-tert-Butyl-1,4-benzoquinone",Plasma,-1
+Ildr2,Choroid Plexus,"2,2-Diallylpyrrolidine",Plasma,1
+Mia2,Choroid Plexus,"2,2-Diallylpyrrolidine",Plasma,1
+Mia2,Choroid Plexus,"D-(-)-Fructofuranose, pentakis",Plasma,-1
+Hsdl2,Choroid Plexus,"2,3-Butanediol",Plasma,-1
+Josd1,Choroid Plexus,"2,3-Butanediol",Plasma,-1
+Nedd4,Choroid Plexus,"2,4-Imidazolidinedione, 5,5-dimethyl-",Plasma,1
+Nedd4,Choroid Plexus,"2,5-Piperazinedione, 3-benzyl-6-isopropyl-",Plasma,1
+Nedd4,Choroid Plexus,"3,5-Dimethylpyrazole",Plasma,1
+Nedd4,Choroid Plexus,"Benzimidazole, 5-trifluoromethyl-2-methyl-",Plasma,1
+Nedd4,Choroid Plexus,"Benzoic acid, pentadecyl ester",Plasma,1
+Nedd4,Choroid Plexus,Nitrosothymol,Plasma,1
+Pycr2,Choroid Plexus,"2,4-Imidazolidinedione, 5,5-dimethyl-",Plasma,-1
+Adam15,Choroid Plexus,"2,4-Imidazolidinedione, 5,5-dimethyl-",Plasma,-1
+Pycr2,Choroid Plexus,"2,5-Piperazinedione, 3-benzyl-6-isopropyl-",Plasma,-1
+Adam15,Choroid Plexus,3-Indoleacetic acid,Plasma,-1
+Adam15,Choroid Plexus,Nitrosothymol,Plasma,-1
+Adam15,Choroid Plexus,Pimelic acid,Plasma,-1
+Tmem62,Choroid Plexus,"2,5-Cyclohexadiene-1,4-dione, 2,6-bis(1,1-dimethylethyl)-",Plasma,1
+Tmem62,Choroid Plexus,Octanoic acid,Plasma,1
+Dr1,Choroid Plexus,"2,5-Cyclohexadiene-1,4-dione, 2,6-bis(1,1-dimethylethyl)-",Plasma,-1
+Chdh,Choroid Plexus,"D-(+)-Talofuranose, pentakis",Plasma,1
+Ube3c,Choroid Plexus,4-Hydroxybenzoic acid,Plasma,1
+Ube3c,Choroid Plexus,Pipecolic acid,Plasma,1
+Chi3l1,Choroid Plexus,"Erythrono-1,4-lactone, (Z)-",Plasma,1
+Chi3l1,Choroid Plexus,"Pyrimidine, 5-methyl-2,4-bis[(trimethylsilyl)oxy]-",Plasma,1
+Rgs7,Choroid Plexus,"7-Isoquinolinol, 1,2,3,4-tetrahydro-1-[(4-hydroxyphenyl)methyl]-6-methoxy-",Plasma,-1
+Foxc2,Choroid Plexus,"2,5-Dimethoxymandelic acid",Plasma,1
+Usp22,Choroid Plexus,"2,5-Dimethoxymandelic acid",Plasma,1
+Usp22,Choroid Plexus,Benzyl alcohol,Plasma,1
+Pomgnt1,Choroid Plexus,beta-Lyxopyranose,Plasma,1
+Pomgnt1,Choroid Plexus,"Erythrono-1,4-lactone, (Z)-",Plasma,1
+Pomgnt1,Choroid Plexus,"Morpholine, 4-[2,3,4,6-tetrakis-O-(trimethylsilyl)-alpha-d-mannopyranosyl]-",Plasma,-1
+Fndc3a,Choroid Plexus,"2,5-Piperazinedione, 3-benzyl-6-isopropyl-",Plasma,1
+Sh3bgrl,Choroid Plexus,"2,5-Piperazinedione, 3-benzyl-6-isopropyl-",Plasma,1
+Hlf,Choroid Plexus,"2,5-Piperazinedione, 3-benzyl-6-isopropyl-",Plasma,1
+Sh3bgrl,Choroid Plexus,"Benzoic acid, pentadecyl ester",Plasma,1
+Sh3bgrl,Choroid Plexus,Cadaverine,Plasma,1
+Sh3bgrl,Choroid Plexus,"Inosose-2, 1,3,4,5,6-pentakis-",Plasma,1
+Hlf,Choroid Plexus,"Furan, 2-pentyl-",Plasma,1
+Hlf,Choroid Plexus,Tributyl acetylcitrate,Plasma,-1
+Zfp36l2,Choroid Plexus,"2,6-Bis[2-[2-S-thiosulfuroethylamino]ethoxy]pyrazine",Plasma,1
+Zfp36l2,Choroid Plexus,"Benzaldehyde, 2,5-dimethyl-",Plasma,1
+Zfp36l2,Choroid Plexus,"Dodecane, 4,6-dimethyl-",Plasma,1
+Zfp36l2,Choroid Plexus,Indole-3-lactic acid,Plasma,1
+Zfp36l2,Choroid Plexus,Sertraline carbamoyl glucuronide,Plasma,1
+Zfp27,Choroid Plexus,"Benzenemethanamine, 2,3-dimethoxy-",Plasma,1
+Zfp27,Choroid Plexus,"Octane, 1-propoxy-",Plasma,1
+Zfp300,Choroid Plexus,"3-Buten-2-one, 4-(4-methoxyphenyl)-",Plasma,1
+Emd,Choroid Plexus,"2,6-Dimethyl-N-[3-(trimethylsilyl)-1,3-thiazinan-2-ylidene]aniline",Plasma,-1
+Emd,Choroid Plexus,Deoxycholic Acid,Plasma,-1
+Emd,Choroid Plexus,Pimelic acid,Plasma,-1
+9530026P05Rik,Choroid Plexus,"2,6-Dimethyl-N-[3-(trimethylsilyl)-1,3-thiazinan-2-ylidene]aniline",Plasma,1
+Sytl2,Choroid Plexus,"2,6-Dimethyl-N-[3-(trimethylsilyl)-1,3-thiazinan-2-ylidene]aniline",Plasma,1
+Sytl2,Choroid Plexus,Isofucosterol,Plasma,1
+Ppp4c,Choroid Plexus,"3-(3-Cyclohexylaminopropionylamino)-5-ethylthiophene-2-carboxylic acid, ethyl ester",Plasma,-1
+Ppp4c,Choroid Plexus,Desmosterol,Plasma,-1
+Reep2,Choroid Plexus,"3-(3-Cyclohexylaminopropionylamino)-5-ethylthiophene-2-carboxylic acid, ethyl ester",Plasma,-1
+Dhx9,Choroid Plexus,3-Amino-2-piperidone,Plasma,1
+Zkscan8,Choroid Plexus,Hydracrylic acid,Plasma,1
+Osgepl1,Choroid Plexus,"Cyclopentanone, 2,2,4-trimethyl-",Plasma,1
+Osgepl1,Choroid Plexus,Dihydrouracil,Plasma,1
+Rlbp1,Choroid Plexus,3-Aminobutanoic acid,Plasma,1
+Tgfb1i1,Choroid Plexus,"3-Buten-2-one, 3-trimethylsilyloxy-",Plasma,-1
+Heatr3,Choroid Plexus,"3-Hydroxy-2,3-dihydromaltol",Plasma,1
+Heatr3,Choroid Plexus,4-Hydroxybenzeneacetic acid,Plasma,1
+Heatr3,Choroid Plexus,Pimelic acid,Plasma,1
+Heatr3,Choroid Plexus,Triethanolamine,Plasma,1
+Gm5141,Choroid Plexus,3-Hydroxyisovaleric acid,Plasma,1
+Gm5141,Choroid Plexus,"Benzimidazole, 5-trifluoromethyl-2-methyl-",Plasma,1
+Gm5141,Choroid Plexus,"Propanetriol, 2-methyl-",Plasma,1
+Wrn,Choroid Plexus,3-Indoleacetic acid,Plasma,1
+Wbp4,Choroid Plexus,3-Indoleacetic acid,Plasma,1
+Evi5,Choroid Plexus,3-Indoleacetic acid,Plasma,1
+Smc4,Choroid Plexus,3-Indoleacetic acid,Plasma,1
+Wbp4,Choroid Plexus,Indole-3-lactic acid,Plasma,1
+Fcf1,Choroid Plexus,3-Methoxysalicylic acid,Plasma,1
+Fcf1,Choroid Plexus,Cadaverine,Plasma,-1
+Fcf1,Choroid Plexus,"N,O-Bis(trimethylsilyl)carbamate",Plasma,-1
+Fcf1,Choroid Plexus,p-Toluic acid,Plasma,-1
+Cep41,Choroid Plexus,3-Methoxysalicylic acid,Plasma,-1
+Dync1h1,Choroid Plexus,3-Methoxysalicylic acid,Plasma,1
+Cep41,Choroid Plexus,"Benzaldehyde, 2,5-dimethyl-",Plasma,1
+Cep41,Choroid Plexus,"Benzoic acid, pentadecyl ester",Plasma,1
+Dnajc13,Choroid Plexus,3-Nonen-1-ol,Plasma,-1
+Scrib,Choroid Plexus,"3beta,4beta-Bis(trimethylsiloxy)cholest-5-ene",Plasma,-1
+Scrib,Choroid Plexus,cis-4-Trimethylsilyloxy-cyclohexyl(trimethylsilyl)carboxylate,Plasma,-1
+Scrib,Choroid Plexus,N-Methyl-N-(tetrahydro-2-furanylmethyl)-4-piperidinamine,Plasma,-1
+Sh3bgrl2,Choroid Plexus,L-5-Oxoproline,Plasma,1
+Sh3bgrl2,Choroid Plexus,L-Aspartic acid,Plasma,1
+Igfbp6,Choroid Plexus,Pipecolic acid,Plasma,-1
+Cyyr1,Choroid Plexus,5-Hydroxyquinoline,Plasma,1
+Cyyr1,Choroid Plexus,"Butanoic acid, 2,4-bis[(trimethylsilyl)oxy]-",Plasma,1
+Cyyr1,Choroid Plexus,"Cyclopentanone, 2,2,4-trimethyl-",Plasma,1
+Cyyr1,Choroid Plexus,DL-Glyceraldehyde,Plasma,1
+Cyyr1,Choroid Plexus,Glyceric acid,Plasma,1
+Cyyr1,Choroid Plexus,Methyl-3-methoxy-5-methyl benzoate,Plasma,1
+Hcn3,Choroid Plexus,9-Octadecenamide,Plasma,-1
+Hcn3,Choroid Plexus,Glyceric acid,Plasma,-1
+Rtkn,Choroid Plexus,"Butanoic acid, 2-methyl-3-[(trimethylsilyl)oxy]-",Plasma,1
+Gnas,Choroid Plexus,"3,5-Dimethylpyrazole",Plasma,1
+Gnas,Choroid Plexus,"Benzimidazole, 5-trifluoromethyl-2-methyl-",Plasma,1
+Gnas,Choroid Plexus,"Benzoic acid, pentadecyl ester",Plasma,1
+Gnas,Choroid Plexus,Benzophenone,Plasma,1
+Gnas,Choroid Plexus,Isofucosterol,Plasma,1
+Gnas,Choroid Plexus,Methyl aminoacetate,Plasma,1
+Ttf1,Choroid Plexus,3'-(Trimethylsilyl)oxy-beta-naphthoflavone,Plasma,-1
+Ttf1,Choroid Plexus,"Butanoic acid, 2,4-bis[(trimethylsilyl)oxy]-",Plasma,1
+Ttf1,Choroid Plexus,Methylmalonic monoamide,Plasma,1
+mt-Nd2,Choroid Plexus,3'-(Trimethylsilyl)oxy-beta-naphthoflavone,Plasma,-1
+Tpr,Choroid Plexus,3'-(Trimethylsilyl)oxy-beta-naphthoflavone,Plasma,-1
+Slk,Choroid Plexus,"3beta,4beta-Bis(trimethylsiloxy)cholest-5-ene",Plasma,1
+Slk,Choroid Plexus,Isopropyl palmitate,Plasma,1
+Slk,Choroid Plexus,Methyl aminoacetate,Plasma,1
+Gm17530,Choroid Plexus,4-(Methoxycarbonyl)phenol,Plasma,-1
+Nicol1,Choroid Plexus,4-Hydroxybutanoic acid,Plasma,1
+Nicol1,Choroid Plexus,"Aziridine, 1-(2-buten-2-yl)-",Plasma,-1
+Vps36,Choroid Plexus,4-Hydroxyphenyllactic acid,Plasma,1
+Vps36,Choroid Plexus,Benzophenone,Plasma,1
+Vps36,Choroid Plexus,Methyl aminoacetate,Plasma,1
+Adck2,Choroid Plexus,5-Henicosylresorcinol,Plasma,-1
+Adck2,Choroid Plexus,Pimelic acid,Plasma,-1
+Fcho2,Choroid Plexus,5-Hydroxyquinoline,Plasma,1
+Gstm6,Choroid Plexus,D-Fructose,Plasma,-1
+Gstm6,Choroid Plexus,L-Asparagine,Plasma,-1
+Gstm6,Choroid Plexus,N-Methyl-N-(tetrahydro-2-furanylmethyl)-4-piperidinamine,Plasma,-1
+Leprotl1,Choroid Plexus,L-5-Oxoproline,Plasma,1
+Silc1,Choroid Plexus,"6,7,4'-Trihydroxyisoflavone",Plasma,-1
+Mef2a,Choroid Plexus,"6,7,4'-Trihydroxyisoflavone",Plasma,1
+Mef2a,Choroid Plexus,N-Methyl-N-(tetrahydro-2-furanylmethyl)-4-piperidinamine,Plasma,1
+Atp5mg,Choroid Plexus,"Glycine, N-(1-oxobutyl)-",Plasma,1
+mt-Tv,Choroid Plexus,"Benzaldehyde, 2,5-dimethyl-",Plasma,-1
+mt-Tv,Choroid Plexus,"D-(+)-Ribono-1,4-lactone (R,S,R)-",Plasma,-1
+mt-Tv,Choroid Plexus,Methylmalonic monoamide,Plasma,-1
+Clpp,Choroid Plexus,9-Hexadecenoic acid,Plasma,1
+Hk1,Choroid Plexus,Dodecylcyclohexane,Plasma,-1
+Hk1,Choroid Plexus,Indole-5-carboxylic acid,Plasma,-1
+Hk1,Choroid Plexus,"N,N-Dimethyl-2-cyclohexyloxyethylamine",Plasma,-1
+Hk1,Choroid Plexus,Ribitol,Plasma,-1
+Pard6a,Choroid Plexus,"Acetic acid, bis[(trimethylsilyl)oxyl]-",Plasma,1
+Dnajc21,Choroid Plexus,Adipoyl-L-carnitine,Plasma,1
+Dhx29,Choroid Plexus,Adipoyl-L-carnitine,Plasma,-1
+Zfp638,Choroid Plexus,Adipoyl-L-carnitine,Plasma,1
+Dhx29,Choroid Plexus,N-Valerylglycine,Plasma,-1
+Zfp638,Choroid Plexus,Isopropyl palmitate,Plasma,1
+Zfp638,Choroid Plexus,Methyl aminoacetate,Plasma,1
+Net1,Choroid Plexus,Cyclo-(l-leucyl-l-phenylalanyl) ,Plasma,-1
+Pdss1,Choroid Plexus,Allylescaline ,Plasma,-1
+Pdss1,Choroid Plexus,Niclosamide,Plasma,-1
+Clcn2,Choroid Plexus,"alpha-L-Galactopyranoside, methyl 6-deoxy-, (R,R,R,S,S)-",Plasma,1
+Clcn2,Choroid Plexus,N-Methyl-N-(tetrahydro-2-furanylmethyl)-4-piperidinamine,Plasma,1
+Eif3l,Choroid Plexus,Arsenous acid,Plasma,-1
+Dstn,Choroid Plexus,Aspartic acid,Plasma,-1
+Arhgef12,Choroid Plexus,"Benzaldehyde, 2,5-dimethyl-",Plasma,1
+Arhgef12,Choroid Plexus,"Benzoic acid, pentadecyl ester",Plasma,1
+Arhgap5,Choroid Plexus,"Benzaldehyde, 2,5-dimethyl-",Plasma,1
+Plscr2,Choroid Plexus,"Benzaldehyde, 2,5-dimethyl-",Plasma,1
+Cldn22,Choroid Plexus,"Benzaldehyde, 2,5-dimethyl-",Plasma,-1
+Smarca5,Choroid Plexus,"Benzaldehyde, 2,5-dimethyl-",Plasma,1
+Plscr2,Choroid Plexus,"Glycine, N-(1-oxobutyl)-",Plasma,1
+Cldn22,Choroid Plexus,D-(-)-Citramalic acid,Plasma,-1
+Cldn22,Choroid Plexus,"Dodecane, 4,6-dimethyl-",Plasma,-1
+Smarca5,Choroid Plexus,Isopropyl palmitate,Plasma,1
+Thra,Choroid Plexus,"Benzene, 1-acetoxy-2,6-dimethoxy-4-(2-propenyl)-",Plasma,1
+Itch,Choroid Plexus,"Benzene, 1-acetoxy-2,6-dimethoxy-4-(2-propenyl)-",Plasma,-1
+Pfn1,Choroid Plexus,"Benzene, 1-acetoxy-2,6-dimethoxy-4-(2-propenyl)-",Plasma,-1
+Micall2,Choroid Plexus,Hydroquinone,Plasma,1
+Micall2,Choroid Plexus,"L-Lysine, ethyl ester ",Plasma,-1
+Cebpa,Choroid Plexus,"Benzeneethanamine, N-[(pentafluorophenyl)methylene]-4-[(trimethylsilyl)oxy]-",Plasma,1
+Zfp760,Choroid Plexus,"Benzimidazole, 5-trifluoromethyl-2-methyl-",Plasma,1
+Ahcyl2,Choroid Plexus,"Benzimidazole, 5-trifluoromethyl-2-methyl-",Plasma,1
+Tm9sf3,Choroid Plexus,"Benzimidazole, 5-trifluoromethyl-2-methyl-",Plasma,1
+Zfp760,Choroid Plexus,"Propanetriol, 2-methyl-",Plasma,1
+Ahcyl2,Choroid Plexus,"Benzoic acid, pentadecyl ester",Plasma,1
+Ahcyl2,Choroid Plexus,beta-Lyxopyranose,Plasma,1
+Ahcyl2,Choroid Plexus,Levulinic acid,Plasma,1
+Ahcyl2,Choroid Plexus,p-Toluic acid,Plasma,1
+Tm9sf3,Choroid Plexus,Levulinic acid,Plasma,1
+Rec8,Choroid Plexus,"Benzo[b]fluorene, 5-amino-7-methyl-1,2,3,4,6,7,8,9-octahydro-11-thia-10-aza-",Plasma,-1
+Pdlim5,Choroid Plexus,"Benzoic acid, pentadecyl ester",Plasma,1
+Nsmf,Choroid Plexus,"Benzoic acid, pentadecyl ester",Plasma,-1
+Ppfibp1,Choroid Plexus,"Benzoic acid, pentadecyl ester",Plasma,1
+Pdlim5,Choroid Plexus,Dinoseb ,Plasma,1
+Pdlim5,Choroid Plexus,Levulinic acid,Plasma,1
+Pdlim5,Choroid Plexus,Methylmalonic monoamide,Plasma,1
+Nsmf,Choroid Plexus,Levulinic acid,Plasma,-1
+Pdcd4,Choroid Plexus,Benzophenone,Plasma,1
+Pdcd4,Choroid Plexus,Isopropyl palmitate,Plasma,1
+Pdcd4,Choroid Plexus,"Pentenoic acid, 4-[(trimethylsilyl)oxy]-",Plasma,1
+Psmg3,Choroid Plexus,Benzophenone,Plasma,-1
+Psmg3,Choroid Plexus,"beta-D-Galactofuranose, 1,2,3,5,6-pentakis-O-(trimethylsilyl)-",Plasma,-1
+Psmg3,Choroid Plexus,"Dodecane, 4,6-dimethyl-",Plasma,-1
+Ccnd1,Choroid Plexus,beta-Lyxopyranose,Plasma,1
+Clec14a,Choroid Plexus,beta-Lyxopyranose,Plasma,1
+Clec14a,Choroid Plexus,Butylated Hydroxytoluene,Plasma,1
+Clec14a,Choroid Plexus,"Cyclopentaneacetic acid, 3-oxo-2-pentyl-",Plasma,1
+Clec14a,Choroid Plexus,"N,O-Bis(trimethylsilyl)carbamate",Plasma,1
+Clec14a,Choroid Plexus,Sertraline carbamoyl glucuronide,Plasma,1
+Vangl1,Choroid Plexus,"D-(-)-Fructofuranose, pentakis",Plasma,-1
+Mtmr2,Choroid Plexus,"Butanoic acid, 2-methyl-3-[(trimethylsilyl)oxy]-",Plasma,1
+Zfp383,Choroid Plexus,Butylated Hydroxytoluene,Plasma,1
+Zfp654,Choroid Plexus,Butylated Hydroxytoluene,Plasma,1
+Grpel1,Choroid Plexus,Hydantoic acid,Plasma,-1
+Eeig1,Choroid Plexus,Carfentrazone-ethyl,Plasma,1
+Adcy9,Choroid Plexus,"Cholest-7-en-3-ol, (3beta,5alpha)-",Plasma,1
+BC065397,Choroid Plexus,cis-4-Trimethylsilyloxy-cyclohexyl(trimethylsilyl)carboxylate,Plasma,1
+Rab5c,Choroid Plexus,Cyclobutanol,Plasma,-1
+Rab5c,Choroid Plexus,N-Methyl-N-(tetrahydro-2-furanylmethyl)-4-piperidinamine,Plasma,-1
+Dcxr,Choroid Plexus,Malic acid,Plasma,1
+Lmtk3,Choroid Plexus,"Cyclopentanone, 2,2,4-trimethyl-",Plasma,-1
+Cerox1,Choroid Plexus,"Cyclopentanone, 2,2,4-trimethyl-",Plasma,-1
+Cerox1,Choroid Plexus,Methylmalonic monoamide,Plasma,-1
+Men1,Choroid Plexus,D-(-)-Citramalic acid,Plasma,-1
+Iqgap2,Choroid Plexus,"D-(-)-Fructofuranose, pentakis",Plasma,-1
+Arrdc4,Choroid Plexus,"D-(-)-Fructofuranose, pentakis",Plasma,-1
+Msh2,Choroid Plexus,"D-(+)-Ribono-1,4-lactone (R,S,R)-",Plasma,-1
+Msh2,Choroid Plexus,"Dodecane, 4,6-dimethyl-",Plasma,-1
+Adamtsl1,Choroid Plexus,"D-(+)-Talofuranose, pentakis",Plasma,1
+Gm43513,Choroid Plexus,D-Fructose,Plasma,1
+Tmem167,Choroid Plexus,"D-Isoleucine, N-acetyl-",Plasma,1
+1110004F10Rik,Choroid Plexus,D-Mannose,Plasma,1
+Nfe2l2,Choroid Plexus,D-Mannose,Plasma,1
+Mansc4,Choroid Plexus,D-Mannose,Plasma,1
+Shoc2,Choroid Plexus,D-Mannose,Plasma,1
+Nfe2l2,Choroid Plexus,L-Alanine,Plasma,-1
+Ccdc33,Choroid Plexus,Decanoic acid,Plasma,1
+Ccdc33,Choroid Plexus,Ethanolamine,Plasma,-1
+Sptan1,Choroid Plexus,Deoxycholic Acid,Plasma,-1
+Pak2,Choroid Plexus,Dinoseb ,Plasma,1
+Ap3b1,Choroid Plexus,Dinoseb ,Plasma,1
+Pak2,Choroid Plexus,Isopropyl palmitate,Plasma,1
+Pak2,Choroid Plexus,Methyl aminoacetate,Plasma,1
+Ap3b1,Choroid Plexus,Isofucosterol,Plasma,1
+Ap3b1,Choroid Plexus,Isopropyl palmitate,Plasma,1
+Ap3b1,Choroid Plexus,Methyl aminoacetate,Plasma,1
+Cd47,Choroid Plexus,DL-Glyceraldehyde,Plasma,1
+Pbx1,Choroid Plexus,DL-Glyceraldehyde,Plasma,1
+Vps13b,Choroid Plexus,DL-Glyceraldehyde,Plasma,1
+Cd47,Choroid Plexus,"Pentanedioic acid, 3-methyl-3-[(trimethylsilyl)oxy]-",Plasma,1
+Pbx1,Choroid Plexus,Trimidox,Plasma,-1
+Stk33,Choroid Plexus,Doconexent,Plasma,1
+Mtrex,Choroid Plexus,"Dodecane, 4,6-dimethyl-",Plasma,-1
+Mtrex,Choroid Plexus,Phenoxyacetic acid,Plasma,-1
+Ncaph2,Choroid Plexus,Dodecylcyclohexane,Plasma,-1
+Ncaph2,Choroid Plexus,"N,N-Diethyl-2-aminoethanol",Plasma,-1
+Ncaph2,Choroid Plexus,Neostigmine ,Plasma,-1
+Ncaph2,Choroid Plexus,Octan-2-yl palmitate,Plasma,1
+Bhlhe41,Choroid Plexus,Dodecylcyclohexane,Plasma,1
+Tmem229b,Choroid Plexus,Dodecylcyclohexane,Plasma,-1
+Bhlhe41,Choroid Plexus,Myristic acid,Plasma,1
+Tmem229b,Choroid Plexus,"N,N-Diethyl-2-aminoethanol",Plasma,-1
+Tbc1d2,Choroid Plexus,Erythritol,Plasma,-1
+Tnfsf13os,Choroid Plexus,"Erythrono-1,4-lactone, (Z)-",Plasma,-1
+Tnfsf13os,Choroid Plexus,Glucopyranose,Plasma,-1
+Tmem80,Choroid Plexus,"Ethanone, 1-(2,5-dimethoxyphenyl)-",Plasma,1
+Zfp219,Choroid Plexus,"N,N-Dimethyl-2-cyclohexyloxyethylamine",Plasma,-1
+Zfp219,Choroid Plexus,Phenoxyacetic acid,Plasma,-1
+Syt17,Choroid Plexus,Galactopyranose,Plasma,1
+Arhgap15,Choroid Plexus,"Glycine, N-(N-DL-leucylglycyl)-",Plasma,-1
+Gmppa,Choroid Plexus,"Glycine, N-[4-[(trimethylsilyl)oxy]benzoyl]-",Plasma,1
+Cox18,Choroid Plexus,Glycolic acid,Plasma,-1
+Gm42636,Choroid Plexus,Glyoxime,Plasma,1
+Gm42636,Choroid Plexus,Hydracrylic acid,Plasma,1
+Gm38380,Choroid Plexus,Hexanoic acid,Plasma,-1
+Gm38380,Choroid Plexus,Tributyl acetylcitrate,Plasma,1
+S100a8,Choroid Plexus,Hydracrylic acid,Plasma,-1
+S100a8,Choroid Plexus,Phenylalanine,Plasma,-1
+Ppp1r12a,Choroid Plexus,Hydroquinidine,Plasma,1
+Emc10,Choroid Plexus,Indole-5-carboxylic acid,Plasma,-1
+Telo2,Choroid Plexus,"Inosose-2, 1,3,4,5,6-pentakis-",Plasma,-1
+Fn3krp,Choroid Plexus,Isofucosterol,Plasma,1
+Twsg1,Choroid Plexus,"N,N-Diethyl-2-aminoethanol",Plasma,-1
+Usf3,Choroid Plexus,Isopropyl palmitate,Plasma,1
+Usf3,Choroid Plexus,N-Isovaleroylglycine,Plasma,1
+4930556M19Rik,Choroid Plexus,Isopropyl palmitate,Plasma,1
+Csnk1a1,Choroid Plexus,Isopropyl palmitate,Plasma,1
+Jph1,Choroid Plexus,Isopropyl palmitate,Plasma,1
+Pcmtd1,Choroid Plexus,Isopropyl palmitate,Plasma,1
+4930556M19Rik,Choroid Plexus,Propylamine,Plasma,1
+Pcmtd1,Choroid Plexus,Methyl aminoacetate,Plasma,1
+Zfp879,Choroid Plexus,L-5-Oxoproline,Plasma,-1
+Adamts15,Choroid Plexus,L-Hydroxyproline,Plasma,-1
+Pdlim1,Choroid Plexus,L-Tryptophan,Plasma,-1
+Pdlim1,Choroid Plexus,"L-Tryptophan, N-acetyl-1",Plasma,-1
+Tceanc,Choroid Plexus,L-Tryptophan,Plasma,1
+Dcp2,Choroid Plexus,"L-Tryptophan, N-acetyl-1",Plasma,1
+Gm15083,Choroid Plexus,Levulinic acid,Plasma,1
+Ada,Choroid Plexus,Methyl aminoacetate,Plasma,-1
+Gpr162,Choroid Plexus,Methyl aminoacetate,Plasma,-1
+Dlg4,Choroid Plexus,Methyl aminoacetate,Plasma,-1
+Gpr162,Choroid Plexus,Nitrosothymol,Plasma,-1
+Dlg4,Choroid Plexus,Pimelic acid,Plasma,-1
+Gm15675,Choroid Plexus,Methyl-3-methoxy-5-methyl benzoate,Plasma,1
+Gm15675,Choroid Plexus,Oxalic acid,Plasma,-1
+Lrrc75b,Choroid Plexus,"N-isobutyl-2-(trimethylsilyloxy]-4,5-dihydro-1H-imidazole-1-carboxamide",Plasma,-1
+Snora35,Choroid Plexus,N-Methyl-N-(tetrahydro-2-furanylmethyl)-4-piperidinamine,Plasma,1
+Prpf3,Choroid Plexus,n-Pentadecanol,Plasma,-1
+0610040J01Rik,Choroid Plexus,"N,N-Diethyl-2-aminoethanol",Plasma,-1
+Psmd8,Choroid Plexus,"N,N-Dimethyl-2-cyclohexyloxyethylamine",Plasma,-1
+Ppp1r1b,Choroid Plexus,"N,N-Dimethyl-2-cyclohexyloxyethylamine",Plasma,-1
+Tkt,Choroid Plexus,"N,O-Bis(trimethylsilyl)carbamate",Plasma,-1
+Tkt,Choroid Plexus,Nitrosothymol,Plasma,-1
+Mrpl17,Choroid Plexus,Nitrosothymol,Plasma,-1
+Rpl37,Choroid Plexus,Nitrosothymol,Plasma,-1
+Pigyl,Choroid Plexus,Ser-Leu,Plasma,-1
+Mpi,Choroid Plexus,Octocrylene,Plasma,-1
+Mcfd2,Choroid Plexus,p-Toluic acid,Plasma,1
+Src,Choroid Plexus,p-Toluic acid,Plasma,1
+Bcat1,Choroid Plexus,Phenylalanine,Plasma,-1
+Nek8,Choroid Plexus,Phosalone,Plasma,-1
+Vps37d,Choroid Plexus,"Propiophenone, 3',4'-dimethoxy-",Plasma,1
+Ano8,Choroid Plexus,Sertraline carbamoyl glucuronide,Plasma,-1
+Gpsm3,Choroid Plexus,Stearic acid,Plasma,1
+Shc1,Choroid Plexus,"Stigmast-5-ene, 3beta-",Plasma,-1
+Asb8,Choroid Plexus,"Tacrine, N-trimethylsilyl-",Plasma,-1
+Asb16,Choroid Plexus,"Thiazolo[4,5-f]quinoline, 2,9-dimethyl-",Plasma,-1
+Scyl1,Choroid Plexus,Triethanolamine,Plasma,-1
+Exph5,Choroid Plexus,Trimidox,Plasma,-1

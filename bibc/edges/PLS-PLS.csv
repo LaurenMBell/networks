@@ -1,0 +1,1627 @@
+Node 1 Name,Node 1 Tissue,Node 2 Name,Node 2 Tissue,edge_dir
+ 5-Hydroxyhexanoic acid,Plasma,1-Phenylethanol,Plasma,-1
+ 5-Hydroxyhexanoic acid,Plasma,"5-Androsten-17alpha-methyl-3beta,17beta-diol",Plasma,1
+ 5-Hydroxyhexanoic acid,Plasma,7-(Trimethylsilyl)amino-4-methylcoumarin,Plasma,1
+ 5-Hydroxyhexanoic acid,Plasma,Benzeneacetic acid,Plasma,1
+ 5-Hydroxyhexanoic acid,Plasma,"beta-d-Fructopyranose, 1-deoxy-1-(4-morpholinyl)-2,3,4,5-tetrakis-O-(trimethylsilyl)-",Plasma,1
+ 5-Hydroxyhexanoic acid,Plasma,Metanephrine,Plasma,1
+ 5-Hydroxyhexanoic acid,Plasma,"Thymine, 1,3-dimethyl-6-(trimethylsilyloxymethyl)-",Plasma,1
+(CH3)2C=NC2H558,Plasma,2-Hydroxy-5-methoxybenzaldehyde,Plasma,1
+(CH3)2C=NC2H558,Plasma,"2,5-Cyclohexadiene-1,4-dione, 2,6-bis(1,1-dimethylethyl)-",Plasma,1
+(CH3)2C=NC2H558,Plasma,"Benzoic acid, methyl ester",Plasma,1
+(pm)-alpha-Tocopherol acetate,Plasma,"(R*,S*)-2,3-Dihydroxybutanoic acid",Plasma,1
+(pm)-alpha-Tocopherol acetate,Plasma,2-Naphthol,Plasma,1
+(pm)-alpha-Tocopherol acetate,Plasma,5-Hydroxytryptophan,Plasma,1
+(pm)-alpha-Tocopherol acetate,Plasma,Benzeneacetic acid,Plasma,1
+(pm)-alpha-Tocopherol acetate,Plasma, 5-Hydroxyhexanoic acid,Plasma,1
+(pm)-alpha-Tocopherol acetate,Plasma,Diphenyl ether,Plasma,1
+(pm)-alpha-Tocopherol acetate,Plasma,Hexanedioic acid,Plasma,1
+(pm)-alpha-Tocopherol acetate,Plasma,Itaconic acid,Plasma,1
+(pm)-alpha-Tocopherol acetate,Plasma,p-Hydroxydiisopropylbenzene,Plasma,1
+(pm)-alpha-Tocopherol acetate,Plasma,L-Tyrosine,Plasma,1
+(pm)-N-Propylamphetamine,Plasma,"5alpha-Pregnane-3,20-dione",Plasma,-1
+(pm)-Norketamine,Plasma,L-Leucine,Plasma,-1
+(pm)-Norketamine,Plasma,Naphthofluorescein,Plasma,-1
+(pm)-Phenylpropanolamine,Plasma,3-(2-Hydroxyethyl)imidazole-2-thione,Plasma,1
+(pm)-Phenylpropanolamine,Plasma,3-Indolepropionic acid,Plasma,-1
+"(R*,S*)-2,3-Dihydroxybutanoic acid",Plasma,"3,4-dimethyl-5-(3,4-methylenedioxy)phenyloxazolidine",Plasma,-1
+"(R*,S*)-2,3-Dihydroxybutanoic acid",Plasma,Benzeneacetamide,Plasma,-1
+"(R*,S*)-2,3-Dihydroxybutanoic acid",Plasma,Diphenyl ether,Plasma,1
+1-(3-Methylphenyl)piperazine,Plasma,1-(4-Hydroxybenzylidene)acetone,Plasma,1
+1-(3-Methylphenyl)piperazine,Plasma,"1,2-Butadiene, 1,1,4-triphenyl-3-trimethylsilyl-4-trimethylsilyloxy-",Plasma,1
+1-(3-Methylphenyl)piperazine,Plasma,Benzophenone,Plasma,1
+1-(3-Methylphenyl)piperazine,Plasma,Phlorizin,Plasma,1
+1-(4-Hydroxybenzylidene)acetone,Plasma,"1,3-bis[(Trimethylsilyl)ethynyl]benzene",Plasma,1
+1-(4-Hydroxybenzylidene)acetone,Plasma,4-Hydroxy-5-(hydroxymethyl)oxolan-2-one,Plasma,-1
+1-(4-Hydroxybenzylidene)acetone,Plasma,L-Threitol,Plasma,1
+1-(4-Hydroxybenzylidene)acetone,Plasma,S-Methyl-L-cysteine,Plasma,1
+1-Aminocyclopropanecarboxylic acid,Plasma,3-Amino-2-piperidone,Plasma,1
+1-Aminocyclopropanecarboxylic acid,Plasma,"3-Cyclohexyl-L-alanine amide, N,N,N'N'-tetramethyl-",Plasma,1
+1-Aminocyclopropanecarboxylic acid,Plasma,Glycine,Plasma,1
+"1-Butanamine, N,N-diethyl-",Plasma,"(R*,S*)-2,3-Dihydroxybutanoic acid",Plasma,1
+"1-Butanamine, N,N-diethyl-",Plasma,1-Octanol,Plasma,1
+"1-Butanamine, N,N-diethyl-",Plasma,"1,2-Butadiene, 1,1,4-triphenyl-3-trimethylsilyl-4-trimethylsilyloxy-",Plasma,1
+"1-Butanamine, N,N-diethyl-",Plasma,12-Oxooctadecanoate,Plasma,1
+"1-Butanamine, N,N-diethyl-",Plasma,"2-Propanone, bis(1-methylethyl)hydrazone",Plasma,1
+"1-Butanamine, N,N-diethyl-",Plasma,"2,5-Piperazinedione, 3-benzyl-6-isopropyl-",Plasma,1
+"1-Butanamine, N,N-diethyl-",Plasma,3-Amino-5-morpholinomethyl-2-oxazolidinone,Plasma,1
+"1-Butanamine, N,N-diethyl-",Plasma,3-Hydroxyisovaleric acid,Plasma,1
+"1-Butanamine, N,N-diethyl-",Plasma,5-Henicosylresorcinol,Plasma,1
+"1-Butanamine, N,N-diethyl-",Plasma,"Butanal, 2,3,4-tris[(trimethylsilyl)oxy]-, O-methyloxime, [R-(R*,R*)]-",Plasma,1
+"1-Butanamine, N,N-diethyl-",Plasma,"Cholest-22-ene-21-ol, 3,5-dehydro-6-methoxy-, pivalate",Plasma,1
+"1-Butanamine, N,N-diethyl-",Plasma,Dodecylcyclohexane,Plasma,1
+"1-Butanamine, N,N-diethyl-",Plasma,"Glycine, N-(N-DL-leucylglycyl)-",Plasma,1
+"1-Butanamine, N,N-diethyl-",Plasma,Levulinic acid,Plasma,1
+"1-Butanamine, N,N-diethyl-",Plasma,Myristic acid,Plasma,1
+1-Cyclopentylethanol,Plasma,1-Phenylethanol,Plasma,-1
+1-Cyclopentylethanol,Plasma,1-Tetradecanol,Plasma,1
+1-Cyclopentylethanol,Plasma,"1,2-Butadiene, 1,1,4-triphenyl-3-trimethylsilyl-4-trimethylsilyloxy-",Plasma,1
+1-Cyclopentylethanol,Plasma,10-Heptadecenoic acid,Plasma,1
+1-Cyclopentylethanol,Plasma,"2-(Decanoyloxy)propane-1,3-diyl dioctanoate",Plasma,1
+1-Cyclopentylethanol,Plasma,2-Methyl-4-pentenoic acid,Plasma,1
+1-Cyclopentylethanol,Plasma,2-Naphthol,Plasma,1
+1-Cyclopentylethanol,Plasma,"2-Propanone, bis(1-methylethyl)hydrazone",Plasma,1
+1-Cyclopentylethanol,Plasma,"2,2,4-Trimethyl-1,3-pentanediol diisobutyrate",Plasma,1
+1-Cyclopentylethanol,Plasma,3-Hydroxyisovaleric acid,Plasma,1
+1-Cyclopentylethanol,Plasma,"3,5-Dimethylpyrazole",Plasma,1
+1-Cyclopentylethanol,Plasma,"Benzaldehyde, 2,5-dimethyl-",Plasma,1
+1-Cyclopentylethanol,Plasma,"Benzimidazole, 5-trifluoromethyl-2-methyl-",Plasma,1
+1-Cyclopentylethanol,Plasma,"Benzoic acid, pentadecyl ester",Plasma,1
+1-Cyclopentylethanol,Plasma,Benzophenone,Plasma,1
+1-Cyclopentylethanol,Plasma,Dehydronorketamine,Plasma,1
+1-Cyclopentylethanol,Plasma,Diphenyl ether,Plasma,1
+1-Cyclopentylethanol,Plasma,Isofucosterol,Plasma,1
+1-Cyclopentylethanol,Plasma,Metanephrine,Plasma,1
+1-Cyclopentylethanol,Plasma,Neostigmine ,Plasma,1
+1-Cyclopentylethanol,Plasma,Nonadecanoic acid,Plasma,1
+1-Cyclopentylethanol,Plasma,Phenoxyacetic acid,Plasma,1
+1-Cyclopentylethanol,Plasma,Phlorizin,Plasma,1
+1-Cyclopentylethanol,Plasma,Phloroglucinol,Plasma,1
+1-Cyclopentylethanol,Plasma,S-Methyl-L-cysteine,Plasma,1
+1-Cyclopentylethanol,Plasma,Salsoline,Plasma,1
+1-Cyclopentylethanol,Plasma,"Stigmast-5-ene, 3beta-",Plasma,1
+1-Cyclopentylethanol,Plasma,L-Tyrosine,Plasma,1
+"1-Decene, 8-methyl-",Plasma,"2-(Decanoyloxy)propane-1,3-diyl dioctanoate",Plasma,1
+"1-Decene, 8-methyl-",Plasma,Bis(trimethylsilyl)acetylene,Plasma,1
+1-Deoxypentitol,Plasma,(pm)-alpha-Tocopherol acetate,Plasma,1
+1-Deoxypentitol,Plasma,1-Tetradecanol,Plasma,1
+1-Deoxypentitol,Plasma,"2-(Decanoyloxy)propane-1,3-diyl dioctanoate",Plasma,1
+1-Deoxypentitol,Plasma,"2-Hexenoic acid, 2-[(trimethylsilyl)oxy]-",Plasma,1
+1-Deoxypentitol,Plasma,2-Naphthol,Plasma,1
+1-Deoxypentitol,Plasma,"3,5-Dimethylpyrazole",Plasma,1
+1-Deoxypentitol,Plasma,"Benzaldehyde, 2,5-dimethyl-",Plasma,1
+1-Deoxypentitol,Plasma,"beta-d-Fructopyranose, 1-deoxy-1-(4-morpholinyl)-2,3,4,5-tetrakis-O-(trimethylsilyl)-",Plasma,1
+1-Deoxypentitol,Plasma,"beta-D-Galactofuranose, 1,2,3,5,6-pentakis-O-(trimethylsilyl)-",Plasma,1
+1-Deoxypentitol,Plasma,"Butanoic acid, 2,4-bis[(trimethylsilyl)oxy]-",Plasma,1
+1-Deoxypentitol,Plasma,"Cholest-22-ene-21-ol, 3,5-dehydro-6-methoxy-, pivalate",Plasma,1
+1-Deoxypentitol,Plasma,"Cyclopentaneacetic acid, 3-oxo-2-pentyl-",Plasma,1
+1-Deoxypentitol,Plasma,D-(-)-Citramalic acid,Plasma,1
+1-Deoxypentitol,Plasma,"Furan, 2-pentyl-",Plasma,1
+1-Deoxypentitol,Plasma,L-Threitol,Plasma,1
+1-Deoxypentitol,Plasma,Methyl-3-methoxy-5-methyl benzoate,Plasma,1
+1-Deoxypentitol,Plasma,N-Isovaleroylglycine,Plasma,1
+1-Deoxypentitol,Plasma,N-Methyl-N-(tetrahydro-2-furanylmethyl)-4-piperidinamine,Plasma,1
+1-Deoxypentitol,Plasma,"Pentanedioic acid, 3-methyl-3-[(trimethylsilyl)oxy]-",Plasma,1
+1-Deoxypentitol,Plasma,S-Methyl-L-cysteine,Plasma,1
+1-Deoxypentitol,Plasma,"Stigmast-5-ene, 3beta-",Plasma,1
+1-Deoxypentitol,Plasma,Tartronic acid,Plasma,1
+1-Deoxypentitol,Plasma,Triethanolamine,Plasma,1
+1-Hexadecanol,Plasma,1-Hexanol,Plasma,1
+1-Hexadecanol,Plasma,"Benzene, 1,1'-(1,2-cyclobutanediyl)bis-",Plasma,1
+1-Hexadecanol,Plasma,"Benzene, 3-cyclohexen-1-yl-",Plasma,1
+1-Hexadecanol,Plasma,"D-Isoleucine, N-acetyl-",Plasma,-1
+1-Hexadecanol,Plasma,Decanoic acid,Plasma,1
+1-Hexadecanol,Plasma,Glucose,Plasma,-1
+1-Hexadecanol,Plasma,L-5-Oxoproline,Plasma,-1
+1-Hexadecanol,Plasma,Methyl isovanillate,Plasma,-1
+1-Hexadecanol,Plasma,Octanoic acid,Plasma,1
+1-Hydroxy-3-methoxy-6-methylanthraquinone,Plasma,Butylated Hydroxytoluene,Plasma,-1
+1-Hydroxy-3-methoxy-6-methylanthraquinone,Plasma,Glyoxime,Plasma,-1
+"1-Methyl-N,N-bis(trimethylsilyl)-4-[(trimethylsilyl)oxy]-1H-imidazol-2-amine",Plasma,1-Monoacetin,Plasma,1
+"1-Methyl-N,N-bis(trimethylsilyl)-4-[(trimethylsilyl)oxy]-1H-imidazol-2-amine",Plasma,10-Heptadecenoic acid,Plasma,1
+"1-Methyl-N,N-bis(trimethylsilyl)-4-[(trimethylsilyl)oxy]-1H-imidazol-2-amine",Plasma,5-Hydroxytryptophan,Plasma,1
+"1-Methyl-N,N-bis(trimethylsilyl)-4-[(trimethylsilyl)oxy]-1H-imidazol-2-amine",Plasma,Benzophenone,Plasma,1
+"1-Methyl-N,N-bis(trimethylsilyl)-4-[(trimethylsilyl)oxy]-1H-imidazol-2-amine",Plasma,Cholesterol,Plasma,1
+"1-Methyl-N,N-bis(trimethylsilyl)-4-[(trimethylsilyl)oxy]-1H-imidazol-2-amine",Plasma,Diphenyl ether,Plasma,1
+"1-Methyl-N,N-bis(trimethylsilyl)-4-[(trimethylsilyl)oxy]-1H-imidazol-2-amine",Plasma,L-Aspartic acid,Plasma,1
+"1-Methyl-N,N-bis(trimethylsilyl)-4-[(trimethylsilyl)oxy]-1H-imidazol-2-amine",Plasma,L-Glutamic acid,Plasma,1
+"1-Methyl-N,N-bis(trimethylsilyl)-4-[(trimethylsilyl)oxy]-1H-imidazol-2-amine",Plasma,Neostigmine ,Plasma,1
+"1-Methyl-N,N-bis(trimethylsilyl)-4-[(trimethylsilyl)oxy]-1H-imidazol-2-amine",Plasma,Phenoxyacetic acid,Plasma,1
+1-Monoacetin,Plasma,2-Naphthol,Plasma,1
+1-Monoacetin,Plasma,5-Hydroxytryptophan,Plasma,1
+1-Monoacetin,Plasma,alpha-Tocopherol,Plasma,1
+1-Monoacetin,Plasma,Diphenyl ether,Plasma,1
+1-Monoacetin,Plasma,Phloroglucinol,Plasma,1
+1-Monoacetin,Plasma,Salsoline,Plasma,1
+1-Monoacetin,Plasma,"Trimethylsilyl (5-benzyl-3,6-dioxopiperazin-2-yl)acetate",Plasma,1
+1-Monoacetin,Plasma,L-Tyrosine,Plasma,1
+1-Octanol,Plasma,"Acetohydrazide, 2-(2-isopropyl-5-methylphenoxy)-N2-benzylideno-",Plasma,1
+1-Octanol,Plasma,"beta-d-Fructopyranose, 1-deoxy-1-(4-morpholinyl)-2,3,4,5-tetrakis-O-(trimethylsilyl)-",Plasma,1
+"1-Octanol, 2-butyl-",Plasma,"Benzene, 1-acetoxy-2,6-dimethoxy-4-(2-propenyl)-",Plasma,1
+"1-Octanol, 2-butyl-",Plasma,"Benzene, 1,1'-(1,2-cyclobutanediyl)bis-",Plasma,1
+"1-Octanol, 2-butyl-",Plasma,Naphthofluorescein,Plasma,-1
+1-Phenethylamine,Plasma,10-Heptadecenoic acid,Plasma,1
+1-Phenethylamine,Plasma,"2-(Decanoyloxy)propane-1,3-diyl dioctanoate",Plasma,1
+1-Phenethylamine,Plasma,5-Hydroxytryptophan,Plasma,1
+1-Phenethylamine,Plasma,"beta-d-Fructopyranose, 1-deoxy-1-(4-morpholinyl)-2,3,4,5-tetrakis-O-(trimethylsilyl)-",Plasma,1
+1-Phenethylamine,Plasma,Cadaverine,Plasma,1
+1-Phenethylamine,Plasma,"Furan, 2-pentyl-",Plasma,1
+1-Phenethylamine,Plasma,"L-Tryptophan, N-acetyl-1",Plasma,1
+1-Phenethylamine,Plasma,"Stigmast-5-ene, 3beta-",Plasma,1
+1-Phenethylamine,Plasma,"Thymine, 1,3-dimethyl-6-(trimethylsilyloxymethyl)-",Plasma,1
+"1-Phenyl-1,2-ethanediol",Plasma,Benzeneacetamide,Plasma,-1
+"1-Phenyl-1,2-ethanediol",Plasma,Octocrylene,Plasma,1
+1-Phenylethanol,Plasma,3-Hydroxybutyric acid,Plasma,-1
+1-Phenylethanol,Plasma,"Methyl (3,4-dimethoxyphenyl)(hydroxy)acetate",Plasma,-1
+"1-Piperazineethanol, 4-dibenzo[b,f][1,4]thiazepin-11-yl-",Plasma,Lactic Acid,Plasma,1
+"1-Piperazineethanol, 4-dibenzo[b,f][1,4]thiazepin-11-yl-",Plasma,Mirin,Plasma,-1
+1-Tetradecanol,Plasma,"9,12-Octadecadienoic acid",Plasma,1
+"1,1'-Biphenyl, 3,4-diethyl-",Plasma,10-Heptadecenoic acid,Plasma,1
+"1,1'-Biphenyl, 3,4-diethyl-",Plasma,4-Cumylphenol,Plasma,1
+"1,1'-Biphenyl, 3,4-diethyl-",Plasma,Cadaverine,Plasma,1
+"1,1'-Biphenyl, 3,4-diethyl-",Plasma,"Stigmast-5-ene, 3beta-",Plasma,1
+"1,1'-Biphenyl, 3,4-diethyl-",Plasma,"Thymine, 1,3-dimethyl-6-(trimethylsilyloxymethyl)-",Plasma,1
+"1,1'-Biphenyl, 3,4-diethyl-",Plasma,"Trimethylsilyl (5-benzyl-3,6-dioxopiperazin-2-yl)acetate",Plasma,1
+"1,2-Benzenedicarboxylic acid",Plasma,"(2S,3R)-3-[(4E,7E)-Nona-4,7-dienoyl]-N,N-bis(trimethylsilyl)oxirane-2-carboxamide ",Plasma,-1
+"1,2-Benzenedicarboxylic acid",Plasma,"Acetic acid, bis[(trimethylsilyl)oxyl]-",Plasma,1
+"1,2-Benzenedicarboxylic acid",Plasma,"Benzenemethanamine, 2,3-dimethoxy-",Plasma,1
+"1,2-Benzenedicarboxylic acid",Plasma,Benzyl alcohol,Plasma,1
+"1,2-Benzenedicarboxylic acid",Plasma,Boric acid,Plasma,1
+"1,2-Benzenedicarboxylic acid",Plasma,Decanoic acid,Plasma,1
+"1,2-Benzenedicarboxylic acid",Plasma,Lactic Acid,Plasma,1
+"1,2-Butadiene, 1,1,4-triphenyl-3-trimethylsilyl-4-trimethylsilyloxy-",Plasma,"(R*,S*)-2,3-Dihydroxybutanoic acid",Plasma,1
+"1,2-Butadiene, 1,1,4-triphenyl-3-trimethylsilyl-4-trimethylsilyloxy-",Plasma,1-(4-Hydroxybenzylidene)acetone,Plasma,1
+"1,2-Butadiene, 1,1,4-triphenyl-3-trimethylsilyl-4-trimethylsilyloxy-",Plasma,1-Monoacetin,Plasma,1
+"1,2-Butadiene, 1,1,4-triphenyl-3-trimethylsilyl-4-trimethylsilyloxy-",Plasma,12-Oxooctadecanoate,Plasma,1
+"1,2-Butadiene, 1,1,4-triphenyl-3-trimethylsilyl-4-trimethylsilyloxy-",Plasma,2-Heptenoic acid,Plasma,1
+"1,2-Butadiene, 1,1,4-triphenyl-3-trimethylsilyl-4-trimethylsilyloxy-",Plasma,"2-Hexenoic acid, 2-[(trimethylsilyl)oxy]-",Plasma,1
+"1,2-Butadiene, 1,1,4-triphenyl-3-trimethylsilyl-4-trimethylsilyloxy-",Plasma,2-Methyl-4-pentenoic acid,Plasma,1
+"1,2-Butadiene, 1,1,4-triphenyl-3-trimethylsilyl-4-trimethylsilyloxy-",Plasma,2-Naphthol,Plasma,1
+"1,2-Butadiene, 1,1,4-triphenyl-3-trimethylsilyl-4-trimethylsilyloxy-",Plasma,"2,2,4-Trimethyl-1,3-pentanediol diisobutyrate",Plasma,1
+"1,2-Butadiene, 1,1,4-triphenyl-3-trimethylsilyl-4-trimethylsilyloxy-",Plasma,"2,5-Piperazinedione, 3-benzyl-6-isopropyl-",Plasma,1
+"1,2-Butadiene, 1,1,4-triphenyl-3-trimethylsilyl-4-trimethylsilyloxy-",Plasma,3-Amino-5-morpholinomethyl-2-oxazolidinone,Plasma,1
+"1,2-Butadiene, 1,1,4-triphenyl-3-trimethylsilyl-4-trimethylsilyloxy-",Plasma,3-Hydroxyisovaleric acid,Plasma,1
+"1,2-Butadiene, 1,1,4-triphenyl-3-trimethylsilyl-4-trimethylsilyloxy-",Plasma,"3,5-Dimethylpyrazole",Plasma,1
+"1,2-Butadiene, 1,1,4-triphenyl-3-trimethylsilyl-4-trimethylsilyloxy-",Plasma,5-Henicosylresorcinol,Plasma,1
+"1,2-Butadiene, 1,1,4-triphenyl-3-trimethylsilyl-4-trimethylsilyloxy-",Plasma,5-Hydroxytryptophan,Plasma,1
+"1,2-Butadiene, 1,1,4-triphenyl-3-trimethylsilyl-4-trimethylsilyloxy-",Plasma,7-(Trimethylsilyl)amino-4-methylcoumarin,Plasma,1
+"1,2-Butadiene, 1,1,4-triphenyl-3-trimethylsilyl-4-trimethylsilyloxy-",Plasma,"Acetin, bis-1,3-trimethylsilyl ether",Plasma,1
+"1,2-Butadiene, 1,1,4-triphenyl-3-trimethylsilyl-4-trimethylsilyloxy-",Plasma,alpha-Tocopherol,Plasma,1
+"1,2-Butadiene, 1,1,4-triphenyl-3-trimethylsilyl-4-trimethylsilyloxy-",Plasma,"Benzimidazole, 5-trifluoromethyl-2-methyl-",Plasma,1
+"1,2-Butadiene, 1,1,4-triphenyl-3-trimethylsilyl-4-trimethylsilyloxy-",Plasma,Benzophenone,Plasma,1
+"1,2-Butadiene, 1,1,4-triphenyl-3-trimethylsilyl-4-trimethylsilyloxy-",Plasma,Dinoseb ,Plasma,1
+"1,2-Butadiene, 1,1,4-triphenyl-3-trimethylsilyl-4-trimethylsilyloxy-",Plasma,Diphenyl ether,Plasma,1
+"1,2-Butadiene, 1,1,4-triphenyl-3-trimethylsilyl-4-trimethylsilyloxy-",Plasma,"DL-Proline, 5-oxo-",Plasma,1
+"1,2-Butadiene, 1,1,4-triphenyl-3-trimethylsilyl-4-trimethylsilyloxy-",Plasma,Hydantoic acid,Plasma,1
+"1,2-Butadiene, 1,1,4-triphenyl-3-trimethylsilyl-4-trimethylsilyloxy-",Plasma,Isofucosterol,Plasma,1
+"1,2-Butadiene, 1,1,4-triphenyl-3-trimethylsilyl-4-trimethylsilyloxy-",Plasma,Isopropyl palmitate,Plasma,1
+"1,2-Butadiene, 1,1,4-triphenyl-3-trimethylsilyl-4-trimethylsilyloxy-",Plasma,Methyl aminoacetate,Plasma,1
+"1,2-Butadiene, 1,1,4-triphenyl-3-trimethylsilyl-4-trimethylsilyloxy-",Plasma,"N,N-Diethyl-2-aminoethanol",Plasma,1
+"1,2-Butadiene, 1,1,4-triphenyl-3-trimethylsilyl-4-trimethylsilyloxy-",Plasma,Neostigmine ,Plasma,1
+"1,2-Butadiene, 1,1,4-triphenyl-3-trimethylsilyl-4-trimethylsilyloxy-",Plasma,Niclosamide,Plasma,1
+"1,2-Butadiene, 1,1,4-triphenyl-3-trimethylsilyl-4-trimethylsilyloxy-",Plasma,Nonadecanoic acid,Plasma,1
+"1,2-Butadiene, 1,1,4-triphenyl-3-trimethylsilyl-4-trimethylsilyloxy-",Plasma,Phenoxyacetic acid,Plasma,1
+"1,2-Butadiene, 1,1,4-triphenyl-3-trimethylsilyl-4-trimethylsilyloxy-",Plasma,Phlorizin,Plasma,1
+"1,2-Butadiene, 1,1,4-triphenyl-3-trimethylsilyl-4-trimethylsilyloxy-",Plasma,Phloroglucinol,Plasma,1
+"1,2-Butadiene, 1,1,4-triphenyl-3-trimethylsilyl-4-trimethylsilyloxy-",Plasma,Pimelic acid,Plasma,1
+"1,2-Butadiene, 1,1,4-triphenyl-3-trimethylsilyl-4-trimethylsilyloxy-",Plasma,"Propanetriol, 2-methyl-",Plasma,1
+"1,2-Butadiene, 1,1,4-triphenyl-3-trimethylsilyl-4-trimethylsilyloxy-",Plasma,S-Methyl-L-cysteine,Plasma,1
+"1,2-Butadiene, 1,1,4-triphenyl-3-trimethylsilyl-4-trimethylsilyloxy-",Plasma,Salsoline,Plasma,1
+"1,2-Butadiene, 1,1,4-triphenyl-3-trimethylsilyl-4-trimethylsilyloxy-",Plasma,"Stigmast-5-ene, 3beta-",Plasma,1
+"1,2-Butadiene, 1,1,4-triphenyl-3-trimethylsilyl-4-trimethylsilyloxy-",Plasma,L-Tyrosine,Plasma,1
+"1,2,3,10,11,11a-Hexahydro-6,7,8-trimethoxy-3-oxo-5H-dibenzo(a,d)cycloheptene",Plasma,(pm)-alpha-Tocopherol acetate,Plasma,1
+"1,2,3,10,11,11a-Hexahydro-6,7,8-trimethoxy-3-oxo-5H-dibenzo(a,d)cycloheptene",Plasma,3'-Hydroxyacetophenone,Plasma,1
+"1,2,3,10,11,11a-Hexahydro-6,7,8-trimethoxy-3-oxo-5H-dibenzo(a,d)cycloheptene",Plasma,"3beta,4beta-Bis(trimethylsiloxy)cholest-5-ene",Plasma,1
+"1,2,3,10,11,11a-Hexahydro-6,7,8-trimethoxy-3-oxo-5H-dibenzo(a,d)cycloheptene",Plasma,5-Aminovaleric acid,Plasma,-1
+"1,2,3,10,11,11a-Hexahydro-6,7,8-trimethoxy-3-oxo-5H-dibenzo(a,d)cycloheptene",Plasma,"6,7,4'-Trihydroxyisoflavone",Plasma,1
+"1,2,3,10,11,11a-Hexahydro-6,7,8-trimethoxy-3-oxo-5H-dibenzo(a,d)cycloheptene",Plasma,"Benzaldehyde, 2,5-dimethyl-",Plasma,1
+"1,2,3,10,11,11a-Hexahydro-6,7,8-trimethoxy-3-oxo-5H-dibenzo(a,d)cycloheptene",Plasma,"Cetaben, N,O-bis(trimethylsilyl)-",Plasma,1
+"1,2,3,10,11,11a-Hexahydro-6,7,8-trimethoxy-3-oxo-5H-dibenzo(a,d)cycloheptene",Plasma,D-Fructose,Plasma,1
+"1,2,3,10,11,11a-Hexahydro-6,7,8-trimethoxy-3-oxo-5H-dibenzo(a,d)cycloheptene",Plasma,Desmosterol,Plasma,1
+"1,2,3,10,11,11a-Hexahydro-6,7,8-trimethoxy-3-oxo-5H-dibenzo(a,d)cycloheptene",Plasma,Glyoxime,Plasma,1
+"1,2,3,10,11,11a-Hexahydro-6,7,8-trimethoxy-3-oxo-5H-dibenzo(a,d)cycloheptene",Plasma,Levulinic acid,Plasma,1
+"1,2,3,10,11,11a-Hexahydro-6,7,8-trimethoxy-3-oxo-5H-dibenzo(a,d)cycloheptene",Plasma,Nonadecanoic acid,Plasma,1
+"1,2,3,10,11,11a-Hexahydro-6,7,8-trimethoxy-3-oxo-5H-dibenzo(a,d)cycloheptene",Plasma,"Propanetriol, 2-methyl-",Plasma,1
+"1,2,3,10,11,11a-Hexahydro-6,7,8-trimethoxy-3-oxo-5H-dibenzo(a,d)cycloheptene",Plasma,Propylamine,Plasma,1
+"1,3-Cyclohexanebis(methylamine)",Plasma,DL-Phenylalanine,Plasma,1
+"1,3,5-Benzetriol",Plasma,(pm)-alpha-Tocopherol acetate,Plasma,1
+"1,3,5-Benzetriol",Plasma,4-Cumylphenol,Plasma,1
+"1,3,5-Benzetriol",Plasma,7-(Trimethylsilyl)amino-4-methylcoumarin,Plasma,1
+"1,3,5-Benzetriol",Plasma,Cyclobutanol,Plasma,1
+"1,3,5-Benzetriol",Plasma,Deoxycholic Acid,Plasma,1
+"1,3,5-Benzetriol",Plasma,Dinoseb ,Plasma,1
+"1,3,5-Benzetriol",Plasma,DL-Glyceraldehyde,Plasma,1
+"1,3,5-Benzetriol",Plasma,Guanabenz,Plasma,1
+"1,3,5-Benzetriol",Plasma,Isopropyl palmitate,Plasma,1
+"1,3,5-Benzetriol",Plasma,Methyl aminoacetate,Plasma,1
+"1,3,5-Benzetriol",Plasma,N-Methyl-N-(tetrahydro-2-furanylmethyl)-4-piperidinamine,Plasma,1
+"1,3,5-Benzetriol",Plasma,Nitrosothymol,Plasma,1
+"1,3,5-Benzetriol",Plasma,Nonadecanoic acid,Plasma,1
+"1,3,5-Benzetriol",Plasma,"Pentanedioic acid, 3-methyl-3-[(trimethylsilyl)oxy]-",Plasma,1
+"1,3,5-Benzetriol",Plasma,"Thymine, 1,3-dimethyl-6-(trimethylsilyloxymethyl)-",Plasma,1
+"1,3,5-Benzetriol",Plasma,Triethanolamine,Plasma,1
+"1,3,5-Benzetriol",Plasma,"Trimethylsilyl (5-benzyl-3,6-dioxopiperazin-2-yl)acetate",Plasma,1
+"1,4-diazabicyclo[4.3.0]nonan-2,5-dione, 3-methyl ",Plasma,"1,5-Anhydroglucitol",Plasma,1
+"1,4-diazabicyclo[4.3.0]nonan-2,5-dione, 3-methyl ",Plasma,Malic acid,Plasma,1
+"1,4-diazabicyclo[4.3.0]nonan-2,5-dione, 3-methyl ",Plasma,Phosalone,Plasma,1
+10-Heptadecenoic acid,Plasma,1-Monoacetin,Plasma,1
+10-Heptadecenoic acid,Plasma,2-Methyl-4-pentenoic acid,Plasma,1
+10-Heptadecenoic acid,Plasma,2-Naphthol,Plasma,1
+10-Heptadecenoic acid,Plasma,3'-Hydroxyacetophenone,Plasma,1
+10-Heptadecenoic acid,Plasma,"3beta,4beta-Bis(trimethylsiloxy)cholest-5-ene",Plasma,1
+10-Heptadecenoic acid,Plasma,"Benzaldehyde, 2,5-dimethyl-",Plasma,1
+10-Heptadecenoic acid,Plasma,"Benzimidazole, 5-trifluoromethyl-2-methyl-",Plasma,1
+10-Heptadecenoic acid,Plasma, 5-Hydroxyhexanoic acid,Plasma,1
+10-Heptadecenoic acid,Plasma,D-Fructose,Plasma,1
+10-Heptadecenoic acid,Plasma,"Ethanone, 1-(2,5-dimethoxyphenyl)-",Plasma,1
+10-Heptadecenoic acid,Plasma,Glyoxime,Plasma,1
+10-Heptadecenoic acid,Plasma,Heptadecanoic acid,Plasma,1
+10-Heptadecenoic acid,Plasma,Neostigmine ,Plasma,1
+10-Heptadecenoic acid,Plasma,Niclosamide,Plasma,1
+10-Heptadecenoic acid,Plasma,Nonadecanoic acid,Plasma,1
+10-Heptadecenoic acid,Plasma,p-Toluic acid,Plasma,1
+10-Heptadecenoic acid,Plasma,Palmitelaidic acid,Plasma,1
+10-Heptadecenoic acid,Plasma,Pimelic acid,Plasma,1
+10-Heptadecenoic acid,Plasma,"Propanetriol, 2-methyl-",Plasma,1
+10-Heptadecenoic acid,Plasma,"Pyrimidine, 5-methyl-2,4-bis[(trimethylsilyl)oxy]-",Plasma,1
+10-Heptadecenoic acid,Plasma,Tartronic acid,Plasma,1
+10-Heptadecenoic acid,Plasma,Triethanolamine,Plasma,1
+10-Heptadecenoic acid,Plasma,"Trimethylsilyl (5-benzyl-3,6-dioxopiperazin-2-yl)acetate",Plasma,1
+12-Oxooctadecanoate,Plasma,1-Octanol,Plasma,1
+12-Oxooctadecanoate,Plasma,2-Methyl-4-pentenoic acid,Plasma,1
+12-Oxooctadecanoate,Plasma,3-Amino-5-morpholinomethyl-2-oxazolidinone,Plasma,1
+12-Oxooctadecanoate,Plasma,4-Hydroxyphenyllactic acid,Plasma,1
+12-Oxooctadecanoate,Plasma,5-Henicosylresorcinol,Plasma,1
+12-Oxooctadecanoate,Plasma,"Acetohydrazide, 2-(2-isopropyl-5-methylphenoxy)-N2-benzylideno-",Plasma,1
+12-Oxooctadecanoate,Plasma,Benzophenone,Plasma,1
+12-Oxooctadecanoate,Plasma,Dinoseb ,Plasma,1
+12-Oxooctadecanoate,Plasma,Diphenyl ether,Plasma,1
+12-Oxooctadecanoate,Plasma,Dodecanoic acid,Plasma,1
+12-Oxooctadecanoate,Plasma,Levulinic acid,Plasma,1
+12-Oxooctadecanoate,Plasma,Phlorizin,Plasma,1
+12-Oxooctadecanoate,Plasma,L-Tyrosine,Plasma,1
+13-Docosenamide,Plasma,"7-Acetyl-6-ethyl-1,1,4,4-tetramethyltetralin ",Plasma,1
+"2-(2,5-Dimethoxy-phenyl)-propionaldehyde",Plasma,2-Hydroxy-5-methoxybenzaldehyde,Plasma,1
+"2-(2,5-Dimethoxy-phenyl)-propionaldehyde",Plasma,3-Nonen-1-ol,Plasma,1
+"2-(2,5-Dimethoxy-phenyl)-propionaldehyde",Plasma,4-Hydroxybutanoic acid,Plasma,1
+"2-(Decanoyloxy)propane-1,3-diyl dioctanoate",Plasma,1-Monoacetin,Plasma,1
+"2-(Decanoyloxy)propane-1,3-diyl dioctanoate",Plasma,"2-Allyl-1,4-dimethoxybenzene",Plasma,1
+"2-(Decanoyloxy)propane-1,3-diyl dioctanoate",Plasma,2-Methyl-4-pentenoic acid,Plasma,1
+"2-(Decanoyloxy)propane-1,3-diyl dioctanoate",Plasma,3-Amino-5-morpholinomethyl-2-oxazolidinone,Plasma,1
+"2-(Decanoyloxy)propane-1,3-diyl dioctanoate",Plasma,"3-Hydroxy-2,3-dihydromaltol",Plasma,1
+"2-(Decanoyloxy)propane-1,3-diyl dioctanoate",Plasma,3-Hydroxyisovaleric acid,Plasma,1
+"2-(Decanoyloxy)propane-1,3-diyl dioctanoate",Plasma,"3,5-Dimethylpyrazole",Plasma,1
+"2-(Decanoyloxy)propane-1,3-diyl dioctanoate",Plasma,4-Cumylphenol,Plasma,1
+"2-(Decanoyloxy)propane-1,3-diyl dioctanoate",Plasma,4-Hydroxybenzeneacetic acid,Plasma,1
+"2-(Decanoyloxy)propane-1,3-diyl dioctanoate",Plasma,5-Henicosylresorcinol,Plasma,1
+"2-(Decanoyloxy)propane-1,3-diyl dioctanoate",Plasma,Aceturic acid,Plasma,1
+"2-(Decanoyloxy)propane-1,3-diyl dioctanoate",Plasma,Arachidonic acid,Plasma,1
+"2-(Decanoyloxy)propane-1,3-diyl dioctanoate",Plasma,Azatadine,Plasma,1
+"2-(Decanoyloxy)propane-1,3-diyl dioctanoate",Plasma,"Butanoic acid, 2,4-bis[(trimethylsilyl)oxy]-",Plasma,1
+"2-(Decanoyloxy)propane-1,3-diyl dioctanoate",Plasma,cis-4-Trimethylsilyloxy-cyclohexyl(trimethylsilyl)carboxylate,Plasma,1
+"2-(Decanoyloxy)propane-1,3-diyl dioctanoate",Plasma,Glucopyranose,Plasma,1
+"2-(Decanoyloxy)propane-1,3-diyl dioctanoate",Plasma,Hydantoic acid,Plasma,1
+"2-(Decanoyloxy)propane-1,3-diyl dioctanoate",Plasma,L-Threitol,Plasma,1
+"2-(Decanoyloxy)propane-1,3-diyl dioctanoate",Plasma,Metanephrine,Plasma,1
+"2-(Decanoyloxy)propane-1,3-diyl dioctanoate",Plasma,Methyl-3-methoxy-5-methyl benzoate,Plasma,1
+"2-(Decanoyloxy)propane-1,3-diyl dioctanoate",Plasma,Mirin,Plasma,1
+"2-(Decanoyloxy)propane-1,3-diyl dioctanoate",Plasma,Neostigmine ,Plasma,1
+"2-(Decanoyloxy)propane-1,3-diyl dioctanoate",Plasma,Nitrosothymol,Plasma,1
+"2-(Decanoyloxy)propane-1,3-diyl dioctanoate",Plasma,Phenoxyacetic acid,Plasma,1
+"2-(Decanoyloxy)propane-1,3-diyl dioctanoate",Plasma,Propylamine,Plasma,1
+"2-(Decanoyloxy)propane-1,3-diyl dioctanoate",Plasma,S-Methyl-L-cysteine,Plasma,1
+"2-Acetyl-3-(1-methyl-2-pyrrolyl)-1,4-benzenediol",Plasma,Norketamine,Plasma,1
+"2-Allyl-1,4-dimethoxybenzene",Plasma,(pm)-alpha-Tocopherol acetate,Plasma,1
+"2-Allyl-1,4-dimethoxybenzene",Plasma,1-(4-Hydroxybenzylidene)acetone,Plasma,1
+"2-Allyl-1,4-dimethoxybenzene",Plasma,"Benzaldehyde, 2,5-dimethyl-",Plasma,1
+"2-Allyl-1,4-dimethoxybenzene",Plasma,"Benzene, 1-acetoxy-2,6-dimethoxy-4-(2-propenyl)-",Plasma,-1
+"2-Allyl-1,4-dimethoxybenzene",Plasma,beta-Lyxopyranose,Plasma,1
+"2-Allyl-1,4-dimethoxybenzene",Plasma,"Butanoic acid, 2,4-bis[(trimethylsilyl)oxy]-",Plasma,1
+"2-Allyl-1,4-dimethoxybenzene",Plasma,"Cetaben, N,O-bis(trimethylsilyl)-",Plasma,1
+"2-Allyl-1,4-dimethoxybenzene",Plasma,"Cyclopentaneacetic acid, 3-oxo-2-pentyl-",Plasma,1
+"2-Allyl-1,4-dimethoxybenzene",Plasma,L-Threitol,Plasma,1
+"2-Allyl-1,4-dimethoxybenzene",Plasma,Methyl-3-methoxy-5-methyl benzoate,Plasma,1
+"2-Allyl-1,4-dimethoxybenzene",Plasma,N-Methyl-N-(tetrahydro-2-furanylmethyl)-4-piperidinamine,Plasma,1
+"2-Allyl-1,4-dimethoxybenzene",Plasma,Tartronic acid,Plasma,1
+"2-Allyl-1,4-dimethoxybenzene",Plasma,Triethanolamine,Plasma,1
+2-Amino-4-methylphenol,Plasma,Azatadine,Plasma,1
+"2-Amino-4,6-dihydroxypyrimidine",Plasma,12-Hydroxyoctadecanoic acid,Plasma,-1
+2-Aminoadipic acid,Plasma,Adipoyl-L-carnitine,Plasma,1
+2-Aminoadipic acid,Plasma,Allylescaline ,Plasma,1
+2-Aminoadipic acid,Plasma,DL-Phenylalanine,Plasma,1
+2-Aminoadipic acid,Plasma,Hydantoic acid,Plasma,1
+2-Heptenoic acid,Plasma,5-Hydroxytryptophan,Plasma,1
+2-Heptenoic acid,Plasma,"Benzaldehyde, 2,5-dimethyl-",Plasma,1
+2-Heptenoic acid,Plasma,"Benzoic acid, pentadecyl ester",Plasma,1
+2-Heptenoic acid,Plasma,"beta-d-Fructopyranose, 1-deoxy-1-(4-morpholinyl)-2,3,4,5-tetrakis-O-(trimethylsilyl)-",Plasma,1
+2-Heptenoic acid,Plasma,cyclobutanecarboxylic acid,Plasma,1
+2-Heptenoic acid,Plasma,Dinoseb ,Plasma,1
+2-Heptenoic acid,Plasma,"DL-Proline, 5-oxo-",Plasma,1
+2-Heptenoic acid,Plasma,Isopropyl palmitate,Plasma,1
+2-Heptenoic acid,Plasma,"N,N-Diethyl-2-aminoethanol",Plasma,1
+2-Heptenoic acid,Plasma,Phlorizin,Plasma,1
+2-Heptenoic acid,Plasma,Pimelic acid,Plasma,1
+2-Heptenoic acid,Plasma,Suberic acid,Plasma,1
+2-Heptenoic acid,Plasma,L-Tyrosine,Plasma,1
+2-Hexen-1-ol,Plasma,D-Ribose,Plasma,1
+2-Hexen-1-ol,Plasma,Pyrrole-2-carboxylic acid,Plasma,1
+"2-Hexenoic acid, 2-[(trimethylsilyl)oxy]-",Plasma,1-(4-Hydroxybenzylidene)acetone,Plasma,1
+"2-Hexenoic acid, 2-[(trimethylsilyl)oxy]-",Plasma,Diphenyl ether,Plasma,1
+"2-Hexenoic acid, 2-[(trimethylsilyl)oxy]-",Plasma,Metanephrine,Plasma,1
+"2-Hexenoic acid, 2-[(trimethylsilyl)oxy]-",Plasma,Phloroglucinol,Plasma,1
+"2-Hexenoic acid, 2-[(trimethylsilyl)oxy]-",Plasma,S-Methyl-L-cysteine,Plasma,1
+"2-Hexenoic acid, 2-[(trimethylsilyl)oxy]-",Plasma,Salsoline,Plasma,1
+2-Hydroxy-3-methylbutyric acid,Plasma,Glucopyranose,Plasma,1
+2-Hydroxy-5-methoxybenzaldehyde,Plasma,2-Hydroxybutyric acid,Plasma,1
+2-Hydroxy-5-methoxybenzaldehyde,Plasma,"Propanoic acid, 2-methyl-",Plasma,1
+2-Hydroxybutyric acid,Plasma,Arsenous acid,Plasma,1
+2-Isopropyl-5-methyl-1-heptanol ,Plasma,"3-Buten-2-one, 4-(4-methoxyphenyl)-",Plasma,-1
+2-Isopropyl-5-methyl-1-heptanol ,Plasma,Isopropyl palmitate,Plasma,1
+2-Methyl-4-pentenoic acid,Plasma,(pm)-alpha-Tocopherol acetate,Plasma,1
+2-Methyl-4-pentenoic acid,Plasma,1-Monoacetin,Plasma,1
+2-Methyl-4-pentenoic acid,Plasma,"2,2,4-Trimethyl-1,3-pentanediol diisobutyrate",Plasma,1
+2-Methyl-4-pentenoic acid,Plasma,"2,5-Piperazinedione, 3-benzyl-6-isopropyl-",Plasma,1
+2-Methyl-4-pentenoic acid,Plasma,3-Hexenedinitrile,Plasma,1
+2-Methyl-4-pentenoic acid,Plasma,3-Hydroxyisovaleric acid,Plasma,1
+2-Methyl-4-pentenoic acid,Plasma,"3,5-Dimethylpyrazole",Plasma,1
+2-Methyl-4-pentenoic acid,Plasma,3'-Hydroxyacetophenone,Plasma,1
+2-Methyl-4-pentenoic acid,Plasma,"3beta,4beta-Bis(trimethylsiloxy)cholest-5-ene",Plasma,1
+2-Methyl-4-pentenoic acid,Plasma,4-Cumylphenol,Plasma,1
+2-Methyl-4-pentenoic acid,Plasma,5-Henicosylresorcinol,Plasma,1
+2-Methyl-4-pentenoic acid,Plasma,alpha-Tocopherol,Plasma,1
+2-Methyl-4-pentenoic acid,Plasma,"Benzaldehyde, 2,5-dimethyl-",Plasma,1
+2-Methyl-4-pentenoic acid,Plasma,"Benzimidazole, 5-trifluoromethyl-2-methyl-",Plasma,1
+2-Methyl-4-pentenoic acid,Plasma,"Benzoic acid, pentadecyl ester",Plasma,1
+2-Methyl-4-pentenoic acid,Plasma,Benzophenone,Plasma,1
+2-Methyl-4-pentenoic acid,Plasma,Deoxycholic Acid,Plasma,1
+2-Methyl-4-pentenoic acid,Plasma,Dinoseb ,Plasma,1
+2-Methyl-4-pentenoic acid,Plasma,Diphenyl ether,Plasma,1
+2-Methyl-4-pentenoic acid,Plasma,Hydantoic acid,Plasma,1
+2-Methyl-4-pentenoic acid,Plasma,Levulinic acid,Plasma,1
+2-Methyl-4-pentenoic acid,Plasma,Metanephrine,Plasma,1
+2-Methyl-4-pentenoic acid,Plasma,Neostigmine ,Plasma,1
+2-Methyl-4-pentenoic acid,Plasma,Niclosamide,Plasma,1
+2-Methyl-4-pentenoic acid,Plasma,Nonadecanoic acid,Plasma,1
+2-Methyl-4-pentenoic acid,Plasma,Phenoxyacetic acid,Plasma,1
+2-Methyl-4-pentenoic acid,Plasma,Phlorizin,Plasma,1
+2-Methyl-4-pentenoic acid,Plasma,Phloroglucinol,Plasma,1
+2-Methyl-4-pentenoic acid,Plasma,Pimelic acid,Plasma,1
+2-Methyl-4-pentenoic acid,Plasma,"Propanetriol, 2-methyl-",Plasma,1
+2-Methyl-4-pentenoic acid,Plasma,Salsoline,Plasma,1
+2-Methylglutaconic acid,Plasma,"2,6-Dimethyl-N-[3-(trimethylsilyl)-1,3-thiazinan-2-ylidene]aniline",Plasma,1
+2-Methylglutaconic acid,Plasma,5-(2-Aminopropyl)-2-methylphenol,Plasma,-1
+2-Naphthol,Plasma,1-(4-Hydroxybenzylidene)acetone,Plasma,1
+2-Naphthol,Plasma,Phlorizin,Plasma,1
+"2-Propanone, bis(1-methylethyl)hydrazone",Plasma,2-Naphthol,Plasma,1
+"2-Propanone, bis(1-methylethyl)hydrazone",Plasma,5-Hydroxytryptophan,Plasma,1
+"2-Propanone, bis(1-methylethyl)hydrazone",Plasma,alpha-Tocopherol,Plasma,1
+"2-Propanone, bis(1-methylethyl)hydrazone",Plasma,Cholesterol,Plasma,1
+"2-Propanone, bis(1-methylethyl)hydrazone",Plasma,Diphenyl ether,Plasma,1
+"2-Propanone, bis(1-methylethyl)hydrazone",Plasma,Dodecanoic acid,Plasma,1
+"2-Propanone, bis(1-methylethyl)hydrazone",Plasma,N-Acetyl-L-glutamic acid,Plasma,1
+"2-Propanone, bis(1-methylethyl)hydrazone",Plasma,p-Hydroxydiisopropylbenzene,Plasma,1
+"2-Propanone, bis(1-methylethyl)hydrazone",Plasma,Phloroglucinol,Plasma,1
+"2-Propenamide, 3-phenyl-N-2-propenyl-",Plasma,"Cephalotaxine, 3-deoxy-3,11-epoxy-, (3alpha,11alpha)-",Plasma,-1
+2-Pyrrolidinone,Plasma,L-Norleucine,Plasma,1
+"2,2-Diallylpyrrolidine",Plasma,2-Furoic acid,Plasma,1
+"2,2-Diallylpyrrolidine",Plasma,"Thymine, 1,3-dimethyl-6-(trimethylsilyloxymethyl)-",Plasma,1
+"2,2-Diallylpyrrolidine",Plasma,Trimidox,Plasma,-1
+"2,2,4-Trimethyl-1,3-pentanediol diisobutyrate",Plasma,(pm)-alpha-Tocopherol acetate,Plasma,1
+"2,2,4-Trimethyl-1,3-pentanediol diisobutyrate",Plasma,1-(4-Hydroxybenzylidene)acetone,Plasma,1
+"2,2,4-Trimethyl-1,3-pentanediol diisobutyrate",Plasma,1-Monoacetin,Plasma,1
+"2,2,4-Trimethyl-1,3-pentanediol diisobutyrate",Plasma,1-Phenylethanol,Plasma,-1
+"2,2,4-Trimethyl-1,3-pentanediol diisobutyrate",Plasma,"2-Hexenoic acid, 2-[(trimethylsilyl)oxy]-",Plasma,1
+"2,2,4-Trimethyl-1,3-pentanediol diisobutyrate",Plasma,"2-Propanone, bis(1-methylethyl)hydrazone",Plasma,1
+"2,2,4-Trimethyl-1,3-pentanediol diisobutyrate",Plasma,"2,5-Piperazinedione, 3-benzyl-6-isopropyl-",Plasma,1
+"2,2,4-Trimethyl-1,3-pentanediol diisobutyrate",Plasma,"2,6-Bis[2-[2-S-thiosulfuroethylamino]ethoxy]pyrazine",Plasma,1
+"2,2,4-Trimethyl-1,3-pentanediol diisobutyrate",Plasma,"3,5-Dimethylpyrazole",Plasma,1
+"2,2,4-Trimethyl-1,3-pentanediol diisobutyrate",Plasma,"3beta,4beta-Bis(trimethylsiloxy)cholest-5-ene",Plasma,1
+"2,2,4-Trimethyl-1,3-pentanediol diisobutyrate",Plasma,5-(2-Aminopropyl)-2-methylphenol,Plasma,-1
+"2,2,4-Trimethyl-1,3-pentanediol diisobutyrate",Plasma,5-Hydroxytryptophan,Plasma,1
+"2,2,4-Trimethyl-1,3-pentanediol diisobutyrate",Plasma,"6,7,4'-Trihydroxyisoflavone",Plasma,1
+"2,2,4-Trimethyl-1,3-pentanediol diisobutyrate",Plasma,Acetoacetic acid,Plasma,1
+"2,2,4-Trimethyl-1,3-pentanediol diisobutyrate",Plasma,alpha-Tocopherol,Plasma,1
+"2,2,4-Trimethyl-1,3-pentanediol diisobutyrate",Plasma,Arabinaric acid,Plasma,1
+"2,2,4-Trimethyl-1,3-pentanediol diisobutyrate",Plasma,"Benzaldehyde, 2,5-dimethyl-",Plasma,1
+"2,2,4-Trimethyl-1,3-pentanediol diisobutyrate",Plasma,"Benzimidazole, 5-trifluoromethyl-2-methyl-",Plasma,1
+"2,2,4-Trimethyl-1,3-pentanediol diisobutyrate",Plasma,"Benzoic acid, pentadecyl ester",Plasma,1
+"2,2,4-Trimethyl-1,3-pentanediol diisobutyrate",Plasma,Benzophenone,Plasma,1
+"2,2,4-Trimethyl-1,3-pentanediol diisobutyrate",Plasma,"beta-D-Galactofuranose, 1,2,3,5,6-pentakis-O-(trimethylsilyl)-",Plasma,1
+"2,2,4-Trimethyl-1,3-pentanediol diisobutyrate",Plasma,"Butanoic acid, 2,4-bis[(trimethylsilyl)oxy]-",Plasma,1
+"2,2,4-Trimethyl-1,3-pentanediol diisobutyrate",Plasma,D-(-)-Citramalic acid,Plasma,1
+"2,2,4-Trimethyl-1,3-pentanediol diisobutyrate",Plasma,Dinoseb ,Plasma,1
+"2,2,4-Trimethyl-1,3-pentanediol diisobutyrate",Plasma,Diphenyl ether,Plasma,1
+"2,2,4-Trimethyl-1,3-pentanediol diisobutyrate",Plasma,DL-Glyceraldehyde,Plasma,1
+"2,2,4-Trimethyl-1,3-pentanediol diisobutyrate",Plasma,Indole-5-carboxylic acid,Plasma,1
+"2,2,4-Trimethyl-1,3-pentanediol diisobutyrate",Plasma,Isofucosterol,Plasma,1
+"2,2,4-Trimethyl-1,3-pentanediol diisobutyrate",Plasma,Isopropyl palmitate,Plasma,1
+"2,2,4-Trimethyl-1,3-pentanediol diisobutyrate",Plasma,Itaconic acid,Plasma,1
+"2,2,4-Trimethyl-1,3-pentanediol diisobutyrate",Plasma,Metanephrine,Plasma,1
+"2,2,4-Trimethyl-1,3-pentanediol diisobutyrate",Plasma,Methyl aminoacetate,Plasma,1
+"2,2,4-Trimethyl-1,3-pentanediol diisobutyrate",Plasma,Neostigmine ,Plasma,1
+"2,2,4-Trimethyl-1,3-pentanediol diisobutyrate",Plasma,Niclosamide,Plasma,1
+"2,2,4-Trimethyl-1,3-pentanediol diisobutyrate",Plasma,Nonadecanoic acid,Plasma,1
+"2,2,4-Trimethyl-1,3-pentanediol diisobutyrate",Plasma,"Pentanedioic acid, 3-methyl-3-[(trimethylsilyl)oxy]-",Plasma,1
+"2,2,4-Trimethyl-1,3-pentanediol diisobutyrate",Plasma,"Pentenoic acid, 4-[(trimethylsilyl)oxy]-",Plasma,1
+"2,2,4-Trimethyl-1,3-pentanediol diisobutyrate",Plasma,Phenoxyacetic acid,Plasma,1
+"2,2,4-Trimethyl-1,3-pentanediol diisobutyrate",Plasma,Phloroglucinol,Plasma,1
+"2,2,4-Trimethyl-1,3-pentanediol diisobutyrate",Plasma,"Propanetriol, 2-methyl-",Plasma,1
+"2,2,4-Trimethyl-1,3-pentanediol diisobutyrate",Plasma,Propylamine,Plasma,1
+"2,2,4-Trimethyl-1,3-pentanediol diisobutyrate",Plasma,Salsoline,Plasma,1
+"2,2,4-Trimethyl-1,3-pentanediol diisobutyrate",Plasma,"Stigmast-5-ene, 3beta-",Plasma,1
+"2,2,4-Trimethyl-1,3-pentanediol diisobutyrate",Plasma,"Thymine, 1,3-dimethyl-6-(trimethylsilyloxymethyl)-",Plasma,1
+"2,2,4-Trimethyl-1,3-pentanediol diisobutyrate",Plasma,Triethanolamine,Plasma,1
+"2,2,4-Trimethyl-1,3-pentanediol diisobutyrate",Plasma,"Trimethylsilyl (5-benzyl-3,6-dioxopiperazin-2-yl)acetate",Plasma,1
+"2,2,4-Trimethyl-1,3-pentanediol diisobutyrate",Plasma,L-Tyrosine,Plasma,1
+"2,3,4-Trihydroxybutyric acid tetrakis",Plasma,(pm)-alpha-Tocopherol acetate,Plasma,1
+"2,3,4-Trihydroxybutyric acid tetrakis",Plasma,"2,5-Piperazinedione, 3-benzyl-6-isopropyl-",Plasma,1
+"2,3,4-Trihydroxybutyric acid tetrakis",Plasma,"3beta,4beta-Bis(trimethylsiloxy)cholest-5-ene",Plasma,1
+"2,3,4-Trihydroxybutyric acid tetrakis",Plasma,beta-Lyxopyranose,Plasma,1
+"2,3,4-Trihydroxybutyric acid tetrakis",Plasma,"D-(+)-Ribono-1,4-lactone (R,S,R)-",Plasma,1
+"2,3,4-Trihydroxybutyric acid tetrakis",Plasma,D-Fructose,Plasma,1
+"2,3,4-Trihydroxybutyric acid tetrakis",Plasma,Glyceric acid,Plasma,1
+"2,3,4-Trihydroxybutyric acid tetrakis",Plasma,Methyl-3-methoxy-5-methyl benzoate,Plasma,1
+"2,3,4-Trihydroxybutyric acid tetrakis",Plasma,"Propanetriol, 2-methyl-",Plasma,1
+"2,3,4-Trihydroxybutyric acid tetrakis",Plasma,Propylamine,Plasma,1
+"2,3,4-Trihydroxybutyric acid tetrakis",Plasma,Tartronic acid,Plasma,1
+"2,3,4-Trihydroxybutyric acid tetrakis",Plasma,Triethanolamine,Plasma,1
+"2,4-Imidazolidinedione, 5,5-dimethyl-",Plasma,4-Hydroxy-5-(hydroxymethyl)oxolan-2-one,Plasma,-1
+"2,4-Imidazolidinedione, 5,5-dimethyl-",Plasma,"Cholesta-3,5-diene ",Plasma,1
+"2,4-Imidazolidinedione, 5,5-dimethyl-",Plasma,Dimethyl fumarate,Plasma,1
+"2,4-Imidazolidinedione, 5,5-dimethyl-",Plasma,Methyl isovanillate,Plasma,1
+"2,4-Imidazolidinedione, 5,5-dimethyl-",Plasma,"N,N-Diethyl-2-aminoethanol",Plasma,1
+"2,4-Imidazolidinedione, 5,5-dimethyl-",Plasma,p-Toluic acid,Plasma,1
+"2,4-Imidazolidinedione, 5,5-dimethyl-",Plasma,Ribitol,Plasma,1
+"2,4-Imidazolidinedione, 5,5-dimethyl-",Plasma,S-Methyl-L-cysteine,Plasma,1
+"2,4-Imidazolidinedione, 5,5-dimethyl-",Plasma,Salsoline,Plasma,1
+"2,4-Imidazolidinedione, 5,5-dimethyl-",Plasma,"Thymine, 1,3-dimethyl-6-(trimethylsilyloxymethyl)-",Plasma,1
+"2,5-Cyclohexadiene-1,4-dione, 2,6-bis(1,1-dimethylethyl)-",Plasma,Arabinaric acid,Plasma,-1
+"2,5-Cyclohexadiene-1,4-dione, 2,6-bis(1,1-dimethylethyl)-",Plasma,"Phenol, 3,5-bis(1,1-dimethylethyl)-",Plasma,1
+"2,5-di-tert-Butyl-1,4-benzoquinone",Plasma,3-Amino-5-morpholinomethyl-2-oxazolidinone,Plasma,-1
+"2,5-di-tert-Butyl-1,4-benzoquinone",Plasma,Niacin,Plasma,1
+"2,5-di-tert-Butyl-1,4-benzoquinone",Plasma,Palmitic Acid,Plasma,1
+"2,5-Dimethoxymandelic acid",Plasma,Ornithine,Plasma,-1
+"2,5-Piperazinedione, 3-benzyl-6-isopropyl-",Plasma,1-(4-Hydroxybenzylidene)acetone,Plasma,1
+"2,5-Piperazinedione, 3-benzyl-6-isopropyl-",Plasma,"2-Hexenoic acid, 2-[(trimethylsilyl)oxy]-",Plasma,1
+"2,5-Piperazinedione, 3-benzyl-6-isopropyl-",Plasma,"2,5-Dimethoxybenzonitrile",Plasma,1
+"2,5-Piperazinedione, 3-benzyl-6-isopropyl-",Plasma,"2,6-Bis[2-[2-S-thiosulfuroethylamino]ethoxy]pyrazine",Plasma,1
+"2,5-Piperazinedione, 3-benzyl-6-isopropyl-",Plasma,3-Amino-5-morpholinomethyl-2-oxazolidinone,Plasma,1
+"2,5-Piperazinedione, 3-benzyl-6-isopropyl-",Plasma,3-Hydroxyisovaleric acid,Plasma,1
+"2,5-Piperazinedione, 3-benzyl-6-isopropyl-",Plasma,"3,5-Dimethylpyrazole",Plasma,1
+"2,5-Piperazinedione, 3-benzyl-6-isopropyl-",Plasma,"3beta,4beta-Bis(trimethylsiloxy)cholest-5-ene",Plasma,1
+"2,5-Piperazinedione, 3-benzyl-6-isopropyl-",Plasma,"Acetin, bis-1,3-trimethylsilyl ether",Plasma,1
+"2,5-Piperazinedione, 3-benzyl-6-isopropyl-",Plasma,alpha-Tocopherol,Plasma,1
+"2,5-Piperazinedione, 3-benzyl-6-isopropyl-",Plasma,Arachidonic acid,Plasma,1
+"2,5-Piperazinedione, 3-benzyl-6-isopropyl-",Plasma,Azatadine,Plasma,1
+"2,5-Piperazinedione, 3-benzyl-6-isopropyl-",Plasma,"Benzimidazole, 5-trifluoromethyl-2-methyl-",Plasma,1
+"2,5-Piperazinedione, 3-benzyl-6-isopropyl-",Plasma,Benzophenone,Plasma,1
+"2,5-Piperazinedione, 3-benzyl-6-isopropyl-",Plasma,"Butanal, 2,3,4-tris[(trimethylsilyl)oxy]-, O-methyloxime, [R-(R*,R*)]-",Plasma,1
+"2,5-Piperazinedione, 3-benzyl-6-isopropyl-",Plasma,"Butanoic acid, 2,4-bis[(trimethylsilyl)oxy]-",Plasma,1
+"2,5-Piperazinedione, 3-benzyl-6-isopropyl-",Plasma,"D-(+)-Ribono-1,4-lactone (R,S,R)-",Plasma,1
+"2,5-Piperazinedione, 3-benzyl-6-isopropyl-",Plasma,Dinoseb ,Plasma,1
+"2,5-Piperazinedione, 3-benzyl-6-isopropyl-",Plasma,Diphenyl ether,Plasma,1
+"2,5-Piperazinedione, 3-benzyl-6-isopropyl-",Plasma,DL-Glyceraldehyde,Plasma,1
+"2,5-Piperazinedione, 3-benzyl-6-isopropyl-",Plasma,"Dodecane, 4,6-dimethyl-",Plasma,1
+"2,5-Piperazinedione, 3-benzyl-6-isopropyl-",Plasma,Indole-3-lactic acid,Plasma,1
+"2,5-Piperazinedione, 3-benzyl-6-isopropyl-",Plasma,Indole-5-carboxylic acid,Plasma,1
+"2,5-Piperazinedione, 3-benzyl-6-isopropyl-",Plasma,Isofucosterol,Plasma,1
+"2,5-Piperazinedione, 3-benzyl-6-isopropyl-",Plasma,Isopropyl palmitate,Plasma,1
+"2,5-Piperazinedione, 3-benzyl-6-isopropyl-",Plasma,Methyl aminoacetate,Plasma,1
+"2,5-Piperazinedione, 3-benzyl-6-isopropyl-",Plasma,N-Methyl-N-(tetrahydro-2-furanylmethyl)-4-piperidinamine,Plasma,1
+"2,5-Piperazinedione, 3-benzyl-6-isopropyl-",Plasma,"N,N-Diethyl-2-aminoethanol",Plasma,1
+"2,5-Piperazinedione, 3-benzyl-6-isopropyl-",Plasma,"N,O-Bis(trimethylsilyl)carbamate",Plasma,1
+"2,5-Piperazinedione, 3-benzyl-6-isopropyl-",Plasma,Neostigmine ,Plasma,1
+"2,5-Piperazinedione, 3-benzyl-6-isopropyl-",Plasma,Niclosamide,Plasma,1
+"2,5-Piperazinedione, 3-benzyl-6-isopropyl-",Plasma,Nonadecanoic acid,Plasma,1
+"2,5-Piperazinedione, 3-benzyl-6-isopropyl-",Plasma,"Pentanedioic acid, 3-methyl-3-[(trimethylsilyl)oxy]-",Plasma,1
+"2,5-Piperazinedione, 3-benzyl-6-isopropyl-",Plasma,"Pentenoic acid, 4-[(trimethylsilyl)oxy]-",Plasma,1
+"2,5-Piperazinedione, 3-benzyl-6-isopropyl-",Plasma,Phenoxyacetic acid,Plasma,1
+"2,5-Piperazinedione, 3-benzyl-6-isopropyl-",Plasma,Phloroglucinol,Plasma,1
+"2,5-Piperazinedione, 3-benzyl-6-isopropyl-",Plasma,"Propanetriol, 2-methyl-",Plasma,1
+"2,5-Piperazinedione, 3-benzyl-6-isopropyl-",Plasma,Propylamine,Plasma,1
+"2,5-Piperazinedione, 3-benzyl-6-isopropyl-",Plasma,S-Methyl-L-cysteine,Plasma,1
+"2,5-Piperazinedione, 3-benzyl-6-isopropyl-",Plasma,Salsoline,Plasma,1
+"2,5-Piperazinedione, 3-benzyl-6-isopropyl-",Plasma,Sertraline carbamoyl glucuronide,Plasma,1
+"2,5-Piperazinedione, 3-benzyl-6-isopropyl-",Plasma,"Stigmast-5-ene, 3beta-",Plasma,1
+"2,5-Piperazinedione, 3-benzyl-6-isopropyl-",Plasma,Tartronic acid,Plasma,1
+"2,5-Piperazinedione, 3-benzyl-6-isopropyl-",Plasma,Triethanolamine,Plasma,1
+"2,6-Bis[2-[2-S-thiosulfuroethylamino]ethoxy]pyrazine",Plasma,"3-Hydroxy-2,3-dihydromaltol",Plasma,1
+"2,6-Bis[2-[2-S-thiosulfuroethylamino]ethoxy]pyrazine",Plasma,"3,5-Dimethylpyrazole",Plasma,1
+"2,6-Bis[2-[2-S-thiosulfuroethylamino]ethoxy]pyrazine",Plasma,"3beta,4beta-Bis(trimethylsiloxy)cholest-5-ene",Plasma,1
+"2,6-Bis[2-[2-S-thiosulfuroethylamino]ethoxy]pyrazine",Plasma,4-Hydroxybenzeneacetic acid,Plasma,1
+"2,6-Bis[2-[2-S-thiosulfuroethylamino]ethoxy]pyrazine",Plasma,alpha-Tocopherol,Plasma,1
+"2,6-Bis[2-[2-S-thiosulfuroethylamino]ethoxy]pyrazine",Plasma,"beta-D-Galactofuranose, 1,2,3,5,6-pentakis-O-(trimethylsilyl)-",Plasma,1
+"2,6-Bis[2-[2-S-thiosulfuroethylamino]ethoxy]pyrazine",Plasma,"Butanoic acid, 2,4-bis[(trimethylsilyl)oxy]-",Plasma,1
+"2,6-Bis[2-[2-S-thiosulfuroethylamino]ethoxy]pyrazine",Plasma,"Cephalotaxine, 3-deoxy-3,11-epoxy-, (3alpha,11alpha)-",Plasma,-1
+"2,6-Bis[2-[2-S-thiosulfuroethylamino]ethoxy]pyrazine",Plasma,"D-(+)-Ribono-1,4-lactone (R,S,R)-",Plasma,1
+"2,6-Bis[2-[2-S-thiosulfuroethylamino]ethoxy]pyrazine",Plasma,D-Fructose,Plasma,1
+"2,6-Bis[2-[2-S-thiosulfuroethylamino]ethoxy]pyrazine",Plasma,Dinoseb ,Plasma,1
+"2,6-Bis[2-[2-S-thiosulfuroethylamino]ethoxy]pyrazine",Plasma,DL-Glyceraldehyde,Plasma,1
+"2,6-Bis[2-[2-S-thiosulfuroethylamino]ethoxy]pyrazine",Plasma,Indole-5-carboxylic acid,Plasma,1
+"2,6-Bis[2-[2-S-thiosulfuroethylamino]ethoxy]pyrazine",Plasma,Isofucosterol,Plasma,1
+"2,6-Bis[2-[2-S-thiosulfuroethylamino]ethoxy]pyrazine",Plasma,Isopropyl palmitate,Plasma,1
+"2,6-Bis[2-[2-S-thiosulfuroethylamino]ethoxy]pyrazine",Plasma,Methyl aminoacetate,Plasma,1
+"2,6-Bis[2-[2-S-thiosulfuroethylamino]ethoxy]pyrazine",Plasma,Methyl-3-methoxy-5-methyl benzoate,Plasma,1
+"2,6-Bis[2-[2-S-thiosulfuroethylamino]ethoxy]pyrazine",Plasma,N-Methyl-N-(tetrahydro-2-furanylmethyl)-4-piperidinamine,Plasma,1
+"2,6-Bis[2-[2-S-thiosulfuroethylamino]ethoxy]pyrazine",Plasma,Nonadecanoic acid,Plasma,1
+"2,6-Bis[2-[2-S-thiosulfuroethylamino]ethoxy]pyrazine",Plasma,"Pentanedioic acid, 3-methyl-3-[(trimethylsilyl)oxy]-",Plasma,1
+"2,6-Bis[2-[2-S-thiosulfuroethylamino]ethoxy]pyrazine",Plasma,"Propanetriol, 2-methyl-",Plasma,1
+"2,6-Bis[2-[2-S-thiosulfuroethylamino]ethoxy]pyrazine",Plasma,Tartronic acid,Plasma,1
+"2,6-Bis[2-[2-S-thiosulfuroethylamino]ethoxy]pyrazine",Plasma,"Thymine, 1,3-dimethyl-6-(trimethylsilyloxymethyl)-",Plasma,1
+"2,6-Bis[2-[2-S-thiosulfuroethylamino]ethoxy]pyrazine",Plasma,Triethanolamine,Plasma,1
+"2,6-Dimethyl-N-[3-(trimethylsilyl)-1,3-thiazinan-2-ylidene]aniline",Plasma,"2-Acetyl-3-(1-methyl-2-pyrrolyl)-1,4-benzenediol",Plasma,-1
+"2,6-Dimethyl-N-[3-(trimethylsilyl)-1,3-thiazinan-2-ylidene]aniline",Plasma,5-(2-Aminopropyl)-2-methylphenol,Plasma,-1
+"2,6-Dimethyl-N-[3-(trimethylsilyl)-1,3-thiazinan-2-ylidene]aniline",Plasma,"Acetamide, N,N-diethyl-",Plasma,1
+"2,6-Dimethyl-N-[3-(trimethylsilyl)-1,3-thiazinan-2-ylidene]aniline",Plasma,Glycolic acid,Plasma,1
+"2,6-Dimethyl-N-[3-(trimethylsilyl)-1,3-thiazinan-2-ylidene]aniline",Plasma,p-Hydroxydiisopropylbenzene,Plasma,1
+"3-(3-Cyclohexylaminopropionylamino)-5-ethylthiophene-2-carboxylic acid, ethyl ester",Plasma,DL-Phenylalanine,Plasma,1
+"3-(3-Cyclohexylaminopropionylamino)-5-ethylthiophene-2-carboxylic acid, ethyl ester",Plasma,"N-isobutyl-2-(trimethylsilyloxy]-4,5-dihydro-1H-imidazole-1-carboxamide",Plasma,1
+3-Amino-2-piperidone,Plasma,1-Monoacetin,Plasma,1
+3-Amino-2-piperidone,Plasma,"3-Cyclohexyl-L-alanine amide, N,N,N'N'-tetramethyl-",Plasma,1
+3-Amino-2-piperidone,Plasma,5-(2-Aminopropyl)-2-methylphenol,Plasma,-1
+3-Amino-2-piperidone,Plasma,"5alpha-Pregnane-3,20-dione",Plasma,1
+3-Amino-2-piperidone,Plasma,"Trimethylsilyl (5-benzyl-3,6-dioxopiperazin-2-yl)acetate",Plasma,1
+3-Amino-5-morpholinomethyl-2-oxazolidinone,Plasma,1-(4-Hydroxybenzylidene)acetone,Plasma,1
+3-Amino-5-morpholinomethyl-2-oxazolidinone,Plasma,1-Octanol,Plasma,1
+3-Amino-5-morpholinomethyl-2-oxazolidinone,Plasma,"Acetamide, N,N-diethyl-",Plasma,1
+3-Amino-5-morpholinomethyl-2-oxazolidinone,Plasma,"Butanal, 2,3,4-tris[(trimethylsilyl)oxy]-, O-methyloxime, [R-(R*,R*)]-",Plasma,1
+3-Amino-5-morpholinomethyl-2-oxazolidinone,Plasma,L-Tyrosine,Plasma,1
+3-Aminobutanoic acid,Plasma,"Glycine, N-(N-DL-leucylglycyl)-",Plasma,1
+3-Aminobutanoic acid,Plasma,Tributyl acetylcitrate,Plasma,-1
+"3-Buten-2-one, 3-trimethylsilyloxy-",Plasma,Octanoic acid,Plasma,1
+"3-Buten-2-one, 4-(4-methoxyphenyl)-",Plasma,"7-Isoquinolinol, 1,2,3,4-tetrahydro-1-[(4-hydroxyphenyl)methyl]-6-methoxy-",Plasma,1
+"3-Cyclohexyl-L-alanine amide, N,N,N'N'-tetramethyl-",Plasma,1-Monoacetin,Plasma,1
+"3-Cyclohexyl-L-alanine amide, N,N,N'N'-tetramethyl-",Plasma,1-Phenylethanol,Plasma,-1
+"3-Cyclohexyl-L-alanine amide, N,N,N'N'-tetramethyl-",Plasma,5-(2-Aminopropyl)-2-methylphenol,Plasma,-1
+"3-Cyclohexyl-L-alanine amide, N,N,N'N'-tetramethyl-",Plasma,Glycine,Plasma,1
+"3-Cyclohexyl-L-alanine amide, N,N,N'N'-tetramethyl-",Plasma,Propylamine,Plasma,1
+3-Hexenedinitrile,Plasma,(pm)-alpha-Tocopherol acetate,Plasma,1
+3-Hexenedinitrile,Plasma,1-(4-Hydroxybenzylidene)acetone,Plasma,1
+3-Hexenedinitrile,Plasma,1-Octanol,Plasma,1
+3-Hexenedinitrile,Plasma,2-Hexen-1-ol,Plasma,1
+3-Hexenedinitrile,Plasma,3-Amino-5-morpholinomethyl-2-oxazolidinone,Plasma,1
+3-Hexenedinitrile,Plasma,3-Hydroxyisovaleric acid,Plasma,1
+3-Hexenedinitrile,Plasma,"3,5-Dimethylpyrazole",Plasma,1
+3-Hexenedinitrile,Plasma,5-Henicosylresorcinol,Plasma,1
+3-Hexenedinitrile,Plasma,"Benzoic acid, pentadecyl ester",Plasma,1
+3-Hexenedinitrile,Plasma,Benzophenone,Plasma,1
+3-Hexenedinitrile,Plasma,Cinnamic acid,Plasma,1
+3-Hexenedinitrile,Plasma,Diphenyl ether,Plasma,1
+3-Hexenedinitrile,Plasma,Hydantoic acid,Plasma,1
+3-Hexenedinitrile,Plasma,Levulinic acid,Plasma,1
+3-Hexenedinitrile,Plasma,Phenoxyacetic acid,Plasma,1
+3-Hexenedinitrile,Plasma,Phlorizin,Plasma,1
+3-Hexenedinitrile,Plasma,Phloroglucinol,Plasma,1
+3-Hexenedinitrile,Plasma,Pimelic acid,Plasma,1
+3-Hexenedinitrile,Plasma,Salsoline,Plasma,1
+3-Hexenedinitrile,Plasma,"Trimethylsilyl (5-benzyl-3,6-dioxopiperazin-2-yl)acetate",Plasma,1
+"3-Hydroxy-2,3-dihydromaltol",Plasma,3-Methoxysalicylic acid,Plasma,-1
+"3-Hydroxy-2,3-dihydromaltol",Plasma,L-Aspartic acid,Plasma,1
+3-Hydroxyisovaleric acid,Plasma,1-(4-Hydroxybenzylidene)acetone,Plasma,1
+3-Hydroxyisovaleric acid,Plasma,1-Octanol,Plasma,1
+3-Hydroxyisovaleric acid,Plasma,3-Amino-5-morpholinomethyl-2-oxazolidinone,Plasma,1
+3-Hydroxyisovaleric acid,Plasma,"3beta,4beta-Bis(trimethylsiloxy)cholest-5-ene",Plasma,1
+3-Hydroxyisovaleric acid,Plasma,5-Henicosylresorcinol,Plasma,1
+3-Hydroxyisovaleric acid,Plasma,"Acetohydrazide, 2-(2-isopropyl-5-methylphenoxy)-N2-benzylideno-",Plasma,1
+3-Hydroxyisovaleric acid,Plasma,Arachidonic acid,Plasma,1
+3-Hydroxyisovaleric acid,Plasma,"Benzimidazole, 5-trifluoromethyl-2-methyl-",Plasma,1
+3-Hydroxyisovaleric acid,Plasma,"Benzoic acid, pentadecyl ester",Plasma,1
+3-Hydroxyisovaleric acid,Plasma,"beta-D-Galactofuranose, 1,2,3,5,6-pentakis-O-(trimethylsilyl)-",Plasma,1
+3-Hydroxyisovaleric acid,Plasma,"Butanoic acid, 2,4-bis[(trimethylsilyl)oxy]-",Plasma,1
+3-Hydroxyisovaleric acid,Plasma,Dinoseb ,Plasma,1
+3-Hydroxyisovaleric acid,Plasma,Diphenyl ether,Plasma,1
+3-Hydroxyisovaleric acid,Plasma,Levulinic acid,Plasma,1
+3-Hydroxyisovaleric acid,Plasma,Metanephrine,Plasma,1
+3-Hydroxyisovaleric acid,Plasma,Myristic acid,Plasma,1
+3-Hydroxyisovaleric acid,Plasma,Nonadecanoic acid,Plasma,1
+3-Hydroxyisovaleric acid,Plasma,Phenoxyacetic acid,Plasma,1
+3-Hydroxyisovaleric acid,Plasma,"Propanetriol, 2-methyl-",Plasma,1
+3-Hydroxyisovaleric acid,Plasma,Triethanolamine,Plasma,1
+3-Indoleacetic acid,Plasma,3-Indolepropionic acid,Plasma,1
+3-Indoleacetic acid,Plasma,5-(2-Aminopropyl)-2-methylphenol,Plasma,-1
+3-Indoleacetic acid,Plasma,7-(Trimethylsilyl)amino-4-methylcoumarin,Plasma,1
+3-Indoleacetic acid,Plasma,Glycine,Plasma,1
+3-Indoleacetic acid,Plasma,Indole-3-lactic acid,Plasma,1
+3-Indoleacetic acid,Plasma,Ketamine ,Plasma,-1
+3-Indoleacetic acid,Plasma,L-Tryptophan,Plasma,1
+3-Indoleacetic acid,Plasma,Naphthofluorescein,Plasma,1
+3-Indoleacetic acid,Plasma,Niacinamide,Plasma,-1
+3-Indoleacetic acid,Plasma,"Tacrine, N-trimethylsilyl-",Plasma,1
+3-Indolepropionic acid,Plasma,S-Methyl-L-cysteine,Plasma,1
+3-Methoxysalicylic acid,Plasma,"(S,S)-(-)-Hydrobenzoin",Plasma,-1
+3-Methoxysalicylic acid,Plasma,"3,4-dimethyl-5-(3,4-methylenedioxy)phenyloxazolidine",Plasma,1
+"3,5-Dimethylpyrazole",Plasma,1-(4-Hydroxybenzylidene)acetone,Plasma,1
+"3,5-Dimethylpyrazole",Plasma,1-Octanol,Plasma,1
+"3,5-Dimethylpyrazole",Plasma,2-Naphthol,Plasma,1
+"3,5-Dimethylpyrazole",Plasma,4-Cumylphenol,Plasma,1
+"3,5-Dimethylpyrazole",Plasma,"Benzimidazole, 5-trifluoromethyl-2-methyl-",Plasma,1
+"3,5-Dimethylpyrazole",Plasma,"Benzoic acid, pentadecyl ester",Plasma,1
+"3,5-Dimethylpyrazole",Plasma,Benzophenone,Plasma,1
+"3,5-Dimethylpyrazole",Plasma,"Butanoic acid, 2,4-bis[(trimethylsilyl)oxy]-",Plasma,1
+"3,5-Dimethylpyrazole",Plasma,Cinnamic acid,Plasma,1
+"3,5-Dimethylpyrazole",Plasma,Diphenyl ether,Plasma,1
+"3,5-Dimethylpyrazole",Plasma,Indole-5-carboxylic acid,Plasma,1
+"3,5-Dimethylpyrazole",Plasma,"Inosose-2, 1,3,4,5,6-pentakis-",Plasma,1
+"3,5-Dimethylpyrazole",Plasma,Isofucosterol,Plasma,1
+"3,5-Dimethylpyrazole",Plasma,Methyl aminoacetate,Plasma,1
+"3,5-Dimethylpyrazole",Plasma,N-Acetyl-L-glutamic acid,Plasma,1
+"3,5-Dimethylpyrazole",Plasma,Neostigmine ,Plasma,1
+"3,5-Dimethylpyrazole",Plasma,Nonadecanoic acid,Plasma,1
+"3,5-Dimethylpyrazole",Plasma,"Pentenoic acid, 4-[(trimethylsilyl)oxy]-",Plasma,1
+"3,5-Dimethylpyrazole",Plasma,Phloroglucinol,Plasma,1
+"3,5-Dimethylpyrazole",Plasma,"Propanetriol, 2-methyl-",Plasma,1
+"3,5-Dimethylpyrazole",Plasma,"Stigmast-5-ene, 3beta-",Plasma,1
+"3,5-Dimethylpyrazole",Plasma,"Trimethylsilyl (5-benzyl-3,6-dioxopiperazin-2-yl)acetate",Plasma,1
+3'-(Trimethylsilyl)oxy-beta-naphthoflavone,Plasma,D-Threitol,Plasma,1
+3'-Hydroxyacetophenone,Plasma,"Methyl (3,4-dimethoxyphenyl)(hydroxy)acetate",Plasma,1
+"3beta,4beta-Bis(trimethylsiloxy)cholest-5-ene",Plasma,(pm)-alpha-Tocopherol acetate,Plasma,1
+"3beta,4beta-Bis(trimethylsiloxy)cholest-5-ene",Plasma,1-(4-Hydroxybenzylidene)acetone,Plasma,1
+"3beta,4beta-Bis(trimethylsiloxy)cholest-5-ene",Plasma,1-Phenylethanol,Plasma,-1
+"3beta,4beta-Bis(trimethylsiloxy)cholest-5-ene",Plasma,"2-Propanone, bis(1-methylethyl)hydrazone",Plasma,1
+"3beta,4beta-Bis(trimethylsiloxy)cholest-5-ene",Plasma,"5-Androsten-17alpha-methyl-3beta,17beta-diol",Plasma,1
+"3beta,4beta-Bis(trimethylsiloxy)cholest-5-ene",Plasma,"6,7,4'-Trihydroxyisoflavone",Plasma,1
+"3beta,4beta-Bis(trimethylsiloxy)cholest-5-ene",Plasma,7-(Trimethylsilyl)amino-4-methylcoumarin,Plasma,1
+"3beta,4beta-Bis(trimethylsiloxy)cholest-5-ene",Plasma,Acetoacetic acid,Plasma,1
+"3beta,4beta-Bis(trimethylsiloxy)cholest-5-ene",Plasma,Aceturic acid,Plasma,1
+"3beta,4beta-Bis(trimethylsiloxy)cholest-5-ene",Plasma,alpha-Tocopherol,Plasma,1
+"3beta,4beta-Bis(trimethylsiloxy)cholest-5-ene",Plasma,"Benzaldehyde, 2,5-dimethyl-",Plasma,1
+"3beta,4beta-Bis(trimethylsiloxy)cholest-5-ene",Plasma,Benzeneacetic acid,Plasma,1
+"3beta,4beta-Bis(trimethylsiloxy)cholest-5-ene",Plasma,"Benzimidazole, 5-trifluoromethyl-2-methyl-",Plasma,1
+"3beta,4beta-Bis(trimethylsiloxy)cholest-5-ene",Plasma,"Butanoic acid, 2,4-bis[(trimethylsilyl)oxy]-",Plasma,1
+"3beta,4beta-Bis(trimethylsiloxy)cholest-5-ene",Plasma,cis-4-Trimethylsilyloxy-cyclohexyl(trimethylsilyl)carboxylate,Plasma,1
+"3beta,4beta-Bis(trimethylsiloxy)cholest-5-ene",Plasma,"Cyclopentaneacetic acid, 3-oxo-2-pentyl-",Plasma,1
+"3beta,4beta-Bis(trimethylsiloxy)cholest-5-ene",Plasma,"Cyclopentanone, 2,2,4-trimethyl-",Plasma,1
+"3beta,4beta-Bis(trimethylsiloxy)cholest-5-ene",Plasma,D-Fructose,Plasma,1
+"3beta,4beta-Bis(trimethylsiloxy)cholest-5-ene",Plasma,Deoxycholic Acid,Plasma,1
+"3beta,4beta-Bis(trimethylsiloxy)cholest-5-ene",Plasma,Dinoseb ,Plasma,1
+"3beta,4beta-Bis(trimethylsiloxy)cholest-5-ene",Plasma,"Ethanamine, N,N-diethyl-2,2-dimethyl-2-[(3,5-dimethoxy)phenyl]-",Plasma,1
+"3beta,4beta-Bis(trimethylsiloxy)cholest-5-ene",Plasma,Indole-5-carboxylic acid,Plasma,1
+"3beta,4beta-Bis(trimethylsiloxy)cholest-5-ene",Plasma,Isofucosterol,Plasma,1
+"3beta,4beta-Bis(trimethylsiloxy)cholest-5-ene",Plasma,Isopropyl palmitate,Plasma,1
+"3beta,4beta-Bis(trimethylsiloxy)cholest-5-ene",Plasma,Itaconic acid,Plasma,1
+"3beta,4beta-Bis(trimethylsiloxy)cholest-5-ene",Plasma,Levulinic acid,Plasma,1
+"3beta,4beta-Bis(trimethylsiloxy)cholest-5-ene",Plasma,Metanephrine,Plasma,1
+"3beta,4beta-Bis(trimethylsiloxy)cholest-5-ene",Plasma,Methyl aminoacetate,Plasma,1
+"3beta,4beta-Bis(trimethylsiloxy)cholest-5-ene",Plasma,Methylmalonic monoamide,Plasma,1
+"3beta,4beta-Bis(trimethylsiloxy)cholest-5-ene",Plasma,Neostigmine ,Plasma,1
+"3beta,4beta-Bis(trimethylsiloxy)cholest-5-ene",Plasma,Niclosamide,Plasma,1
+"3beta,4beta-Bis(trimethylsiloxy)cholest-5-ene",Plasma,Nonadecanoic acid,Plasma,1
+"3beta,4beta-Bis(trimethylsiloxy)cholest-5-ene",Plasma,p-Hydroxydiisopropylbenzene,Plasma,1
+"3beta,4beta-Bis(trimethylsiloxy)cholest-5-ene",Plasma,"Pentanedioic acid, 3-methyl-3-[(trimethylsilyl)oxy]-",Plasma,1
+"3beta,4beta-Bis(trimethylsiloxy)cholest-5-ene",Plasma,Pimelic acid,Plasma,1
+"3beta,4beta-Bis(trimethylsiloxy)cholest-5-ene",Plasma,"Propanetriol, 2-methyl-",Plasma,1
+"3beta,4beta-Bis(trimethylsiloxy)cholest-5-ene",Plasma,Propylamine,Plasma,1
+"3beta,4beta-Bis(trimethylsiloxy)cholest-5-ene",Plasma,Tartronic acid,Plasma,1
+"3beta,4beta-Bis(trimethylsiloxy)cholest-5-ene",Plasma,Triethanolamine,Plasma,1
+4-(Methoxycarbonyl)phenol,Plasma,"Trimethylsilyl (5-benzyl-3,6-dioxopiperazin-2-yl)acetate",Plasma,-1
+4-Cumylphenol,Plasma,Octopamine,Plasma,-1
+4-Hydroxy-5-(hydroxymethyl)oxolan-2-one,Plasma,Cyclo(L-prolyl-L-valine) ,Plasma,-1
+4-Hydroxybenzaldehyde,Plasma,2-Pyrrolidinone,Plasma,1
+4-Hydroxybenzeneacetic acid,Plasma,"Butanoic acid, 2,4-bis[(trimethylsilyl)oxy]-",Plasma,1
+4-Hydroxybenzeneacetic acid,Plasma,cis-4-Trimethylsilyloxy-cyclohexyl(trimethylsilyl)carboxylate,Plasma,1
+4-Hydroxybenzeneacetic acid,Plasma,D-Fructose,Plasma,1
+4-Hydroxybenzeneacetic acid,Plasma,Glyceric acid,Plasma,1
+4-Hydroxybenzeneacetic acid,Plasma,L-Threitol,Plasma,1
+4-Hydroxybenzeneacetic acid,Plasma,Methyl-3-methoxy-5-methyl benzoate,Plasma,1
+4-Hydroxybenzeneacetic acid,Plasma,Tartronic acid,Plasma,1
+4-Hydroxybenzoic acid,Plasma,Glycolic acid,Plasma,1
+4-Hydroxyphenyllactic acid,Plasma,"(2S,3R)-3-[(4E,7E)-Nona-4,7-dienoyl]-N,N-bis(trimethylsilyl)oxirane-2-carboxamide ",Plasma,1
+4-Hydroxyphenyllactic acid,Plasma,L-Tyrosine,Plasma,1
+5-(2-Aminopropyl)-2-methylphenol,Plasma,"D-Xylofuranose, 1,2,3,5-tetrakis-O-",Plasma,-1
+5-(2-Aminopropyl)-2-methylphenol,Plasma,l-Histidine ethyl ester,Plasma,-1
+5-Aminovaleric acid,Plasma,Palmitelaidic acid,Plasma,-1
+5-Henicosylresorcinol,Plasma,1-Octanol,Plasma,1
+5-Henicosylresorcinol,Plasma,3-Amino-5-morpholinomethyl-2-oxazolidinone,Plasma,1
+5-Henicosylresorcinol,Plasma,"Benzimidazole, 5-trifluoromethyl-2-methyl-",Plasma,1
+5-Henicosylresorcinol,Plasma,"Benzoic acid, pentadecyl ester",Plasma,1
+5-Henicosylresorcinol,Plasma,Benzophenone,Plasma,1
+5-Henicosylresorcinol,Plasma,Cinnamic acid,Plasma,1
+5-Henicosylresorcinol,Plasma,Diphenyl ether,Plasma,1
+5-Henicosylresorcinol,Plasma,"Ethanone, 1-(2,5-dimethoxyphenyl)-",Plasma,1
+5-Henicosylresorcinol,Plasma,Hexanoic acid,Plasma,1
+5-Henicosylresorcinol,Plasma,Levulinic acid,Plasma,1
+5-Henicosylresorcinol,Plasma,Metanephrine,Plasma,1
+5-Henicosylresorcinol,Plasma,Niclosamide,Plasma,1
+5-Henicosylresorcinol,Plasma,Nitrosothymol,Plasma,1
+5-Henicosylresorcinol,Plasma,"Pentanedioic acid, 2-[(trimethylsilyl)oxy]-",Plasma,-1
+5-Henicosylresorcinol,Plasma,Phlorizin,Plasma,1
+5-Henicosylresorcinol,Plasma,Pimelic acid,Plasma,1
+5-Henicosylresorcinol,Plasma,S-Methyl-L-cysteine,Plasma,1
+5-Hydroxyquinoline,Plasma,(pm)-alpha-Tocopherol acetate,Plasma,1
+5-Hydroxyquinoline,Plasma,"(R*,S*)-2,3-Dihydroxybutanoic acid",Plasma,1
+5-Hydroxyquinoline,Plasma,1-Phenylethanol,Plasma,-1
+5-Hydroxyquinoline,Plasma,"2-Propanone, bis(1-methylethyl)hydrazone",Plasma,1
+5-Hydroxyquinoline,Plasma,7-(Trimethylsilyl)amino-4-methylcoumarin,Plasma,1
+5-Hydroxyquinoline,Plasma,Aceturic acid,Plasma,1
+5-Hydroxyquinoline,Plasma,"Benzaldehyde, 2,5-dimethyl-",Plasma,1
+5-Hydroxyquinoline,Plasma,Benzeneacetic acid,Plasma,1
+5-Hydroxyquinoline,Plasma, 5-Hydroxyhexanoic acid,Plasma,1
+5-Hydroxyquinoline,Plasma,cis-4-Trimethylsilyloxy-cyclohexyl(trimethylsilyl)carboxylate,Plasma,1
+5-Hydroxyquinoline,Plasma,Dihydrouracil,Plasma,1
+5-Hydroxyquinoline,Plasma,DL-Glyceraldehyde,Plasma,1
+5-Hydroxyquinoline,Plasma,"Ethanamine, N,N-diethyl-2,2-dimethyl-2-[(3,5-dimethoxy)phenyl]-",Plasma,1
+5-Hydroxyquinoline,Plasma,Isoxaben,Plasma,1
+5-Hydroxyquinoline,Plasma,N-Isovaleroylglycine,Plasma,1
+5-Hydroxyquinoline,Plasma,N-Methyl-N-(tetrahydro-2-furanylmethyl)-4-piperidinamine,Plasma,1
+5-Hydroxyquinoline,Plasma,"N,O-Bis(trimethylsilyl)carbamate",Plasma,1
+5-Hydroxyquinoline,Plasma,Tartronic acid,Plasma,1
+5-Hydroxytryptophan,Plasma,"5-Cholesten-3beta, 7alpha-bis[(trimethylsilyl)oxy]- ",Plasma,1
+5-Hydroxytryptophan,Plasma,S-Methyl-L-cysteine,Plasma,1
+5-Hydroxytryptophan,Plasma,Salsoline,Plasma,1
+"5alpha-Pregnane-3,20-dione",Plasma,"2,2,8,8-Tetramethyl-3,7-dioxa-4-aza-2,8-disilanon-4-ene",Plasma,1
+"5alpha-Pregnane-3,20-dione",Plasma,Delorazepam,Plasma,1
+"6,7,4'-Trihydroxyisoflavone",Plasma,(pm)-alpha-Tocopherol acetate,Plasma,1
+"6,7,4'-Trihydroxyisoflavone",Plasma,"Benzene, 1-acetoxy-2,6-dimethoxy-4-(2-propenyl)-",Plasma,-1
+"6,7,4'-Trihydroxyisoflavone",Plasma,D-Fructose,Plasma,1
+"6,7,4'-Trihydroxyisoflavone",Plasma,Methyl aminoacetate,Plasma,1
+"6,7,4'-Trihydroxyisoflavone",Plasma,p-Toluic acid,Plasma,1
+"6,7,4'-Trihydroxyisoflavone",Plasma,"Propanetriol, 2-methyl-",Plasma,1
+"6,7,4'-Trihydroxyisoflavone",Plasma,Ribitol,Plasma,1
+"7-Acetyl-6-ethyl-1,1,4,4-tetramethyltetralin ",Plasma,"2-Acetyl-3-(1-methyl-2-pyrrolyl)-1,4-benzenediol",Plasma,1
+"7-Acetyl-6-ethyl-1,1,4,4-tetramethyltetralin ",Plasma,D-Ribose,Plasma,-1
+9-Octadecenamide,Plasma,"9,12-Octadecadienoic acid",Plasma,1
+9-Octadecenamide,Plasma,Ketamine ,Plasma,-1
+"9,12-Octadecadienoic acid",Plasma,5-Aminovaleric acid,Plasma,-1
+"Acetic acid, bis[(trimethylsilyl)oxyl]-",Plasma,"(S,S)-(-)-Hydrobenzoin",Plasma,-1
+Acetoacetic acid,Plasma,"(R*,S*)-2,3-Dihydroxybutanoic acid",Plasma,1
+Acetoacetic acid,Plasma,7-(Trimethylsilyl)amino-4-methylcoumarin,Plasma,1
+Acetoacetic acid,Plasma,Aceturic acid,Plasma,1
+Acetoacetic acid,Plasma,"Benzaldehyde, 2,5-dimethyl-",Plasma,1
+Acetoacetic acid,Plasma,Benzophenone,Plasma,1
+Acetoacetic acid,Plasma,Indole-5-carboxylic acid,Plasma,1
+Acetoacetic acid,Plasma,Isopropyl palmitate,Plasma,1
+Acetoacetic acid,Plasma,Itaconic acid,Plasma,1
+Acetoacetic acid,Plasma,Methyl aminoacetate,Plasma,1
+Acetoacetic acid,Plasma,Neostigmine ,Plasma,1
+Acetoacetic acid,Plasma,"Pentenoic acid, 4-[(trimethylsilyl)oxy]-",Plasma,1
+Acetoacetic acid,Plasma,"Propanetriol, 2-methyl-",Plasma,1
+"Acetohydrazide, 2-(2-isopropyl-5-methylphenoxy)-N2-benzylideno-",Plasma,Ammeline,Plasma,1
+Aceturic acid,Plasma,alpha-Tocopherol,Plasma,1
+Aceturic acid,Plasma, 5-Hydroxyhexanoic acid,Plasma,1
+Aceturic acid,Plasma,"Butanoic acid, 2,4-bis[(trimethylsilyl)oxy]-",Plasma,1
+Aceturic acid,Plasma,"Cephalotaxine, 3-deoxy-3,11-epoxy-, (3alpha,11alpha)-",Plasma,-1
+Aceturic acid,Plasma,Dihydrouracil,Plasma,1
+Aceturic acid,Plasma,DL-Glyceraldehyde,Plasma,1
+Aceturic acid,Plasma,"Glycine, N-[4-[(trimethylsilyl)oxy]benzoyl]-",Plasma,1
+Aceturic acid,Plasma,Isopropyl palmitate,Plasma,1
+Aceturic acid,Plasma,Isoxaben,Plasma,1
+Aceturic acid,Plasma,Itaconic acid,Plasma,1
+Aceturic acid,Plasma,Methylmalonic monoamide,Plasma,1
+Aceturic acid,Plasma,Nonadecanoic acid,Plasma,1
+Aceturic acid,Plasma,"Propanetriol, 2-methyl-",Plasma,1
+Aceturic acid,Plasma,Tartronic acid,Plasma,1
+Adipoyl-L-carnitine,Plasma,1-Octanol,Plasma,1
+Adipoyl-L-carnitine,Plasma,Cyclo-(l-leucyl-l-phenylalanyl) ,Plasma,-1
+Adipoyl-L-carnitine,Plasma,Tetradecanenitrile,Plasma,-1
+Allylescaline ,Plasma,4-Cumylphenol,Plasma,1
+Allylescaline ,Plasma,Benzophenone,Plasma,1
+Allylescaline ,Plasma,L-Aspartic acid,Plasma,1
+"alpha-L-Galactopyranoside, methyl 6-deoxy-, (R,R,R,S,S)-",Plasma,Mirin,Plasma,1
+alpha-Linolenic acid,Plasma,"Aziridine, 1-(2-buten-2-yl)-",Plasma,-1
+alpha-Linolenic acid,Plasma,"Benzoic acid, methyl ester",Plasma,1
+alpha-Linolenic acid,Plasma,Citric acid,Plasma,1
+alpha-Tocopherol,Plasma,1-(4-Hydroxybenzylidene)acetone,Plasma,1
+alpha-Tocopherol,Plasma,5-(2-Aminopropyl)-2-methylphenol,Plasma,-1
+alpha-Tocopherol,Plasma,5-Aminovaleric acid,Plasma,-1
+alpha-Tocopherol,Plasma,7-(Trimethylsilyl)amino-4-methylcoumarin,Plasma,1
+alpha-Tocopherol,Plasma,Arabinaric acid,Plasma,1
+alpha-Tocopherol,Plasma,Delorazepam,Plasma,1
+alpha-Tocopherol,Plasma,Diphenyl ether,Plasma,1
+alpha-Tocopherol,Plasma,"Ethanamine, N,N-diethyl-2,2-dimethyl-2-[(3,5-dimethoxy)phenyl]-",Plasma,1
+alpha-Tocopherol,Plasma,Salsoline,Plasma,1
+Arachidonic acid,Plasma,Azatadine,Plasma,1
+Arachidonic acid,Plasma,"Benzimidazole, 5-trifluoromethyl-2-methyl-",Plasma,1
+Arachidonic acid,Plasma,"beta-D-Galactofuranose, 1,2,3,5,6-pentakis-O-(trimethylsilyl)-",Plasma,1
+Arachidonic acid,Plasma,beta-Lyxopyranose,Plasma,1
+Arachidonic acid,Plasma,"Butanoic acid, 2,4-bis[(trimethylsilyl)oxy]-",Plasma,1
+Arachidonic acid,Plasma,cis-4-Trimethylsilyloxy-cyclohexyl(trimethylsilyl)carboxylate,Plasma,1
+Arachidonic acid,Plasma,L-Threitol,Plasma,1
+Arachidonic acid,Plasma,Myristic acid,Plasma,1
+Arachidonic acid,Plasma,N-Methyl-N-(tetrahydro-2-furanylmethyl)-4-piperidinamine,Plasma,1
+Arsenous acid,Plasma,"Benzene, 1,3-bis(1,1-dimethylethyl)-",Plasma,1
+Aspartic acid,Plasma,Pyrrole-2-carboxylic acid,Plasma,-1
+Azatadine,Plasma,1-(4-Hydroxybenzylidene)acetone,Plasma,1
+Azatadine,Plasma,3-Amino-5-morpholinomethyl-2-oxazolidinone,Plasma,1
+Azatadine,Plasma,"Acetin, bis-1,3-trimethylsilyl ether",Plasma,1
+Azatadine,Plasma,"Butanoic acid, 2,4-bis[(trimethylsilyl)oxy]-",Plasma,1
+Azatadine,Plasma,L-Threitol,Plasma,1
+Azatadine,Plasma,Metanephrine,Plasma,1
+Azatadine,Plasma,N-Methyl-N-(tetrahydro-2-furanylmethyl)-4-piperidinamine,Plasma,1
+Azatadine,Plasma,Sertraline carbamoyl glucuronide,Plasma,1
+"Aziridine, 1-(2-buten-2-yl)-",Plasma,Ornithine,Plasma,1
+"Benzaldehyde, 2,5-dimethyl-",Plasma,1-Phenylethanol,Plasma,-1
+"Benzaldehyde, 2,5-dimethyl-",Plasma,1-Tetradecanol,Plasma,1
+"Benzaldehyde, 2,5-dimethyl-",Plasma,"5-Androsten-17alpha-methyl-3beta,17beta-diol",Plasma,1
+"Benzaldehyde, 2,5-dimethyl-",Plasma,5-Hydroxytryptophan,Plasma,1
+"Benzaldehyde, 2,5-dimethyl-",Plasma,7-(Trimethylsilyl)amino-4-methylcoumarin,Plasma,1
+"Benzaldehyde, 2,5-dimethyl-",Plasma,Benzeneacetic acid,Plasma,1
+"Benzaldehyde, 2,5-dimethyl-",Plasma,"Benzimidazole, 5-trifluoromethyl-2-methyl-",Plasma,1
+"Benzaldehyde, 2,5-dimethyl-",Plasma,"Benzoic acid, pentadecyl ester",Plasma,1
+"Benzaldehyde, 2,5-dimethyl-",Plasma,Benzophenone,Plasma,1
+"Benzaldehyde, 2,5-dimethyl-",Plasma,"beta-d-Fructopyranose, 1-deoxy-1-(4-morpholinyl)-2,3,4,5-tetrakis-O-(trimethylsilyl)-",Plasma,1
+"Benzaldehyde, 2,5-dimethyl-",Plasma, 5-Hydroxyhexanoic acid,Plasma,1
+"Benzaldehyde, 2,5-dimethyl-",Plasma,D-Fructose,Plasma,1
+"Benzaldehyde, 2,5-dimethyl-",Plasma,Deoxycholic Acid,Plasma,1
+"Benzaldehyde, 2,5-dimethyl-",Plasma,Dihydrouracil,Plasma,1
+"Benzaldehyde, 2,5-dimethyl-",Plasma,Dinoseb ,Plasma,1
+"Benzaldehyde, 2,5-dimethyl-",Plasma,Diphenyl ether,Plasma,1
+"Benzaldehyde, 2,5-dimethyl-",Plasma,Dodecylcyclohexane,Plasma,1
+"Benzaldehyde, 2,5-dimethyl-",Plasma,"Furan, 2-pentyl-",Plasma,1
+"Benzaldehyde, 2,5-dimethyl-",Plasma,Glycine,Plasma,1
+"Benzaldehyde, 2,5-dimethyl-",Plasma,Glyoxime,Plasma,1
+"Benzaldehyde, 2,5-dimethyl-",Plasma,Hydantoic acid,Plasma,1
+"Benzaldehyde, 2,5-dimethyl-",Plasma,Indole-3-carboxaldehyde,Plasma,1
+"Benzaldehyde, 2,5-dimethyl-",Plasma,Isofucosterol,Plasma,1
+"Benzaldehyde, 2,5-dimethyl-",Plasma,Isopropyl palmitate,Plasma,1
+"Benzaldehyde, 2,5-dimethyl-",Plasma,Methyl aminoacetate,Plasma,1
+"Benzaldehyde, 2,5-dimethyl-",Plasma,Neostigmine ,Plasma,1
+"Benzaldehyde, 2,5-dimethyl-",Plasma,Niclosamide,Plasma,1
+"Benzaldehyde, 2,5-dimethyl-",Plasma,Nonadecanoic acid,Plasma,1
+"Benzaldehyde, 2,5-dimethyl-",Plasma,p-Toluic acid,Plasma,1
+"Benzaldehyde, 2,5-dimethyl-",Plasma,Phlorizin,Plasma,1
+"Benzaldehyde, 2,5-dimethyl-",Plasma,Pimelic acid,Plasma,1
+"Benzaldehyde, 2,5-dimethyl-",Plasma,"Propanetriol, 2-methyl-",Plasma,1
+"Benzaldehyde, 2,5-dimethyl-",Plasma,Propylamine,Plasma,1
+"Benzaldehyde, 2,5-dimethyl-",Plasma,"Pyrimidine, 5-methyl-2,4-bis[(trimethylsilyl)oxy]-",Plasma,1
+"Benzaldehyde, 2,5-dimethyl-",Plasma,Quazodine,Plasma,-1
+"Benzaldehyde, 2,5-dimethyl-",Plasma,S-Methyl-L-cysteine,Plasma,1
+"Benzaldehyde, 2,5-dimethyl-",Plasma,Salsoline,Plasma,1
+"Benzaldehyde, 2,5-dimethyl-",Plasma,"Stigmast-5-ene, 3beta-",Plasma,1
+"Benzaldehyde, 2,5-dimethyl-",Plasma,Suberic acid,Plasma,1
+"Benzaldehyde, 2,5-dimethyl-",Plasma,Tartronic acid,Plasma,1
+"Benzaldehyde, 2,5-dimethyl-",Plasma,Triethanolamine,Plasma,1
+"Benzene, 1-acetoxy-2,6-dimethoxy-4-(2-propenyl)-",Plasma,"Cyclopentaneacetic acid, 3-oxo-2-pentyl-",Plasma,-1
+"Benzene, 1-acetoxy-2,6-dimethoxy-4-(2-propenyl)-",Plasma,Galactopyranose,Plasma,1
+"Benzene, 1-acetoxy-2,6-dimethoxy-4-(2-propenyl)-",Plasma,L-Threitol,Plasma,-1
+"Benzene, 1-acetoxy-2,6-dimethoxy-4-(2-propenyl)-",Plasma,Phenylalanine,Plasma,-1
+"Benzene, 1-acetoxy-2,6-dimethoxy-4-(2-propenyl)-",Plasma,Triethanolamine,Plasma,-1
+"Benzene, 1,1'-(1,2-cyclobutanediyl)bis-",Plasma,"7-Acetyl-6-ethyl-1,1,4,4-tetramethyltetralin ",Plasma,1
+Benzeneacetic acid,Plasma,5-(2-Aminopropyl)-2-methylphenol,Plasma,-1
+Benzeneacetic acid,Plasma,"5-Androsten-17alpha-methyl-3beta,17beta-diol",Plasma,1
+Benzeneacetic acid,Plasma,7-(Trimethylsilyl)amino-4-methylcoumarin,Plasma,1
+Benzeneacetic acid,Plasma,"Ethanamine, N,N-diethyl-2,2-dimethyl-2-[(3,5-dimethoxy)phenyl]-",Plasma,1
+"Benzimidazole, 5-trifluoromethyl-2-methyl-",Plasma,(pm)-alpha-Tocopherol acetate,Plasma,1
+"Benzimidazole, 5-trifluoromethyl-2-methyl-",Plasma,1-(4-Hydroxybenzylidene)acetone,Plasma,1
+"Benzimidazole, 5-trifluoromethyl-2-methyl-",Plasma,1-Octanol,Plasma,1
+"Benzimidazole, 5-trifluoromethyl-2-methyl-",Plasma,1-Phenylethanol,Plasma,-1
+"Benzimidazole, 5-trifluoromethyl-2-methyl-",Plasma,2-Naphthol,Plasma,1
+"Benzimidazole, 5-trifluoromethyl-2-methyl-",Plasma,"Acetohydrazide, 2-(2-isopropyl-5-methylphenoxy)-N2-benzylideno-",Plasma,1
+"Benzimidazole, 5-trifluoromethyl-2-methyl-",Plasma,alpha-Tocopherol,Plasma,1
+"Benzimidazole, 5-trifluoromethyl-2-methyl-",Plasma,"Benzoic acid, pentadecyl ester",Plasma,1
+"Benzimidazole, 5-trifluoromethyl-2-methyl-",Plasma,Benzophenone,Plasma,1
+"Benzimidazole, 5-trifluoromethyl-2-methyl-",Plasma,"Butanoic acid, 2,4-bis[(trimethylsilyl)oxy]-",Plasma,1
+"Benzimidazole, 5-trifluoromethyl-2-methyl-",Plasma,Cinnamic acid,Plasma,1
+"Benzimidazole, 5-trifluoromethyl-2-methyl-",Plasma,"Cyclopentanone, 2,2,4-trimethyl-",Plasma,1
+"Benzimidazole, 5-trifluoromethyl-2-methyl-",Plasma,Dinoseb ,Plasma,1
+"Benzimidazole, 5-trifluoromethyl-2-methyl-",Plasma,Diphenyl ether,Plasma,1
+"Benzimidazole, 5-trifluoromethyl-2-methyl-",Plasma,Dodecylcyclohexane,Plasma,1
+"Benzimidazole, 5-trifluoromethyl-2-methyl-",Plasma,Eicosapentaenoic acid,Plasma,1
+"Benzimidazole, 5-trifluoromethyl-2-methyl-",Plasma,Indole-5-carboxylic acid,Plasma,1
+"Benzimidazole, 5-trifluoromethyl-2-methyl-",Plasma,Isofucosterol,Plasma,1
+"Benzimidazole, 5-trifluoromethyl-2-methyl-",Plasma,Isopropyl palmitate,Plasma,1
+"Benzimidazole, 5-trifluoromethyl-2-methyl-",Plasma,Itaconic acid,Plasma,1
+"Benzimidazole, 5-trifluoromethyl-2-methyl-",Plasma,Levulinic acid,Plasma,1
+"Benzimidazole, 5-trifluoromethyl-2-methyl-",Plasma,Methyl aminoacetate,Plasma,1
+"Benzimidazole, 5-trifluoromethyl-2-methyl-",Plasma,Niclosamide,Plasma,1
+"Benzimidazole, 5-trifluoromethyl-2-methyl-",Plasma,Nonadecanoic acid,Plasma,1
+"Benzimidazole, 5-trifluoromethyl-2-methyl-",Plasma,"Pentanedioic acid, 3-methyl-3-[(trimethylsilyl)oxy]-",Plasma,1
+"Benzimidazole, 5-trifluoromethyl-2-methyl-",Plasma,Phloroglucinol,Plasma,1
+"Benzimidazole, 5-trifluoromethyl-2-methyl-",Plasma,"Propanetriol, 2-methyl-",Plasma,1
+"Benzimidazole, 5-trifluoromethyl-2-methyl-",Plasma,Propylamine,Plasma,1
+"Benzimidazole, 5-trifluoromethyl-2-methyl-",Plasma,"Stigmast-5-ene, 3beta-",Plasma,1
+"Benzimidazole, 5-trifluoromethyl-2-methyl-",Plasma,Triethanolamine,Plasma,1
+"Benzimidazole, 5-trifluoromethyl-2-methyl-",Plasma,L-Tyrosine,Plasma,1
+"Benzo[b]fluorene, 5-amino-7-methyl-1,2,3,4,6,7,8,9-octahydro-11-thia-10-aza-",Plasma,"1,3-Dioxane-4-methanol, 4,5-dimethyl-",Plasma,1
+"Benzo[b]fluorene, 5-amino-7-methyl-1,2,3,4,6,7,8,9-octahydro-11-thia-10-aza-",Plasma,"Benzene, 3-cyclohexen-1-yl-",Plasma,-1
+"Benzo[b]fluorene, 5-amino-7-methyl-1,2,3,4,6,7,8,9-octahydro-11-thia-10-aza-",Plasma,"beta-d-Fructopyranose, 1-deoxy-1-(4-morpholinyl)-2,3,4,5-tetrakis-O-(trimethylsilyl)-",Plasma,1
+"Benzo[b]fluorene, 5-amino-7-methyl-1,2,3,4,6,7,8,9-octahydro-11-thia-10-aza-",Plasma,Indole-3-carboxaldehyde,Plasma,1
+"Benzo[b]fluorene, 5-amino-7-methyl-1,2,3,4,6,7,8,9-octahydro-11-thia-10-aza-",Plasma,L-5-Oxoproline,Plasma,1
+"Benzo[b]fluorene, 5-amino-7-methyl-1,2,3,4,6,7,8,9-octahydro-11-thia-10-aza-",Plasma,Methyl isovanillate,Plasma,1
+"Benzoic acid, methyl ester",Plasma,Citric acid,Plasma,1
+"Benzoic acid, pentadecyl ester",Plasma,(pm)-alpha-Tocopherol acetate,Plasma,1
+"Benzoic acid, pentadecyl ester",Plasma,"(R*,S*)-2,3-Dihydroxybutanoic acid",Plasma,1
+"Benzoic acid, pentadecyl ester",Plasma,1-Octanol,Plasma,1
+"Benzoic acid, pentadecyl ester",Plasma,2-Naphthol,Plasma,1
+"Benzoic acid, pentadecyl ester",Plasma,5-Hydroxytryptophan,Plasma,1
+"Benzoic acid, pentadecyl ester",Plasma,Benzophenone,Plasma,1
+"Benzoic acid, pentadecyl ester",Plasma,Diphenyl ether,Plasma,1
+"Benzoic acid, pentadecyl ester",Plasma,"Furan, 2-pentyl-",Plasma,1
+"Benzoic acid, pentadecyl ester",Plasma,Isofucosterol,Plasma,1
+"Benzoic acid, pentadecyl ester",Plasma,Levulinic acid,Plasma,1
+"Benzoic acid, pentadecyl ester",Plasma,S-Methyl-L-cysteine,Plasma,1
+"Benzoic acid, pentadecyl ester",Plasma,"Stigmast-5-ene, 3beta-",Plasma,1
+"Benzoic acid, pentadecyl ester",Plasma,"Thymine, 1,3-dimethyl-6-(trimethylsilyloxymethyl)-",Plasma,1
+Benzophenone,Plasma,(pm)-alpha-Tocopherol acetate,Plasma,1
+Benzophenone,Plasma,"(R*,S*)-2,3-Dihydroxybutanoic acid",Plasma,1
+Benzophenone,Plasma,1-(4-Hydroxybenzylidene)acetone,Plasma,1
+Benzophenone,Plasma,1-Monoacetin,Plasma,1
+Benzophenone,Plasma,2-Naphthol,Plasma,1
+Benzophenone,Plasma,5-Hydroxytryptophan,Plasma,1
+Benzophenone,Plasma,alpha-Tocopherol,Plasma,1
+Benzophenone,Plasma,Arabinaric acid,Plasma,1
+Benzophenone,Plasma,Dinoseb ,Plasma,1
+Benzophenone,Plasma,Diphenyl ether,Plasma,1
+Benzophenone,Plasma,Isofucosterol,Plasma,1
+Benzophenone,Plasma,Isopropyl palmitate,Plasma,1
+Benzophenone,Plasma,Itaconic acid,Plasma,1
+Benzophenone,Plasma,Levulinic acid,Plasma,1
+Benzophenone,Plasma,Methyl aminoacetate,Plasma,1
+Benzophenone,Plasma,Niclosamide,Plasma,1
+Benzophenone,Plasma,Nonadecanoic acid,Plasma,1
+Benzophenone,Plasma,"Pentenoic acid, 4-[(trimethylsilyl)oxy]-",Plasma,1
+Benzophenone,Plasma,Phenoxyacetic acid,Plasma,1
+Benzophenone,Plasma,Phlorizin,Plasma,1
+Benzophenone,Plasma,Phloroglucinol,Plasma,1
+Benzophenone,Plasma,"Propanetriol, 2-methyl-",Plasma,1
+Benzophenone,Plasma,Salsoline,Plasma,1
+Benzophenone,Plasma,"Stigmast-5-ene, 3beta-",Plasma,1
+Benzophenone,Plasma,"Thymine, 1,3-dimethyl-6-(trimethylsilyloxymethyl)-",Plasma,1
+"beta-D-Galactofuranose, 1,2,3,5,6-pentakis-O-(trimethylsilyl)-",Plasma,(pm)-alpha-Tocopherol acetate,Plasma,1
+"beta-D-Galactofuranose, 1,2,3,5,6-pentakis-O-(trimethylsilyl)-",Plasma,"2-Hexenoic acid, 2-[(trimethylsilyl)oxy]-",Plasma,1
+"beta-D-Galactofuranose, 1,2,3,5,6-pentakis-O-(trimethylsilyl)-",Plasma,"Butanoic acid, 2,4-bis[(trimethylsilyl)oxy]-",Plasma,1
+"beta-D-Galactofuranose, 1,2,3,5,6-pentakis-O-(trimethylsilyl)-",Plasma,Dinoseb ,Plasma,1
+"beta-D-Galactofuranose, 1,2,3,5,6-pentakis-O-(trimethylsilyl)-",Plasma,Isopropyl palmitate,Plasma,1
+"beta-D-Galactofuranose, 1,2,3,5,6-pentakis-O-(trimethylsilyl)-",Plasma,Itaconic acid,Plasma,1
+"beta-D-Galactofuranose, 1,2,3,5,6-pentakis-O-(trimethylsilyl)-",Plasma,N-Methyl-N-(tetrahydro-2-furanylmethyl)-4-piperidinamine,Plasma,1
+"beta-D-Galactofuranose, 1,2,3,5,6-pentakis-O-(trimethylsilyl)-",Plasma,Tartronic acid,Plasma,1
+"beta-D-Galactofuranose, 1,2,3,5,6-pentakis-O-(trimethylsilyl)-",Plasma,Triethanolamine,Plasma,1
+beta-Lyxopyranose,Plasma,"Cetaben, N,O-bis(trimethylsilyl)-",Plasma,1
+beta-Lyxopyranose,Plasma,"Cyclopentaneacetic acid, 3-oxo-2-pentyl-",Plasma,1
+beta-Lyxopyranose,Plasma,Methyl-3-methoxy-5-methyl benzoate,Plasma,1
+beta-Lyxopyranose,Plasma,Tartronic acid,Plasma,1
+Bis(trimethylsilyl)acetylene,Plasma,"Pyrazine, 3,6-dihydro-3,6-dimethyl-",Plasma,-1
+"Butanal, 2,3,4-tris[(trimethylsilyl)oxy]-, O-methyloxime, [R-(R*,R*)]-",Plasma,"DL-Proline, 5-oxo-",Plasma,1
+"Butanoic acid, 2-methyl-3-[(trimethylsilyl)oxy]-",Plasma,"Propiophenone, 3',4'-dimethoxy-",Plasma,-1
+"Butanoic acid, 2,4-bis[(trimethylsilyl)oxy]-",Plasma,(pm)-alpha-Tocopherol acetate,Plasma,1
+"Butanoic acid, 2,4-bis[(trimethylsilyl)oxy]-",Plasma,"(R*,S*)-2,3-Dihydroxybutanoic acid",Plasma,1
+"Butanoic acid, 2,4-bis[(trimethylsilyl)oxy]-",Plasma,1-(4-Hydroxybenzylidene)acetone,Plasma,1
+"Butanoic acid, 2,4-bis[(trimethylsilyl)oxy]-",Plasma,"2-Hexenoic acid, 2-[(trimethylsilyl)oxy]-",Plasma,1
+"Butanoic acid, 2,4-bis[(trimethylsilyl)oxy]-",Plasma,"2-Propanone, bis(1-methylethyl)hydrazone",Plasma,1
+"Butanoic acid, 2,4-bis[(trimethylsilyl)oxy]-",Plasma, 5-Hydroxyhexanoic acid,Plasma,1
+"Butanoic acid, 2,4-bis[(trimethylsilyl)oxy]-",Plasma,Cadaverine,Plasma,1
+"Butanoic acid, 2,4-bis[(trimethylsilyl)oxy]-",Plasma,"Cyclopentaneacetic acid, 3-oxo-2-pentyl-",Plasma,1
+"Butanoic acid, 2,4-bis[(trimethylsilyl)oxy]-",Plasma,"Cyclopentanone, 2,2,4-trimethyl-",Plasma,1
+"Butanoic acid, 2,4-bis[(trimethylsilyl)oxy]-",Plasma,D-Fructose,Plasma,1
+"Butanoic acid, 2,4-bis[(trimethylsilyl)oxy]-",Plasma,Dinoseb ,Plasma,1
+"Butanoic acid, 2,4-bis[(trimethylsilyl)oxy]-",Plasma,DL-Glyceraldehyde,Plasma,1
+"Butanoic acid, 2,4-bis[(trimethylsilyl)oxy]-",Plasma,"Dodecane, 4,6-dimethyl-",Plasma,1
+"Butanoic acid, 2,4-bis[(trimethylsilyl)oxy]-",Plasma,Indole-5-carboxylic acid,Plasma,1
+"Butanoic acid, 2,4-bis[(trimethylsilyl)oxy]-",Plasma,Isofucosterol,Plasma,1
+"Butanoic acid, 2,4-bis[(trimethylsilyl)oxy]-",Plasma,Itaconic acid,Plasma,1
+"Butanoic acid, 2,4-bis[(trimethylsilyl)oxy]-",Plasma,Metanephrine,Plasma,1
+"Butanoic acid, 2,4-bis[(trimethylsilyl)oxy]-",Plasma,N-Methyl-N-(tetrahydro-2-furanylmethyl)-4-piperidinamine,Plasma,1
+"Butanoic acid, 2,4-bis[(trimethylsilyl)oxy]-",Plasma,"Propanetriol, 2-methyl-",Plasma,1
+"Butanoic acid, 2,4-bis[(trimethylsilyl)oxy]-",Plasma,Tartronic acid,Plasma,1
+"Butanoic acid, 2,4-bis[(trimethylsilyl)oxy]-",Plasma,Triethanolamine,Plasma,1
+Butylated Hydroxytoluene,Plasma,"Acetamide, N,N-diethyl-",Plasma,1
+Butylated Hydroxytoluene,Plasma,"Acetohydrazide, 2-(2-isopropyl-5-methylphenoxy)-N2-benzylideno-",Plasma,1
+Cadaverine,Plasma,"3,4-dimethyl-5-(3,4-methylenedioxy)phenyloxazolidine",Plasma,-1
+Cadaverine,Plasma,DL-Glyceraldehyde,Plasma,1
+Cadaverine,Plasma,Isoxaben,Plasma,1
+Cadaverine,Plasma,Methyl aminoacetate,Plasma,1
+Cadaverine,Plasma,Methyl-3-methoxy-5-methyl benzoate,Plasma,1
+Cadaverine,Plasma,Nonadecanoic acid,Plasma,1
+Cadaverine,Plasma,p-Toluic acid,Plasma,1
+Cadaverine,Plasma,S-Methyl-L-cysteine,Plasma,1
+Cadaverine,Plasma,"Stigmast-5-ene, 3beta-",Plasma,1
+Cadaverine,Plasma,Tartronic acid,Plasma,1
+"Cholest-7-en-3-ol, (3beta,5alpha)-",Plasma,"Pregn-16-en-20-one, 3,18-bis(acetyloxy)-14,15-epoxy-, (3beta,5alpha,14beta,15beta)-",Plasma,-1
+Cholesterol,Plasma,4-Cumylphenol,Plasma,1
+Cinnamic acid,Plasma,Octopamine,Plasma,-1
+cis-4-Trimethylsilyloxy-cyclohexyl(trimethylsilyl)carboxylate,Plasma,5-(2-Aminopropyl)-2-methylphenol,Plasma,-1
+cis-4-Trimethylsilyloxy-cyclohexyl(trimethylsilyl)carboxylate,Plasma,"5-Androsten-17alpha-methyl-3beta,17beta-diol",Plasma,1
+cis-4-Trimethylsilyloxy-cyclohexyl(trimethylsilyl)carboxylate,Plasma,Benzeneacetic acid,Plasma,1
+cis-4-Trimethylsilyloxy-cyclohexyl(trimethylsilyl)carboxylate,Plasma, 5-Hydroxyhexanoic acid,Plasma,1
+cis-4-Trimethylsilyloxy-cyclohexyl(trimethylsilyl)carboxylate,Plasma,Cyclo(L-prolyl-L-valine) ,Plasma,1
+cis-4-Trimethylsilyloxy-cyclohexyl(trimethylsilyl)carboxylate,Plasma,D-Fructose,Plasma,1
+cis-4-Trimethylsilyloxy-cyclohexyl(trimethylsilyl)carboxylate,Plasma,Deoxycholic Acid,Plasma,1
+cis-4-Trimethylsilyloxy-cyclohexyl(trimethylsilyl)carboxylate,Plasma,Methylmalonic monoamide,Plasma,1
+cis-4-Trimethylsilyloxy-cyclohexyl(trimethylsilyl)carboxylate,Plasma,"Propanetriol, 2-methyl-",Plasma,1
+cis-4-Trimethylsilyloxy-cyclohexyl(trimethylsilyl)carboxylate,Plasma,Propylamine,Plasma,1
+cis-4-Trimethylsilyloxy-cyclohexyl(trimethylsilyl)carboxylate,Plasma,Tartronic acid,Plasma,1
+cyclobutanecarboxylic acid,Plasma,5-Hydroxytryptophan,Plasma,1
+cyclobutanecarboxylic acid,Plasma,"5alpha-Pregnane-3,20-dione",Plasma,1
+Cyclobutanol,Plasma, 5-Hydroxyhexanoic acid,Plasma,1
+Cyclobutanol,Plasma,"Ethanone, 1-(2,5-dimethoxyphenyl)-",Plasma,1
+Cyclobutanol,Plasma,Glyoxime,Plasma,1
+Cyclobutanol,Plasma,Nonadecanoic acid,Plasma,1
+"Cyclopentaneacetic acid, 3-oxo-2-pentyl-",Plasma,(pm)-alpha-Tocopherol acetate,Plasma,1
+"Cyclopentaneacetic acid, 3-oxo-2-pentyl-",Plasma,1-(4-Hydroxybenzylidene)acetone,Plasma,1
+"Cyclopentaneacetic acid, 3-oxo-2-pentyl-",Plasma,1-Phenylethanol,Plasma,-1
+"Cyclopentaneacetic acid, 3-oxo-2-pentyl-",Plasma,Cinnamic acid,Plasma,1
+"Cyclopentaneacetic acid, 3-oxo-2-pentyl-",Plasma,Sertraline carbamoyl glucuronide,Plasma,1
+"Cyclopentaneacetic acid, 3-oxo-2-pentyl-",Plasma,Tartronic acid,Plasma,1
+"Cyclopentaneacetic acid, 3-oxo-2-pentyl-",Plasma,Triethanolamine,Plasma,1
+"Cyclopentanone, 2,2,4-trimethyl-",Plasma, 5-Hydroxyhexanoic acid,Plasma,1
+"Cyclopentanone, 2,2,4-trimethyl-",Plasma,D-Fructose,Plasma,1
+"Cyclopentanone, 2,2,4-trimethyl-",Plasma,Itaconic acid,Plasma,1
+"Cyclopentanone, 2,2,4-trimethyl-",Plasma,Nonadecanoic acid,Plasma,1
+"Cyclopentanone, 2,2,4-trimethyl-",Plasma,"Propanetriol, 2-methyl-",Plasma,1
+D-(-)-Citramalic acid,Plasma,"2-Amino-4,6-dihydroxypyrimidine",Plasma,-1
+D-(-)-Citramalic acid,Plasma,"2-Hexenoic acid, 2-[(trimethylsilyl)oxy]-",Plasma,1
+D-(-)-Citramalic acid,Plasma,"3,4-Dihydroxymandelic acid, ethyl ester",Plasma,1
+D-(-)-Citramalic acid,Plasma,Galactopyranose,Plasma,-1
+D-(-)-Citramalic acid,Plasma,"Glycine, N-(N-DL-leucylglycyl)-",Plasma,1
+D-(-)-Citramalic acid,Plasma,Isofucosterol,Plasma,1
+D-(-)-Citramalic acid,Plasma,"Stigmast-5-ene, 3beta-",Plasma,1
+D-(-)-Citramalic acid,Plasma,Succinic anhydride,Plasma,1
+"D-(-)-Ribofuranose, tetrakis",Plasma,Methyl alpha-Lyxofuranoside,Plasma,1
+"D-(+)-Ribono-1,4-lactone (R,S,R)-",Plasma,2-Furoic acid,Plasma,1
+"D-(+)-Ribono-1,4-lactone (R,S,R)-",Plasma,"Acetohydrazide, 2-(2-isopropyl-5-methylphenoxy)-N2-benzylideno-",Plasma,1
+"D-(+)-Ribono-1,4-lactone (R,S,R)-",Plasma,D-Fructose,Plasma,1
+"D-(+)-Ribono-1,4-lactone (R,S,R)-",Plasma,DL-Glyceraldehyde,Plasma,1
+"D-(+)-Ribono-1,4-lactone (R,S,R)-",Plasma,"Dodecane, 4,6-dimethyl-",Plasma,1
+"D-(+)-Ribono-1,4-lactone (R,S,R)-",Plasma,Methyl aminoacetate,Plasma,1
+"D-(+)-Ribono-1,4-lactone (R,S,R)-",Plasma,Methyl-3-methoxy-5-methyl benzoate,Plasma,1
+"D-(+)-Ribono-1,4-lactone (R,S,R)-",Plasma,"Pentanedioic acid, 3-methyl-3-[(trimethylsilyl)oxy]-",Plasma,1
+D-Fructose,Plasma,(pm)-alpha-Tocopherol acetate,Plasma,1
+D-Fructose,Plasma,"5-Androsten-17alpha-methyl-3beta,17beta-diol",Plasma,1
+D-Fructose,Plasma,Benzeneacetic acid,Plasma,1
+D-Fructose,Plasma,Deoxycholic Acid,Plasma,1
+D-Fructose,Plasma,Methylmalonic monoamide,Plasma,1
+D-Fructose,Plasma,"Propanetriol, 2-methyl-",Plasma,1
+D-Fructose,Plasma,Propylamine,Plasma,1
+D-Fructose,Plasma,Tartronic acid,Plasma,1
+D-Fructose,Plasma,Triethanolamine,Plasma,1
+D-Fructose,Plasma,Xylose,Plasma,1
+"D-Isoleucine, N-acetyl-",Plasma,1-Tetradecanol,Plasma,1
+"D-Isoleucine, N-acetyl-",Plasma,"Erythrono-1,4-lactone, (Z)-",Plasma,1
+"D-Isoleucine, N-acetyl-",Plasma,L-5-Oxoproline,Plasma,1
+"D-Isoleucine, N-acetyl-",Plasma,"Pyrimidine, 5-methyl-2,4-bis[(trimethylsilyl)oxy]-",Plasma,1
+D-Mannose,Plasma,Phlorizin,Plasma,1
+Decanoic acid,Plasma,(pm)-Phenylpropanolamine,Plasma,1
+Decanoic acid,Plasma,Lactic Acid,Plasma,1
+Decanoic acid,Plasma,Octanoic acid,Plasma,1
+Dehydronorketamine,Plasma,"1,3-Dioxane-4-methanol, 4,5-dimethyl-",Plasma,1
+Deoxycholic Acid,Plasma,1-Phenylethanol,Plasma,-1
+Deoxycholic Acid,Plasma,"2-Acetyl-3-(1-methyl-2-pyrrolyl)-1,4-benzenediol",Plasma,-1
+Deoxycholic Acid,Plasma,"2-Propanone, bis(1-methylethyl)hydrazone",Plasma,1
+Deoxycholic Acid,Plasma,"5-Androsten-17alpha-methyl-3beta,17beta-diol",Plasma,1
+Deoxycholic Acid,Plasma,Delorazepam,Plasma,1
+Deoxycholic Acid,Plasma,Glycolic acid,Plasma,1
+Deoxycholic Acid,Plasma,Hydantoic acid,Plasma,1
+Deoxycholic Acid,Plasma,Indole-5-carboxylic acid,Plasma,1
+Deoxycholic Acid,Plasma,Isopropyl palmitate,Plasma,1
+Deoxycholic Acid,Plasma,Nonadecanoic acid,Plasma,1
+Deoxycholic Acid,Plasma,Phenylalanine,Plasma,1
+Deoxycholic Acid,Plasma,Propylamine,Plasma,1
+Desmosterol,Plasma,"5-Androsten-17alpha-methyl-3beta,17beta-diol",Plasma,1
+Desmosterol,Plasma,Cinnamic acid,Plasma,1
+Dihydrouracil,Plasma,5-(2-Aminopropyl)-2-methylphenol,Plasma,-1
+Dihydrouracil,Plasma,Benzeneacetic acid,Plasma,1
+Dihydrouracil,Plasma,Glycolic acid,Plasma,1
+Dihydrouracil,Plasma,Hydracrylic acid,Plasma,1
+Dihydrouracil,Plasma,L-Asparagine,Plasma,1
+Dihydrouracil,Plasma,Ornithine,Plasma,1
+Dihydrouracil,Plasma,Phenylalanine,Plasma,1
+Dihydrouracil,Plasma,Propylamine,Plasma,1
+Dinoseb ,Plasma,(pm)-alpha-Tocopherol acetate,Plasma,1
+Dinoseb ,Plasma,1-(4-Hydroxybenzylidene)acetone,Plasma,1
+Dinoseb ,Plasma,1-Monoacetin,Plasma,1
+Dinoseb ,Plasma,1-Tetradecanol,Plasma,1
+Dinoseb ,Plasma,"2-Amino-4,6-dihydroxypyrimidine",Plasma,-1
+Dinoseb ,Plasma,"2-Hexenoic acid, 2-[(trimethylsilyl)oxy]-",Plasma,1
+Dinoseb ,Plasma,3-Amino-5-morpholinomethyl-2-oxazolidinone,Plasma,1
+Dinoseb ,Plasma,"Acetin, bis-1,3-trimethylsilyl ether",Plasma,1
+Dinoseb ,Plasma,Arabinaric acid,Plasma,1
+Dinoseb ,Plasma,"beta-d-Fructopyranose, 1-deoxy-1-(4-morpholinyl)-2,3,4,5-tetrakis-O-(trimethylsilyl)-",Plasma,1
+Dinoseb ,Plasma,Diphenyl ether,Plasma,1
+Dinoseb ,Plasma,DL-Glyceraldehyde,Plasma,1
+Dinoseb ,Plasma,Hexanoic acid,Plasma,1
+Dinoseb ,Plasma,Indole-3-lactic acid,Plasma,1
+Dinoseb ,Plasma,Isofucosterol,Plasma,1
+Dinoseb ,Plasma,Isopropyl palmitate,Plasma,1
+Dinoseb ,Plasma,Levulinic acid,Plasma,1
+Dinoseb ,Plasma,Methyl aminoacetate,Plasma,1
+Dinoseb ,Plasma,Niclosamide,Plasma,1
+Dinoseb ,Plasma,Nonadecanoic acid,Plasma,1
+Dinoseb ,Plasma,"Pentenoic acid, 4-[(trimethylsilyl)oxy]-",Plasma,1
+Dinoseb ,Plasma,Phenoxyacetic acid,Plasma,1
+Dinoseb ,Plasma,"Propanetriol, 2-methyl-",Plasma,1
+Dinoseb ,Plasma,Propylamine,Plasma,1
+Dinoseb ,Plasma,Salsoline,Plasma,1
+Dinoseb ,Plasma,Triethanolamine,Plasma,1
+Dinoseb ,Plasma,L-Tyrosine,Plasma,1
+Diphenyl ether,Plasma,1-(4-Hydroxybenzylidene)acetone,Plasma,1
+Diphenyl ether,Plasma,1-Tetradecanol,Plasma,1
+Diphenyl ether,Plasma,2-Naphthol,Plasma,1
+Diphenyl ether,Plasma,5-Hydroxytryptophan,Plasma,1
+Diphenyl ether,Plasma,Arabinaric acid,Plasma,1
+Diphenyl ether,Plasma,"Ethanamine, N,N-diethyl-2,2-dimethyl-2-[(3,5-dimethoxy)phenyl]-",Plasma,1
+Diphenyl ether,Plasma,Itaconic acid,Plasma,1
+Diphenyl ether,Plasma,Phloroglucinol,Plasma,1
+Diphenyl ether,Plasma,Salsoline,Plasma,1
+Diphenyl ether,Plasma,"Thymine, 1,3-dimethyl-6-(trimethylsilyloxymethyl)-",Plasma,1
+DL-Glyceraldehyde,Plasma,(pm)-alpha-Tocopherol acetate,Plasma,1
+DL-Glyceraldehyde,Plasma,"(R*,S*)-2,3-Dihydroxybutanoic acid",Plasma,1
+DL-Glyceraldehyde,Plasma,1-(4-Hydroxybenzylidene)acetone,Plasma,1
+DL-Glyceraldehyde,Plasma,"2-Propanone, bis(1-methylethyl)hydrazone",Plasma,1
+DL-Glyceraldehyde,Plasma,alpha-Tocopherol,Plasma,1
+DL-Glyceraldehyde,Plasma, 5-Hydroxyhexanoic acid,Plasma,1
+DL-Glyceraldehyde,Plasma,Indole-5-carboxylic acid,Plasma,1
+DL-Glyceraldehyde,Plasma,Isofucosterol,Plasma,1
+DL-Glyceraldehyde,Plasma,Isoxaben,Plasma,1
+DL-Glyceraldehyde,Plasma,Itaconic acid,Plasma,1
+DL-Glyceraldehyde,Plasma,Methyl aminoacetate,Plasma,1
+DL-Glyceraldehyde,Plasma,Methylmalonic monoamide,Plasma,1
+DL-Glyceraldehyde,Plasma,N-Isovaleroylglycine,Plasma,1
+DL-Glyceraldehyde,Plasma,N-Methyl-N-(tetrahydro-2-furanylmethyl)-4-piperidinamine,Plasma,1
+DL-Glyceraldehyde,Plasma,Nonadecanoic acid,Plasma,1
+DL-Glyceraldehyde,Plasma,p-Toluic acid,Plasma,1
+DL-Glyceraldehyde,Plasma,"Pentanedioic acid, 3-methyl-3-[(trimethylsilyl)oxy]-",Plasma,1
+DL-Glyceraldehyde,Plasma,"Propanetriol, 2-methyl-",Plasma,1
+DL-Glyceraldehyde,Plasma,"Stigmast-5-ene, 3beta-",Plasma,1
+DL-Glyceraldehyde,Plasma,Tartronic acid,Plasma,1
+DL-Glyceraldehyde,Plasma,"Thymine, 1,3-dimethyl-6-(trimethylsilyloxymethyl)-",Plasma,1
+DL-Glyceraldehyde,Plasma,Triethanolamine,Plasma,1
+DL-Glyceraldehyde,Plasma,"Trimethylsilyl (5-benzyl-3,6-dioxopiperazin-2-yl)acetate",Plasma,1
+DL-Phenylalanine,Plasma,DL-Ornithine,Plasma,1
+"Dodecane, 4,6-dimethyl-",Plasma,"2-Hexenoic acid, 2-[(trimethylsilyl)oxy]-",Plasma,1
+"Dodecane, 4,6-dimethyl-",Plasma,"Butanal, 2,3,4-tris[(trimethylsilyl)oxy]-, O-methyloxime, [R-(R*,R*)]-",Plasma,1
+"Dodecane, 4,6-dimethyl-",Plasma,Methylmalonic monoamide,Plasma,1
+"Dodecane, 4,6-dimethyl-",Plasma,N-Methyl-N-(tetrahydro-2-furanylmethyl)-4-piperidinamine,Plasma,1
+"Dodecane, 4,6-dimethyl-",Plasma,Propylamine,Plasma,1
+Dodecanoic acid,Plasma,5-Ethyluracil,Plasma,1
+Dodecanoic acid,Plasma,Phlorizin,Plasma,1
+Dodecanoic acid,Plasma,L-Tyrosine,Plasma,1
+Dodecylcyclohexane,Plasma,"2-Propanone, bis(1-methylethyl)hydrazone",Plasma,1
+Dodecylcyclohexane,Plasma,Dodecanoic acid,Plasma,1
+Dodecylcyclohexane,Plasma,Isopropyl palmitate,Plasma,1
+Dodecylcyclohexane,Plasma,Levulinic acid,Plasma,1
+Dodecylcyclohexane,Plasma,Myristic acid,Plasma,1
+Dodecylcyclohexane,Plasma,Octopamine,Plasma,-1
+Dodecylcyclohexane,Plasma,Phloroglucinol,Plasma,1
+Eicosapentaenoic acid,Plasma,"Acetamide, N,N-diethyl-",Plasma,1
+Eicosapentaenoic acid,Plasma,"D-Erythro-Pentofuranose, 2-deoxy-1,3-bis-O-",Plasma,1
+Erythritol,Plasma,Glycolic acid,Plasma,1
+Erythritol,Plasma,"Pentanedioic acid, 2-[(trimethylsilyl)oxy]-",Plasma,-1
+"Erythrono-1,4-lactone, (Z)-",Plasma,(pm)-alpha-Tocopherol acetate,Plasma,1
+"Erythrono-1,4-lactone, (Z)-",Plasma,3-Hydroxybutyric acid,Plasma,1
+"Erythrono-1,4-lactone, (Z)-",Plasma,3'-Hydroxyacetophenone,Plasma,1
+"Erythrono-1,4-lactone, (Z)-",Plasma,"Pyrimidine, 5-methyl-2,4-bis[(trimethylsilyl)oxy]-",Plasma,1
+"Ethanamine, N,N-diethyl-2,2-dimethyl-2-[(3,5-dimethoxy)phenyl]-",Plasma,beta-Hydroxypyruvic acid,Plasma,1
+Ethanolamine,Plasma,"(2S,3R)-3-[(4E,7E)-Nona-4,7-dienoyl]-N,N-bis(trimethylsilyl)oxirane-2-carboxamide ",Plasma,1
+"Ethanone, 1-(2,5-dimethoxyphenyl)-",Plasma,6-Hydroxyflavone-beta-D-glucoside,Plasma,1
+"Ethanone, 1-(2,5-dimethoxyphenyl)-",Plasma,Heptadecanoic acid,Plasma,1
+"Furan, 2-pentyl-",Plasma,"2-Propanone, bis(1-methylethyl)hydrazone",Plasma,1
+"Furan, 2-pentyl-",Plasma,Phenoxyacetic acid,Plasma,1
+"Furan, 2-pentyl-",Plasma,S-Methyl-L-cysteine,Plasma,1
+Glycine,Plasma,1-Monoacetin,Plasma,1
+Glycine,Plasma,"1,3-Cyclohexanebis(methylamine)",Plasma,1
+Glycine,Plasma,5-(2-Aminopropyl)-2-methylphenol,Plasma,-1
+Glycine,Plasma,"5alpha-Pregnane-3,20-dione",Plasma,1
+Glycine,Plasma,7-(Trimethylsilyl)amino-4-methylcoumarin,Plasma,1
+Glycine,Plasma,alpha-Tocopherol,Plasma,1
+Glycine,Plasma,"Glycine, N-(N-DL-leucylglycyl)-",Plasma,1
+Glycine,Plasma,Indole-3-lactic acid,Plasma,1
+Glycine,Plasma,Niclosamide,Plasma,1
+Glycine,Plasma,Nonadecanoic acid,Plasma,1
+Glycine,Plasma,Pimelic acid,Plasma,1
+Glycine,Plasma,"Propanetriol, 2-methyl-",Plasma,1
+Glycine,Plasma,Salsoline,Plasma,1
+"Glycine, N-(1-oxobutyl)-",Plasma,N-Valerylglycine,Plasma,1
+"Glycine, N-(1-oxobutyl)-",Plasma,Uracil,Plasma,1
+"Glycine, N-(N-DL-leucylglycyl)-",Plasma,7-(Trimethylsilyl)amino-4-methylcoumarin,Plasma,1
+"Glycine, N-(N-DL-leucylglycyl)-",Plasma,alpha-Tocopherol,Plasma,1
+"Glycine, N-(N-DL-leucylglycyl)-",Plasma,Hexanoic acid,Plasma,1
+"Glycine, N-(N-DL-leucylglycyl)-",Plasma,Phlorizin,Plasma,1
+"Glycine, N-[4-[(trimethylsilyl)oxy]benzoyl]-",Plasma,Isoxaben,Plasma,1
+Glycolic acid,Plasma,"2-Propanone, bis(1-methylethyl)hydrazone",Plasma,1
+Glycolic acid,Plasma,Hydracrylic acid,Plasma,1
+Glycolic acid,Plasma,Phenylalanine,Plasma,1
+Glyoxime,Plasma,(pm)-alpha-Tocopherol acetate,Plasma,1
+Glyoxime,Plasma,3'-Hydroxyacetophenone,Plasma,1
+Glyoxime,Plasma,4-Cumylphenol,Plasma,1
+Glyoxime,Plasma,"Acetohydrazide, 2-(2-isopropyl-5-methylphenoxy)-N2-benzylideno-",Plasma,1
+Glyoxime,Plasma,"beta-d-Fructopyranose, 1-deoxy-1-(4-morpholinyl)-2,3,4,5-tetrakis-O-(trimethylsilyl)-",Plasma,1
+Glyoxime,Plasma,Octopamine,Plasma,-1
+Guanabenz,Plasma,5-(2-Aminopropyl)-2-methylphenol,Plasma,-1
+Heptadecanoic acid,Plasma,3'-Hydroxyacetophenone,Plasma,1
+Heptadecanoic acid,Plasma,Hexanoic acid,Plasma,1
+Heptadecanoic acid,Plasma,Nonadecanoic acid,Plasma,1
+Hexanedioic acid,Plasma,"Acetohydrazide, 2-(2-isopropyl-5-methylphenoxy)-N2-benzylideno-",Plasma,1
+Hexanoic acid,Plasma,Isopropyl palmitate,Plasma,1
+Hexanoic acid,Plasma,Phenoxyacetic acid,Plasma,1
+Hexanoic acid,Plasma,Salsoline,Plasma,1
+Hydantoic acid,Plasma,1-(4-Hydroxybenzylidene)acetone,Plasma,1
+Hydantoic acid,Plasma,"1,3-Dioxane-4-methanol, 4,5-dimethyl-",Plasma,1
+Hydantoic acid,Plasma,3-Amino-5-morpholinomethyl-2-oxazolidinone,Plasma,1
+Hydantoic acid,Plasma,"9,12-Octadecadienoic acid",Plasma,1
+Hydantoic acid,Plasma,"beta-d-Fructopyranose, 1-deoxy-1-(4-morpholinyl)-2,3,4,5-tetrakis-O-(trimethylsilyl)-",Plasma,1
+Hydantoic acid,Plasma,Pimelic acid,Plasma,1
+Hydantoic acid,Plasma,Propylamine,Plasma,1
+Hydracrylic acid,Plasma,(pm)-alpha-Tocopherol acetate,Plasma,1
+Hydracrylic acid,Plasma,"2-Propanone, bis(1-methylethyl)hydrazone",Plasma,1
+Hydracrylic acid,Plasma,4-Cumylphenol,Plasma,1
+Hydracrylic acid,Plasma,Xylazine,Plasma,1
+Hydroquinidine,Plasma,DL-Phenylalanine,Plasma,1
+Hydroquinidine,Plasma,L-5-Oxoproline,Plasma,1
+Hydroquinone,Plasma,3-Indolepropionic acid,Plasma,-1
+Indole-3-lactic acid,Plasma,3-Indolepropionic acid,Plasma,1
+Indole-3-lactic acid,Plasma,alpha-Tocopherol,Plasma,1
+Indole-3-lactic acid,Plasma,Arabinaric acid,Plasma,1
+Indole-3-lactic acid,Plasma,"Butanal, 2,3,4-tris[(trimethylsilyl)oxy]-, O-methyloxime, [R-(R*,R*)]-",Plasma,1
+Indole-3-lactic acid,Plasma,L-Tryptophan,Plasma,1
+Indole-3-lactic acid,Plasma,Methyl aminoacetate,Plasma,1
+Indole-3-lactic acid,Plasma,Niclosamide,Plasma,1
+Indole-3-lactic acid,Plasma,"Thymine, 1,3-dimethyl-6-(trimethylsilyloxymethyl)-",Plasma,1
+Indole-5-carboxylic acid,Plasma,"2-Hexenoic acid, 2-[(trimethylsilyl)oxy]-",Plasma,1
+Indole-5-carboxylic acid,Plasma,"2-Propanone, bis(1-methylethyl)hydrazone",Plasma,1
+Indole-5-carboxylic acid,Plasma,Isofucosterol,Plasma,1
+Indole-5-carboxylic acid,Plasma,Isopropyl palmitate,Plasma,1
+Indole-5-carboxylic acid,Plasma,Itaconic acid,Plasma,1
+Indole-5-carboxylic acid,Plasma,Methyl aminoacetate,Plasma,1
+Indole-5-carboxylic acid,Plasma,"N,O-Bis(trimethylsilyl)carbamate",Plasma,1
+Indole-5-carboxylic acid,Plasma,"Propanetriol, 2-methyl-",Plasma,1
+Indole-5-carboxylic acid,Plasma,Propylamine,Plasma,1
+Indole-5-carboxylic acid,Plasma,"Stigmast-5-ene, 3beta-",Plasma,1
+Indole-5-carboxylic acid,Plasma,Tartronic acid,Plasma,1
+Indole-5-carboxylic acid,Plasma,Triethanolamine,Plasma,1
+Indole-5-carboxylic acid,Plasma,"Trimethylsilyl (5-benzyl-3,6-dioxopiperazin-2-yl)acetate",Plasma,1
+"Inosose-2, 1,3,4,5,6-pentakis-",Plasma,Cholesterol,Plasma,1
+"Inosose-2, 1,3,4,5,6-pentakis-",Plasma,Hexanedioic acid,Plasma,1
+"Inosose-2, 1,3,4,5,6-pentakis-",Plasma,L-Aspartic acid,Plasma,1
+Isofucosterol,Plasma,(pm)-alpha-Tocopherol acetate,Plasma,1
+Isofucosterol,Plasma,"(R*,S*)-2,3-Dihydroxybutanoic acid",Plasma,1
+Isofucosterol,Plasma,1-(4-Hydroxybenzylidene)acetone,Plasma,1
+Isofucosterol,Plasma,1-Monoacetin,Plasma,1
+Isofucosterol,Plasma,"2-Amino-4,6-dihydroxypyrimidine",Plasma,-1
+Isofucosterol,Plasma,"2-Hexenoic acid, 2-[(trimethylsilyl)oxy]-",Plasma,1
+Isofucosterol,Plasma,5-Hydroxytryptophan,Plasma,1
+Isofucosterol,Plasma,"Acetin, bis-1,3-trimethylsilyl ether",Plasma,1
+Isofucosterol,Plasma,alpha-Tocopherol,Plasma,1
+Isofucosterol,Plasma,Arabinaric acid,Plasma,1
+Isofucosterol,Plasma,Diphenyl ether,Plasma,1
+Isofucosterol,Plasma,Isopropyl palmitate,Plasma,1
+Isofucosterol,Plasma,Itaconic acid,Plasma,1
+Isofucosterol,Plasma,Metanephrine,Plasma,1
+Isofucosterol,Plasma,Methyl aminoacetate,Plasma,1
+Isofucosterol,Plasma,"N,O-Bis(trimethylsilyl)carbamate",Plasma,1
+Isofucosterol,Plasma,Neostigmine ,Plasma,1
+Isofucosterol,Plasma,Niclosamide,Plasma,1
+Isofucosterol,Plasma,Nonadecanoic acid,Plasma,1
+Isofucosterol,Plasma,"Pentanedioic acid, 3-methyl-3-[(trimethylsilyl)oxy]-",Plasma,1
+Isofucosterol,Plasma,Phenoxyacetic acid,Plasma,1
+Isofucosterol,Plasma,Phloroglucinol,Plasma,1
+Isofucosterol,Plasma,"Propanetriol, 2-methyl-",Plasma,1
+Isofucosterol,Plasma,Salsoline,Plasma,1
+Isofucosterol,Plasma,"Stigmast-5-ene, 3beta-",Plasma,1
+Isofucosterol,Plasma,Triethanolamine,Plasma,1
+Isofucosterol,Plasma,L-Tyrosine,Plasma,1
+Isopropyl palmitate,Plasma,(pm)-alpha-Tocopherol acetate,Plasma,1
+Isopropyl palmitate,Plasma,1-(4-Hydroxybenzylidene)acetone,Plasma,1
+Isopropyl palmitate,Plasma,"2-Amino-4,6-dihydroxypyrimidine",Plasma,-1
+Isopropyl palmitate,Plasma,"2-Hexenoic acid, 2-[(trimethylsilyl)oxy]-",Plasma,1
+Isopropyl palmitate,Plasma,alpha-Tocopherol,Plasma,1
+Isopropyl palmitate,Plasma,Arabinaric acid,Plasma,1
+Isopropyl palmitate,Plasma,Diphenyl ether,Plasma,1
+Isopropyl palmitate,Plasma,Itaconic acid,Plasma,1
+Isopropyl palmitate,Plasma,Levulinic acid,Plasma,1
+Isopropyl palmitate,Plasma,Methyl aminoacetate,Plasma,1
+Isopropyl palmitate,Plasma,Methylmalonic monoamide,Plasma,1
+Isopropyl palmitate,Plasma,N-Methyl-N-(tetrahydro-2-furanylmethyl)-4-piperidinamine,Plasma,1
+Isopropyl palmitate,Plasma,Neostigmine ,Plasma,1
+Isopropyl palmitate,Plasma,Niclosamide,Plasma,1
+Isopropyl palmitate,Plasma,Nonadecanoic acid,Plasma,1
+Isopropyl palmitate,Plasma,p-Hydroxydiisopropylbenzene,Plasma,1
+Isopropyl palmitate,Plasma,"Pentanedioic acid, 3-methyl-3-[(trimethylsilyl)oxy]-",Plasma,1
+Isopropyl palmitate,Plasma,"Propanetriol, 2-methyl-",Plasma,1
+Isopropyl palmitate,Plasma,Propylamine,Plasma,1
+Isopropyl palmitate,Plasma,Salsoline,Plasma,1
+Isopropyl palmitate,Plasma,Triethanolamine,Plasma,1
+Isopropyl palmitate,Plasma,L-Tyrosine,Plasma,1
+Itaconic acid,Plasma,1-Phenylethanol,Plasma,-1
+Itaconic acid,Plasma,Arabinaric acid,Plasma,1
+Itaconic acid,Plasma,L-Tyrosine,Plasma,1
+L-5-Oxoproline,Plasma,L-Glutamic acid,Plasma,1
+L-5-Oxoproline,Plasma,Neostigmine ,Plasma,1
+L-Alanine,Plasma,Arabinaric acid,Plasma,-1
+L-Alanine,Plasma,N-Acetyl-L-glutamic acid,Plasma,-1
+L-Alanine,Plasma,Trimethylsilyl 3-((trimethylsilyl)thio)propanoate,Plasma,-1
+L-Asparagine,Plasma,"1,3-Dioxane-4-methanol, 4,5-dimethyl-",Plasma,1
+L-Asparagine,Plasma,12-Hydroxyoctadecanoic acid,Plasma,1
+L-Aspartic acid,Plasma,L-Glutamic acid,Plasma,1
+L-Aspartic acid,Plasma,Ornithine,Plasma,1
+L-Glutamic acid,Plasma,Cholesterol,Plasma,1
+L-Hydroxyproline,Plasma,Dimethyl fumarate,Plasma,1
+L-Hydroxyproline,Plasma,Metanephrine,Plasma,1
+L-Isoleucine,Plasma,Eicosapentaenoic acid,Plasma,1
+L-Leucine,Plasma,Phthalazin-1-one,Plasma,-1
+L-Tryptophan,Plasma,Delorazepam,Plasma,1
+L-Tryptophan,Plasma,"Tacrine, N-trimethylsilyl-",Plasma,1
+L-Tyrosine,Plasma,"2-Amino-4,6-dihydroxypyrimidine",Plasma,-1
+Latanoprost lactone diol,Plasma,"O-Methyl-N,N'-diisopropylisourea ",Plasma,1
+Levulinic acid,Plasma,1-Octanol,Plasma,1
+Levulinic acid,Plasma,"2-Propanone, bis(1-methylethyl)hydrazone",Plasma,1
+Levulinic acid,Plasma,3-Amino-5-morpholinomethyl-2-oxazolidinone,Plasma,1
+Levulinic acid,Plasma,"Acetohydrazide, 2-(2-isopropyl-5-methylphenoxy)-N2-benzylideno-",Plasma,1
+Levulinic acid,Plasma,Diphenyl ether,Plasma,1
+Levulinic acid,Plasma,Dodecanoic acid,Plasma,1
+Levulinic acid,Plasma,Eicosapentaenoic acid,Plasma,1
+Levulinic acid,Plasma,Myristic acid,Plasma,1
+Levulinic acid,Plasma,Phlorizin,Plasma,1
+Levulinic acid,Plasma,Pimelic acid,Plasma,1
+Levulinic acid,Plasma,"Propanetriol, 2-methyl-",Plasma,1
+"Methyl (3,4-dimethoxyphenyl)(hydroxy)acetate",Plasma,5-Aminovaleric acid,Plasma,-1
+Methyl alpha-Lyxofuranoside,Plasma,6-Hydroxyflavone-beta-D-glucoside,Plasma,-1
+Methyl aminoacetate,Plasma,(pm)-alpha-Tocopherol acetate,Plasma,1
+Methyl aminoacetate,Plasma,1-(4-Hydroxybenzylidene)acetone,Plasma,1
+Methyl aminoacetate,Plasma,1-Monoacetin,Plasma,1
+Methyl aminoacetate,Plasma,7-(Trimethylsilyl)amino-4-methylcoumarin,Plasma,1
+Methyl aminoacetate,Plasma,alpha-Tocopherol,Plasma,1
+Methyl aminoacetate,Plasma,Arabinaric acid,Plasma,1
+Methyl aminoacetate,Plasma,"beta-d-Fructopyranose, 1-deoxy-1-(4-morpholinyl)-2,3,4,5-tetrakis-O-(trimethylsilyl)-",Plasma,1
+Methyl aminoacetate,Plasma,"Butanal, 2,3,4-tris[(trimethylsilyl)oxy]-, O-methyloxime, [R-(R*,R*)]-",Plasma,1
+Methyl aminoacetate,Plasma,Diphenyl ether,Plasma,1
+Methyl aminoacetate,Plasma,Itaconic acid,Plasma,1
+Methyl aminoacetate,Plasma,Methylmalonic monoamide,Plasma,1
+Methyl aminoacetate,Plasma,N-Methyl-N-(tetrahydro-2-furanylmethyl)-4-piperidinamine,Plasma,1
+Methyl aminoacetate,Plasma,Niclosamide,Plasma,1
+Methyl aminoacetate,Plasma,Nonadecanoic acid,Plasma,1
+Methyl aminoacetate,Plasma,p-Hydroxydiisopropylbenzene,Plasma,1
+Methyl aminoacetate,Plasma,"Pentanedioic acid, 3-methyl-3-[(trimethylsilyl)oxy]-",Plasma,1
+Methyl aminoacetate,Plasma,"Propanetriol, 2-methyl-",Plasma,1
+Methyl aminoacetate,Plasma,Propylamine,Plasma,1
+Methyl aminoacetate,Plasma,Salsoline,Plasma,1
+Methyl aminoacetate,Plasma,"Stigmast-5-ene, 3beta-",Plasma,1
+Methyl aminoacetate,Plasma,Tartronic acid,Plasma,1
+Methyl aminoacetate,Plasma,"Thymine, 1,3-dimethyl-6-(trimethylsilyloxymethyl)-",Plasma,1
+Methyl aminoacetate,Plasma,Triethanolamine,Plasma,1
+Methyl-3-methoxy-5-methyl benzoate,Plasma,4-Cumylphenol,Plasma,1
+Methyl-3-methoxy-5-methyl benzoate,Plasma,"5-Androsten-17alpha-methyl-3beta,17beta-diol",Plasma,1
+Methyl-3-methoxy-5-methyl benzoate,Plasma,7-(Trimethylsilyl)amino-4-methylcoumarin,Plasma,1
+Methyl-3-methoxy-5-methyl benzoate,Plasma,"Pentanedioic acid, 3-methyl-3-[(trimethylsilyl)oxy]-",Plasma,1
+Methyl-3-methoxy-5-methyl benzoate,Plasma,Propylamine,Plasma,1
+Methyl-3-methoxy-5-methyl benzoate,Plasma,"Thymine, 1,3-dimethyl-6-(trimethylsilyloxymethyl)-",Plasma,1
+Methylmalonic monoamide,Plasma,Arabinaric acid,Plasma,1
+Methylmalonic monoamide,Plasma,Benzeneacetic acid,Plasma,1
+Methylmalonic monoamide,Plasma,"Pentanedioic acid, 3-methyl-3-[(trimethylsilyl)oxy]-",Plasma,1
+Methylmalonic monoamide,Plasma,Pentylone,Plasma,-1
+Methylmalonic monoamide,Plasma,"Propanetriol, 2-methyl-",Plasma,1
+Methylmalonic monoamide,Plasma,Triethanolamine,Plasma,1
+Methylmalonic monoamide,Plasma,Vanillylmandelic acid,Plasma,1
+"Morpholine, 4-[2,3,4,6-tetrakis-O-(trimethylsilyl)-alpha-d-mannopyranosyl]-",Plasma,"2',2,3,6'-Tetramethoxychalcone",Plasma,1
+"Morpholine, 4-[2,3,4,6-tetrakis-O-(trimethylsilyl)-alpha-d-mannopyranosyl]-",Plasma,"Benzene, 1,3-bis(1,1-dimethylethyl)-",Plasma,1
+Myristic acid,Plasma,1-Octanol,Plasma,1
+Myristic acid,Plasma,3-Amino-5-morpholinomethyl-2-oxazolidinone,Plasma,1
+Myristic acid,Plasma,"Acetamide, N,N-diethyl-",Plasma,1
+Myristic acid,Plasma,Dodecanoic acid,Plasma,1
+Myristic acid,Plasma,Eicosapentaenoic acid,Plasma,1
+Myristic acid,Plasma,L-Tyrosine,Plasma,1
+N-(Trimethylsilyl)hexanamide,Plasma,5-Ethyluracil,Plasma,1
+N-(Trimethylsilyl)hexanamide,Plasma,"Tacrine, N-trimethylsilyl-",Plasma,1
+N-Acetyl-L-glutamic acid,Plasma,6-Hydroxyflavone-beta-D-glucoside,Plasma,1
+N-Isovaleroylglycine,Plasma,1-(4-Hydroxybenzylidene)acetone,Plasma,1
+N-Isovaleroylglycine,Plasma,5-Aminovaleric acid,Plasma,-1
+N-Isovaleroylglycine,Plasma,"beta-d-Fructopyranose, 1-deoxy-1-(4-morpholinyl)-2,3,4,5-tetrakis-O-(trimethylsilyl)-",Plasma,1
+N-Isovaleroylglycine,Plasma,"Butanal, 2,3,4-tris[(trimethylsilyl)oxy]-, O-methyloxime, [R-(R*,R*)]-",Plasma,1
+N-Isovaleroylglycine,Plasma,L-Threitol,Plasma,1
+N-Isovaleroylglycine,Plasma,Tartronic acid,Plasma,1
+N-Isovaleroylglycine,Plasma,Triethanolamine,Plasma,1
+N-Methyl-N-(tetrahydro-2-furanylmethyl)-4-piperidinamine,Plasma,1-(4-Hydroxybenzylidene)acetone,Plasma,1
+N-Methyl-N-(tetrahydro-2-furanylmethyl)-4-piperidinamine,Plasma,"Acetin, bis-1,3-trimethylsilyl ether",Plasma,1
+N-Methyl-N-(tetrahydro-2-furanylmethyl)-4-piperidinamine,Plasma,Isoxaben,Plasma,1
+N-Methyl-N-(tetrahydro-2-furanylmethyl)-4-piperidinamine,Plasma,L-Threitol,Plasma,1
+N-Methyl-N-(tetrahydro-2-furanylmethyl)-4-piperidinamine,Plasma,"Pentanedioic acid, 3-methyl-3-[(trimethylsilyl)oxy]-",Plasma,1
+N-Methyl-N-(tetrahydro-2-furanylmethyl)-4-piperidinamine,Plasma,Propylamine,Plasma,1
+N-Methyl-N-(tetrahydro-2-furanylmethyl)-4-piperidinamine,Plasma,Sertraline carbamoyl glucuronide,Plasma,1
+N-Methyl-N-(tetrahydro-2-furanylmethyl)-4-piperidinamine,Plasma,Tartronic acid,Plasma,1
+N-Methyl-N-(tetrahydro-2-furanylmethyl)-4-piperidinamine,Plasma,Triethanolamine,Plasma,1
+n-Pentadecanol,Plasma,"Cetaben, N,O-bis(trimethylsilyl)-",Plasma,-1
+n-Pentadecanol,Plasma,"Cholest-22-ene-21-ol, 3,5-dehydro-6-methoxy-, pivalate",Plasma,-1
+N-Valerylglycine,Plasma,"(2S,3R)-3-[(4E,7E)-Nona-4,7-dienoyl]-N,N-bis(trimethylsilyl)oxirane-2-carboxamide ",Plasma,1
+"N,9-bis(Trimethylsilyl)-6-[(trimethylsilyl)oxy]-9H-purin-2-amine",Plasma,Octopamine,Plasma,-1
+"N,N-Diethyl-2-aminoethanol",Plasma,1-(4-Hydroxybenzylidene)acetone,Plasma,1
+"N,N-Diethyl-2-aminoethanol",Plasma,"1,3-bis[(Trimethylsilyl)ethynyl]benzene",Plasma,1
+"N,N-Diethyl-2-aminoethanol",Plasma,"2-Hexenoic acid, 2-[(trimethylsilyl)oxy]-",Plasma,1
+"N,N-Diethyl-2-aminoethanol",Plasma,"5alpha-Pregnane-3,20-dione",Plasma,1
+"N,N-Diethyl-2-aminoethanol",Plasma,Phenoxyacetic acid,Plasma,1
+"N,N-Diethyl-2-aminoethanol",Plasma,S-Methyl-L-cysteine,Plasma,1
+"N,N-Dimethyl-2-cyclohexyloxyethylamine",Plasma,3'-Hydroxyacetophenone,Plasma,1
+"N,O-Bis(trimethylsilyl)carbamate",Plasma,Nonadecanoic acid,Plasma,1
+"N,O-Bis(trimethylsilyl)carbamate",Plasma,"Pentanedioic acid, 2-[(trimethylsilyl)oxy]-",Plasma,-1
+"N,O-Bis(trimethylsilyl)carbamate",Plasma,"Stigmast-5-ene, 3beta-",Plasma,1
+"N,O-Bis(trimethylsilyl)carbamate",Plasma,Tartronic acid,Plasma,1
+Naphthofluorescein,Plasma,Delorazepam,Plasma,1
+Naphthofluorescein,Plasma,Glucose,Plasma,1
+Neostigmine ,Plasma,1-Monoacetin,Plasma,1
+Neostigmine ,Plasma,4-Cumylphenol,Plasma,1
+Neostigmine ,Plasma,5-(2-Aminopropyl)-2-methylphenol,Plasma,-1
+Neostigmine ,Plasma,5-Hydroxytryptophan,Plasma,1
+Neostigmine ,Plasma,Niclosamide,Plasma,1
+Neostigmine ,Plasma,Nonadecanoic acid,Plasma,1
+Neostigmine ,Plasma,Phloroglucinol,Plasma,1
+Neostigmine ,Plasma,Pimelic acid,Plasma,1
+Neostigmine ,Plasma,"Propanetriol, 2-methyl-",Plasma,1
+Neostigmine ,Plasma,Propylamine,Plasma,1
+Neostigmine ,Plasma,S-Methyl-L-cysteine,Plasma,1
+Neostigmine ,Plasma,Suberic acid,Plasma,1
+Neostigmine ,Plasma,Triethanolamine,Plasma,1
+Niclosamide,Plasma,1-(4-Hydroxybenzylidene)acetone,Plasma,1
+Niclosamide,Plasma,1-Monoacetin,Plasma,1
+Niclosamide,Plasma,1-Phenylethanol,Plasma,-1
+Niclosamide,Plasma,12-Hydroxyoctadecanoic acid,Plasma,1
+Niclosamide,Plasma,alpha-Tocopherol,Plasma,1
+Niclosamide,Plasma,Arabinaric acid,Plasma,1
+Niclosamide,Plasma,Diphenyl ether,Plasma,1
+Niclosamide,Plasma,Nonadecanoic acid,Plasma,1
+Niclosamide,Plasma,Phenoxyacetic acid,Plasma,1
+Niclosamide,Plasma,Phlorizin,Plasma,1
+Niclosamide,Plasma,Phloroglucinol,Plasma,1
+Niclosamide,Plasma,Pimelic acid,Plasma,1
+Niclosamide,Plasma,"Propanetriol, 2-methyl-",Plasma,1
+Niclosamide,Plasma,Salsoline,Plasma,1
+Niclosamide,Plasma,L-Tyrosine,Plasma,1
+Nitrosothymol,Plasma,"2-Hexenoic acid, 2-[(trimethylsilyl)oxy]-",Plasma,1
+Nitrosothymol,Plasma,4-Cumylphenol,Plasma,1
+Nitrosothymol,Plasma,Metanephrine,Plasma,1
+Nitrosothymol,Plasma,"Propanetriol, 2-methyl-",Plasma,1
+Nitrosothymol,Plasma,"Stigmast-5-ene, 3beta-",Plasma,1
+Nonadecanoic acid,Plasma,"(R*,S*)-2,3-Dihydroxybutanoic acid",Plasma,1
+Nonadecanoic acid,Plasma,1-Monoacetin,Plasma,1
+Nonadecanoic acid,Plasma,"2-Propanone, bis(1-methylethyl)hydrazone",Plasma,1
+Nonadecanoic acid,Plasma,4-Cumylphenol,Plasma,1
+Nonadecanoic acid,Plasma,7-(Trimethylsilyl)amino-4-methylcoumarin,Plasma,1
+Nonadecanoic acid,Plasma,alpha-Tocopherol,Plasma,1
+Nonadecanoic acid,Plasma,Arabinaric acid,Plasma,1
+Nonadecanoic acid,Plasma,"Cholesta-3,5-diene ",Plasma,1
+Nonadecanoic acid,Plasma,Diphenyl ether,Plasma,1
+Nonadecanoic acid,Plasma,"Ethanamine, N,N-diethyl-2,2-dimethyl-2-[(3,5-dimethoxy)phenyl]-",Plasma,1
+Nonadecanoic acid,Plasma,"Pentanedioic acid, 3-methyl-3-[(trimethylsilyl)oxy]-",Plasma,1
+Nonadecanoic acid,Plasma,Phlorizin,Plasma,1
+Nonadecanoic acid,Plasma,"Propanetriol, 2-methyl-",Plasma,1
+Nonadecanoic acid,Plasma,Salsoline,Plasma,1
+Nonadecanoic acid,Plasma,"Stigmast-5-ene, 3beta-",Plasma,1
+Nonadecanoic acid,Plasma,Triethanolamine,Plasma,1
+Nonadecanoic acid,Plasma,L-Tyrosine,Plasma,1
+Norketamine,Plasma,Ketamine ,Plasma,1
+Octocrylene,Plasma,4-Hydroxy-5-(hydroxymethyl)oxolan-2-one,Plasma,-1
+Ornithine,Plasma,Phenylpropanolamine,Plasma,-1
+Oxalic acid,Plasma,"Pentanedioic acid, 2-[(trimethylsilyl)oxy]-",Plasma,1
+p-Hydroxydiisopropylbenzene,Plasma,3'-Hydroxyacetophenone,Plasma,1
+p-Hydroxydiisopropylbenzene,Plasma,Arabinaric acid,Plasma,1
+p-Hydroxydiisopropylbenzene,Plasma,"Cetaben, N,O-bis(trimethylsilyl)-",Plasma,1
+p-Toluic acid,Plasma,1-(4-Hydroxybenzylidene)acetone,Plasma,1
+p-Toluic acid,Plasma,Cyclo(L-prolyl-L-valine) ,Plasma,1
+p-Toluic acid,Plasma,Gln-Ala,Plasma,1
+p-Toluic acid,Plasma,"Pentanedioic acid, 3-methyl-3-[(trimethylsilyl)oxy]-",Plasma,1
+p-Toluic acid,Plasma,Triethanolamine,Plasma,1
+"Pentanedioic acid, 3-methyl-3-[(trimethylsilyl)oxy]-",Plasma,"2-Hexenoic acid, 2-[(trimethylsilyl)oxy]-",Plasma,1
+"Pentanedioic acid, 3-methyl-3-[(trimethylsilyl)oxy]-",Plasma,5-(2-Aminopropyl)-2-methylphenol,Plasma,-1
+"Pentanedioic acid, 3-methyl-3-[(trimethylsilyl)oxy]-",Plasma,alpha-Tocopherol,Plasma,1
+"Pentanedioic acid, 3-methyl-3-[(trimethylsilyl)oxy]-",Plasma,"Propanetriol, 2-methyl-",Plasma,1
+"Pentanedioic acid, 3-methyl-3-[(trimethylsilyl)oxy]-",Plasma,Tartronic acid,Plasma,1
+"Pentanedioic acid, 3-methyl-3-[(trimethylsilyl)oxy]-",Plasma,"Thymine, 1,3-dimethyl-6-(trimethylsilyloxymethyl)-",Plasma,1
+"Pentanedioic acid, 3-methyl-3-[(trimethylsilyl)oxy]-",Plasma,Triethanolamine,Plasma,1
+"Pentenoic acid, 4-[(trimethylsilyl)oxy]-",Plasma,(pm)-alpha-Tocopherol acetate,Plasma,1
+"Pentenoic acid, 4-[(trimethylsilyl)oxy]-",Plasma,1-Phenylethanol,Plasma,-1
+"Pentenoic acid, 4-[(trimethylsilyl)oxy]-",Plasma,"2-Hexenoic acid, 2-[(trimethylsilyl)oxy]-",Plasma,1
+"Pentenoic acid, 4-[(trimethylsilyl)oxy]-",Plasma,Diphenyl ether,Plasma,1
+"Pentenoic acid, 4-[(trimethylsilyl)oxy]-",Plasma,Metanephrine,Plasma,1
+"Pentenoic acid, 4-[(trimethylsilyl)oxy]-",Plasma,Phlorizin,Plasma,1
+"Pentenoic acid, 4-[(trimethylsilyl)oxy]-",Plasma,"Propanetriol, 2-methyl-",Plasma,1
+Phenoxyacetic acid,Plasma,"(R*,S*)-2,3-Dihydroxybutanoic acid",Plasma,1
+Phenoxyacetic acid,Plasma,1-(4-Hydroxybenzylidene)acetone,Plasma,1
+Phenoxyacetic acid,Plasma,1-Octanol,Plasma,1
+Phenoxyacetic acid,Plasma,"2-Amino-4,6-dihydroxypyrimidine",Plasma,-1
+Phenoxyacetic acid,Plasma,"2-Hexenoic acid, 2-[(trimethylsilyl)oxy]-",Plasma,1
+Phenoxyacetic acid,Plasma,"2-Propanone, bis(1-methylethyl)hydrazone",Plasma,1
+Phenoxyacetic acid,Plasma,3-Amino-5-morpholinomethyl-2-oxazolidinone,Plasma,1
+Phenoxyacetic acid,Plasma,5-Hydroxytryptophan,Plasma,1
+Phenoxyacetic acid,Plasma,Diphenyl ether,Plasma,1
+Phenoxyacetic acid,Plasma,Phlorizin,Plasma,1
+Phenoxyacetic acid,Plasma,S-Methyl-L-cysteine,Plasma,1
+Phenoxyacetic acid,Plasma,"Stigmast-5-ene, 3beta-",Plasma,1
+Phenoxyacetic acid,Plasma,Trimethylsilyl oct-2-enoate ,Plasma,1
+Phenylalanine,Plasma,Xylose,Plasma,1
+Phlorizin,Plasma,"1,3-bis[(Trimethylsilyl)ethynyl]benzene",Plasma,1
+Phlorizin,Plasma,5-Hydroxytryptophan,Plasma,1
+Phlorizin,Plasma,Salsoline,Plasma,1
+Phlorizin,Plasma,Trimethylsilyl oct-2-enoate ,Plasma,1
+Phloroglucinol,Plasma,1-(4-Hydroxybenzylidene)acetone,Plasma,1
+Phloroglucinol,Plasma,1-Tetradecanol,Plasma,1
+Phloroglucinol,Plasma,Dodecanoic acid,Plasma,1
+Phloroglucinol,Plasma,Salsoline,Plasma,1
+Phloroglucinol,Plasma,"Thymine, 1,3-dimethyl-6-(trimethylsilyloxymethyl)-",Plasma,1
+Phloroglucinol,Plasma,"Trimethylsilyl (5-benzyl-3,6-dioxopiperazin-2-yl)acetate",Plasma,1
+Phosalone,Plasma,"Butanal, 2,3,4-tris[(trimethylsilyl)oxy]-, O-methyloxime, [R-(R*,R*)]-",Plasma,-1
+Pimelic acid,Plasma,(pm)-alpha-Tocopherol acetate,Plasma,1
+Pimelic acid,Plasma,1-Monoacetin,Plasma,1
+Pimelic acid,Plasma,1-Phenylethanol,Plasma,-1
+Pimelic acid,Plasma,"2,5-Dimethoxybenzonitrile",Plasma,1
+Pimelic acid,Plasma,4-Cumylphenol,Plasma,1
+Pimelic acid,Plasma,"Acetohydrazide, 2-(2-isopropyl-5-methylphenoxy)-N2-benzylideno-",Plasma,1
+Pimelic acid,Plasma,Suberic acid,Plasma,1
+"Propanetriol, 2-methyl-",Plasma,(pm)-alpha-Tocopherol acetate,Plasma,1
+"Propanetriol, 2-methyl-",Plasma,1-Monoacetin,Plasma,1
+"Propanetriol, 2-methyl-",Plasma,"2-Propanone, bis(1-methylethyl)hydrazone",Plasma,1
+"Propanetriol, 2-methyl-",Plasma,7-(Trimethylsilyl)amino-4-methylcoumarin,Plasma,1
+"Propanetriol, 2-methyl-",Plasma,alpha-Tocopherol,Plasma,1
+"Propanetriol, 2-methyl-",Plasma,Benzeneacetic acid,Plasma,1
+"Propanetriol, 2-methyl-",Plasma, 5-Hydroxyhexanoic acid,Plasma,1
+"Propanetriol, 2-methyl-",Plasma,Diphenyl ether,Plasma,1
+"Propanetriol, 2-methyl-",Plasma,Itaconic acid,Plasma,1
+"Propanetriol, 2-methyl-",Plasma,Phloroglucinol,Plasma,1
+"Propanetriol, 2-methyl-",Plasma,Propylamine,Plasma,1
+"Propanetriol, 2-methyl-",Plasma,Salsoline,Plasma,1
+"Propanetriol, 2-methyl-",Plasma,Tartronic acid,Plasma,1
+"Propanetriol, 2-methyl-",Plasma,"Thymine, 1,3-dimethyl-6-(trimethylsilyloxymethyl)-",Plasma,1
+"Propanetriol, 2-methyl-",Plasma,Triethanolamine,Plasma,1
+"Propanetriol, 2-methyl-",Plasma,L-Tyrosine,Plasma,1
+"Propanoic acid, 2-methyl-",Plasma,2-Pyrrolidinone,Plasma,1
+"Propanoic acid, 2-methyl-",Plasma,4-Hydroxybenzaldehyde,Plasma,1
+"Propanoic acid, 2-methyl-",Plasma,"D-(-)-Ribofuranose, tetrakis",Plasma,1
+Propylamine,Plasma,1-(4-Hydroxybenzylidene)acetone,Plasma,1
+Propylamine,Plasma,5-(2-Aminopropyl)-2-methylphenol,Plasma,-1
+Propylamine,Plasma,"5-Androsten-17alpha-methyl-3beta,17beta-diol",Plasma,1
+Propylamine,Plasma,alpha-Tocopherol,Plasma,1
+Propylamine,Plasma,p-Hydroxydiisopropylbenzene,Plasma,1
+Propylamine,Plasma,Tartronic acid,Plasma,1
+Propylamine,Plasma,Triethanolamine,Plasma,1
+"Pyrimidine, 5-methyl-2,4-bis[(trimethylsilyl)oxy]-",Plasma,1-Phenylethanol,Plasma,-1
+"Pyrimidine, 5-methyl-2,4-bis[(trimethylsilyl)oxy]-",Plasma,"2,5-Dimethoxyphenol",Plasma,1
+"Pyrimidine, 5-methyl-2,4-bis[(trimethylsilyl)oxy]-",Plasma,4-Cumylphenol,Plasma,1
+"Pyrimidine, 5-methyl-2,4-bis[(trimethylsilyl)oxy]-",Plasma,Octopamine,Plasma,-1
+Quazodine,Plasma,N-Isobutyrylglycine,Plasma,1
+Ribitol,Plasma,5-Aminovaleric acid,Plasma,-1
+Ribitol,Plasma,D-Leucylglycylglycine,Plasma,-1
+"Ribonic acid, 2,3,4,5-tetrakis-",Plasma,"Ethanamine, N,N-diethyl-2,2-dimethyl-2-[(3,5-dimethoxy)phenyl]-",Plasma,-1
+S-Methyl-L-cysteine,Plasma,1-Tetradecanol,Plasma,1
+S-Methyl-L-cysteine,Plasma,4-Cumylphenol,Plasma,1
+S-Methyl-L-cysteine,Plasma,"Talonic acid, gamma-lactone",Plasma,-1
+Sertraline carbamoyl glucuronide,Plasma,"Acetamide, N,N-diethyl-",Plasma,1
+Sertraline carbamoyl glucuronide,Plasma,"Cholest-22-ene-21-ol, 3,5-dehydro-6-methoxy-, pivalate",Plasma,1
+Sertraline carbamoyl glucuronide,Plasma,D-Proline,Plasma,1
+Sertraline carbamoyl glucuronide,Plasma,p-Hydroxydiisopropylbenzene,Plasma,1
+"Stigmast-5-ene, 3beta-",Plasma,(pm)-alpha-Tocopherol acetate,Plasma,1
+"Stigmast-5-ene, 3beta-",Plasma,1-(4-Hydroxybenzylidene)acetone,Plasma,1
+"Stigmast-5-ene, 3beta-",Plasma,1-Monoacetin,Plasma,1
+"Stigmast-5-ene, 3beta-",Plasma,"2-Hexenoic acid, 2-[(trimethylsilyl)oxy]-",Plasma,1
+"Stigmast-5-ene, 3beta-",Plasma,2-Naphthol,Plasma,1
+"Stigmast-5-ene, 3beta-",Plasma,5-Hydroxytryptophan,Plasma,1
+"Stigmast-5-ene, 3beta-",Plasma,Arabinaric acid,Plasma,1
+"Stigmast-5-ene, 3beta-",Plasma,Diphenyl ether,Plasma,1
+"Stigmast-5-ene, 3beta-",Plasma,Phloroglucinol,Plasma,1
+"Stigmast-5-ene, 3beta-",Plasma,Salsoline,Plasma,1
+Suberic acid,Plasma,Hexanedioic acid,Plasma,1
+Suberic acid,Plasma,L-Tyrosine,Plasma,1
+"Tacrine, N-trimethylsilyl-",Plasma,3-Indolepropionic acid,Plasma,1
+Tartronic acid,Plasma,(pm)-alpha-Tocopherol acetate,Plasma,1
+Tartronic acid,Plasma,1-Tetradecanol,Plasma,1
+Tartronic acid,Plasma,"5-Androsten-17alpha-methyl-3beta,17beta-diol",Plasma,1
+Tartronic acid,Plasma,"Acetohydrazide, 2-(2-isopropyl-5-methylphenoxy)-N2-benzylideno-",Plasma,1
+Tartronic acid,Plasma,Benzeneacetic acid,Plasma,1
+Tartronic acid,Plasma, 5-Hydroxyhexanoic acid,Plasma,1
+Tartronic acid,Plasma,Gln-Ala,Plasma,1
+Tartronic acid,Plasma,"Thymine, 1,3-dimethyl-6-(trimethylsilyloxymethyl)-",Plasma,1
+Tartronic acid,Plasma,Triethanolamine,Plasma,1
+"Thymine, 1,3-dimethyl-6-(trimethylsilyloxymethyl)-",Plasma,1-Tetradecanol,Plasma,1
+"Thymine, 1,3-dimethyl-6-(trimethylsilyloxymethyl)-",Plasma,2-Naphthol,Plasma,1
+"Thymine, 1,3-dimethyl-6-(trimethylsilyloxymethyl)-",Plasma,3-Indolepropionic acid,Plasma,1
+"Thymine, 1,3-dimethyl-6-(trimethylsilyloxymethyl)-",Plasma,"5-Androsten-17alpha-methyl-3beta,17beta-diol",Plasma,1
+Tributyl acetylcitrate,Plasma,"Dimethyl hexopyranosiduronate, alpha-D-",Plasma,1
+Triethanolamine,Plasma,(pm)-alpha-Tocopherol acetate,Plasma,1
+Triethanolamine,Plasma,1-(4-Hydroxybenzylidene)acetone,Plasma,1
+Triethanolamine,Plasma,1-Phenylethanol,Plasma,-1
+Triethanolamine,Plasma,3'-Hydroxyacetophenone,Plasma,1
+Triethanolamine,Plasma,"Acetohydrazide, 2-(2-isopropyl-5-methylphenoxy)-N2-benzylideno-",Plasma,1
+Triethanolamine,Plasma,alpha-Tocopherol,Plasma,1
+Triethanolamine,Plasma,Arabinaric acid,Plasma,1
+Triethanolamine,Plasma,Benzeneacetic acid,Plasma,1
+Triethanolamine,Plasma,"Butanal, 2,3,4-tris[(trimethylsilyl)oxy]-, O-methyloxime, [R-(R*,R*)]-",Plasma,1
+Triethanolamine,Plasma,"Ethanamine, N,N-diethyl-2,2-dimethyl-2-[(3,5-dimethoxy)phenyl]-",Plasma,1
+Triethanolamine,Plasma,Itaconic acid,Plasma,1
+Triethanolamine,Plasma,Metanephrine,Plasma,1
+Triethanolamine,Plasma,p-Hydroxydiisopropylbenzene,Plasma,1
+"Trimethylsilyl (5-benzyl-3,6-dioxopiperazin-2-yl)acetate",Plasma,4-Cumylphenol,Plasma,1
+"Trimethylsilyl (5-benzyl-3,6-dioxopiperazin-2-yl)acetate",Plasma,5-Aminovaleric acid,Plasma,-1
+"Trimethylsilyl (5-benzyl-3,6-dioxopiperazin-2-yl)acetate",Plasma,5-Hydroxytryptophan,Plasma,1
+"Trimethylsilyl (5-benzyl-3,6-dioxopiperazin-2-yl)acetate",Plasma,Dobutamine,Plasma,-1
+Trimethylsilyl 3-((trimethylsilyl)thio)propanoate,Plasma,Arabinaric acid,Plasma,1
+Trimethylsilyl 3-((trimethylsilyl)thio)propanoate,Plasma,N-Acetyl-L-glutamic acid,Plasma,1
+Trimethylsilyl oct-2-enoate ,Plasma,"D-(-)-Lyxose, tetrakis",Plasma,1
+Trimidox,Plasma,5-(2-Aminopropyl)-2-methylphenol,Plasma,1
+Trisaminol,Plasma,"Butanal, 2,3,4-tris[(trimethylsilyl)oxy]-, O-methyloxime, [R-(R*,R*)]-",Plasma,-1
+Trisaminol,Plasma,Niacinamide,Plasma,1
+Trisaminol,Plasma,"Pentanedioic acid, 2-[(trimethylsilyl)oxy]-",Plasma,1
+Vanillylmandelic acid,Plasma,DL-Ornithine,Plasma,1

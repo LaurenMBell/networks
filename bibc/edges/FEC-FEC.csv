@@ -1,0 +1,213 @@
+Node 1 Name,Node 1 Tissue,Node 2 Name,Node 2 Tissue,edge_dir
+L-Valine,Feces,L-Serine,Feces,1
+L-Valine,Feces,4-Hydroxybenzaldehyde,Feces,1
+L-Valine,Feces,D-(+)-Glucosamine,Feces,1
+"beta-d-Glucopyranose, 2-(acetylamino)-3,6-anhydro-2-deoxy",Feces,Serine,Feces,1
+"2-Propenoic acid, 2-hydroxy-3-(4-hydroxyphenyl)",Feces,4-Hydroxybenzaldehyde,Feces,1
+Methylsuccinic acid,Feces,Niacinamide,Feces,1
+Methylsuccinic acid,Feces,17-alpha-Hydroxypregnenolone,Feces,-1
+Methylsuccinic acid,Feces,9H-Purin-6-ol,Feces,1
+Methylsuccinic acid,Feces,D-(+)-Glucosamine,Feces,1
+Methylsuccinic acid,Feces,Hydracrylic acid,Feces,1
+Methylsuccinic acid,Feces,L-(-)-Sorbofuranose,Feces,1
+Methylsuccinic acid,Feces,L-Glutamic acid,Feces,1
+DL-Phenylalanine,Feces,4-Hydroxybenzaldehyde,Feces,1
+DL-Phenylalanine,Feces,L-Isoleucine,Feces,1
+DL-Phenylalanine,Feces,Phenylalanine,Feces,1
+DL-Phenylalanine,Feces,Uracil,Feces,1
+"Gluconolactone (3R,4S,5R,6R)",Feces,Syringaldehyde,Feces,1
+L-Isoleucine,Feces,Phenylalanine,Feces,1
+L-Isoleucine,Feces,Serine,Feces,1
+L-Isoleucine,Feces,Tyrosine,Feces,1
+"2-Butenoic acid, 2-hydroxy-",Feces,1-Tetradecanol,Feces,1
+"2-Butenoic acid, 2-hydroxy-",Feces,"2',2,3,6'-Tetramethoxychalcone",Feces,-1
+"2-Butenoic acid, 2-hydroxy-",Feces,3-Deoxyhexitol,Feces,1
+"2-Butenoic acid, 2-hydroxy-",Feces,Butyl Succinate,Feces,1
+"2-Butenoic acid, 2-hydroxy-",Feces,"Hexadecanoic acid, 4-hydroxybutyl ester",Feces,1
+"2,5-Dimethoxyphenol",Feces,"2-Allyl-1,4-dimethoxybenzene ",Feces,1
+"2,5-Dimethoxyphenol",Feces,2-Hydroxy-3-methylbutyric acid,Feces,1
+"2,5-Dimethoxyphenol",Feces,Syringaldehyde,Feces,1
+"2-Allyl-1,4-dimethoxybenzene ",Feces,3-Hexenedioic acid,Feces,1
+"2-Allyl-1,4-dimethoxybenzene ",Feces,4-Pyridinol,Feces,1
+"2-Allyl-1,4-dimethoxybenzene ",Feces,Syringaldehyde,Feces,1
+"2-Butenoic acid, 2-methyl-, 2-methyl-2-propenyl ester",Feces,Cyclohexanecarboxylic acid,Feces,1
+"2-Butenoic acid, 2-methyl-, 2-methyl-2-propenyl ester",Feces,"Hexadecanoic acid, 4-hydroxybutyl ester",Feces,1
+"2-Butenoic acid, 2-methyl-, 2-methyl-2-propenyl ester",Feces,Myristic acid,Feces,1
+"2-Butenoic acid, 2-methyl-, 2-methyl-2-propenyl ester",Feces,Pentanoic acid,Feces,1
+"2-Butenoic acid, 2-methyl-, 2-methyl-2-propenyl ester",Feces,Tetrahydrogeranyl formate,Feces,1
+3-Hexenedioic acid,Feces,5-Hydroxymethyl-2-furoic acid,Feces,1
+3-Hexenedioic acid,Feces,beta-Arabinopyranose,Feces,1
+3-Hexenedioic acid,Feces,L-5-Oxoproline,Feces,1
+3-Hexenedioic acid,Feces,Syringaldehyde,Feces,1
+2-Ethylhexanoic acid,Feces,D-Mannopyranose,Feces,-1
+2-Ethylhexanoic acid,Feces,Phenol,Feces,1
+beta-Alanine,Feces,L-Glutamic acid,Feces,1
+beta-Alanine,Feces,N-Acetyl-L-glutamic acid,Feces,1
+beta-Alanine,Feces,Thymidine,Feces,1
+L-5-Oxoproline,Feces,L-(-)-Sorbofuranose,Feces,1
+L-5-Oxoproline,Feces,L-Glutamic acid,Feces,1
+Niacin,Feces,Niacinamide,Feces,1
+Niacin,Feces,L-(-)-Sorbofuranose,Feces,1
+Niacin,Feces,N-Acetyl-L-glutamic acid,Feces,1
+Phenol,Feces,Xanthine,Feces,1
+Phenol,Feces,Cholesterol,Feces,1
+Syringaldehyde,Feces,beta-D-(-)-Ribopyranose,Feces,1
+Syringaldehyde,Feces,"D-(+)-Ribono-1,4-lactone ",Feces,1
+Syringaldehyde,Feces,"Erythrono-1,4-lactone",Feces,1
+Syringaldehyde,Feces,"Propanoic acid, 2-oxo",Feces,1
+1-Dodecanol,Feces,2'-Deoxyribolactone,Feces,1
+1-Dodecanol,Feces,3-Deoxyhexitol,Feces,1
+1-Dodecanol,Feces,"Hexadecanoic acid, 4-hydroxybutyl ester",Feces,1
+1-Dodecanol,Feces,Undecanoic acid,Feces,1
+Benzoic Acid,Feces,13-Docosenamide,Feces,1
+Benzoic Acid,Feces,Pentanoic acid,Feces,1
+Benzoic Acid,Feces,"Propane, 2-methyl",Feces,1
+Benzoic Acid,Feces,Pyridoxic acid,Feces,1
+D-Allofuranose,Feces,Octadecyl octyl ether,Feces,1
+L-Valyl-L-leucine,Feces,3-(3-Hydroxyphenyl)propanoic acid,Feces,-1
+L-Valyl-L-leucine,Feces,Cyclohexanemethanol,Feces,-1
+L-Valyl-L-leucine,Feces,"Xylonic acid, delta-lactone",Feces,1
+2-Piperidinone,Feces,Butanedioic acid,Feces,1
+D-(-)-Ribofuranose,Feces,Lignoceric acid,Feces,-1
+1-Tetradecanol,Feces,"Hexadecanoic acid, 4-hydroxybutyl ester",Feces,1
+1-Tetradecanol,Feces,Palmitic Acid,Feces,1
+Pyrogallol,Feces,Xanthine,Feces,1
+Pyrogallol,Feces,"Hexadecanoic acid, 4-hydroxybutyl ester",Feces,1
+6-Hydroxyhexanoic acid,Feces,2-Hydroxy-3-methylbutyric acid,Feces,1
+Pentadecanoic acid,Feces,Cyclohexanecarboxylic acid,Feces,1
+Pentadecanoic acid,Feces,Myristic acid,Feces,1
+11-Hydroxy-.DELTA.-9-tetrahydrocannabinol,Feces,2'-Deoxyribolactone,Feces,1
+11-Hydroxy-.DELTA.-9-tetrahydrocannabinol,Feces,4-Hydroxybutanoic acid,Feces,1
+11-Hydroxy-.DELTA.-9-tetrahydrocannabinol,Feces,Pimelic acid,Feces,1
+"2,3-Butanediol",Feces,Pimelic acid,Feces,1
+L-Glutamic acid,Feces,"2-Pentenedioic acid, 2-hydroxy-",Feces,1
+L-Glutamic acid,Feces,L-(-)-Sorbofuranose,Feces,1
+L-Glutamic acid,Feces,N-Acetyl-L-glutamic acid,Feces,1
+L-Rhamnose,Feces,"Propanoic acid, 2-oxo",Feces,1
+"2,3,4,5-Tetrahydroxypentanoic acid-1,4-lactone",Feces,d-Erythrotetrofuranose,Feces,1
+"2,3,4,5-Tetrahydroxypentanoic acid-1,4-lactone",Feces,Octadecyl octyl ether,Feces,1
+N-(2-hydroxyethyl)-succinimide,Feces,Phloretic acid,Feces,1
+Cyclohexanecarboxylic acid,Feces,4-Methyl-5-thiazoleethanol,Feces,1
+Cyclohexanecarboxylic acid,Feces,"Inosose-2, myo",Feces,1
+Cyclohexanecarboxylic acid,Feces,Nonanoic acid,Feces,1
+"D-(+)-Ribono-1,4-lactone ",Feces,N-Acetylglucosamine,Feces,1
+"D-(+)-Ribono-1,4-lactone ",Feces,"(4,4-Dimethyl-5-methylene-4,5-dihydro-3H-pyrrol-2-yl)-(4,4-dimethyl-5-methylene-pyrrolidin-2-ylidene)-acetonitrile",Feces,1
+Thr-Leu,Feces,L-(+)-Lactic acid,Feces,-1
+Thr-Leu,Feces,Pimelic acid,Feces,-1
+"2',2,3,6'-Tetramethoxychalcone",Feces,"beta-D-Galactopyranoside, methyl-, acetate",Feces,1
+D-(+)-Talofuranose,Feces,Decanoic acid,Feces,-1
+9H-Purin-6-ol,Feces,N-Methyl-alpha-aminoisobutyric acid,Feces,1
+9H-Purin-6-ol,Feces,Dihydrouracil,Feces,1
+D-(+)-Glucosamine,Feces,4-Hydroxybenzaldehyde,Feces,1
+D-(+)-Glucosamine,Feces,Aconitic acid,Feces,1
+D-(+)-Glucosamine,Feces,trans-Coniferryl alchool,Feces,1
+Hydracrylic acid,Feces,5-Methyluridine,Feces,1
+Hydracrylic acid,Feces,Dihydrouracil,Feces,1
+Hydracrylic acid,Feces,L-(-)-Sorbofuranose,Feces,1
+L-Threonine,Feces,Tyrosine,Feces,1
+N-Acetyl-L-glutamic acid,Feces,Niacinamide,Feces,1
+Undecanoic acid,Feces,Nonanoic acid,Feces,1
+4-Hydroxybenzoic acid,Feces,L-Norvaline,Feces,1
+4-Hydroxybenzoic acid,Feces,N-Methyl-alpha-aminoisobutyric acid,Feces,1
+4-Hydroxybenzoic acid,Feces,1-Octanol,Feces,-1
+"2,5-Cyclohexadiene-1,4-dione, 2,6-bis(1,1-dimethylethyl)",Feces,"2,5-Di-tert-butyl-4-hydroxyphenol",Feces,1
+"2,5-Cyclohexadiene-1,4-dione, 2,6-bis(1,1-dimethylethyl)",Feces,3-Methyl-2-furoic acid,Feces,-1
+"2,5-Cyclohexadiene-1,4-dione, 2,6-bis(1,1-dimethylethyl)",Feces,3-Undecene,Feces,1
+"2,5-Cyclohexadiene-1,4-dione, 2,6-bis(1,1-dimethylethyl)",Feces,d-Erythrotetrofuranose,Feces,1
+"2,5-Cyclohexadiene-1,4-dione, 2,6-bis(1,1-dimethylethyl)",Feces,"Guanidine, N,N-dimethyl",Feces,1
+"2,5-Cyclohexadiene-1,4-dione, 2,6-bis(1,1-dimethylethyl)",Feces,Pimelic acid,Feces,1
+Monolaurin,Feces,Methyl 2-acetamido-2-deoxy-3-O-methyl-alpha-D-galactopyranoside,Feces,1
+Monolaurin,Feces,"Xylonic acid, delta-lactone",Feces,1
+Monolaurin,Feces,Xylose,Feces,1
+Serine,Feces,"2-Furanacetaldehyde, tetrahydro-alpha",Feces,-1
+Serine,Feces,L-Leucine,Feces,1
+Serine,Feces,Phenylalanine,Feces,1
+Picolinic acid,Feces,Glycerol tricaprylate,Feces,1
+Xanthine,Feces,Citric acid,Feces,1
+Xanthine,Feces,Pentanoic acid,Feces,1
+1-Monopalmitin,Feces,Pipecolic acid,Feces,-1
+Pipecolic acid,Feces,1-Octanol,Feces,-1
+Pyrrole-2-carboxylic acid,Feces,1-Octanol,Feces,-1
+Myristic acid,Feces,2'-Deoxyribolactone,Feces,1
+Myristic acid,Feces,"Hexadecanoic acid, 4-hydroxybutyl ester",Feces,1
+"Inosose-2, myo",Feces,1-Methyl-4-hydroxy-1H-imidazol-2-amine,Feces,1
+"Inosose-2, myo",Feces,trans-Coniferryl alchool,Feces,1
+D-Glucose,Feces,Glycerol tricaprylate,Feces,1
+Tetrahydrogeranyl formate,Feces,3-Undecene,Feces,1
+Tetrahydrogeranyl formate,Feces,"Guanidine, N,N-dimethyl",Feces,1
+Tetrahydrogeranyl formate,Feces,Pentanoic acid,Feces,1
+"2,5-Di-tert-butyl-4-hydroxyphenol",Feces,Pimelic acid,Feces,1
+5-Methyluridine,Feces,12-Oxooctadecanoate,Feces,-1
+2-Ethylacetoacetate,Feces,"2,3,4-Trihydroxybutyric acid",Feces,1
+2-Ethylacetoacetate,Feces,8-Hydroxy-5-(hydroxymethyl)quinoline,Feces,1
+2-Ethylacetoacetate,Feces,beta-D-(-)-Ribopyranose,Feces,1
+2-Ethylacetoacetate,Feces,"Erythrono-1,4-lactone",Feces,1
+2-Ethylacetoacetate,Feces,"Propanoic acid, 2-oxo",Feces,1
+2-Ethylacetoacetate,Feces,Tricine,Feces,1
+Cyclohexanemethanol,Feces,3-(3-Hydroxyphenyl)propanoic acid,Feces,1
+"Guanidine, N,N-dimethyl",Feces,3-Undecene,Feces,1
+"Guanidine, N,N-dimethyl",Feces,"Acetamide, N-(2-butyl)-N-methyl-",Feces,1
+"Guanidine, N,N-dimethyl",Feces,"Hexadecanoic acid, 4-hydroxybutyl ester",Feces,1
+"Guanidine, N,N-dimethyl",Feces,Menthol,Feces,1
+N-Acetyl glucosamine methoxime,Feces,Uridine,Feces,1
+2-Hydroxy-3-methylbutyric acid,Feces,Decanoic acid,Feces,1
+2-Hydroxy-3-methylbutyric acid,Feces,Glycerol tricaprylate,Feces,1
+Decanoic acid,Feces,Glycerol tricaprylate,Feces,1
+Butyl caprylate,Feces,"1,7-Dimethyl-4-(1-methylethyl)cyclodecane",Feces,1
+Butyl caprylate,Feces,Arabinitol,Feces,1
+9-Octadecenoic acid,Feces,4-Pyridinol,Feces,-1
+Pentanoic acid,Feces,3-Undecene,Feces,1
+N-Acetylglucosamine,Feces,"(4,4-Dimethyl-5-methylene-4,5-dihydro-3H-pyrrol-2-yl)-(4,4-dimethyl-5-methylene-pyrrolidin-2-ylidene)-acetonitrile",Feces,1
+Tyrosine,Feces,Phenylalanine,Feces,1
+"2,3,4-Trihydroxybutyric acid",Feces,"3-Hydroxy-2,3-dihydromaltol",Feces,1
+"2,3,4-Trihydroxybutyric acid",Feces,"Erythrono-1,4-lactone",Feces,1
+"2,3,4-Trihydroxybutyric acid",Feces,Ribonic acid,Feces,1
+Cytosine,Feces,L-Serine,Feces,1
+Dihydrouracil,Feces,"Propanoic acid, 2-oxo",Feces,1
+2'-Desoxyuridine,Feces,Thymidine,Feces,1
+Butyl Succinate,Feces,"Hexadecanoic acid, 4-hydroxybutyl ester",Feces,1
+Butyl Succinate,Feces,L-(+)-Lactic acid,Feces,1
+Butyl Succinate,Feces,"Propanoic acid, 2-oxo",Feces,1
+alpha-Tocopheryl acetate,Feces,4-Hydroxy-5-(hydroxymethyl)oxolan-2-one,Feces,-1
+beta-D-(-)-Ribopyranose,Feces,"Erythrono-1,4-lactone",Feces,1
+N-Methyl-alpha-aminoisobutyric acid,Feces,4-Hydroxybenzaldehyde,Feces,1
+N-Methyl-alpha-aminoisobutyric acid,Feces,Phloretic acid,Feces,1
+Niacinamide,Feces,"2-Pentenedioic acid, 2-hydroxy-",Feces,1
+"D-Erythro-Pentitol, 2-deoxy-",Feces,1-Hexanol,Feces,1
+Phenylalanine,Feces,4-Hydroxybenzaldehyde,Feces,1
+1-Octadecanol,Feces,Ethanamine,Feces,1
+1-Octadecanol,Feces,"2-Furanacetaldehyde, tetrahydro-alpha",Feces,-1
+1-Octadecanol,Feces,"Acetamide, N-(2-butyl)-N-methyl-",Feces,1
+1-Octadecanol,Feces,d-Erythrotetrofuranose,Feces,1
+3-Undecene,Feces,"Hexadecanoic acid, 4-hydroxybutyl ester",Feces,1
+3-Undecene,Feces,Menthol,Feces,1
+4-Hydroxy-5-(hydroxymethyl)oxolan-2-one,Feces,Nonanoic acid,Feces,1
+L-(+)-Lactic acid,Feces,Pimelic acid,Feces,1
+L-(+)-Lactic acid,Feces,"Propanoic acid, 2-oxo",Feces,1
+"2-Furanacetaldehyde, tetrahydro-alpha",Feces,Idoxuridine ,Feces,-1
+Glycolic acid,Feces,"Propanoic acid, 2-oxo",Feces,1
+Octadecyl octyl ether,Feces,"1,7-Dimethyl-4-(1-methylethyl)cyclodecane",Feces,1
+Octadecyl octyl ether,Feces,d-Erythrotetrofuranose,Feces,1
+"Azetidine, 1-acetyl-2-methyl",Feces,Hexacosanoic acid,Feces,1
+Palmitic Acid,Feces,"Acetamide, N-(2-butyl)-N-methyl-",Feces,1
+3-Hydroxyisovaleric acid,Feces,trans-Coniferryl alchool,Feces,1
+"Erythrono-1,4-lactone",Feces,Idoxuridine ,Feces,1
+2'-Deoxyribolactone,Feces,1-Methyl-4-hydroxy-1H-imidazol-2-amine,Feces,1
+2'-Deoxyribolactone,Feces,d-Erythrotetrofuranose,Feces,1
+2'-Deoxyribolactone,Feces,Glycerol tricaprylate,Feces,1
+Idoxuridine ,Feces,"(4,4-Dimethyl-5-methylene-4,5-dihydro-3H-pyrrol-2-yl)-(4,4-dimethyl-5-methylene-pyrrolidin-2-ylidene)-acetonitrile",Feces,1
+Idoxuridine ,Feces,Tricine,Feces,1
+Ketamine,Feces,"Butanoic acid, 3,4-dihydroxy-",Feces,1
+4-Hydroxybenzaldehyde,Feces,1-Octanol,Feces,-1
+Lignoceric acid,Feces,"beta-D-Galactopyranoside, methyl-, acetate",Feces,-1
+3-Deoxyhexitol,Feces,2-Palmitoylglycerol,Feces,-1
+3-Deoxyhexitol,Feces,Phloretic acid,Feces,1
+"Propane, 2-methyl",Feces,"Acetamide, N-(2-butyl)-N-methyl-",Feces,1
+D-Mannopyranose,Feces,"(2,2-Dimethyl-5-[2-(2-ethoxymethoxy)propyl][1,3]dioxolan-4-yl)methanol",Feces,-1
+Tricine,Feces,d-Erythrotetrofuranose,Feces,1
+3-Hydroxypicolinic acid,Feces,trans-Coniferryl alchool,Feces,-1
+1-Methyl-4-hydroxy-1H-imidazol-2-amine,Feces,d-Erythrotetrofuranose,Feces,1
+d-Erythrotetrofuranose,Feces,4-Hydroxyphenyllactic acid,Feces,1
+d-Erythrotetrofuranose,Feces,Glycerol,Feces,1
+Glycerol tricaprylate,Feces,Glycerol,Feces,1
+3-Hydroxybutyric acid,Feces,Hexacosanoic acid,Feces,1

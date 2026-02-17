@@ -5,7 +5,6 @@ import csv
 from pathlib import Path
 import networkx as nx
 import numpy as np
-import pandas as pd
 import chime
 
 def import_nw(nw_path):
@@ -22,10 +21,7 @@ def import_nw(nw_path):
 			else:
 				n1 = row[n1_index]
 				n2 = row[n2_index]
-				if not G.has_edge(n2, n1): #LAUREN ADDED THIS CHECK SO DUPLICATE EDGES DON'T GET ADDED
-					if n1 == "Sall1--CTX" or n2 == "Sall1--CTX":
-						print("SALL1 IN GRAPH")
-					G.add_edge(n1, n2)
+				G.add_edge(n1, n2)
 	return G
 
 def read_node_type_map(type_map_path):
@@ -98,9 +94,6 @@ output_path = Path(args.output)
 
 G = import_nw(network_path)
 gc = max(connected_component_subgraphs(G), key=len)
-if "Sall1--CTX" not in gc: 
-	print("SALL1 NOT IN GC")
-
 
 type_map = read_node_type_map(args.type_map)
 type1_subgraph = get_type_subgraph(gc, type_map, args.type1)
