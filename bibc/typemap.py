@@ -301,6 +301,7 @@ def load_fec_pls_edges(fec_pls, nodes):
     edges = []
     for i, row in fec_pls.iterrows():
         pls_name = name_nodes(strip_tissue_suffix(row["Node 1 Name"]), "Plasma")
+        
         load_node(nodes, pls_name, "Plasma")
 
         fec_name = name_nodes(strip_tissue_suffix(row["Node 2 Name"]), "Feces")

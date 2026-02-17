@@ -1,4 +1,6 @@
 import pandas as pd
+#THIS IS THE MOST RECENT ONE USE THIS ONE
+
 
 """
 1) read in CTX-CPX, CPX-CPX
@@ -41,7 +43,8 @@ def label_node(name, tissue):
 
 
 def dedup(df):
-    #admittedly I got help from chatgpt for this one
+    #admittedly I got help from chatgpt for this one, 
+    # de-deuplicates edges
     if df.empty:
         return df
     df = df.copy()
@@ -51,6 +54,7 @@ def dedup(df):
     return df.drop(columns=["min","max"])
 
 def load_edges(df, nodes, strip_tag=False):
+    #loads edges in from csvs: fec, pls, pls-cpx, fec-pls
     edges = []
     for i, row in df.iterrows():
         t1 = row["Node 1 Tissue"]
@@ -81,6 +85,7 @@ def load_edges(df, nodes, strip_tag=False):
 def load_edges_excel(df, tissue1, tissue2, nodes, use_ids=False):
     df = df.rename(columns={"Node 1 Name": "node1", "Node 2 Name": "node2"}).copy()
 
+    #select where the two tissues match
     mask = ((df["Node 1 Tissue"] == tissue1) & (df["Node 2 Tissue"] == tissue2)) | (
         (df["Node 1 Tissue"] == tissue2) & (df["Node 2 Tissue"] == tissue1))
 
@@ -129,6 +134,7 @@ def puc_fec_pls(df):
         edge_dir = row["edge_dir"]
 
         if edge_dir is None:
+            #print(f"NO DIR: PLS {pls_name} ({dir_pls}) or FEC {fec_name} ({dir_fec})")
             continue
         if pls not in pls_dir or fec not in fec_dir:
             continue
