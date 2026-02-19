@@ -40,6 +40,8 @@ def build_layers(G, layer_0, max_depth=None):
 
         next_layer = set()
         for node in current_layer:
+            if node == "Albizziin":
+                print(f"ALBIZZIIN IN LAYER {depth}")
             for neighbor in G.neighbors(node):
                 if neighbor not in visited:
                     next_layer.add(neighbor)
@@ -56,6 +58,8 @@ def build_layers(G, layer_0, max_depth=None):
 
 def reverse_puc(G, curr_layer, prev_layer, depth, f=None, thresh=0.2, first=False):
     for node in list(curr_layer):
+        if node == "Albizziin":
+            print("REVERSE_PUC CALLED ON ALBIZZIIN\n")
         if not G.has_node(node):
             continue
 
@@ -90,9 +94,9 @@ def reverse_puc(G, curr_layer, prev_layer, depth, f=None, thresh=0.2, first=Fals
             f.write(f"negative votes: {neg_votes}\n")
 
         if total_votes == 0:
-            print("NO. NO NO")
+            print("NO NO NO")
             if f:
-                f.write("No votes, node unchanged\n")
+                f.write("No votes\n")
             continue
 
         if pos_votes > neg_votes:
@@ -116,7 +120,7 @@ def reverse_puc(G, curr_layer, prev_layer, depth, f=None, thresh=0.2, first=Fals
                         if f:
                             f.write(f"{node}-{neighbor} edge is removed\n")
                 if f:
-                    f.write(f"{frustration} > {thresh}, edges cleared for {node}\n")
+                    f.write(f"{frustration} > {thresh}, edges removed for {node}\n")
             else:
                 if G.has_node(node):
                     G.remove_node(node)
@@ -187,6 +191,8 @@ def pls_cpx_rpuc(f):
     #init edges for rest of PLS
     for i, r in pls.iterrows(): 
         G.add_edge(r["Metabolite 1"], r["Metabolite 2"], dir=r["edge_dir"])
+        if r["Metabolite 1"] == "Albizziin" or r["Metabolite 2"] == "Albizziin":
+            print("ALBIZZIIN IN PLS EDGES\n")
 
     # ==================== PERFORMING INVERSE PUC =====================================
     layer_zero = [node for node in l0 if G.has_node(node) and G.degree(node) > 0]
@@ -234,7 +240,10 @@ def pls_cpx_rpuc(f):
         edges.append({"n1": u,"n2": v,"edge_dir": d.get("dir", None)})
         
         if u in l0 or v in l0:
-            pls_cpx_e.append({"n1": u,"n2": v,"edge_dir": d.get("dir", None)})
+            gene_n1, gene_n2 = u, v
+            if not str(gene_n1).startswith("ENS") and str(gene_n2).startswith("ENS"):
+                gene_n1, gene_n2 = gene_n2, gene_n1
+            pls_cpx_e.append({"n1": gene_n1,"n2": gene_n2,"edge_dir": d.get("dir", None)})
 
         if u not in l0 and v not in l0:
             pls_e.append({"n1": u,"n2": v,"edge_dir": d.get("dir", None)})
@@ -242,18 +251,21 @@ def pls_cpx_rpuc(f):
         edges.append({"n1": v,"n2": u,"edge_dir": d.get("dir", None)})
 
         if u in l0 or v in l0:
-            pls_cpx_e.append({"n1": v,"n2": u,"edge_dir": d.get("dir", None)})
+            gene_n1, gene_n2 = v, u
+            if not str(gene_n1).startswith("ENS") and str(gene_n2).startswith("ENS"):
+                gene_n1, gene_n2 = gene_n2, gene_n1
+            pls_cpx_e.append({"n1": gene_n1,"n2": gene_n2,"edge_dir": d.get("dir", None)})
         
         if u not in l0 and v not in l0:
             pls_e.append({"n1": v,"n2": u,"edge_dir": d.get("dir", None)})  
     
     pls_cpx_e = pd.DataFrame(pls_cpx_e)
-    sel = pls_cpx_e["n1"].str.startswith("ENS")
-    pls_cpx_e[sel].replace("-P", "")
-    pls_cpx_e.loc[sel, "n1"] = pls_cpx_e.loc[sel, "n1"].str.replace("-P", "")
-    sel2 = pls_cpx_e["n2"].str.startswith("ENS")
-    pls_cpx_e[sel2].replace("-P", "")
-    pls_cpx_e.loc[sel2, "n2"] = pls_cpx_e.loc[sel2, "n2"].str.replace("-P", "")
+    pls_cpx_e.to_csv("PLS/PLS-CPX_symbols.csv", index=False)
+
+    sel = pls_cpx_e["n1"].str.startswith("ENS", na=False)
+    pls_cpx_e.loc[sel, "n1"] = pls_cpx_e.loc[sel, "n1"].str.replace("-P", "", regex=False)
+    sel2 = pls_cpx_e["n2"].str.startswith("ENS", na=False)
+    pls_cpx_e.loc[sel2, "n2"] = pls_cpx_e.loc[sel2, "n2"].str.replace("-P", "", regex=False)
     pls_cpx_e = pls_cpx_e.replace(name_dict)
     pls_cpx_e.to_csv("PLS/pls_cpx_l0_rpuc_edges.csv", index=False)
 
@@ -274,9 +286,9 @@ def pls_cpx_rpuc(f):
     pls_e.loc[sel, "n1"] = pls_e.loc[sel, "n1"].str.replace("-P", "")
     sel2 = pls_e["n2"].str.startswith("ENS")
     pls_e[sel2].replace("-P", "")
-    pls_e.loc[sel2, "n2"] = pls_e.loc[sel2, "n2"].str.replace("-P", "")
+    pls_e.loc[sel2, "n2"] = pls_e.loc[sel2, "n2"] .str.replace("-P", "")
     pls_e = pls_e.replace(name_dict)
-    pls_e = pd.DataFrame(pls_e).replace("-P", "").replace(name_dict)
+    pls_e = pd.DataFrame(pls_e) .replace("-P", "").replace(name_dict)
     pls_e.to_csv("PLS/pls_rpuc_edges.csv", index=False)
     
     
@@ -300,6 +312,7 @@ def pls_cpx_rpuc(f):
 
     G.clear()
     print("done with pls-cpx")
+
 
 def fec_cpx_rpuc(f):
     f.write(time.strftime("CURRENT TIME: %Y-%m-%d %H:%M:%S\n\n"))
@@ -373,23 +386,22 @@ def fec_cpx_rpuc(f):
     for u, v, d in G.edges(data=True):
         edges.append({"n1": u,"n2": v,"edge_dir": d.get("dir", None)})
         if u in l0 or v in l0:
+            if not str(u).startswith("ENS") and str(v).startswith("ENS"):
+                u, v = v, u
             fec_cpx_e.append({"n1": u,"n2": v,"edge_dir": d.get("dir", None)})
         if u not in l0 and v not in l0:
             fec_e.append({"n1": u,"n2": v,"edge_dir": d.get("dir", None)})
     for u, v, d in G.edges(data=True):
         edges.append({"n1": v,"n2": u,"edge_dir": d.get("dir", None)})
-        if u in l0 or v in l0:
-            fec_cpx_e.append({"n1": v,"n2": u,"edge_dir": d.get("dir", None)})
         if u not in l0 and v not in l0:
             fec_e.append({"n1": v,"n2": u,"edge_dir": d.get("dir", None)})  
     
     fec_cpx_e = pd.DataFrame(fec_cpx_e)
-    sel = fec_cpx_e["n1"].str.startswith("ENS")
-    fec_cpx_e[sel].replace("-P", "")
-    fec_cpx_e.loc[sel, "n1"] = fec_cpx_e.loc[sel, "n1"].str.replace("-P", "")
-    sel2 = fec_cpx_e["n2"].str.startswith("ENS")
-    fec_cpx_e[sel2].replace("-P", "")
-    fec_cpx_e.loc[sel2, "n2"] = fec_cpx_e.loc[sel2, "n2"].str.replace("-P", "")
+
+    sel = fec_cpx_e["n1"].str.startswith("ENS", na=False)
+    fec_cpx_e.loc[sel, "n1"] = fec_cpx_e.loc[sel, "n1"].str.replace("-P", "", regex=False)
+    sel2 = fec_cpx_e["n2"].str.startswith("ENS", na=False)
+    fec_cpx_e.loc[sel2, "n2"] = fec_cpx_e.loc[sel2, "n2"].str.replace("-P", "", regex=False)
     fec_cpx_e = fec_cpx_e.replace(name_dict)
     fec_cpx_e.to_csv("FEC/fec_cpx_l0_rpuc_edges.csv", index=False)
 
@@ -417,13 +429,14 @@ def fec_cpx_rpuc(f):
 
     #save node table 
     nodes = []
-    for n, d in G.nodes(data=True):
-        nodes.append({"node": n,"node_dir": G.nodes[n]["dir"]})
-        if n not in l0:
-            try:
-                nodes.append({"node": n,"node_dir": G.nodes[n]["dir"]})
-            except:
-                print(f"{n} - no dir\n")
+    for node, attrs in G.nodes(data=True):
+        if "dir" not in attrs:
+            continue
+
+        cleaned = node[:-2] if node.startswith("ENS") and node.endswith("-P") else node
+        mapped = name_dict.get(cleaned, cleaned)
+        nodes.append({"node": mapped, "node_dir": attrs["dir"]})
+
     pd.DataFrame(nodes).to_csv("FEC/fec_rpuc_nodes.csv", index=False) 
 
     count = 0

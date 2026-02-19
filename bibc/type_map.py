@@ -1,7 +1,6 @@
 import pandas as pd
 #THIS IS THE MOST RECENT ONE USE THIS ONE
 
-
 """
 1) read in CTX-CPX, CPX-CPX
 2) add CPX-PLS and match genes to CPX and mets to PLS
@@ -59,11 +58,10 @@ def load_edges(df, nodes, strip_tag=False):
     for i, row in df.iterrows():
         t1 = row["Node 1 Tissue"]
         t2 = row["Node 2 Tissue"]
-
         n1_pre = row["Node 1 Name"]
         n2_pre = row["Node 2 Name"]
 
-        if strip_tag:
+        if strip_tag: #fec-pls
             n1_pre = strip_tissue_tag(n1_pre)
             n2_pre = strip_tissue_tag(n2_pre)
 
@@ -75,8 +73,7 @@ def load_edges(df, nodes, strip_tag=False):
 
         edges.append({
             "node1": label_node(n1, t1),
-            "node2": label_node(n2, t2)
-        })
+            "node2": label_node(n2, t2)})
 
     return pd.DataFrame(edges)
 
@@ -176,7 +173,7 @@ fec_fec_edges = load_edges(fec_fec, nodes)
 print("FEC: ", len(fec_fec_edges))
 
 fec_pls_post = puc_fec_pls(fec_pls)
-fec_pls_edges = load_edges(fec_pls_post, nodes, strip_suffix=True)
+fec_pls_edges = load_edges(fec_pls_post, nodes, strip_tag=True)
 print("PLS-FEC post-puc: ", len(fec_pls_post))
 
 pls_cpx_edges = load_edges(pls_cpx, nodes)
@@ -199,6 +196,9 @@ print("CPX-CTX: ", len(cpx_ctx_edges))
 ctx_stm_edges = load_edges_excel(cc, "Cortex", "Striatum", nodes, use_ids=True)
 print("CTX-STM: ", len(ctx_stm_edges))
 
+cpx_stm_edges = load_edges_excel(cc, "Choroid Plexus", "Striatum", nodes, use_ids=False)
+print("CPX-STM: ", len(cpx_stm_edges))
+
 networks = {
     "FEC-CTX": [
         fec_fec_edges,
@@ -215,8 +215,7 @@ networks = {
         pls_pls_edges,
         cpx_cpx_edges,
         pls_cpx_edges,
-        cpx_ctx_edges,
-        ctx_stm_edges,
+        cpx_stm_edges,
         stm_stm_edges
     ],
     "PLS-CTX": [
@@ -229,8 +228,7 @@ networks = {
     "PLS-STM": [
         pls_pls_edges,
         cpx_cpx_edges,
-        cpx_ctx_edges,
-        ctx_stm_edges,
+        cpx_stm_edges,
         stm_stm_edges,
         pls_cpx_edges
     ],
@@ -245,8 +243,7 @@ networks = {
         fec_fec_edges,
         fec_cpx_edges,
         cpx_cpx_edges,
-        cpx_ctx_edges,
-        ctx_stm_edges,
+        cpx_stm_edges,
         stm_stm_edges
     ],
     "FEC-CTX_via_pls_cpx": [
@@ -266,8 +263,7 @@ networks = {
         fec_cpx_edges,
         cpx_cpx_edges,
         pls_cpx_edges,
-        cpx_ctx_edges,
-        ctx_stm_edges,
+        cpx_stm_edges,
         stm_stm_edges
     ],
     "PLS-CPX": [

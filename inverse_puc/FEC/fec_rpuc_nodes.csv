@@ -1,965 +1,742 @@
 node,node_dir
-ENSMUSG00000055681-P,1.0
+Cope,1.0
 "2,4-Di-tert-butylphenol",-1.0
-"2,4-Di-tert-butylphenol",-1.0
-ENSMUSG00000032216-P,-1.0
+Nedd4,-1.0
 L-Valine,-1.0
-L-Valine,-1.0
-ENSMUSG00000025979-P,1.0
-Deoxyglucose,-1.0
+Mob4,1.0
 Deoxyglucose,-1.0
 Vanillin,-1.0
-Vanillin,-1.0
-ENSMUSG00000035443-P,1.0
-ENSMUSG00000028991-P,1.0
-ENSMUSG00000044224-P,-1.0
+Thyn1,1.0
+Mtor,1.0
+Dnajc21,-1.0
 "beta-d-Glucopyranose, 2-(acetylamino)-3,6-anhydro-2-deoxy",-1.0
-"beta-d-Glucopyranose, 2-(acetylamino)-3,6-anhydro-2-deoxy",-1.0
-ENSMUSG00000030216-P,-1.0
-"2-Propenoic acid, 2-hydroxy-3-(4-hydroxyphenyl)",-1.0
+Wbp11,-1.0
 "2-Propenoic acid, 2-hydroxy-3-(4-hydroxyphenyl)",-1.0
 L-Aspartic acid,-1.0
-L-Aspartic acid,-1.0
 Methylsuccinic acid,-1.0
-Methylsuccinic acid,-1.0
-ENSMUSG00000016495-P,-1.0
-2-Pyrrolidinone,-1.0
+Plgrkt,-1.0
 2-Pyrrolidinone,-1.0
 Decyl oleate,-1.0
-Decyl oleate,-1.0
-DL-Phenylalanine,-1.0
 DL-Phenylalanine,-1.0
 "Gluconolactone (3R,4S,5R,6R)",-1.0
-"Gluconolactone (3R,4S,5R,6R)",-1.0
 L-Isoleucine,-1.0
-L-Isoleucine,-1.0
-ENSMUSG00000036188-P,-1.0
+Ankmy2,-1.0
 5-Oxohexanoic Acid,1.0
-5-Oxohexanoic Acid,1.0
-ENSMUSG00000068284-P,-1.0
-Deoxycholic Acid,-1.0
+Usf3,-1.0
 Deoxycholic Acid,-1.0
 D-Fructose,-1.0
-D-Fructose,-1.0
-ENSMUSG00000063894-P,-1.0
+Zkscan8,-1.0
 D-(-)-Fructopyranose,-1.0
-D-(-)-Fructopyranose,-1.0
-ENSMUSG00000027536-P,1.0
+Chmp4c,1.0
 "2-Butenoic acid, 2-hydroxy-",-1.0
-"2-Butenoic acid, 2-hydroxy-",-1.0
-ENSMUSG00000069727-P,-1.0
-1-Hexacosene,-1.0
+Zfp975,-1.0
 1-Hexacosene,-1.0
 "2,5-Dimethoxyphenol",-1.0
-"2,5-Dimethoxyphenol",-1.0
-"2-Allyl-1,4-dimethoxybenzene ",-1.0
 "2-Allyl-1,4-dimethoxybenzene ",-1.0
 "2-Butenoic acid, 2-methyl-, 2-methyl-2-propenyl ester",-1.0
-"2-Butenoic acid, 2-methyl-, 2-methyl-2-propenyl ester",-1.0
 3-Hexenedioic acid,-1.0
-3-Hexenedioic acid,-1.0
-ENSMUSG00000042118-P,-1.0
-ENSMUSG00000094002-P,1.0
-ENSMUSG00000039253-P,-1.0
-2-Ethylhexanoic acid,-1.0
+Bhmt2,-1.0
+Silc1,1.0
+Fn3krp,-1.0
 2-Ethylhexanoic acid,-1.0
 pyrazole,-1.0
-pyrazole,-1.0
-beta-Alanine,-1.0
 beta-Alanine,-1.0
 L-5-Oxoproline,-1.0
-L-5-Oxoproline,-1.0
-Niacin,-1.0
 Niacin,-1.0
 Phenol,-1.0
-Phenol,-1.0
-Syringaldehyde,-1.0
 Syringaldehyde,-1.0
 Urea,-1.0
-Urea,-1.0
-ENSMUSG00000036371-P,-1.0
-1-Dodecanol,-1.0
+Serbp1,-1.0
 1-Dodecanol,-1.0
 Benzoic Acid,-1.0
-Benzoic Acid,-1.0
 D-Allofuranose,-1.0
-D-Allofuranose,-1.0
-ENSMUSG00000094595-P,1.0
+Fsbp,1.0
 L-Valyl-L-leucine,1.0
-L-Valyl-L-leucine,1.0
-ENSMUSG00000041126-P,1.0
-2-Piperidinone,-1.0
+H2az2,1.0
 2-Piperidinone,-1.0
 Azelaic acid,1.0
-Azelaic acid,1.0
 l-Leucyl-l-valine,1.0
-l-Leucyl-l-valine,1.0
-ENSMUSG00000034064-P,1.0
+Poglut1,1.0
 "1,4-Butanediol",1.0
-"1,4-Butanediol",1.0
-ENSMUSG00000035295-P,1.0
+Wdr38,1.0
 3-Buten-2-one,1.0
-3-Buten-2-one,1.0
-ENSMUSG00000057421-P,1.0
-ENSMUSG00000022781-P,-1.0
+Las1l,1.0
+Pak2,-1.0
 D-Ribose,-1.0
-D-Ribose,-1.0
-ENSMUSG00000030060-P,1.0
-ENSMUSG00000015112-P,-1.0
-ENSMUSG00000027642-P,1.0
+Hmces,1.0
+Slc25a13,-1.0
+Rpn2,1.0
 D-(-)-Ribofuranose,1.0
-D-(-)-Ribofuranose,1.0
-ENSMUSG00000105382-P,-1.0
-1-Tetradecanol,-1.0
+Gm43339,-1.0
 1-Tetradecanol,-1.0
 Pyrogallol,-1.0
-Pyrogallol,-1.0
 Tripropylene glycol monomethyl ether,-1.0
-Tripropylene glycol monomethyl ether,-1.0
-ENSMUSG00000024081-P,-1.0
-ENSMUSG00000003184-P,-1.0
-ENSMUSG00000030094-P,-1.0
+Cebpz,-1.0
+Irf3,-1.0
+Xpc,-1.0
 Supraene,1.0
-Supraene,1.0
-ENSMUSG00000049295-P,1.0
+Zfp219,1.0
 6-Hydroxyhexanoic acid,-1.0
-6-Hydroxyhexanoic acid,-1.0
-ENSMUSG00000046711-P,1.0
-Octanoic acid,1.0
+Hmga1,1.0
 Octanoic acid,1.0
 Pentadecanoic acid,-1.0
-Pentadecanoic acid,-1.0
-ENSMUSG00000034647-P,-1.0
+Ankrd12,-1.0
 11-Hydroxy-.DELTA.-9-tetrahydrocannabinol,-1.0
-11-Hydroxy-.DELTA.-9-tetrahydrocannabinol,-1.0
-ENSMUSG00000002319-P,1.0
+Ipo4,1.0
 "2,3-Butanediol",-1.0
-"2,3-Butanediol",-1.0
-ENSMUSG00000020108-P,1.0
+Ddit4,1.0
 L-Glutamic acid,-1.0
-L-Glutamic acid,-1.0
-ENSMUSG00000022246-P,-1.0
+Rai14,-1.0
 L-Rhamnose,-1.0
-L-Rhamnose,-1.0
-ENSMUSG00000050910-P,1.0
-ENSMUSG00000061533-P,-1.0
-ENSMUSG00000102840-P,-1.0
+Cdr2l,1.0
+Cep128,-1.0
+Gm38037,-1.0
 "2,3,4,5-Tetrahydroxypentanoic acid-1,4-lactone",-1.0
-"2,3,4,5-Tetrahydroxypentanoic acid-1,4-lactone",-1.0
-ENSMUSG00000004698-P,1.0
-alpha-Linolenic acid,-1.0
+Hdac9,1.0
 alpha-Linolenic acid,-1.0
 Monomethyl succinate,-1.0
-Monomethyl succinate,-1.0
 N-(2-hydroxyethyl)-succinimide,-1.0
-N-(2-hydroxyethyl)-succinimide,-1.0
-ENSMUSG00000086610-P,-1.0
+Gm15408,-1.0
 Cyclohexanecarboxylic acid,-1.0
-Cyclohexanecarboxylic acid,-1.0
-ENSMUSG00000026309-P,1.0
-ENSMUSG00000021903-P,1.0
+Ilkap,1.0
+Galnt15,1.0
 Glyceric acid,1.0
-Glyceric acid,1.0
-ENSMUSG00000037262-P,-1.0
-ENSMUSG00000005514-P,-1.0
+Kin,-1.0
+Por,-1.0
 D-Psicofuranose,1.0
-D-Psicofuranose,1.0
-ENSMUSG00000045128-P,-1.0
-"D-(+)-Ribono-1,4-lactone ",-1.0
+Rpl18a,-1.0
 "D-(+)-Ribono-1,4-lactone ",-1.0
 Hymexazole,-1.0
-Hymexazole,-1.0
-ENSMUSG00000040795-P,1.0
-ENSMUSG00000031511-P,1.0
-ENSMUSG00000024805-P,-1.0
-ENSMUSG00000029198-P,1.0
+Iqcc,1.0
+Arhgef7,1.0
+Pcgf5,-1.0
+Grpel1,1.0
 Thr-Leu,1.0
-Thr-Leu,1.0
-ENSMUSG00000032482-P,1.0
+Cspg5,1.0
 "1,3-Dioxane, 2,2-dimethyl-5-hydroxy-",-1.0
-"1,3-Dioxane, 2,2-dimethyl-5-hydroxy-",-1.0
-ENSMUSG00000021288-P,1.0
+Klc1,1.0
 Deoxyribopyranose,1.0
-Deoxyribopyranose,1.0
-ENSMUSG00000024151-P,1.0
-ENSMUSG00000023243-P,-1.0
+Msh2,1.0
+Kcnk5,-1.0
 "2',2,3,6'-Tetramethoxychalcone",1.0
-"2',2,3,6'-Tetramethoxychalcone",1.0
-ENSMUSG00000052751-P,1.0
+Repin1,1.0
 D-(+)-Talofuranose,1.0
-D-(+)-Talofuranose,1.0
-ENSMUSG00000020389-P,1.0
-ENSMUSG00000064370-P,-1.0
-ENSMUSG00000005580-P,1.0
-ENSMUSG00000035941-P,-1.0
-9H-Purin-6-ol,-1.0
+Cdkl3,1.0
+mt-Cytb,-1.0
+Adcy9,1.0
+Ibtk,-1.0
 9H-Purin-6-ol,-1.0
 "cis-4,5-Dihydroxy-o-dithiane",-1.0
-"cis-4,5-Dihydroxy-o-dithiane",-1.0
-D-(+)-Glucosamine,-1.0
 D-(+)-Glucosamine,-1.0
 Hydracrylic acid,-1.0
-Hydracrylic acid,-1.0
-L-Threonine,-1.0
 L-Threonine,-1.0
 "N-Acetyl-D-galactosamine, (R,R,R,R)",-1.0
-"N-Acetyl-D-galactosamine, (R,R,R,R)",-1.0
-N-Acetyl-L-glutamic acid,-1.0
 N-Acetyl-L-glutamic acid,-1.0
 Salsoline,-1.0
-Salsoline,-1.0
-Undecanoic acid,-1.0
 Undecanoic acid,-1.0
 Uracil,-1.0
-Uracil,-1.0
-ENSMUSG00000036501-P,-1.0
+Fam13b,-1.0
 5-Hydroxymethyl-2-furoic acid,-1.0
-5-Hydroxymethyl-2-furoic acid,-1.0
-ENSMUSG00000033411-P,-1.0
+Ctdspl2,-1.0
 4-Hydroxybenzoic acid,-1.0
-4-Hydroxybenzoic acid,-1.0
-ENSMUSG00000035934-P,-1.0
-ENSMUSG00000003527-P,-1.0
-ENSMUSG00000019907-P,-1.0
+Pknox2,-1.0
+Ess2,-1.0
+Ppp1r12a,-1.0
 Pyridoxic acid,-1.0
-Pyridoxic acid,-1.0
-ENSMUSG00000025410-P,1.0
+Dctn2,1.0
 Cyclohexanol,1.0
-Cyclohexanol,1.0
-ENSMUSG00000061718-P,1.0
-"2,5-Cyclohexadiene-1,4-dione, 2,6-bis(1,1-dimethylethyl)",-1.0
+Ppp1r1b,1.0
 "2,5-Cyclohexadiene-1,4-dione, 2,6-bis(1,1-dimethylethyl)",-1.0
 Hydroquinone,-1.0
-Hydroquinone,-1.0
-ENSMUSG00000008690-P,1.0
+Ncaph2,1.0
 Monolaurin,1.0
-Monolaurin,1.0
-ENSMUSG00000004895-P,1.0
+Prcc,1.0
 9-Octadecenamide,-1.0
-9-Octadecenamide,-1.0
-ENSMUSG00000028273-P,-1.0
+Pdlim5,-1.0
 Serine,-1.0
-Serine,-1.0
-ENSMUSG00000024193-P,1.0
-ENSMUSG00000021585-P,-1.0
-Picolinic acid,-1.0
+Phf1,1.0
+Cast,-1.0
 Picolinic acid,-1.0
 Suberic acid,-1.0
-Suberic acid,-1.0
-ENSMUSG00000026623-P,-1.0
-ENSMUSG00000001964-P,1.0
-Xanthine,-1.0
+Lpgat1,-1.0
+Emd,1.0
 Xanthine,-1.0
 13-Docosenamide,-1.0
-13-Docosenamide,-1.0
-ENSMUSG00000057367-P,-1.0
+Birc2,-1.0
 4-Methyl-5-thiazoleethanol,-1.0
-4-Methyl-5-thiazoleethanol,-1.0
-ENSMUSG00000036613-P,1.0
-ENSMUSG00000031010-P,-1.0
+Eipr1,1.0
+Usp9x,-1.0
 1-Monopalmitin,1.0
-1-Monopalmitin,1.0
-ENSMUSG00000015839-P,-1.0
+Nfe2l2,-1.0
 L-Norvaline,-1.0
-L-Norvaline,-1.0
-ENSMUSG00000038859-P,-1.0
-Pipecolic acid,-1.0
+Baiap2l1,-1.0
 Pipecolic acid,-1.0
 Pyrrole-2-carboxylic acid,-1.0
-Pyrrole-2-carboxylic acid,-1.0
-ENSMUSG00000032633-P,1.0
-ENSMUSG00000032724-P,-1.0
+Flcn,1.0
+Abtb2,-1.0
 Myristic acid,-1.0
-Myristic acid,-1.0
-ENSMUSG00000024235-P,-1.0
+Map3k8,-1.0
 "Inosose-2, myo",-1.0
-"Inosose-2, myo",-1.0
-ENSMUSG00000026483-P,-1.0
-ENSMUSG00000057738-P,1.0
-ENSMUSG00000032301-P,-1.0
-ENSMUSG00000030862-P,-1.0
-ENSMUSG00000035505-P,1.0
-ENSMUSG00000022283-P,-1.0
-ENSMUSG00000050989-P,1.0
-ENSMUSG00000014195-P,1.0
-ENSMUSG00000028885-P,-1.0
+Niban1,-1.0
+Sptan1,1.0
+Psma4,-1.0
+Cpxm2,-1.0
+Cox18,1.0
+Pabpc1,-1.0
+Selenon,1.0
+Dnajc7,1.0
+Smpdl3b,-1.0
 "Arabinofuranose, 1,2,3,5-tetrakis",-1.0
-"Arabinofuranose, 1,2,3,5-tetrakis",-1.0
-ENSMUSG00000021693-P,-1.0
+Kif2a,-1.0
 D-Glucose,-1.0
-D-Glucose,-1.0
-ENSMUSG00000062044-P,1.0
-ENSMUSG00000028441-P,1.0
-ENSMUSG00000005124-P,-1.0
-ENSMUSG00000043991-P,-1.0
+Lmtk3,1.0
+Spmip6,1.0
+Ccn4,-1.0
+Pura,-1.0
 Tetrahydrogeranyl formate,-1.0
-Tetrahydrogeranyl formate,-1.0
-ENSMUSG00000086825-P,-1.0
+Gm15675,-1.0
 3-O-methyl-beta-D-Glucopyranose,1.0
-3-O-methyl-beta-D-Glucopyranose,1.0
-ENSMUSG00000041134-P,-1.0
-"2,5-Di-tert-butyl-4-hydroxyphenol",-1.0
+Cyyr1,-1.0
 "2,5-Di-tert-butyl-4-hydroxyphenol",-1.0
 5-Methyluridine,-1.0
-5-Methyluridine,-1.0
-ENSMUSG00000059495-P,-1.0
-ENSMUSG00000062421-P,-1.0
-ENSMUSG00000050822-P,1.0
-ENSMUSG00000014075-P,-1.0
-2-Ethylacetoacetate,-1.0
+Arhgef12,-1.0
+Arf2,-1.0
+Slc29a4,1.0
+Dynlt2b,-1.0
 2-Ethylacetoacetate,-1.0
 Aconitic acid,-1.0
-Aconitic acid,-1.0
-D-(-)-Fructofuranose,-1.0
 D-(-)-Fructofuranose,-1.0
 Ethyl alpha-D-glucopyranoside,-1.0
-Ethyl alpha-D-glucopyranoside,-1.0
-Norketamine,1.0
 Norketamine,1.0
 "Trimethylsilyl (5-benzyl-3,6-dioxopiperazin-2-yl)acetate",-1.0
-"Trimethylsilyl (5-benzyl-3,6-dioxopiperazin-2-yl)acetate",-1.0
-ENSMUSG00000028772-P,1.0
-ENSMUSG00000035133-P,-1.0
-ENSMUSG00000041012-P,-1.0
-Cyclohexanemethanol,-1.0
+Zcchc17,1.0
+Arhgap5,-1.0
+Cmtm8,-1.0
 Cyclohexanemethanol,-1.0
 "Guanidine, N,N-dimethyl",-1.0
-"Guanidine, N,N-dimethyl",-1.0
 N-Acetyl glucosamine methoxime,-1.0
-N-Acetyl glucosamine methoxime,-1.0
-ENSMUSG00000039275-P,1.0
-ENSMUSG00000025060-P,-1.0
-ENSMUSG00000013858-P,1.0
+Foxk2,1.0
+Slk,-1.0
+Tmem259,1.0
 2-Hydroxy-3-methylbutyric acid,-1.0
-2-Hydroxy-3-methylbutyric acid,-1.0
-ENSMUSG00000057722-P,-1.0
+Lepr,-1.0
 L-Leucine,-1.0
-L-Leucine,-1.0
-ENSMUSG00000020777-P,1.0
-ENSMUSG00000043467-P,-1.0
-2-Aminobutanoic acid,-1.0
+Acox1,1.0
+Zbtb37,-1.0
 2-Aminobutanoic acid,-1.0
 Decanoic acid,-1.0
-Decanoic acid,-1.0
-ENSMUSG00000024921-P,-1.0
-ENSMUSG00000030016-P,-1.0
-ENSMUSG00000020102-P,1.0
+Smarca2,-1.0
+Zfp638,-1.0
+Slc16a7,1.0
 Butyl caprylate,-1.0
-Butyl caprylate,-1.0
-ENSMUSG00000050493-P,1.0
+Fam167b,1.0
 9-Octadecenoic acid,1.0
-9-Octadecenoic acid,1.0
-ENSMUSG00000043059-P,-1.0
+Zfp513,-1.0
 Pentanoic acid,-1.0
-Pentanoic acid,-1.0
-ENSMUSG00000005510-P,-1.0
+Ndufs3,-1.0
 N-Acetylglucosamine,-1.0
-N-Acetylglucosamine,-1.0
-ENSMUSG00000024687-P,-1.0
+Osbp,-1.0
 Tyrosine,-1.0
-Tyrosine,-1.0
-ENSMUSG00000030008-P,1.0
-ENSMUSG00000021377-P,-1.0
-ENSMUSG00000018322-P,1.0
-ENSMUSG00000062937-P,-1.0
-"2,3,4-Trihydroxybutyric acid",-1.0
+Pradc1,1.0
+Dek,-1.0
+Tomm34,1.0
+Mtap,-1.0
 "2,3,4-Trihydroxybutyric acid",-1.0
 3-Pyridylcarbinol,-1.0
-3-Pyridylcarbinol,-1.0
-4-Pyridinol,-1.0
 4-Pyridinol,-1.0
 Cytosine,-1.0
-Cytosine,-1.0
 Dihydrouracil,-1.0
-Dihydrouracil,-1.0
-ENSMUSG00000004040-P,1.0
+Stat3,1.0
 Methylmaleic acid,1.0
-Methylmaleic acid,1.0
-ENSMUSG00000024740-P,1.0
-ENSMUSG00000038836-P,-1.0
-ENSMUSG00000006777-P,-1.0
-ENSMUSG00000017405-P,-1.0
-2'-Desoxyuridine,-1.0
+Ddb1,1.0
+Agbl3,-1.0
+Krt23,-1.0
+Nek8,-1.0
 2'-Desoxyuridine,-1.0
 "Hexadecanoic acid, tetradecyl ester",-1.0
-"Hexadecanoic acid, tetradecyl ester",-1.0
-ENSMUSG00000040158-P,1.0
-ENSMUSG00000024253-P,-1.0
+Tax1bp3,1.0
+Dync2li1,-1.0
 Butyl Succinate,-1.0
-Butyl Succinate,-1.0
-ENSMUSG00000019897-P,-1.0
-ENSMUSG00000031451-P,1.0
-ENSMUSG00000031751-P,1.0
+Ccdc59,-1.0
+Gas6,1.0
+Amfr,1.0
 alpha-Tocopheryl acetate,1.0
-alpha-Tocopheryl acetate,1.0
-ENSMUSG00000030691-P,-1.0
+Fchsd2,-1.0
 Ribonic acid,-1.0
-Ribonic acid,-1.0
-ENSMUSG00000029178-P,-1.0
-ENSMUSG00000035640-P,1.0
-ENSMUSG00000024168-P,-1.0
+Klf3,-1.0
+Cbarp,1.0
+Tmem204,-1.0
 Pentanedioic acid,-1.0
-Pentanedioic acid,-1.0
-ENSMUSG00000001687-P,-1.0
+Ubl3,-1.0
 L-Serine,-1.0
-L-Serine,-1.0
-ENSMUSG00000029790-P,-1.0
-ENSMUSG00000030703-P,1.0
-ENSMUSG00000008140-P,1.0
-ENSMUSG00000035011-P,-1.0
-ENSMUSG00000001855-P,-1.0
-ENSMUSG00000028826-P,-1.0
+Cep41,-1.0
+Gdpd3,1.0
+Emc10,1.0
+Zbtb7a,-1.0
+Nup214,-1.0
+Maco1,-1.0
 3-(3-Hydroxyphenyl)propanoic acid,-1.0
-3-(3-Hydroxyphenyl)propanoic acid,-1.0
-ENSMUSG00000007892-P,1.0
-ENSMUSG00000000305-P,-1.0
-ENSMUSG00000026341-P,-1.0
+Rplp1,1.0
+Cdh4,-1.0
+Actr3,-1.0
 beta-D-(-)-Ribopyranose,-1.0
-beta-D-(-)-Ribopyranose,-1.0
-ENSMUSG00000042010-P,1.0
+Acacb,1.0
 N-Methyl-alpha-aminoisobutyric acid,-1.0
-N-Methyl-alpha-aminoisobutyric acid,-1.0
-ENSMUSG00000021431-P,-1.0
-ENSMUSG00000047264-P,1.0
-ENSMUSG00000036478-P,-1.0
+Snrnp48,-1.0
+Zfp358,1.0
+Btg1,-1.0
 Xylazine,-1.0
-Xylazine,-1.0
-ENSMUSG00000039323-P,1.0
-ENSMUSG00000055150-P,1.0
-ENSMUSG00000022463-P,1.0
-Niacinamide,-1.0
+Igfbp2,1.0
+Zfp78,1.0
+Srebf2,1.0
 Niacinamide,-1.0
 "2-Pentenedioic acid, 2-hydroxy-",-1.0
-"2-Pentenedioic acid, 2-hydroxy-",-1.0
 Thymidine,-1.0
-Thymidine,-1.0
-ENSMUSG00000023030-P,1.0
-ENSMUSG00000026784-P,1.0
-ENSMUSG00000036641-P,-1.0
-ENSMUSG00000072772-P,1.0
-ENSMUSG00000033487-P,-1.0
+Slc11a2,1.0
+Pdss1,1.0
+Ccdc148,-1.0
+Grcc10,1.0
+Fndc3a,-1.0
 "D-Erythro-Pentitol, 2-deoxy-",1.0
-"D-Erythro-Pentitol, 2-deoxy-",1.0
-ENSMUSG00000029550-P,1.0
-ENSMUSG00000037664-P,-1.0
+Sppl3,1.0
+Cdkn1c,-1.0
 Phenylalanine,-1.0
-Phenylalanine,-1.0
-ENSMUSG00000002455-P,-1.0
+Prpf6,-1.0
 1-Octadecanol,-1.0
-1-Octadecanol,-1.0
-ENSMUSG00000106365-P,-1.0
-ENSMUSG00000024335-P,1.0
-ENSMUSG00000021025-P,1.0
-ENSMUSG00000049739-P,1.0
-ENSMUSG00000024491-P,-1.0
-ENSMUSG00000030079-P,1.0
+Gm43568,-1.0
+Brd2,1.0
+Nfkbia,1.0
+Zfp646,1.0
+Rbm27,-1.0
+Ruvbl1,1.0
 N-Methyl-L-proline,1.0
-N-Methyl-L-proline,1.0
-ENSMUSG00000055044-P,1.0
-ENSMUSG00000091549-P,-1.0
-ENSMUSG00000032372-P,-1.0
-ENSMUSG00000032009-P,-1.0
-ENSMUSG00000023967-P,1.0
-ENSMUSG00000005131-P,-1.0
-ENSMUSG00000030560-P,1.0
-ENSMUSG00000043639-P,-1.0
-ENSMUSG00000029291-P,1.0
-ENSMUSG00000058492-P,-1.0
+Pdlim1,1.0
+Gm6548,-1.0
+Plscr2,-1.0
+Sesn3,-1.0
+Mrps18a,1.0
+4930550C14Rik,-1.0
+Ctsc,1.0
+Rbm20,-1.0
+Rufy3,1.0
+Scp2-ps2,-1.0
 Campesterol,1.0
-Campesterol,1.0
-ENSMUSG00000041408-P,-1.0
-ENSMUSG00000026029-P,-1.0
+Wapl,-1.0
+Casp8,-1.0
 3-Undecene,-1.0
-3-Undecene,-1.0
-ENSMUSG00000027706-P,-1.0
-ENSMUSG00000071180-P,-1.0
-ENSMUSG00000021254-P,1.0
-ENSMUSG00000064294-P,-1.0
-ENSMUSG00000026896-P,-1.0
+Sec62,-1.0
+Smim15,-1.0
+Gpatch2l,1.0
+Aox3,-1.0
+Ifih1,-1.0
 Menthol,-1.0
-Menthol,-1.0
-ENSMUSG00000020248-P,-1.0
+Nfyb,-1.0
 4-Hydroxy-5-(hydroxymethyl)oxolan-2-one,-1.0
-4-Hydroxy-5-(hydroxymethyl)oxolan-2-one,-1.0
-ENSMUSG00000021482-P,-1.0
-ENSMUSG00000023249-P,-1.0
-ENSMUSG00000087640-P,1.0
-ENSMUSG00000072704-P,-1.0
-ENSMUSG00000020135-P,1.0
+Prxl2c,-1.0
+Parp3,-1.0
+Gm14798,1.0
+Smim10l1,-1.0
+Apc2,1.0
 Itaconic acid,1.0
-Itaconic acid,1.0
-ENSMUSG00000031657-P,-1.0
-ENSMUSG00000046947-P,1.0
+Heatr3,-1.0
+Adck2,1.0
 "D-Erythro-Pentofuranose, 2-deoxy-1,3-bis-O-posphate",-1.0
-"D-Erythro-Pentofuranose, 2-deoxy-1,3-bis-O-posphate",-1.0
-ENSMUSG00000022561-P,1.0
-ENSMUSG00000037742-P,-1.0
-ENSMUSG00000021886-P,-1.0
-ENSMUSG00000037326-P,1.0
-ENSMUSG00000046351-P,-1.0
-ENSMUSG00000030605-P,1.0
-ENSMUSG00000030108-P,1.0
-ENSMUSG00000042349-P,-1.0
-ENSMUSG00000037012-P,1.0
-ENSMUSG00000056598-P,1.0
-ENSMUSG00000037736-P,-1.0
-ENSMUSG00000095677-P,1.0
-ENSMUSG00000004098-P,1.0
-ENSMUSG00000100075-P,-1.0
-ENSMUSG00000031918-P,-1.0
+Gpaa1,1.0
+Eef1a1,-1.0
+Gpr65,-1.0
+Capn15,1.0
+Zfp322a,-1.0
+Mfge8,1.0
+Slc6a13,1.0
+Ikbke,-1.0
+Hk1,1.0
+Drc3,1.0
+Limch1,-1.0
+Dynlt1f,1.0
+Col5a3,1.0
+1700018L02Rik,-1.0
+Mtmr2,-1.0
 L-Glutamine,-1.0
-L-Glutamine,-1.0
-ENSMUSG00000104339-P,1.0
+C130089K02Rik,1.0
 L-(+)-Lactic acid,-1.0
-L-(+)-Lactic acid,-1.0
-ENSMUSG00000038717-P,-1.0
-ENSMUSG00000019464-P,-1.0
-ENSMUSG00000078485-P,-1.0
-ENSMUSG00000021392-P,-1.0
-ENSMUSG00000021686-P,-1.0
+Atp5mg,-1.0
+Ptger1,-1.0
+Plekhn1,-1.0
+Nol8,-1.0
+Ap3b1,-1.0
 "2,5-Dimethoxybenzhydrazide",-1.0
-"2,5-Dimethoxybenzhydrazide",-1.0
-ENSMUSG00000024975-P,-1.0
-ENSMUSG00000029684-P,-1.0
-ENSMUSG00000017697-P,1.0
+Pdcd4,-1.0
+Wasl,-1.0
+Ada,1.0
 Arabinose,1.0
-Arabinose,1.0
-ENSMUSG00000022812-P,-1.0
-ENSMUSG00000025323-P,-1.0
+Gsk3b,-1.0
+Sp4,-1.0
 "1H-Indole-2-carboxylic acid, 5-ethyl-1-(trimethylsilyl)",-1.0
-"1H-Indole-2-carboxylic acid, 5-ethyl-1-(trimethylsilyl)",-1.0
-ENSMUSG00000034863-P,1.0
-ENSMUSG00000068335-P,-1.0
+Ano8,1.0
+Dok1,-1.0
 1-Hexanol,1.0
-1-Hexanol,1.0
-ENSMUSG00000085197-P,-1.0
-ENSMUSG00000091007-P,-1.0
-ENSMUSG00000028133-P,1.0
-ENSMUSG00000031112-P,-1.0
+1700125H03Rik,-1.0
+D630036H23Rik,-1.0
+Rwdd3,1.0
+Stk26,-1.0
 "3-Hydroxy-2,3-dihydromaltol",-1.0
-"3-Hydroxy-2,3-dihydromaltol",-1.0
-ENSMUSG00000028700-P,-1.0
-ENSMUSG00000032018-P,-1.0
-ENSMUSG00000030304-P,-1.0
-ENSMUSG00000054364-P,1.0
+Pomgnt1,-1.0
+Sc5d,-1.0
+Ergic2,-1.0
+Rhob,1.0
 Uridine,-1.0
-Uridine,-1.0
-ENSMUSG00000029878-P,-1.0
-ENSMUSG00000050321-P,-1.0
-ENSMUSG00000052566-P,-1.0
-ENSMUSG00000022361-P,-1.0
-ENSMUSG00000028383-P,1.0
+Dbpht2,-1.0
+Neto1,-1.0
+Hook2,-1.0
+Zhx1,-1.0
+Hsdl2,1.0
 "2-Furanacetaldehyde, tetrahydro-alpha",1.0
-"2-Furanacetaldehyde, tetrahydro-alpha",1.0
-ENSMUSG00000021481-P,1.0
-ENSMUSG00000020752-P,1.0
-ENSMUSG00000031147-P,-1.0
-ENSMUSG00000038084-P,-1.0
-ENSMUSG00000066113-P,1.0
-ENSMUSG00000051043-P,1.0
-ENSMUSG00000042797-P,-1.0
-ENSMUSG00000045817-P,-1.0
-ENSMUSG00000031808-P,1.0
-ENSMUSG00000021676-P,-1.0
+Zfp346,1.0
+Recql5,1.0
+Magix,-1.0
+Opa1,-1.0
+Adamtsl1,1.0
+Gprc5c,1.0
+Aqp11,-1.0
+Zfp36l2,-1.0
+Slc27a1,1.0
+Iqgap2,-1.0
 Citric acid,-1.0
-Citric acid,-1.0
-ENSMUSG00000027523-P,-1.0
-ENSMUSG00000037716-P,1.0
-ENSMUSG00000070319-P,1.0
-ENSMUSG00000024472-P,-1.0
+Gnas,-1.0
+Ccdc33,1.0
+Eif3g,1.0
+Dcp2,-1.0
 Glycolic acid,-1.0
-Glycolic acid,-1.0
-ENSMUSG00000007476-P,1.0
-ENSMUSG00000033436-P,1.0
-ENSMUSG00000034579-P,1.0
-ENSMUSG00000038545-P,1.0
+Lrrc8a,1.0
+Armcx2,1.0
+Pla2g3,1.0
+Cul7,1.0
 Octadecyl octyl ether,-1.0
-Octadecyl octyl ether,-1.0
-ENSMUSG00000042831-P,1.0
-ENSMUSG00000030217-P,-1.0
-ENSMUSG00000065799-P,-1.0
+Alkbh6,1.0
+Art4,-1.0
+Gm25517,-1.0
 3-Methyl-2-furoic acid,1.0
-3-Methyl-2-furoic acid,1.0
-ENSMUSG00000022085-P,-1.0
-ENSMUSG00000029840-P,-1.0
-ENSMUSG00000021904-P,-1.0
-"Azetidine, 1-acetyl-2-methyl",-1.0
+Pebp4,-1.0
+Mtpn,-1.0
+Sema3g,-1.0
 "Azetidine, 1-acetyl-2-methyl",-1.0
 "Hexadecanoic acid, 4-hydroxybutyl ester",-1.0
-"Hexadecanoic acid, 4-hydroxybutyl ester",-1.0
-ENSMUSG00000105607-P,-1.0
-ENSMUSG00000033502-P,-1.0
-ENSMUSG00000090877-P,1.0
-ENSMUSG00000030268-P,1.0
+Gm43513,-1.0
+Cdc14a,-1.0
+Hspa1b,1.0
+Bcat1,1.0
 Palmitic Acid,-1.0
-Palmitic Acid,-1.0
-ENSMUSG00000031967-P,-1.0
-3-Hydroxyisovaleric acid,-1.0
+Afg3l1,-1.0
 3-Hydroxyisovaleric acid,-1.0
 "Erythrono-1,4-lactone",-1.0
-"Erythrono-1,4-lactone",-1.0
-ENSMUSG00000028977-P,1.0
-ENSMUSG00000048106-P,-1.0
-ENSMUSG00000046157-P,1.0
+Casz1,1.0
+4632415L05Rik,-1.0
+Tmem229b,1.0
 beta-Arabinopyranose,-1.0
-beta-Arabinopyranose,-1.0
-ENSMUSG00000047181-P,1.0
-ENSMUSG00000034786-P,-1.0
-ENSMUSG00000032172-P,1.0
-2'-Deoxyribolactone,-1.0
+Samd14,1.0
+Gpsm3,-1.0
+Olfm2,1.0
 2'-Deoxyribolactone,-1.0
 8-Hydroxy-5-(hydroxymethyl)quinoline,-1.0
-8-Hydroxy-5-(hydroxymethyl)quinoline,-1.0
-ENSMUSG00000041720-P,1.0
-ENSMUSG00000047371-P,1.0
-ENSMUSG00000040761-P,1.0
+Pi4ka,1.0
+Zfp768,1.0
+Spen,1.0
 Phloroglucinol,1.0
-Phloroglucinol,1.0
-ENSMUSG00000061838-P,-1.0
-ENSMUSG00000033453-P,1.0
-ENSMUSG00000032251-P,-1.0
-ENSMUSG00000048175-P,1.0
-ENSMUSG00000049744-P,1.0
-ENSMUSG00000047989-P,1.0
-ENSMUSG00000071253-P,-1.0
-ENSMUSG00000045302-P,1.0
-ENSMUSG00000039157-P,1.0
+Suclg2,-1.0
+Adamts15,1.0
+Irak1bp1,-1.0
+Asb8,1.0
+Arhgap15,1.0
+Ino80c,1.0
+Slc25a16,-1.0
+Preb,1.0
+Eeig1,1.0
 "Xylonic acid, delta-lactone",1.0
-"Xylonic acid, delta-lactone",1.0
-ENSMUSG00000052534-P,-1.0
-ENSMUSG00000040612-P,-1.0
-ENSMUSG00000021010-P,1.0
-ENSMUSG00000044927-P,1.0
-ENSMUSG00000027782-P,-1.0
-ENSMUSG00000029034-P,1.0
+Pbx1,-1.0
+Ildr2,-1.0
+Npas3,1.0
+H1f10,1.0
+Kpna4,-1.0
+Ints11,1.0
 1-Tetracosene,-1.0
-1-Tetracosene,-1.0
-ENSMUSG00000034768-P,-1.0
-ENSMUSG00000032050-P,-1.0
-ENSMUSG00000028051-P,1.0
-ENSMUSG00000056952-P,1.0
-ENSMUSG00000047547-P,1.0
-ENSMUSG00000027598-P,-1.0
+Asb16,-1.0
+Rdx,-1.0
+Hcn3,1.0
+Tatdn2,1.0
+Cltb,1.0
+Itch,-1.0
 L-(-)-Sorbofuranose,-1.0
-L-(-)-Sorbofuranose,-1.0
-ENSMUSG00000060227-P,-1.0
-ENSMUSG00000024576-P,-1.0
-ENSMUSG00000030697-P,1.0
+Golm2,-1.0
+Csnk1a1,-1.0
+Ppp4c,1.0
 Idoxuridine ,-1.0
-Idoxuridine ,-1.0
-ENSMUSG00000030286-P,1.0
+Emc3,1.0
 "1-Propanamine, N,N-diethyl-",-1.0
-"1-Propanamine, N,N-diethyl-",-1.0
-ENSMUSG00000091475-P,1.0
-ENSMUSG00000026509-P,-1.0
-ENSMUSG00000099689-P,-1.0
-ENSMUSG00000034377-P,-1.0
-ENSMUSG00000039715-P,1.0
+Cerox1,1.0
+Capn2,-1.0
+Zfp383,-1.0
+Tulp4,-1.0
+Dync2i2,1.0
 Ketamine,-1.0
-Ketamine,-1.0
-ENSMUSG00000007379-P,-1.0
+Dennd2c,-1.0
 4-Hydroxybenzaldehyde,-1.0
-4-Hydroxybenzaldehyde,-1.0
-ENSMUSG00000087083-P,-1.0
-ENSMUSG00000023064-P,1.0
+Gm15083,-1.0
+Sncg,1.0
 Arabinitol,-1.0
-Arabinitol,-1.0
-ENSMUSG00000037221-P,1.0
-ENSMUSG00000104682-P,-1.0
-ENSMUSG00000022023-P,-1.0
-ENSMUSG00000041135-P,-1.0
-ENSMUSG00000091183-P,-1.0
-ENSMUSG00000026820-P,1.0
+Mospd3,1.0
+Gm42636,-1.0
+Wbp4,-1.0
+Ripk2,-1.0
+Gm5141,-1.0
+Ptges2,1.0
 Xylose,1.0
-Xylose,1.0
-ENSMUSG00000037646-P,-1.0
-ENSMUSG00000055239-P,-1.0
-ENSMUSG00000035093-P,-1.0
-ENSMUSG00000032306-P,1.0
-ENSMUSG00000043535-P,-1.0
-ENSMUSG00000025869-P,-1.0
+Vps13b,-1.0
+Kcmf1,-1.0
+Secisbp2l,-1.0
+Mpi,1.0
+Setx,-1.0
+Nop16,-1.0
 12-Oxooctadecanoate,1.0
-12-Oxooctadecanoate,1.0
-ENSMUSG00000007613-P,-1.0
-ENSMUSG00000043487-P,1.0
-ENSMUSG00000017831-P,-1.0
+Tgfbr1,-1.0
+Acot6,1.0
+Rab5a,-1.0
 Cholesterol,-1.0
-Cholesterol,-1.0
-ENSMUSG00000029772-P,-1.0
-ENSMUSG00000059820-P,-1.0
-ENSMUSG00000085776-P,-1.0
-ENSMUSG00000011831-P,-1.0
-ENSMUSG00000064246-P,-1.0
+Ahcyl2,-1.0
+Nkapd1,-1.0
+5430402O13Rik,-1.0
+Evi5,-1.0
+Chi3l1,-1.0
 Pimelic acid,-1.0
-Pimelic acid,-1.0
-ENSMUSG00000042686-P,-1.0
-ENSMUSG00000028626-P,1.0
-ENSMUSG00000068196-P,-1.0
-ENSMUSG00000058351-P,1.0
-ENSMUSG00000025505-P,-1.0
-ENSMUSG00000039194-P,-1.0
-ENSMUSG00000002660-P,1.0
-ENSMUSG00000048612-P,-1.0
-ENSMUSG00000054720-P,-1.0
-ENSMUSG00000031838-P,-1.0
-ENSMUSG00000031922-P,-1.0
-ENSMUSG00000045094-P,1.0
-ENSMUSG00000029438-P,-1.0
-ENSMUSG00000026895-P,1.0
-ENSMUSG00000038555-P,1.0
-ENSMUSG00000035293-P,1.0
-ENSMUSG00000024002-P,-1.0
-ENSMUSG00000006476-P,1.0
-ENSMUSG00000066357-P,1.0
-ENSMUSG00000038646-P,-1.0
-ENSMUSG00000105729-P,-1.0
-ENSMUSG00000045930-P,-1.0
-ENSMUSG00000022199-P,1.0
-ENSMUSG00000052584-P,1.0
-ENSMUSG00000027108-P,-1.0
-ENSMUSG00000023960-P,1.0
-ENSMUSG00000056735-P,-1.0
+Jph1,-1.0
+Col9a2,1.0
+Col8a1,-1.0
+Uqcc5,1.0
+Tmem80,-1.0
+Rlbp1,-1.0
+Clpp,1.0
+Myof,-1.0
+Lrrc8c,-1.0
+Ifi30,-1.0
+Cep57,-1.0
+Arhgef37,1.0
+Bcl7a,-1.0
+Ndufa8,1.0
+Reep2,1.0
+G2e3,1.0
+Brd4,-1.0
+Nsmf,1.0
+Wdr6,1.0
+Ramac,-1.0
+5330425B07Rik,-1.0
+Clec14a,-1.0
+Slc22a17,1.0
+Serp2,1.0
+Ola1,-1.0
+Enpp5,1.0
+A930024E05Rik,-1.0
 Lignoceric acid,-1.0
-Lignoceric acid,-1.0
-ENSMUSG00000062040-P,1.0
-ENSMUSG00000028890-P,1.0
-ENSMUSG00000042129-P,1.0
+Zfp27,1.0
+Mtf1,1.0
+Rassf4,1.0
 Isonicotinic Acid,1.0
-Isonicotinic Acid,1.0
-ENSMUSG00000069631-P,-1.0
-ENSMUSG00000040242-P,-1.0
-ENSMUSG00000039959-P,-1.0
-ENSMUSG00000020227-P,-1.0
-ENSMUSG00000020297-P,1.0
+Strada,-1.0
+Fgfr1op2,-1.0
+Hip1,-1.0
+Irak3,-1.0
+Nsg2,1.0
 1-Octanol,1.0
-1-Octanol,1.0
-ENSMUSG00000061689-P,1.0
-ENSMUSG00000040586-P,-1.0
-ENSMUSG00000070527-P,1.0
-ENSMUSG00000022427-P,1.0
-ENSMUSG00000031198-P,-1.0
+Dlgap4,1.0
+Ofd1,-1.0
+Mkrn3,1.0
+Tomm22,1.0
+Fundc2,-1.0
 L-Proline,-1.0
-L-Proline,-1.0
-ENSMUSG00000030403-P,-1.0
-ENSMUSG00000023931-P,-1.0
-ENSMUSG00000005045-P,1.0
-ENSMUSG00000001089-P,-1.0
-ENSMUSG00000034349-P,-1.0
-ENSMUSG00000027860-P,-1.0
-ENSMUSG00000001014-P,1.0
-ENSMUSG00000052056-P,-1.0
-ENSMUSG00000020235-P,1.0
-ENSMUSG00000071637-P,1.0
+Vasp,-1.0
+Efhb,-1.0
+Chd5,1.0
+Luzp1,-1.0
+Smc4,-1.0
+Vangl1,-1.0
+Icam4,1.0
+Zfp217,-1.0
+Fzr1,1.0
+Cebpd,1.0
 Erythritol,1.0
-Erythritol,1.0
-ENSMUSG00000009076-P,1.0
-ENSMUSG00000054792-P,1.0
-ENSMUSG00000020491-P,-1.0
-ENSMUSG00000032261-P,-1.0
-ENSMUSG00000027210-P,1.0
-ENSMUSG00000027957-P,-1.0
-ENSMUSG00000102101-P,-1.0
-ENSMUSG00000051297-P,1.0
-ENSMUSG00000078486-P,1.0
-ENSMUSG00000003190-P,-1.0
-ENSMUSG00000051285-P,-1.0
-ENSMUSG00000051510-P,-1.0
-ENSMUSG00000006281-P,1.0
-ENSMUSG00000027770-P,-1.0
-ENSMUSG00000036815-P,-1.0
-ENSMUSG00000030677-P,1.0
-ENSMUSG00000097318-P,-1.0
-ENSMUSG00000025789-P,1.0
-ENSMUSG00000025894-P,-1.0
+Zmat5,1.0
+Klhl18,1.0
+2810021J22Rik,-1.0
+Sh3bgrl2,-1.0
+Meis2,1.0
+Slc35a3,-1.0
+Zbtb11os1,-1.0
+2410124H12Rik,1.0
+Perm1,1.0
+Bcl2l12,-1.0
+Pcmtd1,-1.0
+Mafg,-1.0
+Tep1,1.0
+Dhx36,-1.0
+Dpp10,-1.0
+Kif22,1.0
+1700007L15Rik,-1.0
+St8sia2,1.0
+Aasdhppt,-1.0
 3-Deoxyhexitol,-1.0
-3-Deoxyhexitol,-1.0
-ENSMUSG00000030801-P,1.0
-ENSMUSG00000032763-P,1.0
-ENSMUSG00000030201-P,-1.0
-ENSMUSG00000033068-P,1.0
-ENSMUSG00000016018-P,1.0
-ENSMUSG00000074994-P,-1.0
-ENSMUSG00000032560-P,-1.0
-ENSMUSG00000045767-P,-1.0
-ENSMUSG00000043241-P,-1.0
-ENSMUSG00000015748-P,-1.0
-ENSMUSG00000048330-P,-1.0
-ENSMUSG00000039145-P,-1.0
-ENSMUSG00000041491-P,-1.0
-ENSMUSG00000045284-P,-1.0
-ENSMUSG00000064338-P,1.0
-ENSMUSG00000024873-P,1.0
-ENSMUSG00000097537-P,-1.0
-ENSMUSG00000043614-P,1.0
+Kat8,1.0
+Ilvbl,1.0
+Lrp6,-1.0
+Entpd6,1.0
+Mtrex,1.0
+Qser1,-1.0
+Dnajc13,-1.0
+B230219D22Rik,-1.0
+Upf2,-1.0
+Prpf3,-1.0
+Ric3,-1.0
+Camk1d,-1.0
+Cep78,-1.0
+Dcaf12l1,-1.0
+mt-Tv,1.0
+Cnih2,1.0
+2610020C07Rik,-1.0
+Vps37d,1.0
 Sebacic acid,-1.0
-Sebacic acid,-1.0
-ENSMUSG00000027710-P,1.0
-ENSMUSG00000007570-P,1.0
+Acad9,1.0
+Fance,1.0
 3-Aminobutanoic acid,1.0
-3-Aminobutanoic acid,1.0
-ENSMUSG00000033021-P,-1.0
-ENSMUSG00000006800-P,1.0
-ENSMUSG00000022843-P,-1.0
-ENSMUSG00000039899-P,1.0
-ENSMUSG00000042557-P,-1.0
-ENSMUSG00000035692-P,1.0
-ENSMUSG00000063801-P,1.0
-ENSMUSG00000031637-P,-1.0
-ENSMUSG00000043411-P,1.0
-ENSMUSG00000017670-P,1.0
-ENSMUSG00000030611-P,1.0
-ENSMUSG00000034563-P,1.0
-ENSMUSG00000010057-P,1.0
-ENSMUSG00000018171-P,1.0
-ENSMUSG00000008348-P,1.0
+Gmppa,-1.0
+Sulf2,1.0
+Clcn2,-1.0
+Fgl2,1.0
+Sin3a,-1.0
+Isg15,1.0
+Ap3s2,1.0
+Lrp2bp,-1.0
+Usp48,1.0
+Elmo2,1.0
+Mrps11,1.0
+Ccpg1,1.0
+Nprl2,1.0
+Vmp1,1.0
+Ubc,1.0
 alpha-L-(-)-Fucopyranose,1.0
-alpha-L-(-)-Fucopyranose,1.0
-ENSMUSG00000019647-P,-1.0
+Sema6a,-1.0
 "Pentitol, 3-desoxy",1.0
-"Pentitol, 3-desoxy",1.0
-ENSMUSG00000021709-P,-1.0
-ENSMUSG00000086769-P,-1.0
+Erbin,-1.0
+Gm15587,-1.0
 "Propane, 2-methyl",-1.0
-"Propane, 2-methyl",-1.0
-ENSMUSG00000071650-P,1.0
-ENSMUSG00000024098-P,1.0
-ENSMUSG00000016487-P,-1.0
-ENSMUSG00000028057-P,1.0
-ENSMUSG00000031513-P,-1.0
+Ganab,1.0
+Twsg1,1.0
+Ppfibp1,-1.0
+Rit1,1.0
+Leprotl1,-1.0
 Phloretic acid,-1.0
-Phloretic acid,-1.0
-ENSMUSG00000042198-P,1.0
-ENSMUSG00000033585-P,1.0
-ENSMUSG00000038058-P,1.0
-ENSMUSG00000042745-P,1.0
+Chchd7,1.0
+Ndn,1.0
+Nod1,1.0
+Id1,1.0
 D-Mannopyranose,1.0
-D-Mannopyranose,1.0
-ENSMUSG00000026096-P,-1.0
-ENSMUSG00000023764-P,1.0
-ENSMUSG00000040483-P,-1.0
-ENSMUSG00000033047-P,-1.0
-ENSMUSG00000032602-P,-1.0
-ENSMUSG00000064340-P,1.0
-ENSMUSG00000019971-P,-1.0
-ENSMUSG00000031256-P,1.0
-ENSMUSG00000023826-P,1.0
-ENSMUSG00000070643-P,-1.0
-ENSMUSG00000022568-P,1.0
+Osgepl1,-1.0
+Sfi1,1.0
+Xaf1,-1.0
+Eif3l,-1.0
+Slc25a20,-1.0
+mt-Tl1,1.0
+Cep290,-1.0
+Cstf2,1.0
+Prkn,1.0
+Sox13,-1.0
+Scrib,1.0
 "beta-D-Galactopyranoside, methyl-, acetate",1.0
-"beta-D-Galactopyranoside, methyl-, acetate",1.0
-ENSMUSG00000024548-P,-1.0
-ENSMUSG00000057440-P,-1.0
-ENSMUSG00000022010-P,1.0
-ENSMUSG00000024083-P,-1.0
-ENSMUSG00000072763-P,-1.0
-ENSMUSG00000030616-P,-1.0
-ENSMUSG00000003949-P,-1.0
-ENSMUSG00000066595-P,-1.0
-ENSMUSG00000046714-P,1.0
+Setbp1,-1.0
+Mpp7,-1.0
+Tsc22d1,1.0
+Pja2,-1.0
+Zfp1007,-1.0
+Sytl2,-1.0
+Hlf,-1.0
+Flvcr1,-1.0
+Foxc2,1.0
 Butanedioic acid,-1.0
-Butanedioic acid,-1.0
-ENSMUSG00000004263-P,-1.0
-ENSMUSG00000021929-P,-1.0
-ENSMUSG00000000127-P,-1.0
-ENSMUSG00000028811-P,1.0
-ENSMUSG00000025016-P,-1.0
-ENSMUSG00000034957-P,1.0
-ENSMUSG00000025862-P,-1.0
-ENSMUSG00000024800-P,-1.0
-ENSMUSG00000042506-P,1.0
-ENSMUSG00000033792-P,1.0
-ENSMUSG00000018707-P,1.0
-ENSMUSG00000026547-P,1.0
-ENSMUSG00000026527-P,-1.0
-ENSMUSG00000085945-P,-1.0
-ENSMUSG00000071369-P,-1.0
-ENSMUSG00000015970-P,1.0
-ENSMUSG00000017314-P,-1.0
-ENSMUSG00000051579-P,-1.0
-ENSMUSG00000093606-P,-1.0
-ENSMUSG00000049090-P,-1.0
-ENSMUSG00000062866-P,-1.0
-ENSMUSG00000041685-P,-1.0
-ENSMUSG00000031715-P,-1.0
-ENSMUSG00000005699-P,1.0
-ENSMUSG00000042594-P,-1.0
-ENSMUSG00000019933-P,1.0
-ENSMUSG00000020219-P,1.0
-ENSMUSG00000022774-P,-1.0
-ENSMUSG00000031079-P,1.0
-ENSMUSG00000021149-P,-1.0
+Atn1,-1.0
+Kpna3,-1.0
+Fer,-1.0
+Yars1,1.0
+Tm9sf3,-1.0
+Cebpa,1.0
+Stag2,-1.0
+Rpp30,-1.0
+Usp22,1.0
+Atp7a,1.0
+Dync1h1,1.0
+Tagln2,1.0
+Rgs7,-1.0
+2310014F06Rik,-1.0
+Map3k5,-1.0
+Chdh,1.0
+Mpp2,-1.0
+Tceal8,-1.0
+B130034C11Rik,-1.0
+Ptgr3,-1.0
+Phactr2,-1.0
+Fcho2,-1.0
+Smarca5,-1.0
+Pard6a,1.0
+Sh2b3,-1.0
+Mrln,1.0
+Timm13,1.0
+Ncbp2,-1.0
+Zfp300,1.0
+Gtpbp4,-1.0
 Tricine,-1.0
-Tricine,-1.0
-ENSMUSG00000039000-P,-1.0
-ENSMUSG00000048776-P,-1.0
-ENSMUSG00000090247-P,1.0
-ENSMUSG00000009013-P,1.0
+Ube3c,-1.0
+Pthlh,-1.0
+Bloc1s1,1.0
+Dynll1,1.0
 Dihydroxyacetone,1.0
-Dihydroxyacetone,1.0
-ENSMUSG00000027349-P,-1.0
-ENSMUSG00000026315-P,-1.0
-ENSMUSG00000038827-P,1.0
-ENSMUSG00000025231-P,1.0
-ENSMUSG00000020546-P,-1.0
-ENSMUSG00000020330-P,-1.0
-ENSMUSG00000019088-P,-1.0
-ENSMUSG00000023046-P,1.0
-ENSMUSG00000031776-P,1.0
-ENSMUSG00000055022-P,-1.0
-ENSMUSG00000003199-P,1.0
-ENSMUSG00000039450-P,1.0
-ENSMUSG00000041649-P,1.0
-ENSMUSG00000042699-P,-1.0
-ENSMUSG00000032348-P,-1.0
-ENSMUSG00000045098-P,-1.0
-ENSMUSG00000024772-P,1.0
-ENSMUSG00000021000-P,-1.0
-ENSMUSG00000021583-P,1.0
-ENSMUSG00000029265-P,-1.0
-ENSMUSG00000036087-P,-1.0
-ENSMUSG00000031479-P,-1.0
-ENSMUSG00000044617-P,1.0
-ENSMUSG00000032796-P,-1.0
-ENSMUSG00000038135-P,1.0
-3-Hydroxypicolinic acid,1.0
+Fam98b,-1.0
+Serpinb8,-1.0
+Abitram,1.0
+Sufu,1.0
+Stxbp4,-1.0
+Hmmr,-1.0
+Dnase1l1,-1.0
+Igfbp6,1.0
+Arl2bp,1.0
+Cntn1,-1.0
+Mpnd,1.0
+Dcxr,1.0
+Klf8,1.0
+Dhx9,-1.0
+Gsta4,-1.0
+Kmt5b,-1.0
+Ehd1,1.0
+Mia2,-1.0
+Erap1,1.0
+Dr1,-1.0
+Slain2,-1.0
+Vps36,-1.0
+Zbtb39,1.0
+Lama1,-1.0
+Crygn,1.0
 3-Hydroxypicolinic acid,1.0
 trans-Coniferryl alchool,-1.0
-trans-Coniferryl alchool,-1.0
-"1,7-Dimethyl-4-(1-methylethyl)cyclodecane",-1.0
 "1,7-Dimethyl-4-(1-methylethyl)cyclodecane",-1.0
 Ethanamine,-1.0
-Ethanamine,-1.0
-"(4,4-Dimethyl-5-methylene-4,5-dihydro-3H-pyrrol-2-yl)-(4,4-dimethyl-5-methylene-pyrrolidin-2-ylidene)-acetonitrile",-1.0
 "(4,4-Dimethyl-5-methylene-4,5-dihydro-3H-pyrrol-2-yl)-(4,4-dimethyl-5-methylene-pyrrolidin-2-ylidene)-acetonitrile",-1.0
 "(2,2-Dimethyl-5-[2-(2-ethoxymethoxy)propyl][1,3]dioxolan-4-yl)methanol",-1.0
-"(2,2-Dimethyl-5-[2-(2-ethoxymethoxy)propyl][1,3]dioxolan-4-yl)methanol",-1.0
-17-alpha-Hydroxypregnenolone,1.0
 17-alpha-Hydroxypregnenolone,1.0
 4-Hydroxybutanoic acid,-1.0
-4-Hydroxybutanoic acid,-1.0
-"Acetamide, N-(2-butyl)-N-methyl-",-1.0
 "Acetamide, N-(2-butyl)-N-methyl-",-1.0
 "Propanoic acid, 2-oxo",-1.0
-"Propanoic acid, 2-oxo",-1.0
-1-Methyl-4-hydroxy-1H-imidazol-2-amine,-1.0
 1-Methyl-4-hydroxy-1H-imidazol-2-amine,-1.0
 d-Erythrotetrofuranose,-1.0
-d-Erythrotetrofuranose,-1.0
-"Butanoic acid, 3,4-dihydroxy-",-1.0
 "Butanoic acid, 3,4-dihydroxy-",-1.0
 Glycerol tricaprylate,-1.0
-Glycerol tricaprylate,-1.0
-2-Palmitoylglycerol,1.0
 2-Palmitoylglycerol,1.0
 3-Hydroxybutyric acid,-1.0
-3-Hydroxybutyric acid,-1.0
-Hexacosanoic acid,-1.0
 Hexacosanoic acid,-1.0
 Nonanoic acid,-1.0
-Nonanoic acid,-1.0
-4-Hydroxyphenyllactic acid,-1.0
 4-Hydroxyphenyllactic acid,-1.0
 Methyl 2-acetamido-2-deoxy-3-O-methyl-alpha-D-galactopyranoside,1.0
-Methyl 2-acetamido-2-deoxy-3-O-methyl-alpha-D-galactopyranoside,1.0
-Glycerol,-1.0
 Glycerol,-1.0

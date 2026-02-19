@@ -1,2501 +1,1937 @@
 node,BiBC
-L-Valine__FEC,1988.118253340367
-L-Serine__FEC,163.28490277567715
-4-Hydroxybenzaldehyde__FEC,85.93927345393773
-D-(+)-Glucosamine__FEC,1175.5641311568618
-"beta-d-Glucopyranose, 2-(acetylamino)-3,6-anhydro-2-deoxy__FEC",331.9360756279118
-Serine__FEC,1920.7227741499194
-"2-Propenoic acid, 2-hydroxy-3-(4-hydroxyphenyl)__FEC",64.43744599724836
-Methylsuccinic acid__FEC,557.3649675499055
-Niacinamide__FEC,58.436314847537204
-17-alpha-Hydroxypregnenolone__FEC,2.5018929038268065
-9H-Purin-6-ol__FEC,113.4197203766733
-Hydracrylic acid__FEC,610.8996823781582
-L-(-)-Sorbofuranose__FEC,126.25058835330717
-L-Glutamic acid__FEC,58.7481920189398
-DL-Phenylalanine__FEC,333.8444094169784
-L-Isoleucine__FEC,2489.8207370998857
-Phenylalanine__FEC,218.24222103599143
-Uracil__FEC,307.33466866459474
-"Gluconolactone (3R,4S,5R,6R)__FEC",76.27017880528629
-Syringaldehyde__FEC,1154.754413504089
-Tyrosine__FEC,374.6917711693134
-"2-Butenoic acid, 2-hydroxy-__FEC",358.4043918996121
-1-Tetradecanol__FEC,536.6015181508832
-"2',2,3,6'-Tetramethoxychalcone__FEC",1083.682064384804
-3-Deoxyhexitol__FEC,674.2150714519319
-Butyl Succinate__FEC,852.6028284038484
-"Hexadecanoic acid, 4-hydroxybutyl ester__FEC",184.12524651261793
-"2,5-Dimethoxyphenol__FEC",55.559949059846105
-"2-Allyl-1,4-dimethoxybenzene__FEC",418.61353592098556
-2-Hydroxy-3-methylbutyric acid__FEC,442.1077949959882
-3-Hexenedioic acid__FEC,196.73718798265682
-4-Pyridinol__FEC,17.062849230367753
-"2-Butenoic acid, 2-methyl-, 2-methyl-2-propenyl ester__FEC",233.95207519071013
-Cyclohexanecarboxylic acid__FEC,1064.8410180736403
-Myristic acid__FEC,145.50830169976072
-Pentanoic acid__FEC,45.855625623931566
-Tetrahydrogeranyl formate__FEC,156.3813036828531
-5-Hydroxymethyl-2-furoic acid__FEC,14.611039354788424
-beta-Arabinopyranose__FEC,19.861463127921414
-L-5-Oxoproline__FEC,774.7457334951393
-2-Ethylhexanoic acid__FEC,886.8099880117957
-D-Mannopyranose__FEC,251.48581299311422
-Phenol__FEC,554.8182631427427
-beta-Alanine__FEC,600.9438570505181
-N-Acetyl-L-glutamic acid__FEC,49.56688549155984
-Thymidine__FEC,37.21051847342039
-Niacin__FEC,78.42935019185829
-Xanthine__FEC,176.5245532134918
-Cholesterol__FEC,0.0
-beta-D-(-)-Ribopyranose__FEC,485.6460732101401
-"D-(+)-Ribono-1,4-lactone__FEC",50.41458119054112
-"Erythrono-1,4-lactone__FEC",117.92599091400662
-"Propanoic acid, 2-oxo__FEC",794.4605965707826
-1-Dodecanol__FEC,943.2685932991337
-2'-Deoxyribolactone__FEC,909.2864052559967
-Undecanoic acid__FEC,297.4734670131655
-Benzoic Acid__FEC,1034.4461965461824
-13-Docosenamide__FEC,10.936311294025506
-"Propane, 2-methyl__FEC",75.41475542159871
-Pyridoxic acid__FEC,17.942194969370288
-D-Allofuranose__FEC,546.09406091653
-Octadecyl octyl ether__FEC,356.60557841105907
-L-Valyl-L-leucine__FEC,1079.7359211228638
-3-(3-Hydroxyphenyl)propanoic acid__FEC,24.93867947621824
-Cyclohexanemethanol__FEC,558.5360085006806
-"Xylonic acid, delta-lactone__FEC",26.917353232416453
-2-Piperidinone__FEC,664.1468201310646
+L-Valine__FEC,992.0951956948419
+L-Serine__FEC,98.67107921269461
+4-Hydroxybenzaldehyde__FEC,118.22038769583934
+D-(+)-Glucosamine__FEC,1336.9852861672869
+"beta-d-Glucopyranose, 2-(acetylamino)-3,6-anhydro-2-deoxy__FEC",379.9336789746161
+Serine__FEC,1294.3443966181094
+"2-Propenoic acid, 2-hydroxy-3-(4-hydroxyphenyl)__FEC",107.3241410234413
+Methylsuccinic acid__FEC,767.2561984561322
+Niacinamide__FEC,108.22076172647873
+17-alpha-Hydroxypregnenolone__FEC,9.702645963486866
+9H-Purin-6-ol__FEC,99.16216606653485
+Hydracrylic acid__FEC,1171.8933750937726
+L-(-)-Sorbofuranose__FEC,321.61760992940907
+L-Glutamic acid__FEC,110.63731632103075
+DL-Phenylalanine__FEC,573.6730945701675
+L-Isoleucine__FEC,1213.2286080185033
+Phenylalanine__FEC,291.72401387172636
+Uracil__FEC,515.4914263004944
+"Gluconolactone (3R,4S,5R,6R)__FEC",814.3602876095222
+Syringaldehyde__FEC,1716.8519558692567
+Tyrosine__FEC,310.44384423382206
+"2-Butenoic acid, 2-hydroxy-__FEC",197.95373909991412
+1-Tetradecanol__FEC,695.5706709867134
+"2',2,3,6'-Tetramethoxychalcone__FEC",442.076056663443
+3-Deoxyhexitol__FEC,690.8223503374784
+Butyl Succinate__FEC,749.3138486323647
+"Hexadecanoic acid, 4-hydroxybutyl ester__FEC",250.25235835789823
+"2,5-Dimethoxyphenol__FEC",25.78080926949051
+"2-Allyl-1,4-dimethoxybenzene__FEC",161.0088881346708
+2-Hydroxy-3-methylbutyric acid__FEC,562.7605128314033
+3-Hexenedioic acid__FEC,203.54528806245747
+4-Pyridinol__FEC,15.951514766483774
+"2-Butenoic acid, 2-methyl-, 2-methyl-2-propenyl ester__FEC",104.9254741181069
+Cyclohexanecarboxylic acid__FEC,607.4208630894386
+Myristic acid__FEC,317.68300158608804
+Pentanoic acid__FEC,102.88677524683595
+Tetrahydrogeranyl formate__FEC,489.2240975564445
+5-Hydroxymethyl-2-furoic acid__FEC,42.083405361051724
+beta-Arabinopyranose__FEC,23.935000683107035
+L-5-Oxoproline__FEC,373.0020940094737
+2-Ethylhexanoic acid__FEC,1195.8731877702348
+D-Mannopyranose__FEC,309.02475758661546
+Phenol__FEC,993.6633887169994
+beta-Alanine__FEC,881.1319264393809
+N-Acetyl-L-glutamic acid__FEC,127.31731051447339
+Thymidine__FEC,333.68838905680605
+Niacin__FEC,14.026611637411243
+Xanthine__FEC,123.48105400090455
+Cholesterol__FEC,3.1101218706852714
+beta-D-(-)-Ribopyranose__FEC,406.877422225186
+"D-(+)-Ribono-1,4-lactone__FEC",873.2534674665973
+"Erythrono-1,4-lactone__FEC",111.01505743499358
+"Propanoic acid, 2-oxo__FEC",953.6272506560406
+1-Dodecanol__FEC,891.8036792719822
+2'-Deoxyribolactone__FEC,1339.2990217661616
+Undecanoic acid__FEC,338.7254642235499
+Benzoic Acid__FEC,826.6944902928115
+13-Docosenamide__FEC,44.19913295132673
+"Propane, 2-methyl__FEC",38.29885657859652
+Pyridoxic acid__FEC,5.319676192304275
+D-Allofuranose__FEC,473.12943223487804
+Octadecyl octyl ether__FEC,267.42473596134965
+L-Valyl-L-leucine__FEC,2317.6020124128695
+3-(3-Hydroxyphenyl)propanoic acid__FEC,190.18428797923193
+Cyclohexanemethanol__FEC,727.6270164775882
+"Xylonic acid, delta-lactone__FEC",146.81844382328592
+2-Piperidinone__FEC,726.2694891161559
 Butanedioic acid__FEC,0.0
-D-(-)-Ribofuranose__FEC,133.8129154686081
-Lignoceric acid__FEC,122.12238189800486
-Palmitic Acid__FEC,146.77322996115808
-Pyrogallol__FEC,57.97598709641475
-6-Hydroxyhexanoic acid__FEC,30.715075000768593
-Pentadecanoic acid__FEC,79.48417158383326
-11-Hydroxy-.DELTA.-9-tetrahydrocannabinol__FEC,775.7499398247767
+D-(-)-Ribofuranose__FEC,141.41520736699238
+Lignoceric acid__FEC,74.7394952683241
+Palmitic Acid__FEC,215.8291188008696
+Pyrogallol__FEC,49.23920011295538
+6-Hydroxyhexanoic acid__FEC,87.90959273987357
+Pentadecanoic acid__FEC,101.63611274779845
+11-Hydroxy-.DELTA.-9-tetrahydrocannabinol__FEC,1049.2412311079424
 4-Hydroxybutanoic acid__FEC,0.0
-Pimelic acid__FEC,594.4541915575999
-"2,3-Butanediol__FEC",107.91953264473501
-"2-Pentenedioic acid, 2-hydroxy-__FEC",113.27064290197947
-L-Rhamnose__FEC,1832.7262624247523
+Pimelic acid__FEC,706.3614673480353
+"2,3-Butanediol__FEC",890.2211031805724
+"2-Pentenedioic acid, 2-hydroxy-__FEC",204.15285927285666
+L-Rhamnose__FEC,2349.333940285759
 "2,3,4,5-Tetrahydroxypentanoic acid-1,4-lactone__FEC",0.0
-d-Erythrotetrofuranose__FEC,1052.6498542165411
-N-(2-hydroxyethyl)-succinimide__FEC,555.9464939204597
-Phloretic acid__FEC,127.34218708096512
-4-Methyl-5-thiazoleethanol__FEC,886.2303275267377
-"Inosose-2, myo__FEC",734.39741778729
-Nonanoic acid__FEC,30.86570550810621
-N-Acetylglucosamine__FEC,110.29946432130855
-"(4,4-Dimethyl-5-methylene-4,5-dihydro-3H-pyrrol-2-yl)-(4,4-dimethyl-5-methylene-pyrrolidin-2-ylidene)-acetonitrile__FEC",98.54002462445477
-Thr-Leu__FEC,29.262863829694393
-L-(+)-Lactic acid__FEC,25.72203444521988
-"beta-D-Galactopyranoside, methyl-, acetate__FEC",34.16547173436704
-D-(+)-Talofuranose__FEC,0.5889724310776943
-Decanoic acid__FEC,479.0607713213486
-N-Methyl-alpha-aminoisobutyric acid__FEC,421.25974573589286
-Dihydrouracil__FEC,47.705345807862194
-Aconitic acid__FEC,505.2455919677181
-trans-Coniferryl alchool__FEC,659.806838856559
-5-Methyluridine__FEC,602.017173327834
-L-Threonine__FEC,53.78332874617744
-4-Hydroxybenzoic acid__FEC,104.37124887604932
-L-Norvaline__FEC,11.100952797880035
-1-Octanol__FEC,151.51845689547088
-"2,5-Cyclohexadiene-1,4-dione, 2,6-bis(1,1-dimethylethyl)__FEC",1053.2741645466658
-"2,5-Di-tert-butyl-4-hydroxyphenol__FEC",170.78517243122587
-3-Methyl-2-furoic acid__FEC,104.31549419437516
-3-Undecene__FEC,271.38073742036624
-"Guanidine, N,N-dimethyl__FEC",321.57421294124816
-Monolaurin__FEC,78.05697236349732
-Methyl 2-acetamido-2-deoxy-3-O-methyl-alpha-D-galactopyranoside__FEC,132.80511875829697
-Xylose__FEC,227.65889245604805
-"2-Furanacetaldehyde, tetrahydro-alpha__FEC",104.87278619088002
-L-Leucine__FEC,136.98539758292551
-Picolinic acid__FEC,924.1658115889578
-Glycerol tricaprylate__FEC,233.30111916515352
-Citric acid__FEC,40.320238882782284
-1-Monopalmitin__FEC,30.827678641173378
-Pipecolic acid__FEC,463.81971017037574
-Pyrrole-2-carboxylic acid__FEC,96.15645017514639
-1-Methyl-4-hydroxy-1H-imidazol-2-amine__FEC,28.384098111332303
-D-Glucose__FEC,1220.0687851264931
-12-Oxooctadecanoate__FEC,0.0
-2-Ethylacetoacetate__FEC,1163.019923928834
-"2,3,4-Trihydroxybutyric acid__FEC",403.76331639562943
-8-Hydroxy-5-(hydroxymethyl)quinoline__FEC,0.1998953427524856
-Tricine__FEC,1207.832170625785
-"Acetamide, N-(2-butyl)-N-methyl-__FEC",46.85732780577955
-Menthol__FEC,133.6889560531802
-N-Acetyl glucosamine methoxime__FEC,42.47234906596916
-Uridine__FEC,45.11310121789017
-Butyl caprylate__FEC,493.17280660039285
-"1,7-Dimethyl-4-(1-methylethyl)cyclodecane__FEC",707.3454910401631
-Arabinitol__FEC,1.6900089778119791
-9-Octadecenoic acid__FEC,63.534826008547476
-"3-Hydroxy-2,3-dihydromaltol__FEC",80.23436553243985
-Ribonic acid__FEC,32.66239054192268
-Cytosine__FEC,10.01541255112992
-2'-Desoxyuridine__FEC,39.62061888518255
-alpha-Tocopheryl acetate__FEC,41.23013329555925
-4-Hydroxy-5-(hydroxymethyl)oxolan-2-one__FEC,437.1577686818652
-"D-Erythro-Pentitol, 2-deoxy-__FEC",246.86681479110055
-1-Hexanol__FEC,16.084737874609992
-1-Octadecanol__FEC,867.440934618011
+d-Erythrotetrofuranose__FEC,1190.1315596872055
+N-(2-hydroxyethyl)-succinimide__FEC,965.0621825570965
+Phloretic acid__FEC,471.0825877684531
+4-Methyl-5-thiazoleethanol__FEC,622.4131291050456
+"Inosose-2, myo__FEC",1127.2920631089835
+Nonanoic acid__FEC,43.34033540636545
+N-Acetylglucosamine__FEC,104.44820695787917
+"(4,4-Dimethyl-5-methylene-4,5-dihydro-3H-pyrrol-2-yl)-(4,4-dimethyl-5-methylene-pyrrolidin-2-ylidene)-acetonitrile__FEC",228.67343817649956
+Thr-Leu__FEC,215.01766702312602
+L-(+)-Lactic acid__FEC,47.33299424893927
+"beta-D-Galactopyranoside, methyl-, acetate__FEC",6.514756730232667
+D-(+)-Talofuranose__FEC,2.5934538943978307
+Decanoic acid__FEC,874.398472828941
+N-Methyl-alpha-aminoisobutyric acid__FEC,178.7095272371419
+Dihydrouracil__FEC,330.03174979636105
+Aconitic acid__FEC,221.85167827806603
+trans-Coniferryl alchool__FEC,695.911992381853
+5-Methyluridine__FEC,1375.869761135093
+L-Threonine__FEC,20.441829042727168
+4-Hydroxybenzoic acid__FEC,272.01626289084123
+L-Norvaline__FEC,44.75700670732758
+1-Octanol__FEC,105.21319366814686
+"2,5-Cyclohexadiene-1,4-dione, 2,6-bis(1,1-dimethylethyl)__FEC",1275.080062895375
+"2,5-Di-tert-butyl-4-hydroxyphenol__FEC",1093.2867846489273
+3-Methyl-2-furoic acid__FEC,370.1856173654732
+3-Undecene__FEC,637.2816331231928
+"Guanidine, N,N-dimethyl__FEC",406.99502404299375
+Monolaurin__FEC,87.809588729722
+Methyl 2-acetamido-2-deoxy-3-O-methyl-alpha-D-galactopyranoside__FEC,110.32930163447178
+Xylose__FEC,123.91186459242942
+"2-Furanacetaldehyde, tetrahydro-alpha__FEC",74.46192464469681
+L-Leucine__FEC,399.7058191819184
+Picolinic acid__FEC,1019.6391571359278
+Glycerol tricaprylate__FEC,227.21960860729615
+Citric acid__FEC,20.199139841755358
+1-Monopalmitin__FEC,30.724876403836305
+Pipecolic acid__FEC,292.7885833043024
+Pyrrole-2-carboxylic acid__FEC,61.38213933896209
+1-Methyl-4-hydroxy-1H-imidazol-2-amine__FEC,116.81060327282452
+D-Glucose__FEC,633.9920277744086
+12-Oxooctadecanoate__FEC,773.9027428463513
+2-Ethylacetoacetate__FEC,1344.268706622298
+"2,3,4-Trihydroxybutyric acid__FEC",419.2670012402802
+8-Hydroxy-5-(hydroxymethyl)quinoline__FEC,171.77561361268118
+Tricine__FEC,873.3319956404627
+"Acetamide, N-(2-butyl)-N-methyl-__FEC",48.58460509737457
+Menthol__FEC,39.15506547825604
+N-Acetyl glucosamine methoxime__FEC,155.92455227895212
+Uridine__FEC,38.5556304771617
+Butyl caprylate__FEC,758.3474514109739
+"1,7-Dimethyl-4-(1-methylethyl)cyclodecane__FEC",1052.6833545935867
+Arabinitol__FEC,18.268784471315854
+9-Octadecenoic acid__FEC,87.5990853289758
+"3-Hydroxy-2,3-dihydromaltol__FEC",2.25756843400679
+Ribonic acid__FEC,55.86817546649477
+Cytosine__FEC,23.190535344051888
+2'-Desoxyuridine__FEC,506.96237798279765
+alpha-Tocopheryl acetate__FEC,33.120861463573426
+4-Hydroxy-5-(hydroxymethyl)oxolan-2-one__FEC,416.9616942469362
+"D-Erythro-Pentitol, 2-deoxy-__FEC",296.64071387965066
+1-Hexanol__FEC,18.684214838681605
+1-Octadecanol__FEC,1234.894450428073
 Ethanamine__FEC,0.0
-Idoxuridine__FEC,22.42707120348833
-Glycolic acid__FEC,0.0
-"Azetidine, 1-acetyl-2-methyl__FEC",595.9046702458036
-Hexacosanoic acid__FEC,6.353499492799395
-3-Hydroxyisovaleric acid__FEC,30.24900634367131
-Ketamine__FEC,0.0
-"Butanoic acid, 3,4-dihydroxy-__FEC",596.7866590031267
+Idoxuridine__FEC,20.490041490566966
+Glycolic acid__FEC,0.09819967266775778
+"Azetidine, 1-acetyl-2-methyl__FEC",621.3800912483136
+Hexacosanoic acid__FEC,8.08018625788676
+3-Hydroxyisovaleric acid__FEC,60.97376023863345
+Ketamine__FEC,171.88440950479125
+"Butanoic acid, 3,4-dihydroxy-__FEC",685.407151399613
 2-Palmitoylglycerol__FEC,0.0
-"(2,2-Dimethyl-5-[2-(2-ethoxymethoxy)propyl][1,3]dioxolan-4-yl)methanol__FEC",5.3514271105864
+"(2,2-Dimethyl-5-[2-(2-ethoxymethoxy)propyl][1,3]dioxolan-4-yl)methanol__FEC",4.1504011209425204
 3-Hydroxypicolinic acid__FEC,0.0
-4-Hydroxyphenyllactic acid__FEC,0.148011773465494
-Glycerol__FEC,27.243800268469318
-3-Hydroxybutyric acid__FEC,27.62196427389079
-4-Hydroxy-5-(hydroxymethyl)oxolan-2-one__PLS,3.651545575644293
-Xylazine__FEC,27.572831251450648
-"Cephalotaxine, 3-deoxy-3,11-epoxy-, (3alpha,11alpha)-__PLS",646.5329084767404
-N-Isobutyrylglycine__PLS,399.0497200570139
-"D-Xylofuranose, 1,2,3,5-tetrakis-O-__PLS",517.7873416179139
-1-Aminocyclopropanecarboxylic acid__PLS,185.06384642557512
-3-Pyridylcarbinol__FEC,922.8638228175281
-1-Phenethylamine__PLS,437.4918955009975
-L-Aspartic acid__FEC,50.011572268569125
-"2-(Decanoyloxy)propane-1,3-diyl dioctanoate__PLS",1110.8115820020294
-Supraene__FEC,3.9819290474403757
-"Butanoic acid, 2,4-bis[(trimethylsilyl)oxy]-__PLS",950.2713831460444
-5-Hydroxyquinoline__PLS,562.4025901882418
-Indole-3-lactic acid__PLS,1496.7706393765638
-Isoxaben__PLS,37.31137126575464
-3-Amino-2-piperidone__PLS,435.2594620985357
-(pm)-Norketamine__PLS,160.8089743628541
-Salsoline__FEC,252.9149751109048
-2-Ketoisocaproic acid__PLS,477.1807564651092
-"Cyclopentanone, 2,2,4-trimethyl-__PLS",268.38451001720307
-Suberic acid__FEC,617.6791802194304
-"Inosose-2, 1,3,4,5,6-pentakis-__PLS",1001.6312801318784
-Itaconic acid__FEC,105.66529183396312
-"Glycine, N-[4-[(trimethylsilyl)oxy]benzoyl]-__PLS",45.006874087780744
-DL-Phenylalanine__PLS,321.28230584252185
-Uracil__PLS,241.9945825993116
-"9,12-Octadecadienoic acid__PLS",715.9738379806552
-DL-Ornithine__PLS,558.3168980691248
-"2,5-Dimethoxymandelic acid__PLS",7.647368096620358
-Methylmaleic acid__FEC,99.41725141544723
-L-Glutamic acid__PLS,4.592130931863149
-"2,2-Diallylpyrrolidine__PLS",773.2641611579147
-"Acetin, bis-1,3-trimethylsilyl ether__PLS",17.425872664517552
-Acetoacetic acid__PLS,342.6572988556446
-Methyl-3-methoxy-5-methyl benzoate__PLS,830.081241808492
-D-(-)-Fructopyranose__FEC,161.45455349854382
-L-Proline__FEC,12.440411867007473
-DL-Glyceraldehyde__PLS,506.28315271698443
-Niclosamide__PLS,13.245264517105591
-"3-Cyclohexyl-L-alanine amide, N,N,N'N'-tetramethyl-__PLS",16.10308416081903
-"Propanoic acid, 2-methyl-__PLS",246.88178263546658
-"1H-Indole-2-carboxylic acid, 5-ethyl-1-(trimethylsilyl)__FEC",470.00215355434784
-Norketamine__FEC,330.33185099038826
-Arachidonic acid__PLS,187.56506136748462
-"Azetidine, 1-acetyl-2-methyl-__PLS",452.5679699778068
-"Cholest-7-en-3-ol, (3beta,5alpha)-__PLS",194.39351396498466
-l-Leucyl-l-valine__FEC,396.8337575915416
-"Benzaldehyde, 2,5-dimethyl-__PLS",2536.8528096162286
-"1,2,3,10,11,11a-Hexahydro-6,7,8-trimethoxy-3-oxo-5H-dibenzo(a,d)cycloheptene__PLS",280.6734940454695
-"cis-4,5-Dihydroxy-o-dithiane__FEC",802.1563331857989
-Trimidox__PLS,708.8801483037689
-"Octane, 1-propoxy-__PLS",716.7708538355029
-Nonadecanoic acid__PLS,64.8784206833605
-Diphenyl ether__PLS,63.73395276194145
-"N,O-Bis(trimethylsilyl)carbamate__PLS",115.50506453052978
-Methylmalonic monoamide__PLS,399.23423152449055
-9-Octadecenamide__FEC,103.29768741577753
-Glyceric acid__PLS,57.963401888571504
-Vanillin__FEC,658.5584500996866
-2-Pyrrolidinone__FEC,105.39680866255267
-Dobutamine__PLS,15.625797676031342
-Phenoxyacetic acid__PLS,35.62777829446547
-D-Ribose__PLS,53.46907825362894
-"1,1'-Biphenyl, 3,4-diethyl-__PLS",585.1904675304853
-"D-Isoleucine, N-acetyl-__PLS",38.091046822976665
-"Dodecane, 4,6-dimethyl-__PLS",31.109011094676344
-alpha-Linolenic acid__PLS,315.03338745768104
-"N-Acetyl-D-galactosamine, (R,R,R,R)__FEC",478.46663638523427
-L-Aspartic acid__PLS,135.53584762342368
-pyrazole__FEC,776.1727993524106
-"Erythrono-1,4-lactone, (Z)-__PLS",272.7417055748299
-Palmitic Acid__PLS,56.260016665620995
-Mirin__PLS,204.9851443709773
-Pentanedioic acid__FEC,30.8015523252804
-"Glycine, N-(N-DL-leucylglycyl)-__PLS",115.42342485993566
-Dihydrouracil__PLS,255.79518623364837
-"Benzo[b]fluorene, 5-amino-7-methyl-1,2,3,4,6,7,8,9-octahydro-11-thia-10-aza-__PLS",1.3673799698190487
-10-Heptadecenoic acid__PLS,2850.1071470643187
-Octocrylene__PLS,75.98522120212213
-3-Methoxysalicylic acid__PLS,1649.0405210337096
-"Trimethylsilyl (5-benzyl-3,6-dioxopiperazin-2-yl)acetate__FEC",216.38016008385213
-"2,6-Dimethyl-N-[3-(trimethylsilyl)-1,3-thiazinan-2-ylidene]aniline__PLS",662.5595499259408
-Desmosterol__PLS,57.34044623042258
-Pyrrole-2-carboxylic acid__PLS,0.7437833795713537
-"Pentitol, 3-desoxy__FEC",0.0
-4-Hydroxybenzoic acid__PLS,704.4173702270466
-beta-Hydroxypyruvic acid__PLS,5.469809882265224
-"1,3,5-Benzetriol__PLS",99.98209548454426
-Ethanolamine__PLS,94.41405530975099
-Glycolic acid__PLS,793.0997973044998
-"N,9-bis(Trimethylsilyl)-6-[(trimethylsilyl)oxy]-9H-purin-2-amine__PLS",337.4875573732283
-3-O-methyl-beta-D-Glucopyranose__FEC,37.078791172904516
-L-Leucine__PLS,19.11352265336903
-Sertraline carbamoyl glucuronide__PLS,164.055364018827
-Hexanoic acid__PLS,593.4909253900533
-3-Aminobutanoic acid__PLS,234.6502787121171
-D-(-)-Fructofuranose__FEC,36.76246439479617
-Hydroquinidine__PLS,102.40631837013242
-3-Hydroxyisovaleric acid__PLS,424.7333987909305
-1-Hydroxy-3-methoxy-6-methylanthraquinone__PLS,1360.0573100186634
-Ethyl alpha-D-glucopyranoside__FEC,40.25149588508413
-1-Tetradecanol__PLS,78.07461100777503
-"Aziridine, 1-(2-buten-2-yl)-__PLS",27.61908493098949
-Erythritol__PLS,17.113708502214614
-"2-Heptanone, 4,6-dimethyl-__PLS",175.0256171249497
-"2-Propanone, bis(1-methylethyl)hydrazone__PLS",131.240328198146
-"beta-D-Galactofuranose, 1,2,3,5,6-pentakis-O-(trimethylsilyl)-__PLS",343.0061102566836
-beta-Lyxopyranose__PLS,532.7882881234319
-Urea__FEC,394.6647297643033
-Trimethylsilyl oct-2-enoate__PLS,7.999799650205409
-Benzophenone__PLS,98.24777099147015
-N-Isovaleroylglycine__PLS,294.9176375542797
-2-Heptenoic acid__PLS,227.85117355236332
-2-Aminobutanoic acid__FEC,49.948384763411326
-L-Hydroxyproline__PLS,189.0104965596605
-n-Pentadecanol__PLS,66.07166197955688
-"2,3,4-Trihydroxybutyric acid tetrakis__PLS",280.23193733192267
-"1-Methyl-N,N-bis(trimethylsilyl)-4-[(trimethylsilyl)oxy]-1H-imidazol-2-amine__PLS",112.98063676324895
-Hydroquinone__FEC,163.09818773961945
-Arsenous acid__PLS,16.769731683240643
-"L-Tryptophan, N-acetyl-1__PLS",372.07348751841334
-2-Isopropyl-5-methyl-1-heptanol__PLS,455.591538630082
-1-Monoacetin__PLS,18.679283969315268
-Indole-5-carboxylic acid__PLS,273.9885173408169
-N-Methyl-L-proline__FEC,1.1698548404500972
-"Benzenemethanamine, 2,3-dimethoxy-__PLS",5.210357093886506
-L-Tryptophan__PLS,79.36442189982442
-3-Amino-5-morpholinomethyl-2-oxazolidinone__PLS,715.4989484421392
-"Benzeneethanamine, N-[(pentafluorophenyl)methylene]-4-[(trimethylsilyl)oxy]-__PLS",10.614435540864527
-D-Psicofuranose__FEC,2.501356053443201
-D-Fructose__FEC,118.96064899407297
-Octan-2-yl palmitate__PLS,289.3260884952222
-Azelaic acid__FEC,0.4
-"Pyrimidine, 5-methyl-2,4-bis[(trimethylsilyl)oxy]-__PLS",184.6508764121858
-Bis(trimethylsilyl)acetylene__PLS,43.9010126506046
-3-Aminobutanoic acid__FEC,52.77169587888464
-Isofucosterol__PLS,255.08858764228714
-"3-Buten-2-one, 3-trimethylsilyloxy-__PLS",23.891549629683862
-"Glycine, N-(1-oxobutyl)-__PLS",589.9986037832055
-"L-Lysine, ethyl ester__PLS",47.948169925641025
-4-Cumylphenol__PLS,239.1897327168045
-L-Isoleucine__PLS,26.41940186952297
-Xylazine__PLS,274.8240596830961
-cis-4-Trimethylsilyloxy-cyclohexyl(trimethylsilyl)carboxylate__PLS,908.4760660574682
-"2,4-Di-tert-butylphenol__FEC",242.1148358246281
-Triethanolamine__PLS,117.16755120413133
-Arabinose__FEC,2.2373083207477626
-13-Docosenamide__PLS,5.111834476338849
-"(S,S)-(-)-Hydrobenzoin__PLS",498.54918243031403
-2-Pyrrolidinone__PLS,61.36836314782836
-2-Furoic acid__PLS,37.94106514228714
-3-Nonen-1-ol__PLS,2.0088235294117647
-Tetradecanenitrile__PLS,252.46652373111854
-Dihydroxyacetone__FEC,18.188569066123836
-"alpha-L-Galactopyranoside, methyl 6-deoxy-, (R,R,R,S,S)-__PLS",120.31974477681803
-Palmitelaidic acid__PLS,17.80835883137492
-Ribitol__PLS,71.13398590717227
-Azatadine__PLS,28.183780495778567
-Decanoic acid__PLS,101.36481731865683
-Tartronic acid__PLS,714.3274174571723
-Quazodine__PLS,104.09093681655875
-3-Hydroxybutyric acid__PLS,6.29963047547224
-"Phenol, 3,5-bis(1,1-dimethylethyl)-__PLS",23.11614471312754
-Dinoseb__PLS,2069.107940728746
-Metanephrine__PLS,194.6457847975351
-"Cholesta-3,5-diene__PLS",13.578133940820559
-alpha-Linolenic acid__FEC,26.703817095491
-Glucopyranose__PLS,1.7580350645198808
-3-(2-Hydroxyethyl)imidazole-2-thione__PLS,67.42121295104589
-"7-Acetyl-6-ethyl-1,1,4,4-tetramethyltetralin__PLS",105.44953227474417
-Deoxyribopyranose__FEC,1.0377159056290715
-3-Indoleacetic acid__PLS,358.3033844538571
-"Propanetriol, 2-methyl-__PLS",738.650507702
-"(9H-fluoren-9-yl)methanol, O-methoxycarbonyl-__PLS",10.327649886734294
-Cyclo(L-prolyl-L-valine)__PLS,12.041432185678524
-D-Fructose__PLS,554.2394111256465
-Cyclobutanol__PLS,6.206884244876823
-"Benzene, 3-cyclohexen-1-yl-__PLS",19.217387792180784
-Succinic anhydride__PLS,1.4045567652359081
-"5-Cholesten-3beta, 7alpha-bis[(trimethylsilyl)oxy]-__PLS",110.4495722752797
-"1,2-Benzenedicarboxylic acid__PLS",184.38156925634178
-"1-Octanol, 2-butyl-__PLS",314.22228028840334
-Glyoxime__PLS,422.60326551380797
-"2,2,8,8-Tetramethyl-3,7-dioxa-4-aza-2,8-disilanon-4-ene__PLS",44.29797643085797
-Ammeline__PLS,5.940002163950497
-"2,5-Dimethoxyphenol__PLS",2.344078947368421
-Decyl oleate__FEC,47.13349573255571
-Tributyl acetylcitrate__PLS,218.4140354086899
-Campesterol__FEC,13.717413407872098
-N-Valerylglycine__PLS,28.663095802798455
-"D-(+)-Ribono-1,4-lactone (R,S,R)-__PLS",136.73882579060518
-"1,3-Cyclohexanebis(methylamine)__PLS",120.27364721754968
-Monomethyl succinate__FEC,224.7350356108326
-Erythritol__FEC,0.0
-Oxalic acid__PLS,5.179874431207126
-3-Buten-2-one__FEC,115.76416891469509
-D-Leucylglycylglycine__PLS,109.89109067031545
-"Ethanone, 1-(5-methoxy-2-methyl-3(1H)-indolyl)-__PLS",4.3856479215782604
-Guanabenz__PLS,80.08863910433686
-Neostigmine__PLS,76.32367455424921
-Hydracrylic acid__PLS,314.4001410003104
-2-Methylglutaconic acid__PLS,38.28376115620583
-Benzyl alcohol__PLS,44.63040387965859
-"Ethanone, 1-(2,5-dimethoxyphenyl)-__PLS",187.81112347167158
-Hexanedioic acid__PLS,187.1325975916172
-5-Oxohexanoic Acid__FEC,449.2091613033034
-"2,3-Butanediol__PLS",20.37185526840437
-"Arabinofuranose, 1,2,3,5-tetrakis__FEC",10.865336575362047
-D-Threitol__PLS,1.8236847339112727
-N-Methyl-N-(tetrahydro-2-furanylmethyl)-4-piperidinamine__PLS,207.47685090330197
-"1-Phenyl-1,2-ethanediol__PLS",42.921299112271825
-Dehydronorketamine__PLS,0.0
-Pipecolic acid__PLS,14.007610647743306
-N-Acetyl-L-glutamic acid__PLS,320.08146266587295
-1-Tetracosene__FEC,0.0
-p-Toluic acid__PLS,12.135804045156078
-Glycine__PLS,260.29160646498553
-Glyceric acid__FEC,31.99472135276208
-Aceturic acid__PLS,217.8761014439676
-Cyclohexanol__FEC,56.24304133834985
+4-Hydroxyphenyllactic acid__FEC,0.0
+Glycerol__FEC,69.31587538734424
+3-Hydroxybutyric acid__FEC,54.32075178848999
+4-Hydroxy-5-(hydroxymethyl)oxolan-2-one__PLS,4.260606421559612
+Xylazine__FEC,66.72281798957955
+"Cephalotaxine, 3-deoxy-3,11-epoxy-, (3alpha,11alpha)-__PLS",204.78687039109835
+N-Isobutyrylglycine__PLS,508.8418354357681
+"D-Xylofuranose, 1,2,3,5-tetrakis-O-__PLS",405.0713148638502
+1-Aminocyclopropanecarboxylic acid__PLS,175.0916680570489
+3-Pyridylcarbinol__FEC,944.7365303763373
+1-Phenethylamine__PLS,803.6149610121266
+L-Aspartic acid__FEC,324.8694618352751
+"2-(Decanoyloxy)propane-1,3-diyl dioctanoate__PLS",1098.1067659549576
+Supraene__FEC,92.93639472084264
+"Butanoic acid, 2,4-bis[(trimethylsilyl)oxy]-__PLS",1071.9288417231824
+5-Hydroxyquinoline__PLS,802.6161457547568
+Indole-3-lactic acid__PLS,1691.501015700715
+Isoxaben__PLS,97.9105087368135
+3-Amino-2-piperidone__PLS,468.94419606741945
+(pm)-Norketamine__PLS,279.65720757884833
+Salsoline__FEC,1167.218333462015
+2-Ketoisocaproic acid__PLS,178.50753734198693
+"Cyclopentanone, 2,2,4-trimethyl-__PLS",634.6932863078036
+Suberic acid__FEC,779.8038570509509
+"Inosose-2, 1,3,4,5,6-pentakis-__PLS",183.17935169236472
+Itaconic acid__FEC,63.59929784495545
+"Glycine, N-[4-[(trimethylsilyl)oxy]benzoyl]-__PLS",323.0317556948366
+DL-Phenylalanine__PLS,430.1898798631762
+Uracil__PLS,612.7622726958534
+"9,12-Octadecadienoic acid__PLS",737.0543300553186
+DL-Ornithine__PLS,794.783421585815
+"2,5-Dimethoxymandelic acid__PLS",15.906876267183918
+Methylmaleic acid__FEC,226.7150401680459
+L-Glutamic acid__PLS,52.233146449439424
+"2,2-Diallylpyrrolidine__PLS",773.8733091758485
+"Acetin, bis-1,3-trimethylsilyl ether__PLS",17.09081293792988
+Acetoacetic acid__PLS,529.9827559758571
+Methyl-3-methoxy-5-methyl benzoate__PLS,1250.152594671821
+D-(-)-Fructopyranose__FEC,127.08059009449458
+L-Proline__FEC,41.23215754495649
+DL-Glyceraldehyde__PLS,490.58423832699225
+Niclosamide__PLS,29.94431543844048
+"3-Cyclohexyl-L-alanine amide, N,N,N'N'-tetramethyl-__PLS",20.584886237397164
+"Propanoic acid, 2-methyl-__PLS",483.8167645930928
+"1H-Indole-2-carboxylic acid, 5-ethyl-1-(trimethylsilyl)__FEC",196.7944387118622
+Norketamine__FEC,235.40880345120087
+Arachidonic acid__PLS,125.07071501004782
+"Azetidine, 1-acetyl-2-methyl-__PLS",628.1159331545012
+"Cholest-7-en-3-ol, (3beta,5alpha)-__PLS",492.2612683558938
+l-Leucyl-l-valine__FEC,352.6055384315912
+"Benzaldehyde, 2,5-dimethyl-__PLS",3084.7616780592216
+"1,2,3,10,11,11a-Hexahydro-6,7,8-trimethoxy-3-oxo-5H-dibenzo(a,d)cycloheptene__PLS",291.9536374239162
+"cis-4,5-Dihydroxy-o-dithiane__FEC",646.8632303998852
+Trimidox__PLS,819.6914706721691
+"Octane, 1-propoxy-__PLS",583.283018850424
+Nonadecanoic acid__PLS,173.19204139432446
+Diphenyl ether__PLS,81.88285036224912
+"N,O-Bis(trimethylsilyl)carbamate__PLS",209.7257145159422
+Methylmalonic monoamide__PLS,614.3804875672774
+9-Octadecenamide__FEC,130.4052923432899
+Glyceric acid__PLS,228.73954522351497
+Vanillin__FEC,2009.635742309627
+2-Pyrrolidinone__FEC,192.64049689296485
+Dobutamine__PLS,113.92034137949099
+Phenoxyacetic acid__PLS,562.0230525684545
+D-Ribose__PLS,114.54634094794139
+"1,1'-Biphenyl, 3,4-diethyl-__PLS",72.85440948952969
+"D-Isoleucine, N-acetyl-__PLS",87.27777866110841
+"Dodecane, 4,6-dimethyl-__PLS",128.2077789415295
+alpha-Linolenic acid__PLS,47.83675857009338
+"N-Acetyl-D-galactosamine, (R,R,R,R)__FEC",673.9052093705601
+L-Aspartic acid__PLS,790.331340287863
+pyrazole__FEC,230.5348867108303
+"Erythrono-1,4-lactone, (Z)-__PLS",284.2624954677173
+Palmitic Acid__PLS,11.997321993419476
+Mirin__PLS,368.0569133958624
+Pentanedioic acid__FEC,139.14443608774792
+"Glycine, N-(N-DL-leucylglycyl)-__PLS",111.6543029794738
+Dihydrouracil__PLS,1239.0619160283334
+"Benzo[b]fluorene, 5-amino-7-methyl-1,2,3,4,6,7,8,9-octahydro-11-thia-10-aza-__PLS",29.347865246970034
+10-Heptadecenoic acid__PLS,2357.1743357123355
+Octocrylene__PLS,176.76642162373187
+3-Methoxysalicylic acid__PLS,727.581461483461
+"Trimethylsilyl (5-benzyl-3,6-dioxopiperazin-2-yl)acetate__FEC",116.66488329786341
+"2,6-Dimethyl-N-[3-(trimethylsilyl)-1,3-thiazinan-2-ylidene]aniline__PLS",1037.9281956264167
+Desmosterol__PLS,35.45568951677891
+Pyrrole-2-carboxylic acid__PLS,2.869616862796627
+"Pentitol, 3-desoxy__FEC",248.2199973806266
+4-Hydroxybenzoic acid__PLS,1292.05983775997
+beta-Hydroxypyruvic acid__PLS,13.918019784808658
+"1,3,5-Benzetriol__PLS",436.8215824939041
+Ethanolamine__PLS,118.50660825420628
+Glycolic acid__PLS,506.50035875362965
+"N,9-bis(Trimethylsilyl)-6-[(trimethylsilyl)oxy]-9H-purin-2-amine__PLS",26.310368650640626
+3-O-methyl-beta-D-Glucopyranose__FEC,38.266790529356975
+L-Leucine__PLS,41.05035348465992
+Sertraline carbamoyl glucuronide__PLS,198.24311012438696
+Hexanoic acid__PLS,580.5959834575136
+3-Aminobutanoic acid__PLS,128.6136940697003
+D-(-)-Fructofuranose__FEC,175.6890169864289
+Hydroquinidine__PLS,115.21223529879546
+3-Hydroxyisovaleric acid__PLS,489.209672545853
+1-Hydroxy-3-methoxy-6-methylanthraquinone__PLS,2720.7902168065016
+Ethyl alpha-D-glucopyranoside__FEC,46.91648116546415
+1-Tetradecanol__PLS,131.66610742083546
+"Aziridine, 1-(2-buten-2-yl)-__PLS",40.113250593036526
+Erythritol__PLS,91.193382636412
+"2-Heptanone, 4,6-dimethyl-__PLS",184.41809589765123
+"2-Propanone, bis(1-methylethyl)hydrazone__PLS",187.89890637732748
+"beta-D-Galactofuranose, 1,2,3,5,6-pentakis-O-(trimethylsilyl)-__PLS",720.5627906440368
+beta-Lyxopyranose__PLS,259.341656548637
+Urea__FEC,975.7722826285482
+Trimethylsilyl oct-2-enoate__PLS,22.269560825360358
+Benzophenone__PLS,364.5571362261001
+N-Isovaleroylglycine__PLS,345.39063776841925
+2-Heptenoic acid__PLS,228.38854957991117
+2-Aminobutanoic acid__FEC,26.30831589456082
+L-Hydroxyproline__PLS,234.58633890253705
+n-Pentadecanol__PLS,108.42936900110512
+"2,3,4-Trihydroxybutyric acid tetrakis__PLS",331.8437088196549
+"1-Methyl-N,N-bis(trimethylsilyl)-4-[(trimethylsilyl)oxy]-1H-imidazol-2-amine__PLS",591.2259057225251
+Hydroquinone__FEC,53.151338020879535
+Arsenous acid__PLS,175.25483955419787
+"L-Tryptophan, N-acetyl-1__PLS",303.5891189630164
+2-Isopropyl-5-methyl-1-heptanol__PLS,482.97159009857995
+1-Monoacetin__PLS,57.61345546983198
+Indole-5-carboxylic acid__PLS,573.351823089494
+N-Methyl-L-proline__FEC,112.11199840742891
+"Benzenemethanamine, 2,3-dimethoxy-__PLS",13.16433070152195
+L-Tryptophan__PLS,12.01187310769805
+3-Amino-5-morpholinomethyl-2-oxazolidinone__PLS,128.18926070881167
+"Benzeneethanamine, N-[(pentafluorophenyl)methylene]-4-[(trimethylsilyl)oxy]-__PLS",7.616209145813375
+D-Psicofuranose__FEC,74.52545232109216
+D-Fructose__FEC,91.52496669174828
+Octan-2-yl palmitate__PLS,461.38520125169384
+Azelaic acid__FEC,0.0
+"Pyrimidine, 5-methyl-2,4-bis[(trimethylsilyl)oxy]-__PLS",302.5500346263286
+Bis(trimethylsilyl)acetylene__PLS,87.0101082721207
+3-Aminobutanoic acid__FEC,6.496735629858639
+Isofucosterol__PLS,339.648315111262
+"3-Buten-2-one, 3-trimethylsilyloxy-__PLS",102.9210718909969
+"Glycine, N-(1-oxobutyl)-__PLS",748.0428113947506
+"L-Lysine, ethyl ester__PLS",62.29785635693133
+4-Cumylphenol__PLS,263.5936673292653
+L-Isoleucine__PLS,53.8436794376504
+Xylazine__PLS,742.0017994030367
+cis-4-Trimethylsilyloxy-cyclohexyl(trimethylsilyl)carboxylate__PLS,367.66967078391593
+"2,4-Di-tert-butylphenol__FEC",263.27926868124445
+Triethanolamine__PLS,402.78447993749955
+Arabinose__FEC,29.361885374159975
+13-Docosenamide__PLS,67.40170945416205
+"(S,S)-(-)-Hydrobenzoin__PLS",270.1091776603397
+2-Pyrrolidinone__PLS,69.46631882053232
+2-Furoic acid__PLS,45.375786233189785
+3-Nonen-1-ol__PLS,24.838415768405245
+Tetradecanenitrile__PLS,269.85148226674994
+Dihydroxyacetone__FEC,12.416911486260734
+"alpha-L-Galactopyranoside, methyl 6-deoxy-, (R,R,R,S,S)-__PLS",493.81927784044984
+Palmitelaidic acid__PLS,24.423075557067158
+Ribitol__PLS,89.86719060661548
+Azatadine__PLS,26.59746618145749
+Decanoic acid__PLS,125.99035543821161
+Tartronic acid__PLS,482.0374709189778
+Quazodine__PLS,277.8741588582718
+3-Hydroxybutyric acid__PLS,16.860710512166765
+"Phenol, 3,5-bis(1,1-dimethylethyl)-__PLS",72.8982324012208
+Dinoseb__PLS,985.0744211356384
+Metanephrine__PLS,320.11232749742965
+"Cholesta-3,5-diene__PLS",18.53996909770166
+alpha-Linolenic acid__FEC,0.8432250033518165
+Glucopyranose__PLS,4.242934755888037
+3-(2-Hydroxyethyl)imidazole-2-thione__PLS,31.637096770465206
+"7-Acetyl-6-ethyl-1,1,4,4-tetramethyltetralin__PLS",163.57788016903095
+Deoxyribopyranose__FEC,280.85893133440305
+3-Indoleacetic acid__PLS,738.9798782551622
+"Propanetriol, 2-methyl-__PLS",289.71165254137986
+"(9H-fluoren-9-yl)methanol, O-methoxycarbonyl-__PLS",190.0181101423253
+Cyclo(L-prolyl-L-valine)__PLS,7.042397901615155
+D-Fructose__PLS,282.4265606316525
+Cyclobutanol__PLS,9.520763715691805
+"Benzene, 3-cyclohexen-1-yl-__PLS",35.197713460796706
+Succinic anhydride__PLS,2.5099497201187
+"5-Cholesten-3beta, 7alpha-bis[(trimethylsilyl)oxy]-__PLS",226.8688261548208
+"1,2-Benzenedicarboxylic acid__PLS",139.60811369215787
+"1-Octanol, 2-butyl-__PLS",240.94484177763275
+Glyoxime__PLS,426.0250293218248
+"2,2,8,8-Tetramethyl-3,7-dioxa-4-aza-2,8-disilanon-4-ene__PLS",61.073813731718985
+Ammeline__PLS,4.7869350171167815
+"2,5-Dimethoxyphenol__PLS",3.1496991634497205
+Decyl oleate__FEC,101.24058162788687
+Tributyl acetylcitrate__PLS,610.8589578656984
+Campesterol__FEC,0.0
+N-Valerylglycine__PLS,15.67049346982264
+"D-(+)-Ribono-1,4-lactone (R,S,R)-__PLS",199.53294925865941
+"1,3-Cyclohexanebis(methylamine)__PLS",203.52689444390322
+Monomethyl succinate__FEC,683.054882239968
+Erythritol__FEC,83.26316258870607
+Oxalic acid__PLS,12.065148984056469
+3-Buten-2-one__FEC,196.50305691358574
+D-Leucylglycylglycine__PLS,187.46125026921698
+"Ethanone, 1-(5-methoxy-2-methyl-3(1H)-indolyl)-__PLS",0.23570261437908496
+Guanabenz__PLS,129.0759474707664
+Neostigmine__PLS,158.21049959334408
+Hydracrylic acid__PLS,549.449375816129
+2-Methylglutaconic acid__PLS,14.27226258506401
+Benzyl alcohol__PLS,178.5213371241561
+"Ethanone, 1-(2,5-dimethoxyphenyl)-__PLS",196.97981951477635
+Hexanedioic acid__PLS,17.86848283480978
+5-Oxohexanoic Acid__FEC,151.62452468110936
+"2,3-Butanediol__PLS",30.06795830274398
+"Arabinofuranose, 1,2,3,5-tetrakis__FEC",84.21139282905486
+D-Threitol__PLS,2.953778467908903
+N-Methyl-N-(tetrahydro-2-furanylmethyl)-4-piperidinamine__PLS,409.8001337523924
+"1-Phenyl-1,2-ethanediol__PLS",119.48447262279568
+Dehydronorketamine__PLS,0.781149565528832
+Pipecolic acid__PLS,90.6529414928261
+N-Acetyl-L-glutamic acid__PLS,178.02394262260358
+1-Tetracosene__FEC,9.378105535321508
+p-Toluic acid__PLS,52.951386778782705
+Glycine__PLS,465.8452142248974
+Glyceric acid__FEC,443.99999999999034
+Aceturic acid__PLS,414.17445798468015
+Cyclohexanol__FEC,0.3886580775220701
 D-Proline__PLS,0.0
-"Pentenoic acid, 4-[(trimethylsilyl)oxy]-__PLS",40.31993411957469
-"Cholest-22-ene-21-ol, 3,5-dehydro-6-methoxy-, pivalate__PLS",118.04603109969432
-2-Amino-4-methylphenol__PLS,402.4724699036946
-2-Methyl-4-pentenoic acid__PLS,437.80144893351456
-L-Alanine__PLS,31.505100998004462
-"1-Butanamine, N,N-diethyl-__PLS",55.108495520773964
-"Butanoic acid, 2-methyl-3-[(trimethylsilyl)oxy]-__PLS",20.60741654878449
-1-Cyclopentylethanol__PLS,205.17440404922752
+"Pentenoic acid, 4-[(trimethylsilyl)oxy]-__PLS",123.04648310925133
+"Cholest-22-ene-21-ol, 3,5-dehydro-6-methoxy-, pivalate__PLS",122.93094207386393
+2-Amino-4-methylphenol__PLS,322.1055964270874
+2-Methyl-4-pentenoic acid__PLS,654.782181752594
+L-Alanine__PLS,9.370655053497105
+"1-Butanamine, N,N-diethyl-__PLS",317.864571930858
+"Butanoic acid, 2-methyl-3-[(trimethylsilyl)oxy]-__PLS",20.971214463757445
+1-Cyclopentylethanol__PLS,397.727527796389
 alpha-L-(-)-Fucopyranose__FEC,0.0
-"Benzimidazole, 5-trifluoromethyl-2-methyl-__PLS",530.8721668863964
-Trisaminol__PLS,2.259271304468954
-"2-Hexenoic acid, 2-[(trimethylsilyl)oxy]-__PLS",17.051047886642664
-"Propiophenone, 3',4'-dimethoxy-__PLS",153.7140848754007
-"Stigmast-5-ene, 3beta-__PLS",225.76774631014106
-Nitrosothymol__PLS,67.50489543355486
-"2,2,4-Trimethyl-1,3-pentanediol diisobutyrate__PLS",120.86896367480244
-7-(Trimethylsilyl)amino-4-methylcoumarin__PLS,4.266815744843079
-Niacin__PLS,20.822235251983535
-(pm)-N-Propylamphetamine__PLS,0.6666666666666666
-Tripropylene glycol monomethyl ether__FEC,120.33809958380533
-2-Naphthol__PLS,18.626135387535406
-Methyl aminoacetate__PLS,397.38416412756726
-"2,5-Dimethoxybenzhydrazide__FEC",10.457544719701145
-3-Indolepropionic acid__PLS,30.446440563337713
-4-Hydroxybenzeneacetic acid__PLS,58.15165990758533
-Delorazepam__PLS,0.8857201340942134
-Galactopyranose__PLS,35.906716070067255
-Cadaverine__PLS,24.712074267194346
-3'-(Trimethylsilyl)oxy-beta-naphthoflavone__PLS,179.15240250349737
-L-Asparagine__PLS,10.78812722764954
-Hydroquinone__PLS,0.0
-"1,4-diazabicyclo[4.3.0]nonan-2,5-dione, 3-methyl__PLS",7.287692875426206
-Deoxyglucose__FEC,131.36360156333294
-Heptadecanoic acid__PLS,2.664533009380909
-Octanoic acid__FEC,2.9504097417649033
-5-Henicosylresorcinol__PLS,178.1408362556374
-"3beta,4beta-Bis(trimethylsiloxy)cholest-5-ene__PLS",419.3080607683107
-Lactic Acid__PLS,23.13155524040088
-Ketamine__PLS,46.85785566753559
-S-Methyl-L-cysteine__PLS,140.18027972766842
-alpha-Tocopherol__PLS,146.098009264681
-"2-Allyl-1,4-dimethoxybenzene__PLS",152.50672024388376
-3'-Hydroxyacetophenone__PLS,26.35332552459959
-"2,5-Piperazinedione, 3-benzyl-6-isopropyl-__PLS",312.761682059934
-Isopropyl palmitate__PLS,977.5605866059707
-Malic acid__PLS,1.330234658122735
-"Cetaben, N,O-bis(trimethylsilyl)-__PLS",17.50267615505652
-L-Glutamine__FEC,0.0
-2-Hydroxy-5-methoxybenzaldehyde__PLS,51.10543317453995
-Sebacic acid__FEC,153.15576479933372
-Indole-3-carboxaldehyde__PLS,102.1931609504254
-Glucose__PLS,0.5422154545961252
-"Pregn-16-en-20-one, 3,18-bis(acetyloxy)-14,15-epoxy-, (3beta,5alpha,14beta,15beta)-__PLS",4.26921759055374
-Deoxycholic Acid__FEC,2.418726879597719
-"Benzene, 1,3-bis(1,1-dimethylethyl)-__PLS",1.2889283592224765
-Levulinic acid__PLS,821.1386073012837
-"Benzene, 1,1'-(1,2-cyclobutanediyl)bis-__PLS",5.31818378629005
-"1-Decene, 8-methyl-__PLS",1.322969944459926
-"beta-d-Fructopyranose, 1-deoxy-1-(4-morpholinyl)-2,3,4,5-tetrakis-O-(trimethylsilyl)-__PLS",10.403310629891768
-"Dimethyl hexopyranosiduronate, alpha-D-__PLS",24.755065405127603
-Myristic acid__PLS,223.75694244523362
-Pentylone__PLS,1.4438644816420565
-Phloroglucinol__PLS,6.68098524483979
-4-Hydroxybenzaldehyde__PLS,58.028903923210784
-Octopamine__PLS,207.92304430636182
-"3-(3-Cyclohexylaminopropionylamino)-5-ethylthiophene-2-carboxylic acid, ethyl ester__PLS",15.758731891014241
-"Hexadecanoic acid, tetradecyl ester__FEC",0.075
-Naphthofluorescein__PLS,25.5102986732829
-L-5-Oxoproline__PLS,2.85280496430111
-12-Oxooctadecanoate__PLS,89.03329871416233
-Butylated Hydroxytoluene__PLS,60.506438804933026
-"Benzoic acid, methyl ester__PLS",183.84287873152363
-"2,4-Imidazolidinedione, 5,5-dimethyl-__PLS",254.42929948997264
-"2,6-Bis[2-[2-S-thiosulfuroethylamino]ethoxy]pyrazine__PLS",361.29185302463424
-Ornithine__PLS,12.56156016637823
-"DL-Proline, 5-oxo-__PLS",2.952521014331715
-"3,5-Dimethylpyrazole__PLS",647.313503896723
-2-Hydroxybutyric acid__PLS,64.98747181367717
-Niacinamide__PLS,2.3597495994294166
-Propylamine__PLS,330.72775070648566
-Hymexazole__FEC,156.64056066872823
-3-Hexenedinitrile__PLS,203.32751911681862
-Allylescaline__PLS,5.49183237940176
-(pm)-Phenylpropanolamine__PLS,2.0027544351073763
-"D-(-)-Fructofuranose, pentakis__PLS",46.0118889544793
-4-Hydroxybutanoic acid__PLS,16.105909370834897
-5-Hydroxyhexanoic acid__PLS,6.74184603629192
-1-Phenylethanol__PLS,0.7067007299666179
-"5-Androsten-17alpha-methyl-3beta,17beta-diol__PLS",15.1086443716304
-Benzeneacetic acid__PLS,5.7483758924516435
-"Thymine, 1,3-dimethyl-6-(trimethylsilyloxymethyl)-__PLS",36.45267751049781
-(CH3)2C=NC2H558__PLS,23.854696639267587
-"2,5-Cyclohexadiene-1,4-dione, 2,6-bis(1,1-dimethylethyl)-__PLS",1.0982607872835572
-(pm)-alpha-Tocopherol acetate__PLS,66.61817472783247
-"(R*,S*)-2,3-Dihydroxybutanoic acid__PLS",0.05931263858093127
-5-Hydroxytryptophan__PLS,8.008697013580642
-Itaconic acid__PLS,0.21403628825628815
-p-Hydroxydiisopropylbenzene__PLS,4.554095492735959
-L-Tyrosine__PLS,2.1284589759491785
-"5alpha-Pregnane-3,20-dione__PLS",6.852064807291735
+"Benzimidazole, 5-trifluoromethyl-2-methyl-__PLS",210.25112389219098
+Trisaminol__PLS,6.725027016186326
+"2-Hexenoic acid, 2-[(trimethylsilyl)oxy]-__PLS",16.329826566035532
+"Propiophenone, 3',4'-dimethoxy-__PLS",27.88717435647312
+"Stigmast-5-ene, 3beta-__PLS",198.98554956187596
+Nitrosothymol__PLS,115.39856016912363
+"2,2,4-Trimethyl-1,3-pentanediol diisobutyrate__PLS",169.4286520427848
+7-(Trimethylsilyl)amino-4-methylcoumarin__PLS,15.724677404391903
+Niacin__PLS,2.745098039215686
+(pm)-N-Propylamphetamine__PLS,0.08820155559285994
+Tripropylene glycol monomethyl ether__FEC,267.6844053877207
+2-Naphthol__PLS,27.70441581249976
+Methyl aminoacetate__PLS,855.7830163771595
+"2,5-Dimethoxybenzhydrazide__FEC",7.564741508829594
+3-Indolepropionic acid__PLS,65.02145528703397
+4-Hydroxybenzeneacetic acid__PLS,76.95143197021257
+Delorazepam__PLS,2.2854546263405267
+Galactopyranose__PLS,95.74827936604304
+Cadaverine__PLS,37.11159766389481
+3'-(Trimethylsilyl)oxy-beta-naphthoflavone__PLS,177.74745365009935
+L-Asparagine__PLS,115.74148331734094
+Hydroquinone__PLS,0.8165292138639203
+"1,4-diazabicyclo[4.3.0]nonan-2,5-dione, 3-methyl__PLS",16.771200547152244
+Deoxyglucose__FEC,6.595474841063076
+Heptadecanoic acid__PLS,7.109498980408921
+Octanoic acid__FEC,130.5722336282985
+5-Henicosylresorcinol__PLS,149.7675181508353
+"3beta,4beta-Bis(trimethylsiloxy)cholest-5-ene__PLS",182.06976997761248
+Lactic Acid__PLS,23.834484020976014
+Ketamine__PLS,72.00313607473836
+S-Methyl-L-cysteine__PLS,115.5095071181313
+alpha-Tocopherol__PLS,361.25319835745785
+"2-Allyl-1,4-dimethoxybenzene__PLS",243.67336307589864
+3'-Hydroxyacetophenone__PLS,49.248565564723286
+"2,5-Piperazinedione, 3-benzyl-6-isopropyl-__PLS",249.4176077379437
+Isopropyl palmitate__PLS,1073.164798759434
+Malic acid__PLS,10.288406250582698
+"Cetaben, N,O-bis(trimethylsilyl)-__PLS",17.70547765574771
+L-Glutamine__FEC,4.926182843967874
+2-Hydroxy-5-methoxybenzaldehyde__PLS,279.08184799521945
+Sebacic acid__FEC,45.9456614196755
+Indole-3-carboxaldehyde__PLS,156.55056538618578
+Glucose__PLS,7.288536101460529
+"Pregn-16-en-20-one, 3,18-bis(acetyloxy)-14,15-epoxy-, (3beta,5alpha,14beta,15beta)-__PLS",16.163050592030757
+Deoxycholic Acid__FEC,1.452638189528716
+"Benzene, 1,3-bis(1,1-dimethylethyl)-__PLS",15.067725805132778
+Levulinic acid__PLS,338.0299933115534
+"Benzene, 1,1'-(1,2-cyclobutanediyl)bis-__PLS",23.128846670896323
+"1-Decene, 8-methyl-__PLS",21.583364063833766
+"beta-d-Fructopyranose, 1-deoxy-1-(4-morpholinyl)-2,3,4,5-tetrakis-O-(trimethylsilyl)-__PLS",34.25914229996784
+"Dimethyl hexopyranosiduronate, alpha-D-__PLS",31.695570263421722
+Myristic acid__PLS,180.0303207159844
+Pentylone__PLS,4.410387376210268
+Phloroglucinol__PLS,5.347888580579812
+4-Hydroxybenzaldehyde__PLS,79.95091342856486
+Octopamine__PLS,110.65358849095118
+"3-(3-Cyclohexylaminopropionylamino)-5-ethylthiophene-2-carboxylic acid, ethyl ester__PLS",108.42878604579427
+"Hexadecanoic acid, tetradecyl ester__FEC",19.31152986887069
+Naphthofluorescein__PLS,78.4502988361129
+L-5-Oxoproline__PLS,333.75297853092513
+12-Oxooctadecanoate__PLS,144.70682495578973
+Butylated Hydroxytoluene__PLS,92.44693950158536
+"Benzoic acid, methyl ester__PLS",8.754111176951485
+"2,4-Imidazolidinedione, 5,5-dimethyl-__PLS",132.8294955783913
+"2,6-Bis[2-[2-S-thiosulfuroethylamino]ethoxy]pyrazine__PLS",392.5471396656928
+Ornithine__PLS,53.252308864804434
+"DL-Proline, 5-oxo-__PLS",4.805393248633989
+"3,5-Dimethylpyrazole__PLS",216.92922115389607
+2-Hydroxybutyric acid__PLS,325.00117696608356
+Niacinamide__PLS,7.5270043922717065
+Propylamine__PLS,432.4637677020664
+Hymexazole__FEC,59.52098364867211
+3-Hexenedinitrile__PLS,44.318314635355414
+Allylescaline__PLS,6.838683145132868
+(pm)-Phenylpropanolamine__PLS,5.795004446924079
+"D-(-)-Fructofuranose, pentakis__PLS",86.57927236896462
+4-Hydroxybutanoic acid__PLS,13.371480093297583
+5-Hydroxyhexanoic acid__PLS,2.6354086844500535
+1-Phenylethanol__PLS,1.6100674714891237
+"5-Androsten-17alpha-methyl-3beta,17beta-diol__PLS",6.172801981690773
+Benzeneacetic acid__PLS,5.7191235997336145
+"Thymine, 1,3-dimethyl-6-(trimethylsilyloxymethyl)-__PLS",40.79570895142036
+(CH3)2C=NC2H558__PLS,14.022161142036452
+"2,5-Cyclohexadiene-1,4-dione, 2,6-bis(1,1-dimethylethyl)-__PLS",159.0149216445556
+(pm)-alpha-Tocopherol acetate__PLS,61.06444154263029
+"(R*,S*)-2,3-Dihydroxybutanoic acid__PLS",2.097925727143434
+5-Hydroxytryptophan__PLS,23.641832441531836
+Itaconic acid__PLS,4.637302322021981
+p-Hydroxydiisopropylbenzene__PLS,16.767760205542462
+L-Tyrosine__PLS,1.721850555833757
+"5alpha-Pregnane-3,20-dione__PLS",5.413277589180218
 "3,4-dimethyl-5-(3,4-methylenedioxy)phenyloxazolidine__PLS",0.0
 Benzeneacetamide__PLS,0.0
-1-(3-Methylphenyl)piperazine__PLS,6.654162393267213
-1-(4-Hydroxybenzylidene)acetone__PLS,20.80344870636609
-"1,2-Butadiene, 1,1,4-triphenyl-3-trimethylsilyl-4-trimethylsilyloxy-__PLS",31.713280030549512
-Phlorizin__PLS,0.322184664077796
+1-(3-Methylphenyl)piperazine__PLS,46.348349275448875
+1-(4-Hydroxybenzylidene)acetone__PLS,15.419886950774973
+"1,2-Butadiene, 1,1,4-triphenyl-3-trimethylsilyl-4-trimethylsilyloxy-__PLS",10.190488791842107
+Phlorizin__PLS,3.222686663122841
 "1,3-bis[(Trimethylsilyl)ethynyl]benzene__PLS",0.0
-L-Threitol__PLS,1.055808297269262
-1-Octanol__PLS,0.9726889093133255
-"Butanal, 2,3,4-tris[(trimethylsilyl)oxy]-, O-methyloxime, [R-(R*,R*)]-__PLS",6.386074043045236
-Dodecylcyclohexane__PLS,395.16412496121495
-"Benzoic acid, pentadecyl ester__PLS",716.5297093636661
-Salsoline__PLS,3.429590856292475
-1-Deoxypentitol__PLS,343.66044109724265
-"Cyclopentaneacetic acid, 3-oxo-2-pentyl-__PLS",17.578993002091906
-D-(-)-Citramalic acid__PLS,5.5680611257571595
-"Furan, 2-pentyl-__PLS",7.894296873303438
-"Pentanedioic acid, 3-methyl-3-[(trimethylsilyl)oxy]-__PLS",12.098382170038834
-1-Hexadecanol__PLS,2.6011945184752756
+L-Threitol__PLS,4.970906947250923
+1-Octanol__PLS,3.126608524916635
+"Butanal, 2,3,4-tris[(trimethylsilyl)oxy]-, O-methyloxime, [R-(R*,R*)]-__PLS",6.367510598324802
+Dodecylcyclohexane__PLS,231.4921987531681
+"Benzoic acid, pentadecyl ester__PLS",290.0258744415261
+Salsoline__PLS,10.95434685089426
+1-Deoxypentitol__PLS,151.89134722100763
+"Cyclopentaneacetic acid, 3-oxo-2-pentyl-__PLS",6.615372589035576
+D-(-)-Citramalic acid__PLS,24.620555357872693
+"Furan, 2-pentyl-__PLS",6.910472895186958
+"Pentanedioic acid, 3-methyl-3-[(trimethylsilyl)oxy]-__PLS",43.26271423387232
+1-Hexadecanol__PLS,57.139272736088124
 1-Hexanol__PLS,0.0
-Methyl isovanillate__PLS,0.0
-Octanoic acid__PLS,0.0
-Cholesterol__PLS,0.31236820687216804
-"Trimethylsilyl (5-benzyl-3,6-dioxopiperazin-2-yl)acetate__PLS",3.667343479971503
-"Acetohydrazide, 2-(2-isopropyl-5-methylphenoxy)-N2-benzylideno-__PLS",21.558231256575226
-"Benzene, 1-acetoxy-2,6-dimethoxy-4-(2-propenyl)-__PLS",77.56010688225591
+Methyl isovanillate__PLS,0.11428571428571428
+Octanoic acid__PLS,99.13841248396811
+Cholesterol__PLS,1.4635458051498933
+"Trimethylsilyl (5-benzyl-3,6-dioxopiperazin-2-yl)acetate__PLS",12.708118808818144
+"Acetohydrazide, 2-(2-isopropyl-5-methylphenoxy)-N2-benzylideno-__PLS",5.715832919403602
+"Benzene, 1-acetoxy-2,6-dimethoxy-4-(2-propenyl)-__PLS",162.7161214367238
 "Methyl (3,4-dimethoxyphenyl)(hydroxy)acetate__PLS",0.0
-"1-Piperazineethanol, 4-dibenzo[b,f][1,4]thiazepin-11-yl-__PLS",7.345418035106732
-"(2S,3R)-3-[(4E,7E)-Nona-4,7-dienoyl]-N,N-bis(trimethylsilyl)oxirane-2-carboxamide__PLS",0.33682266009852213
-"Acetic acid, bis[(trimethylsilyl)oxyl]-__PLS",2.14513512040972
+"1-Piperazineethanol, 4-dibenzo[b,f][1,4]thiazepin-11-yl-__PLS",0.3948590356766955
+"(2S,3R)-3-[(4E,7E)-Nona-4,7-dienoyl]-N,N-bis(trimethylsilyl)oxirane-2-carboxamide__PLS",0.4915435139573072
+"Acetic acid, bis[(trimethylsilyl)oxyl]-__PLS",6.807448880662109
 Boric acid__PLS,0.0
-Hydantoic acid__PLS,15.548527114975816
-"N,N-Diethyl-2-aminoethanol__PLS",212.06787220065777
-Pimelic acid__PLS,77.86343820903863
-5-Aminovaleric acid__PLS,0.512482522011723
-"6,7,4'-Trihydroxyisoflavone__PLS",428.801970488671
-Deoxycholic Acid__PLS,52.20340399411101
-"1,5-Anhydroglucitol__PLS",3.3723000793840225
-Phosalone__PLS,0.037037037037037035
-4-Hydroxyphenyllactic acid__PLS,0.19396551724137934
-Dodecanoic acid__PLS,0.24509601065353112
-"2-(2,5-Dimethoxy-phenyl)-propionaldehyde__PLS",8.829616917964104
-"3-Hydroxy-2,3-dihydromaltol__PLS",3.8832241959321716
-"2-Acetyl-3-(1-methyl-2-pyrrolyl)-1,4-benzenediol__PLS",0.7709321739392201
-Norketamine__PLS,0.0
-"2-Amino-4,6-dihydroxypyrimidine__PLS",0.0
+Hydantoic acid__PLS,51.25685982687176
+"N,N-Diethyl-2-aminoethanol__PLS",17.878918448026344
+Pimelic acid__PLS,111.97201717402079
+5-Aminovaleric acid__PLS,7.733828695637183
+"6,7,4'-Trihydroxyisoflavone__PLS",248.812632701783
+Deoxycholic Acid__PLS,41.42120202793906
+"1,5-Anhydroglucitol__PLS",3.6649513142539227
+Phosalone__PLS,4.713841269140178
+4-Hydroxyphenyllactic acid__PLS,0.28525339602925814
+Dodecanoic acid__PLS,0.14996152252488368
+"2-(2,5-Dimethoxy-phenyl)-propionaldehyde__PLS",7.984254702412597
+"3-Hydroxy-2,3-dihydromaltol__PLS",25.62079877810766
+"2-Acetyl-3-(1-methyl-2-pyrrolyl)-1,4-benzenediol__PLS",1.3693177655677657
+Norketamine__PLS,0.0625
+"2-Amino-4,6-dihydroxypyrimidine__PLS",0.028820116054158608
 12-Hydroxyoctadecanoic acid__PLS,0.0
-2-Aminoadipic acid__PLS,95.81728037326995
-Adipoyl-L-carnitine__PLS,21.438393474896728
-cyclobutanecarboxylic acid__PLS,0.9325789992349685
-Suberic acid__PLS,16.296582830069404
-2-Hexen-1-ol__PLS,0.0
-2-Hydroxy-3-methylbutyric acid__PLS,16.410807729310584
-"3-Buten-2-one, 4-(4-methoxyphenyl)-__PLS",0.3033611268905386
-5-(2-Aminopropyl)-2-methylphenol__PLS,49.80248383818548
-"2-Propenamide, 3-phenyl-N-2-propenyl-__PLS",679.3548425969555
+2-Aminoadipic acid__PLS,7.199208280797674
+Adipoyl-L-carnitine__PLS,24.389736884307474
+cyclobutanecarboxylic acid__PLS,44.96710965868896
+Suberic acid__PLS,26.54760729610737
+2-Hexen-1-ol__PLS,0.15438112476758903
+2-Hydroxy-3-methylbutyric acid__PLS,57.26238787561839
+"3-Buten-2-one, 4-(4-methoxyphenyl)-__PLS",5.540397417723125
+5-(2-Aminopropyl)-2-methylphenol__PLS,63.67024669809102
+"2-Propenamide, 3-phenyl-N-2-propenyl-__PLS",18.377342003139727
 L-Norleucine__PLS,0.0
-Arabinaric acid__PLS,0.26708719785349067
-Dimethyl fumarate__PLS,0.15314866212174288
-"2,5-di-tert-Butyl-1,4-benzoquinone__PLS",641.72594693161
+Arabinaric acid__PLS,107.55580498941639
+Dimethyl fumarate__PLS,0.02127659574468085
+"2,5-di-tert-Butyl-1,4-benzoquinone__PLS",17.61107646839524
 "2,5-Dimethoxybenzonitrile__PLS",0.0
-"Acetamide, N,N-diethyl-__PLS",16.53458707477085
-"N-isobutyl-2-(trimethylsilyloxy]-4,5-dihydro-1H-imidazole-1-carboxamide__PLS",0.0
-"7-Isoquinolinol, 1,2,3,4-tetrahydro-1-[(4-hydroxyphenyl)methyl]-6-methoxy-__PLS",0.09544159544159544
-Cinnamic acid__PLS,15.167460674683621
-"Tacrine, N-trimethylsilyl-__PLS",0.06971153846153846
-"Ethanamine, N,N-diethyl-2,2-dimethyl-2-[(3,5-dimethoxy)phenyl]-__PLS",0.05
-4-(Methoxycarbonyl)phenol__PLS,0.0
+"Acetamide, N,N-diethyl-__PLS",5.819787800754947
+"N-isobutyl-2-(trimethylsilyloxy]-4,5-dihydro-1H-imidazole-1-carboxamide__PLS",2.2192673001307344
+"7-Isoquinolinol, 1,2,3,4-tetrahydro-1-[(4-hydroxyphenyl)methyl]-6-methoxy-__PLS",0.0
+Cinnamic acid__PLS,1.1922025469865625
+"Tacrine, N-trimethylsilyl-__PLS",7.917025838973979
+"Ethanamine, N,N-diethyl-2,2-dimethyl-2-[(3,5-dimethoxy)phenyl]-__PLS",0.2026773274409881
+4-(Methoxycarbonyl)phenol__PLS,1.3008552430506528
 l-Histidine ethyl ester__PLS,0.0
-"Pentanedioic acid, 2-[(trimethylsilyl)oxy]-__PLS",0.20339912280701755
-9-Octadecenamide__PLS,0.6867323494296235
-Cyclo-(l-leucyl-l-phenylalanyl)__PLS,21.622385814100614
+"Pentanedioic acid, 2-[(trimethylsilyl)oxy]-__PLS",1.6690680059654361
+9-Octadecenamide__PLS,34.8302883905052
+Cyclo-(l-leucyl-l-phenylalanyl)__PLS,3.4120901654226805
 Citric acid__PLS,0.0
-Aspartic acid__PLS,0.7437833795713537
-Phenylalanine__PLS,4.814373958968177
-Eicosapentaenoic acid__PLS,0.03333333333333333
-"1,3-Dioxane-4-methanol, 4,5-dimethyl-__PLS",0.0
+Aspartic acid__PLS,2.7152357380290386
+Phenylalanine__PLS,3.905334429496919
+Eicosapentaenoic acid__PLS,0.25
+"1,3-Dioxane-4-methanol, 4,5-dimethyl-__PLS",0.11827320111013336
 "Pyrazine, 3,6-dihydro-3,6-dimethyl-__PLS",0.0
 "3,4-Dihydroxymandelic acid, ethyl ester__PLS",0.0
 "D-(-)-Ribofuranose, tetrakis__PLS",0.0
 Methyl alpha-Lyxofuranoside__PLS,0.0
 Xylose__PLS,0.0
-D-Mannose__PLS,1.2511633936400377
+D-Mannose__PLS,1.2453489091757781
 5-Ethyluracil__PLS,0.0
 "D-Erythro-Pentofuranose, 2-deoxy-1,3-bis-O-__PLS",0.0
-6-Hydroxyflavone-beta-D-glucoside__PLS,2.37355575276631
-Trimethylsilyl 3-((trimethylsilyl)thio)propanoate__PLS,0.047379032258064516
+6-Hydroxyflavone-beta-D-glucoside__PLS,2.7155859516705907
+Trimethylsilyl 3-((trimethylsilyl)thio)propanoate__PLS,0.5766450730568857
 Phthalazin-1-one__PLS,0.0
 Latanoprost lactone diol__PLS,0.0
 "O-Methyl-N,N'-diisopropylisourea__PLS",0.0
-Vanillylmandelic acid__PLS,0.09496106134761596
-"Morpholine, 4-[2,3,4,6-tetrakis-O-(trimethylsilyl)-alpha-d-mannopyranosyl]-__PLS",3.0431873408203876
+Vanillylmandelic acid__PLS,0.5435050756304829
+"Morpholine, 4-[2,3,4,6-tetrakis-O-(trimethylsilyl)-alpha-d-mannopyranosyl]-__PLS",197.07692178552628
 "2',2,3,6'-Tetramethoxychalcone__PLS",0.0
 N-(Trimethylsilyl)hexanamide__PLS,0.0
-"N,N-Dimethyl-2-cyclohexyloxyethylamine__PLS",8.342112005593714
+"N,N-Dimethyl-2-cyclohexyloxyethylamine__PLS",64.91143862897816
 Phenylpropanolamine__PLS,0.0
-Gln-Ala__PLS,0.0
+Gln-Ala__PLS,0.022222222222222223
 "Ribonic acid, 2,3,4,5-tetrakis-__PLS",0.0
 "Talonic acid, gamma-lactone__PLS",0.0
 "D-(-)-Lyxose, tetrakis__PLS",0.0
-Cope__CPX,2.46672932084711
-Spmip6__CPX,0.0
-Vps37d__CPX,1177.3934989135967
-Nedd4__CPX,244.93548581622937
-Wbp11__CPX,1142.5929509634589
-Usf3__CPX,1749.7464125995114
-Fn3krp__CPX,2188.706659159721
-Pak2__CPX,250.94584118524176
-Cebpz__CPX,251.3551482425059
-Kin__CPX,730.3213999616426
-Ibtk__CPX,1539.3238724702505
-Ctdspl2__CPX,270.60856427744875
-Pabpc1__CPX,319.6739521581093
-Kif2a__CPX,1318.1912981671073
-Arhgef12__CPX,415.2048644267046
-Arhgap5__CPX,1234.9514519934935
-Slk__CPX,792.9660291640596
-Cdkn1c__CPX,6072.559429177602
-Smim10l1__CPX,2801.567305250431
-Ap3b1__CPX,970.4713126443659
-Wasl__CPX,1731.3204734292715
-Gsk3b__CPX,185.21501781980336
-D630036H23Rik__CPX,250.22972318185657
-Pbx1__CPX,358.16090799449756
-Tulp4__CPX,666.8929794704034
-Wbp4__CPX,1096.6695235784782
-Vps13b__CPX,358.3402943503042
-Setx__CPX,1027.5338798886407
-Pcmtd1__CPX,358.70862424882046
-Mafg__CPX,1453.9320800102398
-B230219D22Rik__CPX,2084.116874551444
-Stag2__CPX,2834.3456218732686
-Phactr2__CPX,1550.5893684235216
-Fcho2__CPX,134.13943075337127
-Smarca5__CPX,2271.8578771903717
-Gtpbp4__CPX,5621.091235792565
-Vps36__CPX,126.248278397793
-Mob4__CPX,167.51725575228107
-Igfbp6__CPX,71.75406284255554
-Silc1__CPX,548.9124733969186
-Adcy9__CPX,80.03144511584587
-Gm43568__CPX,29.8648790441608
-Rdx__CPX,90.0105979831594
-Golm2__CPX,310.2738516660376
-Cnih2__CPX,79.95866124778159
-Osgepl1__CPX,144.86016973416977
-Atn1__CPX,2.003125687618943
-Map3k5__CPX,410.36685054974134
-Ptgr3__CPX,0.9203532460921151
-Serpinb8__CPX,451.93603050582175
-Gsta4__CPX,989.1010843354096
-Dnajc21__CPX,95.8527216978523
-Bhmt2__CPX,63.006355358637435
-Psma4__CPX,1461.1218104088887
-Prxl2c__CPX,706.1265243870847
-Asb8__CPX,3.7364320384502028
-Cep57__CPX,537.1998659229635
-Ofd1__CPX,127.05758870087456
-Efhb__CPX,612.5712921816366
-Vmp1__CPX,72.38809663543654
-Zfp1007__CPX,549.08157682268
-Srebf2__CPX,611.9401998705155
-Gpaa1__CPX,952.9495383052699
-Rhob__CPX,907.4642293056023
-Pi4ka__CPX,250.58963931835908
-Pja2__CPX,730.0563042385153
-Dync1h1__CPX,152.298738663553
-Tceal8__CPX,1.0102417849554206
-Kcmf1__CPX,240.34901067652441
-Cep78__CPX,131.40806657280513
-Apc2__CPX,417.14522666207273
-Mtpn__CPX,22.291344678971203
-Pthlh__CPX,33.68220081926731
-Plgrkt__CPX,174.89023446759785
-Dek__CPX,429.50862365868886
-Upf2__CPX,76.14283638982536
-Dnajc7__CPX,427.52513824969276
+Cope__CPX,444.64164277650264
+Spmip6__CPX,134.66450646886216
+Vps37d__CPX,89.7030233550111
+Nedd4__CPX,502.51398531503503
+Wbp11__CPX,879.4576248382044
+Usf3__CPX,704.01272424474
+Fn3krp__CPX,712.1408776854182
+Pak2__CPX,174.62128024690074
+Cebpz__CPX,703.8107777482539
+Kin__CPX,62.49058145165897
+Ibtk__CPX,3126.063862610102
+Ctdspl2__CPX,191.3275665880274
+Pabpc1__CPX,178.78257870868532
+Kif2a__CPX,651.0419820199121
+Arhgef12__CPX,747.5314266920853
+Arhgap5__CPX,585.18917868765
+Slk__CPX,586.13888219211
+Cdkn1c__CPX,2163.435128322097
+Smim10l1__CPX,2017.2937594611112
+Ap3b1__CPX,952.5059931127403
+Wasl__CPX,1043.8662294572407
+Gsk3b__CPX,133.02593572424766
+D630036H23Rik__CPX,69.73015578700125
+Pbx1__CPX,440.90046790820685
+Tulp4__CPX,534.4098877805935
+Wbp4__CPX,1151.018870280979
+Vps13b__CPX,159.28994502674067
+Setx__CPX,1047.539189605948
+Pcmtd1__CPX,833.646555882585
+Mafg__CPX,1705.1203516621433
+B230219D22Rik__CPX,339.8554048408857
+Stag2__CPX,2123.0904039732527
+Phactr2__CPX,1182.994445158825
+Fcho2__CPX,918.0380806214317
+Smarca5__CPX,1281.2554209083341
+Gtpbp4__CPX,4008.1517729420784
+Vps36__CPX,58.37076723365943
+Mob4__CPX,0.0
+Igfbp6__CPX,455.4269934454886
+Silc1__CPX,610.6596386588056
+Adcy9__CPX,2408.375217207945
+Gm43568__CPX,78.02259305559744
+Rdx__CPX,298.8825852089782
+Golm2__CPX,141.93066106868164
+Cnih2__CPX,525.6991534999466
+Osgepl1__CPX,2917.7369619678448
+Atn1__CPX,396.0457447519927
+Map3k5__CPX,211.99033198218038
+Ptgr3__CPX,4.105580384793585
+Serpinb8__CPX,378.99449667951194
+Gsta4__CPX,886.5244731554411
+Dnajc21__CPX,125.83875314350168
+Bhmt2__CPX,56.63746366402842
+Psma4__CPX,225.07121511979202
+Prxl2c__CPX,247.70521316530122
+Asb8__CPX,105.58258798526424
+Cep57__CPX,313.76733313020475
+Ofd1__CPX,432.8811183671394
+Efhb__CPX,14.488285238635747
+Vmp1__CPX,73.18911996044969
+Zfp1007__CPX,920.8432006233362
+Srebf2__CPX,291.8750073755086
+Gpaa1__CPX,2301.598462034407
+Rhob__CPX,1007.2650773734723
+Pi4ka__CPX,887.188607885555
+Pja2__CPX,236.91131083077315
+Dync1h1__CPX,466.62919466855953
+Tceal8__CPX,2.3773608172961733
+Kcmf1__CPX,1239.0673366144533
+Cep78__CPX,655.3979948568949
+Apc2__CPX,479.62325564157766
+Mtpn__CPX,273.02332026594456
+Pthlh__CPX,474.40479328126384
+Plgrkt__CPX,195.2710602605289
+Dek__CPX,953.813240277122
+Upf2__CPX,105.26866498077672
+Dnajc7__CPX,1532.281853577457
 4930550C14Rik__CPX,0.0
-Opa1__CPX,336.098015757339
-Jph1__CPX,101.94668366213641
-Lmtk3__CPX,23.00205765231625
-Cyyr1__CPX,1661.152995052155
-Fundc2__CPX,4.196133187275607
-Dhx9__CPX,364.9868853080657
-Nfe2l2__CPX,349.46637011171214
-Dynlt2b__CPX,1581.58215516836
-Gnas__CPX,286.36466939059784
-5430402O13Rik__CPX,8.031721995282266
-Pdlim5__CPX,235.00692734431993
-Lepr__CPX,430.28493629268485
-Osbp__CPX,326.4919444295009
-Klf3__CPX,132.70899368533765
-Ccdc148__CPX,195.65114843771246
-Mrps18a__CPX,206.36372309833354
-Stk26__CPX,466.6099031492227
-Iqgap2__CPX,553.9425945066794
-Ahcyl2__CPX,110.88803489389008
-Myof__CPX,4.4829462944612395
-Nsmf__CPX,50.8221484801426
-Serp2__CPX,345.7477581908159
-Rpp30__CPX,12337.95964738334
-Stxbp4__CPX,926.2948588674632
-Ankmy2__CPX,443.99999999998255
-Poglut1__CPX,47.02376505422106
-Grcc10__CPX,24.63955791884938
-4632415L05Rik__CPX,169.22721468765684
-Smarca2__CPX,870.7571234489533
-Gdpd3__CPX,2.6225040135185282
-Smim15__CPX,319.88486725495886
-Fgl2__CPX,3.377168230243742
-Pla2g3__CPX,500.4733897179503
-Strada__CPX,6.522531721782354
-Zkscan8__CPX,531.2976516380073
-Kpna4__CPX,155.81255926035624
-Sh3bgrl2__CPX,15.439003461909978
-Ube3c__CPX,108.06805651678015
-Chmp4c__CPX,53.55959298978234
-Baiap2l1__CPX,207.89308990481547
-Agbl3__CPX,1005.635433740661
-Sulf2__CPX,53.969926945126474
-Zbtb39__CPX,0.0
-Zfp975__CPX,1487.5957090306065
-1-Hexacosene__FEC,9.816147526998638
-Ppp1r12a__CPX,845.5187523721593
-Zbtb7a__CPX,3263.7456084116347
-Pebp4__CPX,0.5688663439489197
-Hmces__CPX,676.3888756889787
+Opa1__CPX,1233.565421014829
+Jph1__CPX,212.60038392823287
+Lmtk3__CPX,48.09070075420942
+Cyyr1__CPX,1588.4901760521616
+Fundc2__CPX,299.5479786513116
+Dhx9__CPX,147.53405884643868
+Nfe2l2__CPX,115.10917920336874
+Dynlt2b__CPX,2548.3668925525944
+Gnas__CPX,370.5639054313471
+5430402O13Rik__CPX,507.1973662603276
+Pdlim5__CPX,471.77170557716
+Lepr__CPX,138.33524492667985
+Osbp__CPX,362.87390361477765
+Klf3__CPX,257.19005940265254
+Ccdc148__CPX,192.77422088491144
+Mrps18a__CPX,18.475947440825145
+Stk26__CPX,340.74582992221
+Iqgap2__CPX,623.0560584127711
+Ahcyl2__CPX,68.81460026430398
+Myof__CPX,12.418999762972248
+Nsmf__CPX,1000.432819950116
+Serp2__CPX,3123.631688487195
+Rpp30__CPX,2756.488262483976
+Stxbp4__CPX,572.077491740322
+Ankmy2__CPX,0.0
+Poglut1__CPX,1197.0201497693108
+Grcc10__CPX,252.88204660712685
+4632415L05Rik__CPX,40.29650167042386
+Smarca2__CPX,520.383388789973
+Gdpd3__CPX,1.3446041788808545
+Smim15__CPX,55.22050797692515
+Fgl2__CPX,121.57618635996798
+Pla2g3__CPX,3.5812521284184298
+Strada__CPX,641.5773586451509
+Zkscan8__CPX,12.420151699399193
+Kpna4__CPX,274.5531954790615
+Sh3bgrl2__CPX,83.77756879175354
+Ube3c__CPX,1378.7896704790992
+Chmp4c__CPX,2.6730847292803817
+Baiap2l1__CPX,92.20126694218564
+Agbl3__CPX,63.49783955454307
+Sulf2__CPX,86.59851322538161
+Zbtb39__CPX,150.85052877414572
+Zfp975__CPX,855.4979419908872
+1-Hexacosene__FEC,5.555018592794889
+Ppp1r12a__CPX,459.1540529951347
+Zbtb7a__CPX,1403.0673622355127
+Pebp4__CPX,16.294029133347973
+Hmces__CPX,17.10293412737678
 Cpxm2__CPX,0.0
-Tm9sf3__CPX,669.7530511366178
-A930024E05Rik__CPX,18.767583918530104
-Zbtb37__CPX,250.52706240045248
-Gm15408__CPX,139.77409456880068
-Cspg5__CPX,23.098078992309496
-Cep41__CPX,585.2234797958074
-Wapl__CPX,959.5313603722904
-Fgfr1op2__CPX,589.7382569104414
-Aasdhppt__CPX,537.5590408389759
-Qser1__CPX,486.69033638205946
-H1f10__CPX,171.2260724205136
-Clec14a__CPX,387.16862444201473
-Ric3__CPX,1067.220913795064
-Gm6548__CPX,22.980900076573754
-Slc6a13__CPX,0.0
-Cerox1__CPX,0.5544188378053925
-Lrrc8c__CPX,15.010366645680275
-Dnajc13__CPX,56.25345943510901
-Irak1bp1__CPX,2660.5161676454445
-Slc25a20__CPX,47.61776656373
-Serbp1__CPX,711.9557168882908
-Hdac9__CPX,19.459382699421358
-Birc2__CPX,48.24253616096557
-Prpf6__CPX,323.24784039140684
-Rufy3__CPX,20.046087821150998
-Chi3l1__CPX,813.0153633349472
-Luzp1__CPX,146.23052147009395
-Slc35a3__CPX,4685.067500739102
-Bcl2l12__CPX,3.398645107635884
-Dcaf12l1__CPX,574.1012022934536
-Kmt5b__CPX,121.93111889528649
-Ptger1__CPX,0.6992416136617984
-mt-Tv__CPX,22.419955307676208
-mt-Tl1__CPX,134.0481186825116
-Mtap__CPX,371.68100463007096
-Ubl3__CPX,1592.7389494833
-Eef1a1__CPX,274.9868186625584
-Zfp322a__CPX,641.274819531915
-Evi5__CPX,381.1682731420202
-Sin3a__CPX,822.1606182799546
-Mpp7__CPX,928.5736054860593
-Sytl2__CPX,965.347012200773
-Kpna3__CPX,63.57573008934263
-Slain2__CPX,210.26974062946812
-Sec62__CPX,1188.0380977050877
-Chd5__CPX,0.46543282412847625
-Pura__CPX,935.9659828447645
-Nkapd1__CPX,530.4664251470264
-Fsbp__CPX,0.0
-Sc5d__CPX,0.0
-Recql5__CPX,5.117835489672515
-Gm25517__CPX,476.49015315129805
-Sox13__CPX,123.6758342745124
-Dnase1l1__CPX,207.74549572482815
-H2az2__CPX,379.6389117692029
-Zfp383__CPX,98.54427254717537
-Gm15083__CPX,4.922294298731906
-Col8a1__CPX,170.18667289135982
-Acox1__CPX,420.95618128424417
-Uqcc5__CPX,9.16124662942171
-Zfp27__CPX,15.532525776139165
-"1,4-Butanediol__FEC",48.246062668500876
-Usp9x__CPX,949.5528537441252
-Dhx36__CPX,170.32665387288216
-Camk1d__CPX,281.1510447870886
+Tm9sf3__CPX,338.741162306996
+A930024E05Rik__CPX,5.34671580714745
+Zbtb37__CPX,262.23437503056573
+Gm15408__CPX,383.90228676001374
+Cspg5__CPX,173.10770392351967
+Cep41__CPX,1090.794089491228
+Wapl__CPX,1127.716583322052
+Fgfr1op2__CPX,1431.5658353596316
+Aasdhppt__CPX,241.80978493648112
+Qser1__CPX,141.02417809132987
+H1f10__CPX,203.46678823092395
+Clec14a__CPX,116.60637167760463
+Ric3__CPX,1399.7134727103407
+Gm6548__CPX,105.71061233765401
+Slc6a13__CPX,59.70701326036266
+Cerox1__CPX,3.4354270495384682
+Lrrc8c__CPX,520.2229121663412
+Dnajc13__CPX,319.96659277054414
+Irak1bp1__CPX,571.4456136269323
+Slc25a20__CPX,20.707323071798637
+Serbp1__CPX,455.6071037145563
+Hdac9__CPX,33.820435987862844
+Birc2__CPX,74.10226525685016
+Prpf6__CPX,1015.3478716202759
+Rufy3__CPX,524.3445237444064
+Chi3l1__CPX,247.97006940169757
+Luzp1__CPX,222.6372909943132
+Slc35a3__CPX,4489.0484337690295
+Bcl2l12__CPX,3.8807401171608285
+Dcaf12l1__CPX,533.097947352379
+Kmt5b__CPX,253.60697990537315
+Ptger1__CPX,158.1281728697768
+mt-Tv__CPX,86.33278687226769
+mt-Tl1__CPX,163.7017867660158
+Mtap__CPX,397.03395309879994
+Ubl3__CPX,1742.9691560645608
+Eef1a1__CPX,236.9000149358345
+Zfp322a__CPX,1474.3138385526474
+Evi5__CPX,1418.2092528509993
+Sin3a__CPX,383.0503143197034
+Mpp7__CPX,5265.192008692037
+Sytl2__CPX,1697.319334018698
+Kpna3__CPX,506.47095029038707
+Slain2__CPX,299.62456323418166
+Sec62__CPX,1282.6615077422953
+Chd5__CPX,0.9049870321344341
+Pura__CPX,2064.6666408050514
+Nkapd1__CPX,287.05790225954087
+Fsbp__CPX,162.66560267094567
+Sc5d__CPX,493.7282645974479
+Recql5__CPX,825.6716492494166
+Gm25517__CPX,1403.2914574885701
+Sox13__CPX,17.34302681910996
+Dnase1l1__CPX,393.04028804646566
+H2az2__CPX,164.66411377254082
+Zfp383__CPX,76.63183418671218
+Gm15083__CPX,44.63013403696093
+Col8a1__CPX,282.3675634495176
+Acox1__CPX,187.68812325105336
+Uqcc5__CPX,128.01156952114758
+Zfp27__CPX,39.5835084412431
+"1,4-Butanediol__FEC",120.46797628277824
+Usp9x__CPX,424.62776897395275
+Dhx36__CPX,427.73766609316675
+Camk1d__CPX,357.04371009149105
 Wdr38__CPX,0.0
-Gm42636__CPX,736.5852725709198
-D-Ribose__FEC,20.03019260409045
-Csnk1a1__CPX,1114.8031191486943
-Rpn2__CPX,728.2650266599267
-Gm43339__CPX,1041.7033508100153
-Cmtm8__CPX,1108.8245654478674
-Tmem204__CPX,42.11958276651156
-Samd14__CPX,133.6456602746382
-5330425B07Rik__CPX,0.7805790818041269
-Klf8__CPX,199.02096133849153
-Ccdc59__CPX,39.29311072570577
-Limch1__CPX,6.624364004788763
-Ergic2__CPX,378.0171492874487
-Bcat1__CPX,121.63350074344834
-Xpc__CPX,18.087055153141453
-Gm15675__CPX,27.64661787043967
-Atp5mg__CPX,528.7504905031716
-2310014F06Rik__CPX,248.57007967865962
-Hmga1__CPX,132.7694372553519
-Slc11a2__CPX,0.0
-Mfge8__CPX,348.22170254857866
-Atp7a__CPX,36.296241325191176
-Ifi30__CPX,9.713742849711796
-Ankrd12__CPX,1024.7466729556536
-Ildr2__CPX,1063.0428514830794
-Ppfibp1__CPX,49.88439475351876
-Ddit4__CPX,18.690430958249024
-Rai14__CPX,0.05979437229437229
-Actr3__CPX,639.1555749934244
-Rbm20__CPX,0.0
-Hook2__CPX,1754.3598617670689
-Suclg2__CPX,469.30139066436544
-St8sia2__CPX,664.4750302175532
+Gm42636__CPX,723.3019242160342
+D-Ribose__FEC,49.52951681743728
+Csnk1a1__CPX,403.64540829780367
+Rpn2__CPX,890.5661425439683
+Gm43339__CPX,385.070536693415
+Cmtm8__CPX,1172.2460452535256
+Tmem204__CPX,757.8163390131664
+Samd14__CPX,147.9795046773266
+5330425B07Rik__CPX,1.5712050975577851
+Klf8__CPX,479.4583024987021
+Ccdc59__CPX,56.68060013182191
+Limch1__CPX,55.01100129757229
+Ergic2__CPX,278.8317377135189
+Bcat1__CPX,248.83852077699257
+Xpc__CPX,172.9965862084386
+Gm15675__CPX,674.8499522703809
+Atp5mg__CPX,226.8582821795794
+2310014F06Rik__CPX,493.5888494117462
+Hmga1__CPX,5.359215837353889
+Slc11a2__CPX,216.5649865155412
+Mfge8__CPX,665.9946769993115
+Atp7a__CPX,21.889279256340345
+Ifi30__CPX,21.543504991101987
+Ankrd12__CPX,740.2975137910996
+Ildr2__CPX,475.3943584330474
+Ppfibp1__CPX,889.324016960583
+Ddit4__CPX,244.2726247432896
+Rai14__CPX,1685.278604146313
+Actr3__CPX,240.8921088772243
+Rbm20__CPX,225.96273516839705
+Hook2__CPX,435.21201783565607
+Suclg2__CPX,436.64212435242666
+St8sia2__CPX,246.84982579673652
 Gm38037__CPX,0.0
-Cdc14a__CPX,19.306310053025957
-Secisbp2l__CPX,2890.504481396166
-Lrp6__CPX,320.5163982489267
-Casp8__CPX,119.35417087248395
-Leprotl1__CPX,76.65940004679912
-Por__CPX,18.127342231855934
-Maco1__CPX,43.92190112230867
-Pomgnt1__CPX,241.02291026128273
-Pcgf5__CPX,693.7620494702343
-Ess2__CPX,613.9380402577535
-Fchsd2__CPX,46.06542172160209
-Heatr3__CPX,45.5284263185956
-Abitram__CPX,360.20483122659283
-Galnt15__CPX,30.027192724712478
-Col9a2__CPX,0.0
-Nod1__CPX,203.0297113572391
-Rpl18a__CPX,8.210594405357831
-Map3k8__CPX,6.205546885532316
-Dync2li1__CPX,2674.950963271449
-Rlbp1__CPX,465.79134988320885
-Vasp__CPX,10.74596541401791
-Grpel1__CPX,50.42712744185508
-Alkbh6__CPX,0.3333333333333333
-"1,3-Dioxane, 2,2-dimethyl-5-hydroxy-__FEC",355.76633114829525
-Zfp638__CPX,413.94597683483545
-Gm14798__CPX,372.4464866231642
-Acad9__CPX,8.397752402108972
-Klc1__CPX,11.165923385640209
-Magix__CPX,68.27347211526937
-Asb16__CPX,0.0
-Klhl18__CPX,12.883025085426445
-Eif3l__CPX,0.0
-Kcnk5__CPX,662.2406704657204
-Cox18__CPX,13.86049363368396
-Zhx1__CPX,551.8168336461771
-Cebpd__CPX,120.71931804850517
-Twsg1__CPX,228.2287775913452
-Repin1__CPX,226.18366286665227
-Tmem229b__CPX,425.36577723956947
+Cdc14a__CPX,67.19845704769706
+Secisbp2l__CPX,40.44296171313538
+Lrp6__CPX,295.41940986966085
+Casp8__CPX,501.00898013194836
+Leprotl1__CPX,566.5354592740227
+Por__CPX,729.6428688506103
+Maco1__CPX,55.2675808433988
+Pomgnt1__CPX,733.4133204882339
+Pcgf5__CPX,380.5226134086575
+Ess2__CPX,0.0
+Fchsd2__CPX,307.2313457842151
+Heatr3__CPX,176.97364779934205
+Abitram__CPX,32.48820433931017
+Galnt15__CPX,0.0
+Col9a2__CPX,223.00000000000247
+Nod1__CPX,223.00000000000247
+Rpl18a__CPX,15.94915410259649
+Map3k8__CPX,1372.7856815540558
+Dync2li1__CPX,1236.3260469949564
+Rlbp1__CPX,21.290933641908826
+Vasp__CPX,12.409690985462742
+Grpel1__CPX,237.79834241290044
+Alkbh6__CPX,235.59854918986642
+"1,3-Dioxane, 2,2-dimethyl-5-hydroxy-__FEC",64.79441661396783
+Zfp638__CPX,3096.099915226007
+Gm14798__CPX,71.6575887012118
+Acad9__CPX,66.72051488087693
+Klc1__CPX,16.898976045993237
+Magix__CPX,31.276450582995658
+Asb16__CPX,222.9999999999973
+Klhl18__CPX,77.69898767975855
+Eif3l__CPX,8.273423798423796
+Kcnk5__CPX,177.0649328322659
+Cox18__CPX,2.5233483489166075
+Zhx1__CPX,328.0714687531085
+Cebpd__CPX,127.36550699841739
+Twsg1__CPX,0.4114487172248518
+Repin1__CPX,117.35427533379102
+Tmem229b__CPX,87.37503217941067
 Ncbp2__CPX,0.0
-Hip1__CPX,400.8761076096332
-Erbin__CPX,335.73683503580196
-Ano8__CPX,21.338518797958077
-Rbm27__CPX,108.26203249065865
-Meis2__CPX,0.0
-Olfm2__CPX,325.1979539909489
-Fam13b__CPX,562.9216086482913
-Sppl3__CPX,549.2188801088711
-Dctn2__CPX,1479.238917855544
-Usp22__CPX,0.022072297184740963
-Ncaph2__CPX,233.56478854259177
-Slc29a4__CPX,374.0546437726539
-Hlf__CPX,457.12632256393476
-G2e3__CPX,7.143911105180764
-Cep290__CPX,140.8161494453103
-Mia2__CPX,40.63083983510098
-Cast__CPX,1896.7298788033315
-Sh2b3__CPX,1045.289246854512
-Emd__CPX,111.96545949270944
-Aox3__CPX,206.8623502743351
+Hip1__CPX,1364.8295458650882
+Erbin__CPX,1027.2937784950245
+Ano8__CPX,74.32267094822116
+Rbm27__CPX,259.47192292728266
+Meis2__CPX,222.99999999999815
+Olfm2__CPX,1468.276997776686
+Fam13b__CPX,1759.3517810227027
+Sppl3__CPX,541.5390454515135
+Dctn2__CPX,110.63239100270154
+Usp22__CPX,1.2831419423178776
+Ncaph2__CPX,531.1535337534307
+Slc29a4__CPX,15.611241071505443
+Hlf__CPX,330.3342885004626
+G2e3__CPX,5.833653873686012
+Cep290__CPX,75.38504156718896
+Mia2__CPX,111.07570244085807
+Cast__CPX,463.25905564667755
+Sh2b3__CPX,966.6472303451807
+Emd__CPX,262.48498114579706
+Aox3__CPX,87.76814738223726
 Gpsm3__CPX,0.0
-Ehd1__CPX,881.1236068511467
-Npas3__CPX,6.591415168545738
-Xaf1__CPX,444.00000000000495
-Enpp5__CPX,243.71031951914802
-Col5a3__CPX,0.09412304866850321
-Abtb2__CPX,0.0
-Btg1__CPX,1031.9437081884178
-Smpdl3b__CPX,0.8609090909090911
-Sp4__CPX,1716.4214608400548
-2610020C07Rik__CPX,390.12432880506725
-Sema3g__CPX,23.909844267501263
-Vangl1__CPX,76.53916016606924
-Cntn1__CPX,173.72177301687213
-Hspa1b__CPX,14.506845692582262
-1700125H03Rik__CPX,67.03701927562359
-Hcn3__CPX,0.008403361344537815
-Foxk2__CPX,0.0
-Adamts15__CPX,2.702674587989656
-Ramac__CPX,76.9254985890225
-Fam98b__CPX,1.4638100527210327
-Zfp36l2__CPX,45.59471939962813
-Arhgap15__CPX,45.68506610886851
-Yars1__CPX,33.404285952818995
-Flvcr1__CPX,0.3333333333333333
-Cbarp__CPX,5.391043944583651
-Ccdc33__CPX,14.124409351299576
-Hmmr__CPX,35.982574980828645
-Tmem259__CPX,886.3145603407687
-Ptges2__CPX,683.6290291167937
-Rab5a__CPX,280.8589962857156
-Clcn2__CPX,37.82114025781192
-Nup214__CPX,0.0
-Aqp11__CPX,45.86872501502628
-Fer__CPX,388.9372169688103
-Slc16a7__CPX,311.5068513109149
-Irak3__CPX,35.48728602452339
-Zmat5__CPX,0.9276315789473684
+Ehd1__CPX,593.3857667628122
+Npas3__CPX,2.9396537309858624
+Xaf1__CPX,222.99999999999847
+Enpp5__CPX,339.6081138114594
+Col5a3__CPX,2.00625
+Abtb2__CPX,96.62004261428608
+Btg1__CPX,798.8706397426294
+Smpdl3b__CPX,141.21090068035514
+Sp4__CPX,305.76126918337104
+2610020C07Rik__CPX,2.529380834219544
+Sema3g__CPX,245.7941888741
+Vangl1__CPX,873.632555920716
+Cntn1__CPX,126.90362753003691
+Hspa1b__CPX,0.0
+1700125H03Rik__CPX,715.6649076669564
+Hcn3__CPX,509.58478110693113
+Foxk2__CPX,4.81435742344382
+Adamts15__CPX,11.015782926194136
+Ramac__CPX,65.27287720960344
+Fam98b__CPX,6.916691828685786
+Zfp36l2__CPX,196.88475576929386
+Arhgap15__CPX,0.6114285714285714
+Yars1__CPX,82.0917288975104
+Flvcr1__CPX,502.1489996952874
+Cbarp__CPX,323.86582610772746
+Ccdc33__CPX,5.856639319148421
+Hmmr__CPX,0.0
+Tmem259__CPX,1201.7229349829447
+Ptges2__CPX,652.8208930156028
+Rab5a__CPX,407.12918279680605
+Clcn2__CPX,1350.0516245474632
+Nup214__CPX,245.44851214128514
+Aqp11__CPX,983.313731244685
+Fer__CPX,343.176562634127
+Slc16a7__CPX,37.60398059031087
+Irak3__CPX,130.63608584732563
+Zmat5__CPX,222.9999999999989
 Fam167b__CPX,0.0
-Pdss1__CPX,15.880868388665661
+Pdss1__CPX,0.03320176573435736
 Zfp513__CPX,0.0
-Ndufs3__CPX,33.24617167754247
-Plekhn1__CPX,12.398233034390435
-Krt23__CPX,0.0
-Stat3__CPX,0.2926470588235294
-Nek8__CPX,45.7552011403852
-Armcx2__CPX,34.96445312253043
-Kat8__CPX,0.0
-Rit1__CPX,0.0
-Zfp358__CPX,88.98922098516267
-Gm5141__CPX,78.75285432055615
-Amfr__CPX,90.38069980861117
-Fance__CPX,269.76491343123706
-Afg3l1__CPX,292.11329886078687
-Slc25a16__CPX,41.5641538460829
-Acacb__CPX,86.94268918434608
-Mpi__CPX,11.397499684388274
-Fndc3a__CPX,592.4522309466616
-Ruvbl1__CPX,89.42344583811311
-Cltb__CPX,346.7547900783892
-Scp2-ps2__CPX,484.2177888300329
-Ifih1__CPX,139.82407039564185
-Nfyb__CPX,2832.192146421426
-Adck2__CPX,341.5289795928365
-"D-Erythro-Pentofuranose, 2-deoxy-1,3-bis-O-posphate__FEC",7.63426773407021
-Dok1__CPX,615.9129436496149
-Mtmr2__CPX,4.433133497259541
-C130089K02Rik__CPX,7.341811647472024
-Ada__CPX,4.526937782348199
-Fzr1__CPX,27.37676191293354
-Ndn__CPX,23.63639522349517
-Hsdl2__CPX,34.258098321674204
+Ndufs3__CPX,235.4396555880176
+Plekhn1__CPX,0.3796157059314954
+Krt23__CPX,223.0000000000015
+Stat3__CPX,73.83404839753821
+Nek8__CPX,438.32882859755506
+Armcx2__CPX,22.158459230939137
+Kat8__CPX,519.5278384316097
+Rit1__CPX,138.6655847742389
+Zfp358__CPX,89.62241449057016
+Gm5141__CPX,473.25128476898817
+Amfr__CPX,313.92826600080207
+Fance__CPX,66.21657079060628
+Afg3l1__CPX,220.95341198041694
+Slc25a16__CPX,477.6294428537583
+Acacb__CPX,308.03040877022113
+Mpi__CPX,151.99650529767825
+Fndc3a__CPX,845.4295219926784
+Ruvbl1__CPX,993.1414894363903
+Cltb__CPX,109.01433814610286
+Scp2-ps2__CPX,55.742498135449445
+Ifih1__CPX,68.96111617658507
+Nfyb__CPX,3917.7101875212843
+Adck2__CPX,591.5388188385991
+"D-Erythro-Pentofuranose, 2-deoxy-1,3-bis-O-posphate__FEC",29.116455795819167
+Dok1__CPX,146.63593883047957
+Mtmr2__CPX,79.8197819177773
+C130089K02Rik__CPX,1.2666666666666666
+Ada__CPX,279.1181395646715
+Fzr1__CPX,2.518908386457327
+Ndn__CPX,363.1003838772649
+Hsdl2__CPX,53.66974121876074
 Lrp2bp__CPX,0.0
-Gm15587__CPX,110.93504040764432
-Dcp2__CPX,9.206375474629203
-Cul7__CPX,92.64082260112082
-Rassf4__CPX,615.3964149508032
-Dr1__CPX,1.0988769408598391
-Ppp4c__CPX,144.54000635495876
+Gm15587__CPX,197.57745876122647
+Dcp2__CPX,2.5800157266525554
+Cul7__CPX,0.0
+Rassf4__CPX,619.7692885220926
+Dr1__CPX,9.352831803592332
+Ppp4c__CPX,37.647870232686515
 Mkrn3__CPX,0.0
-Lama1__CPX,0.0
-Eeig1__CPX,111.15462399160744
-Ints11__CPX,8.52565933056154
-Itch__CPX,506.43940040197515
-Reep2__CPX,0.39510006122909347
-Emc3__CPX,75.37585354198096
-"1-Propanamine, N,N-diethyl-__FEC",0.0
-Ubc__CPX,1389.9702997501247
-Dync2i2__CPX,0.0
+Lama1__CPX,193.72573366345625
+Spen__CPX,611.0000000000051
+Phloroglucinol__FEC,0.0
+Eeig1__CPX,266.5811378681018
+Ints11__CPX,331.02393952729625
+Itch__CPX,794.1098921097288
+Reep2__CPX,223.06305418719236
+Emc3__CPX,303.1262943777786
+"1-Propanamine, N,N-diethyl-__FEC",0.765262377078044
+Ubc__CPX,2201.784564197126
+Dync2i2__CPX,778.9203745210119
 Dennd2c__CPX,0.0
-Sncg__CPX,135.43862763571212
-Arl2bp__CPX,35.36139868776464
-Nop16__CPX,0.0
+Sncg__CPX,749.8674922221388
+Arl2bp__CPX,1.5090133929106577
+Nop16__CPX,781.436076179683
 Isonicotinic Acid__FEC,0.0
-Nsg2__CPX,968.7138171469682
-Ap3s2__CPX,137.18396090231508
-Ccpg1__CPX,142.4619966228978
-Cstf2__CPX,366.4545029547056
-Zfp300__CPX,0.36606400594311417
-Sema6a__CPX,0.0
-Id1__CPX,149.7138740800004
-Scrib__CPX,722.0161200773456
-Foxc2__CPX,1.8426060126323316
-Dynll1__CPX,501.29488250709784
-Mrps5__CPX,221.99999999999903
-Josd1__CPX,79.77655239651294
-Shc1__CPX,488.77214068267205
-Trappc14__CPX,262.66381209988714
-Agrn__CPX,283.91350074399486
-Ube2m__CPX,1.0735643686023741
-Tppp3__CPX,39.002347809905984
-Nt5m__CPX,16.006494646698776
-Slc44a1__CPX,0.0
-Mcfd2__CPX,10.612825820686613
-Tmem62__CPX,0.0
-Irf3__CPX,0.0
-Ndfip1__CPX,45.30031397699997
-Pkn2__CPX,1987.111502852841
-Bclaf1__CPX,82.87060290753472
-mt-Nd2__CPX,190.63747185074615
-Rock1__CPX,1334.3656593534404
-Eea1__CPX,354.5220341227367
-Snrnp48__CPX,340.76585981134434
-Ylpm1__CPX,323.33848442749417
-Krcc1__CPX,85.50822503543807
-Psip1__CPX,146.15393703549478
-Sntb2__CPX,342.8245066313217
-Ccdc88a__CPX,170.19377759340915
-Arid4a__CPX,75.47931773274742
-Tmem161b__CPX,880.2545411879363
-Tpr__CPX,667.0563761852532
-Frg1__CPX,317.1183827685285
-Clpp__CPX,75.00409471840135
-Fhad1__CPX,634.9275236128032
-Baz1b__CPX,26.581422101645938
-Rad50__CPX,197.1593361243139
-Rif1__CPX,15.298766068432286
-Kif21a__CPX,76.89821536184357
-Atf6b__CPX,663.1403606176165
-Cd47__CPX,16.096193196157145
-Psmd3__CPX,124.01113137502153
-Rpl37__CPX,46.889796807512234
-Ndufa8__CPX,166.87421399352695
-Dlg4__CPX,945.9068423990881
-Rab11fip5__CPX,5.173467681080198
-Btbd2__CPX,65.26971623560969
-Pawr__CPX,492.35003025646375
-Thyn1__CPX,74.13021063289403
-Pdap1__CPX,685.3499673500903
-Smc6__CPX,184.9185261565455
-Nipbl__CPX,153.71802676763744
-Phf3__CPX,351.0135653215061
-Ash1l__CPX,285.3077889516237
-Mtor__CPX,0.6581265801094782
-Camsap2__CPX,0.6581265801094782
-Dhx29__CPX,31.75246031921611
-Sh3bgrl__CPX,178.52154289023866
-Slc22a17__CPX,2145.8456122754105
-Map9__CPX,87.63963720774845
-Ap2b1__CPX,146.07865542193474
-Eif3g__CPX,79.31957484229578
-Top1__CPX,174.40927175247083
-Cct4__CPX,2.317137110720654
-Ccdc186__CPX,2443.744430345368
-Sptan1__CPX,142.83175637784512
-Exph5__CPX,50.546433684615465
+Nsg2__CPX,822.9832927862511
+Ap3s2__CPX,102.7107214977082
+Ccpg1__CPX,1069.759472827735
+Cstf2__CPX,76.06671809038264
+Zfp300__CPX,24.758124362865424
+Sema6a__CPX,324.74964022050005
+Id1__CPX,93.83689384245253
+Scrib__CPX,184.33691574854558
+Foxc2__CPX,6.888723247263301
+Dynll1__CPX,731.7553597595671
+Mrps5__CPX,0.34839172957318526
+Josd1__CPX,6.824762366569151
+Shc1__CPX,188.3725905869683
+Trappc14__CPX,9.375324856943946
+Agrn__CPX,5.47970620939509
+Ube2m__CPX,37.48499816673214
+Tppp3__CPX,254.46744239786636
+Nt5m__CPX,179.41803098385273
+Slc44a1__CPX,0.40058842696413854
+Mcfd2__CPX,95.25632821658087
+Tmem62__CPX,275.2153091983015
+Irf3__CPX,8.996600659556048
+Ndfip1__CPX,303.72897792733414
+Pkn2__CPX,250.58952834368336
+Bclaf1__CPX,462.5715041176487
+mt-Nd2__CPX,654.81307614223
+Rock1__CPX,281.75723168289755
+Eea1__CPX,484.86667878756197
+Snrnp48__CPX,150.35924808100708
+Ylpm1__CPX,219.91862025866794
+Krcc1__CPX,180.1811921014518
+Psip1__CPX,38.60783709824127
+Sntb2__CPX,303.6006653733954
+Ccdc88a__CPX,331.6722665338255
+Arid4a__CPX,121.7319643067525
+Tmem161b__CPX,157.5065998817974
+Tpr__CPX,151.0653832605814
+Frg1__CPX,110.77633291516328
+Clpp__CPX,12.316354517547634
+Fhad1__CPX,373.7902247733771
+Baz1b__CPX,21.3248990955295
+Rad50__CPX,273.05538749464324
+Rif1__CPX,201.3116324242116
+Kif21a__CPX,115.78064768005295
+Atf6b__CPX,395.4452138138254
+Cd47__CPX,20.476856773660046
+Psmd3__CPX,125.04246133733332
+Rpl37__CPX,185.0570285076238
+Ndufa8__CPX,213.87469007249436
+Dlg4__CPX,222.19514212024424
+Rab11fip5__CPX,4.842024722638467
+Btbd2__CPX,255.80921092591674
+Pawr__CPX,179.52908789466946
+Thyn1__CPX,39.82233486664327
+Pdap1__CPX,498.2689552363977
+Smc6__CPX,493.8206763320511
+Nipbl__CPX,548.0321396526416
+Phf3__CPX,213.13404254599624
+Ash1l__CPX,279.8678353853946
+Mtor__CPX,0.28848684210526315
+Camsap2__CPX,0.28848684210526315
+Dhx29__CPX,12.109823554999275
+Sh3bgrl__CPX,103.35186093563794
+Slc22a17__CPX,1033.6820970995154
+Map9__CPX,146.7966779477721
+Ap2b1__CPX,353.69722735651425
+Eif3g__CPX,531.9855524652712
+Top1__CPX,225.78517723443468
+Cct4__CPX,12.759643425111252
+Ccdc186__CPX,80.58148756963108
+Sptan1__CPX,74.55717960290244
+Exph5__CPX,23.62670510403849
 Tet1__CPX,0.0
-Errfi1__CPX,0.0
-Dap3__CPX,0.0014388489208633094
-Bcl7a__CPX,69.50857088072004
+Errfi1__CPX,29.310143679698555
+Dap3__CPX,0.0
+Bcl7a__CPX,81.21816393324491
 Morn4__CPX,0.0
-Nicol1__CPX,102.37159965360826
-Slc2a2__CPX,4.048282278353349
-Lrrc8a__CPX,223.2375250283753
-Tspan9__CPX,9.280005479488494
-Snora35__CPX,4.924748214510639
-Smc4__CPX,45.68025639225968
-Scyl1__CPX,15.993166771296075
-Lpgat1__CPX,57.644402620460205
-Rplp1__CPX,61.78582842523503
-Adam15__CPX,167.82337202923168
-Eif3h__CPX,115.76342350528678
-Hk1__CPX,171.10103537242992
-Tkt__CPX,26.72960593613707
-Tada1__CPX,10.908122149651119
-Guk1__CPX,4.8002440688781025
-Atp6v1f__CPX,8.540182741503173
-Gpr162__CPX,95.18341424940002
-Rab5c__CPX,35.75524939966142
-Ilvbl__CPX,644.8040153018802
-Ptk2b__CPX,954.7689841533906
-Tmem184c__CPX,64.78929768290548
-Rad54l2__CPX,57.2478088514352
-Pfn1__CPX,68.6938279104833
-Mef2a__CPX,313.2168816242241
-Fcf1__CPX,1.2423016007655368
-Lrrc17__CPX,259.1390142194547
+Nicol1__CPX,117.10266260658055
+Slc2a2__CPX,41.186574258636874
+Lrrc8a__CPX,424.8976476504927
+Tspan9__CPX,64.27817567705303
+Snora35__CPX,56.13156277904709
+Smc4__CPX,212.80295622523613
+Scyl1__CPX,54.77226341473707
+Lpgat1__CPX,124.83582484769991
+Rplp1__CPX,16.764048090150215
+Adam15__CPX,263.68599339900584
+Eif3h__CPX,129.04547703630328
+Hk1__CPX,316.5101608050633
+Tkt__CPX,375.3667374909203
+Tada1__CPX,221.84004711330067
+Guk1__CPX,11.727357427232873
+Atp6v1f__CPX,15.732946409720029
+Gpr162__CPX,5.157412516020522
+Rab5c__CPX,15.890686681140341
+Ilvbl__CPX,72.30062810190762
+Ptk2b__CPX,657.6521419186818
+Tmem184c__CPX,83.45162050285805
+Rad54l2__CPX,123.03725361329607
+Pfn1__CPX,206.52608148874978
+Mef2a__CPX,22.989747989695807
+Fcf1__CPX,176.39831031029738
+Lrrc17__CPX,158.08220077542578
 Ctr9__CPX,0.0
-Mtrex__CPX,2.8714765000718994
-Src__CPX,0.0
-St6galnac4__CPX,13.899882328538839
-Ttf1__CPX,35.518216307154894
-Shb__CPX,0.07972951054201771
-Arrdc4__CPX,51.12664420255781
-1110004F10Rik__CPX,274.6430939896221
-Ro60__CPX,69.6516438376174
-4930556M19Rik__CPX,682.6554253618564
-Npepps__CPX,801.2171490428497
-Pten__CPX,218.21210492037244
-Tagln2__CPX,12.098847950276436
-Sufu__CPX,0.9896796374504939
+Mtrex__CPX,16.90654783894732
+Src__CPX,0.15493159531536277
+St6galnac4__CPX,177.74382240323055
+Ttf1__CPX,490.98040400016055
+Shb__CPX,0.22141634461196233
+Arrdc4__CPX,257.380562565185
+1110004F10Rik__CPX,127.80920287199338
+Ro60__CPX,32.3439595102437
+4930556M19Rik__CPX,88.32769989527917
+Npepps__CPX,462.5148768686685
+Pten__CPX,32.951755420804
+Tagln2__CPX,12.854899144465042
+Sufu__CPX,0.3066152364336762
 Arid2__CPX,0.0
-Tatdn2__CPX,1867.9987077713104
+Tatdn2__CPX,88.62243458605845
 Zfp879__CPX,0.0
-Kras__CPX,551.9064353564223
-Papss1__CPX,130.3425980400018
-Gas6__CPX,54.459139462241204
-Tceanc__CPX,47.179288778357694
-Pqbp1__CPX,0.4559803014637862
-Cog8__CPX,233.08961143600027
-Inpp5a__CPX,0.26155119382091263
-Slc25a13__CPX,88.63477060367137
-UNKNOWN__CPX,39.431025381554136
-Cep95__CPX,14.754247678668337
-Plcb4__CPX,253.94209971393371
-Nol8__CPX,20.18454196843209
-Dstn__CPX,93.95306117291685
-Zic2__CPX,5.942258390146492
-Fxr1__CPX,141.56417380438506
-Gxylt1__CPX,3.689894759202722
-Mansc4__CPX,50.27892189087104
-Setbp1__CPX,1031.1406060283525
-Ube2q2__CPX,449.74881256821425
-Shoc2__CPX,911.6258934259986
-4930412C18Rik__CPX,916.0559700190469
-Mrpl28__CPX,862.8407578240726
-Hdgfl3__CPX,2.666666666666667
-Gm38380__CPX,31.665093847855385
-Net1__CPX,157.9795863159879
-Cfap46__CPX,0.0
-Tmem167__CPX,0.24873452572389473
-Rora__CPX,327.67106661832497
-4921504A21Rik__CPX,46.449627342162536
-Suz12__CPX,369.7622941996615
-Ccdc18__CPX,315.87899968733205
-Brd4__CPX,7.208794584672302
-Ccar1__CPX,188.43613911120093
-Prkaca__CPX,95.19876762618162
-Bhlhe41__CPX,255.03045749924294
-Acbd4__CPX,91.96645134389748
-Tmem203__CPX,0.060889145823205024
-Msh2__CPX,0.39205169690686825
-Pycr2__CPX,460.9016671118543
-Scg5__CPX,74.63438147497926
-Ddb1__CPX,5.305304728220885
-Igfbp2__CPX,85.30154845056003
-Zfp219__CPX,0.7301132401751598
-Crygn__CPX,145.96896166606672
-Ccnd1__CPX,749.8045594121984
-Thra__CPX,776.4182742109524
-Zfp768__CPX,390.7089055249044
-Ganab__CPX,368.38775075779284
-Wrn__CPX,12.28225795571385
-Dusp1__CPX,0.0
-Mterf4__CPX,107.31295853939775
-Mfsd2a__CPX,18.991364778503875
-Mtf1__CPX,1.2096648449589626
-Dlgap4__CPX,9.944730705059241
-Ilkap__CPX,0.0
-Rnasel__CPX,490.4597411735987
+Kras__CPX,36.63664469004277
+Papss1__CPX,0.0
+Gas6__CPX,601.59466916011
+Tceanc__CPX,0.0
+Pqbp1__CPX,7.845043960084272
+Cog8__CPX,265.05884041330984
+Inpp5a__CPX,446.0158730158654
+Slc25a13__CPX,913.175984443668
+UNKNOWN__CPX,309.38162189658993
+Cep95__CPX,42.46140921776972
+Plcb4__CPX,15.308392338470286
+Nol8__CPX,6.218999623310944
+Dstn__CPX,112.38536026835303
+Zic2__CPX,6.279536484910475
+Fxr1__CPX,172.54555865903538
+Gxylt1__CPX,107.76627265504636
+Mansc4__CPX,151.63506919053776
+Setbp1__CPX,19.350230993938737
+Ube2q2__CPX,73.5650221923557
+Shoc2__CPX,379.17457643311263
+4930412C18Rik__CPX,226.13157011117713
+Mrpl28__CPX,183.74975500338246
+Hdgfl3__CPX,223.00000000000182
+Gm38380__CPX,1.9101797316159022
+Net1__CPX,25.091888364799363
+Cfap46__CPX,12.648821872195176
+Tmem167__CPX,1.0502768065268064
+Rora__CPX,471.34635065381264
+4921504A21Rik__CPX,37.358262349879865
+Suz12__CPX,210.28610217996518
+Ccdc18__CPX,0.6628335583915961
+Brd4__CPX,294.5354954213049
+Ccar1__CPX,414.64438661782566
+Prkaca__CPX,18.64888436816861
+Bhlhe41__CPX,77.05824830030254
+Acbd4__CPX,124.37447832542308
+Tmem203__CPX,1.8851396063519645
+Msh2__CPX,16.241020194620038
+Pycr2__CPX,458.46300537936
+Scg5__CPX,513.5558221759156
+Ddb1__CPX,286.8295567561805
+Igfbp2__CPX,627.1012547299542
+Zfp219__CPX,1273.6524907415908
+Crygn__CPX,105.13266893025622
+Ccnd1__CPX,380.119782476065
+Thra__CPX,479.1732240048153
+Zfp768__CPX,571.0203400843328
+Ganab__CPX,983.6747689079489
+Wrn__CPX,7.379029251862311
+Dusp1__CPX,9.369162444966305
+Mterf4__CPX,0.0
+Mfsd2a__CPX,0.0
+Mtf1__CPX,0.0
+Dlgap4__CPX,660.997493949591
+Ilkap__CPX,223.0000000000015
+Rnasel__CPX,272.8401207176921
 Smyd2__CPX,0.0
-Emc10__CPX,6.892933419933727
-Dcxr__CPX,0.0
+Emc10__CPX,345.93680016283037
+Dcxr__CPX,1.0357142857142858
 Tmem87a__CPX,0.0
 Mospd3__CPX,0.0
-Gprc5c__CPX,63.95050793371368
+Gprc5c__CPX,386.9869505963836
 Arf2__CPX,0.0
-Eid2b__CPX,0.0
-Art4__CPX,0.25533549749470075
 Iqcc__CPX,0.0
-Aldh9a1__CPX,0.0
-Dock10__CPX,0.15778688524590162
-Psmd8__CPX,11.828271937307786
-Atp5me__CPX,3.659806245480866
-mt-Cytb__CPX,8.52565933056154
-Slc17a5__CPX,64.25191058013336
+Aldh9a1__CPX,10.979938188984857
+Dock10__CPX,0.0
+Psmd8__CPX,237.29432519624086
+Atp5me__CPX,282.9586495973426
+mt-Cytb__CPX,19.108747870917142
+Slc17a5__CPX,54.18471472663412
 Pknox2__CPX,0.0
-Mrps24__CPX,0.0
-Synm__CPX,2.2749891311226484
-Gin1__CPX,0.0
-Dbndd1__CPX,24.601677768117945
-Syt17__CPX,29.896953937834013
-Cracr2b__CPX,398.91321230901104
-Ide__CPX,8.96916340736556
-Ppp1r1b__CPX,29.115825692213427
+Mrps24__CPX,178.33459072706918
+Synm__CPX,49.73297321392518
+Gin1__CPX,127.66444201016726
+Dbndd1__CPX,185.85748132870637
+Syt17__CPX,89.29576801058455
+Cracr2b__CPX,12.594073194163235
+Ide__CPX,0.5389508829839122
+Ppp1r1b__CPX,0.2886431886431886
 Ppp5c__CPX,0.0
-Gsta3__CPX,124.10979539079189
-Trpc4ap__CPX,141.70206430272123
-Imp3__CPX,0.6979118799379914
-Npat__CPX,841.1190288052079
-Spata13__CPX,39.59611027720589
-Mrpl17__CPX,4.0237073507926615
-Phf1__CPX,0.2857142857142857
-Gm12346__CPX,27.524359091401084
-Gmppa__CPX,45.79821642059926
-Iba57__CPX,2.0907984335012
-5730455P16Rik__CPX,3.2693619580186
-Slc25a26__CPX,0.0
+Gsta3__CPX,195.07503177676418
+Trpc4ap__CPX,918.3299289854606
+Imp3__CPX,436.6864131884804
+Npat__CPX,4.3697819753598965
+Spata13__CPX,338.28150178271164
+Mrpl17__CPX,44.9436276806625
+Phf1__CPX,129.04152919206425
+Gm12346__CPX,137.49316019089068
+Gmppa__CPX,445.9999999999952
+Iba57__CPX,47.525522984302754
+5730455P16Rik__CPX,207.9174433240304
+Slc25a26__CPX,38.15768486388088
 Capn2__CPX,0.0
 Haus4__CPX,0.0
-Flcn__CPX,57.481671677064206
-Shfl__CPX,198.19634883844142
-Niban1__CPX,583.5299138768492
-9530026P05Rik__CPX,51.051725453030095
-Mfsd3__CPX,63.00009661568908
-B130034C11Rik__CPX,0.05448028673835126
+Flcn__CPX,62.85447560644814
+Shfl__CPX,112.64348455789414
+Niban1__CPX,222.99999999999966
+9530026P05Rik__CPX,227.9631352969507
+Mfsd3__CPX,67.7500133224516
+B130034C11Rik__CPX,7.70096952135991
 Fhl1__CPX,0.0
-Cables2__CPX,0.0
+Cables2__CPX,223.03036014964817
 Tsc22d1__CPX,0.0
-Telo2__CPX,9.973812824601575
-Copg1__CPX,621.7415293127993
+Telo2__CPX,31.65123940893157
+Copg1__CPX,46.64157363645233
 Rtkn__CPX,0.0
-Tax1bp3__CPX,0.017543859649122806
-Tnfrsf1b__CPX,291.96778643409397
-Cnnm4__CPX,5.203701572039095
+Tax1bp3__CPX,669.0426303854667
+Tnfrsf1b__CPX,18.93099815813735
+Cnnm4__CPX,1489.3235148681608
 Pfas__CPX,0.0
-Psmg3__CPX,1.8531179026207678
-Adprh__CPX,1.501882305443852
-Ikzf5__CPX,6.955658462184454
-Rnf187__CPX,0.7186405759068439
-Gpr19__CPX,0.0
-Gm19817__CPX,0.0
-Pmm2__CPX,3.336461036914809
-Pold1__CPX,0.0
+Psmg3__CPX,19.532253278374142
+Adprh__CPX,4.625931615324248
+Ikzf5__CPX,0.0
+Rnf187__CPX,693.9810540754238
+Gpr19__CPX,399.3284879251901
+Gm19817__CPX,453.48905353463147
+Pmm2__CPX,155.61781901842832
+Pold1__CPX,194.04696571849885
 Tomm34__CPX,0.0
-Inpp4a__CPX,305.76432345276123
-S100a8__CPX,1.234118802160039
-Brd2__CPX,0.0
+Inpp4a__CPX,0.0
+S100a8__CPX,5.8604719792806765
+Brd2__CPX,97.44223740115719
 Aldh1l1__CPX,0.0
-Fhod3__CPX,2.0688956433637284
-Rgs7__CPX,27.729581442840058
-Zfp654__CPX,1.4727573146536335
-Ola1__CPX,26.702518677004637
-Cerkl__CPX,27.198617571359254
-Jmjd4__CPX,475.15146151036083
-Topbp1__CPX,197.94664971202914
-4933439K11Rik__CPX,96.37853618602556
-Tbck__CPX,0.0
-Nprl2__CPX,0.08122139757109384
-Cxxc4__CPX,0.0
-Uros__CPX,148.07574462900922
-Gm1976__CPX,1468.6289725225397
-Zfp78__CPX,0.0
-Ctsc__CPX,289.0504415686718
+Fhod3__CPX,0.0
+Rgs7__CPX,0.36357103863665985
+Zfp654__CPX,106.33180577336688
+Ola1__CPX,12.492005376472266
+Cerkl__CPX,133.42382531854162
+Jmjd4__CPX,21.775182691534216
+Topbp1__CPX,1.6029616724738673
+4933439K11Rik__CPX,11.430949935450467
+Tbck__CPX,668.9999999999952
+Nprl2__CPX,208.2761199028177
+Cxxc4__CPX,8.911618746352152
+Uros__CPX,239.7897745283081
+Gm1976__CPX,28.637575578915563
+Zfp78__CPX,1.8120557617749644
+Ctsc__CPX,1.6081897732806822
 Gm20052__CPX,0.0
-Txnrd2__CPX,7.098969636971172
-Meaf6__CPX,0.0
-Sesn3__CPX,0.0
-Ints10__CPX,0.0
-1700018L02Rik__CPX,5.409649743786081
-0610040J01Rik__CPX,0.2094988344988345
-Cldn22__CPX,0.37025340251146704
+Txnrd2__CPX,125.31640275084882
+Meaf6__CPX,223.0000000000018
+Sesn3__CPX,612.2997394818077
+Ints10__CPX,15.736781735065952
+1700018L02Rik__CPX,47.06644807543063
+0610040J01Rik__CPX,0.0
+Cldn22__CPX,395.0950608095793
 Gm37219__CPX,0.0
 Lurap1__CPX,0.0
 Kif22__CPX,0.0
-Mx2__CPX,0.7391478459527421
-Trabd__CPX,0.7391478459527421
+Mx2__CPX,0.0
+Trabd__CPX,0.0
 Ndufaf1__CPX,0.0
-Gm37204__CPX,51.02453579677305
-Ralgapa2__CPX,392.2733245891901
-A430108G06Rik__CPX,16.89419250713035
+Gm37204__CPX,0.309413096482062
+Ralgapa2__CPX,81.86513822789247
+A430108G06Rik__CPX,223.00000000000057
 Gpr4__CPX,0.0
-Rmnd5b__CPX,2.682583785918016
-Tbc1d2__CPX,4.971130916709392
+Rmnd5b__CPX,393.1121003816798
+Tbc1d2__CPX,163.57934404959263
 Capn15__CPX,0.0
 Gm43360__CPX,0.0
-Drc3__CPX,0.0
+Drc3__CPX,3.0760064001330027
 Faap24__CPX,0.0
-Gm4017__CPX,7.341811647472024
-Pdcd4__CPX,0.4842977440957395
+Gm4017__CPX,1.2666666666666666
+Pdcd4__CPX,936.1106521538409
 Dipk1a__CPX,0.0
-Gm9920__CPX,4.598183742851587
-Gstm6__CPX,0.40365540485607126
+Gm9920__CPX,0.0
+Gstm6__CPX,10.778864061997913
 Rwdd3__CPX,0.0
-Dbpht2__CPX,0.0
-Perm1__CPX,13.722028171537971
+Dbpht2__CPX,6.616883954274424
+Perm1__CPX,0.05
 Icam4__CPX,0.0
-Isg15__CPX,2.064457946706336
-Pard6a__CPX,0.0
-Ino80c__CPX,0.9276315789473684
-Tmem80__CPX,172.15395523010537
-Dpysl4__CPX,0.0
-Tomm22__CPX,0.06124756335282651
-Zbtb11os1__CPX,46.15403757064412
-Tnfsf13os__CPX,0.019230769230769232
-Zfp217__CPX,38.7451991087449
-2810021J22Rik__CPX,0.0
-Polr1c__CPX,12.876072019465381
-Lgr4__CPX,0.0
-2410124H12Rik__CPX,321.5173615827191
-Entpd6__CPX,0.0
-C130021I20Rik__CPX,0.0
+Isg15__CPX,0.0
+Pard6a__CPX,2.751858818550309
+Ino80c__CPX,0.0
+Tmem80__CPX,447.53056903087014
+Dpysl4__CPX,60.86051721756029
+Tomm22__CPX,27.968689569270794
+Zbtb11os1__CPX,46.24070316565466
+Tnfsf13os__CPX,0.03
+Zfp217__CPX,0.0
+2810021J22Rik__CPX,0.025974025974025976
+Polr1c__CPX,223.00000000000057
+Lgr4__CPX,8.875770077931977
+2410124H12Rik__CPX,0.0
+Entpd6__CPX,222.99999999999847
+C130021I20Rik__CPX,1.0357142857142858
 Sfi1__CPX,0.0
-Nit2__CPX,27.729581442840058
+Nit2__CPX,0.0
 Junb__CPX,0.0
 Sympk__CPX,0.0
-Eipr1__CPX,0.0
-Bnip1__CPX,261.4615551804314
-Glod4__CPX,44.9245709445071
+Eipr1__CPX,0.34568217243253924
+Bnip1__CPX,0.0
+Glod4__CPX,1419.5803119859122
 Atrazine desethyl__PLS,0.0
-Tubgcp2__CPX,0.0
+Tubgcp2__CPX,831.6078517903904
 L-Cysteine__PLS,0.0
 Xylitol__PLS,0.0
-Ptges3__CPX,7.876348944107894
-Kif21b__CPX,0.034036012296881864
-Cyren__CPX,0.0
+Ptges3__CPX,1.7927684109263056
+Kif21b__CPX,0.3062967075280099
+Cyren__CPX,222.99999999999866
 Chdh__CPX,0.0
 "D-(+)-Talofuranose, pentakis__PLS",0.0
-Tgfb1i1__CPX,0.0
-Gm17530__CPX,0.0
+Tgfb1i1__CPX,46.33502375061594
+Gm17530__CPX,1.3008552430506528
 9-Hexadecenoic acid__PLS,0.0
-Plscr2__CPX,1.0453391312714098
+Plscr2__CPX,64.34355888971193
 Micall2__CPX,0.0
 Cebpa__CPX,0.0
-Zfp760__CPX,0.0
+Zfp760__CPX,31.862197612369258
 Rec8__CPX,0.0
 Carfentrazone-ethyl__PLS,0.0
-BC065397__CPX,478.69175010001567
+BC065397__CPX,0.0
 Men1__CPX,0.0
-Adamtsl1__CPX,2.666666666666667
-Gm43513__CPX,502.8562102886003
-Stk33__CPX,0.0
+Adamtsl1__CPX,0.0
+Gm43513__CPX,241.13064356943414
+Stk33__CPX,5.509388312951856
 Doconexent__PLS,0.0
-Pdlim1__CPX,106.91687821795793
-Lrrc75b__CPX,0.0
-Prpf3__CPX,0.017241379310344827
-Pigyl__CPX,0.0
-Ser-Leu__PLS,0.0
+Pdlim1__CPX,0.37475174663971345
+Lrrc75b__CPX,2.2192673001307344
+Prpf3__CPX,0.0
 Stearic acid__PLS,0.0
 "Thiazolo[4,5-f]quinoline, 2,9-dimethyl-__PLS",0.0
-B230398E01Rik__CTX,221.99999999999903
-Arhgap5__CTX,463.991150689571
-Zfp74__CTX,16.394137134618695
-Adsl__CTX,0.0
-Ppp1r26__CTX,0.0
-Dap3__CTX,0.0
-C030013C21Rik__CTX,0.0
-Plpp3__CTX,237.25848571511656
-Mto1__CTX,524.0267658463749
-UNKNOWN_1473__CTX,167.51725575228107
-Ddt__CTX,1906.974475254408
-Kdelr1__CTX,33.82049137064028
-Nosip__CTX,4.6836350849376425
-Ywhah__CTX,21.594328432804726
-Cdc27__CTX,423.3039291940128
-Ttc8__CTX,0.0
-Klhl22__CTX,1197.423968886156
-Mrgbp__CTX,19.3717064562677
-Yars1__CTX,1304.2937851062557
-Extl1__CTX,11.550908831474077
-Mfn2__CTX,0.029039161561896152
-Asphd2__CTX,0.3391139242024981
-Tsen34__CTX,0.0
-Lrfn5__CTX,0.7370056234493553
-Zc3hc1__CTX,2644.3405484642544
-Oaz2__CTX,2.6149080542014245
-Patl1__CTX,0.0
-Mir9-2hg__CTX,0.2465978875919641
-Tnfrsf19__CTX,283.9920734610461
-H3f3a__CTX,148.08352166576785
-B9d2__CTX,17.6437090200717
-Urm1__CTX,112.48923563675432
-Nkain2__CTX,41.065321200895184
-Ftx__CTX,74.81784646928278
-Gm12999__CTX,0.8774597072026397
-Gab2__CTX,4556.622761833096
-Rbm7__CTX,90.9036033600966
-Nol3__CTX,0.8516657163012206
-Gdf9__CTX,110.87233225125335
-Mtpap__CTX,55.83528611213285
-Sgf29__CTX,0.0
-Sema6c__CTX,111.12766774874807
-Kcnj4__CTX,0.5868907212385217
-Taf1b__CTX,0.0
-Glmn__CTX,0.0
-Pcdha8__CTX,0.0
-Manea__CTX,1095.878890589676
-Klhl26__CTX,222.84202053393804
-Cmtm7__CTX,298.77939259861944
-Gm3687__CTX,113.68086022828422
-Gm43311__CTX,0.0
-Rasa4__CTX,443.99999999998255
-Sall1__CTX,0.0
-Jam2__CTX,136.5508101395652
-Rnaset2b__CTX,961.3888510472112
-Myct1__CTX,0.0
-Scarf1__CTX,8800.885755567906
-Hspb8__CTX,137.73221338124233
-Zcchc12__CTX,52.71110814129749
-Zfp704__CTX,0.0
-Slf2__CTX,1066.8935429096782
-Gm37420__CTX,395.0976427547097
-Gm42837__CTX,0.0
-Cdc73__CTX,0.0
-Fcho2__CTX,190.91605297362872
-Bclaf3__CTX,782.133252225259
-Med12l__CTX,45.96144761248597
-Scrt2__CTX,2590.209532275546
-Exoc5__CTX,939.3922326533351
-Rpl31__CTX,49.57483379196012
-Ccdc97__CTX,178.05099015174696
-Spata7__CTX,72.44657227193446
-Mterf3__CTX,167.48231984415463
-Eps8l2__CTX,3.5127193830641636
-Abca4__CTX,474.7022273886346
-Mrps18c__CTX,1858.2408948913046
-Brwd1__CTX,2575.5968093432775
-Lrba__CTX,798.0622878453275
-Smco3__CTX,607.0811079256299
-Gdf11__CTX,542.525898227268
-Ubr5__CTX,1152.1258227555174
-Dctpp1__CTX,20.706307052422122
-Rps9__CTX,0.0
-Ip6k2__CTX,0.0
-Hmgb2__CTX,222.00000000000156
-Fsbp__CTX,0.44014263070015114
-Gm28523__CTX,492.3370737615858
-Slc2a4rg-ps__CTX,222.0232558139545
-Gaa__CTX,0.0
-Gpbp1l1__CTX,0.0
-Gm13340__CTX,0.0
-Furin__CTX,568.5750411749823
-Atosb__CTX,1601.564252725289
-Tmtc4__CTX,81.4475149019867
-Nudt2__CTX,55.91700157677109
-Srprb__CTX,200.13617404381606
-Ercc1__CTX,15.21207295390683
-Gh__CTX,759.9768797890974
-Tulp3__CTX,0.0
-Mtmr10__CTX,470.585476824919
-Psmd10__CTX,308.6260911517019
-Gm43066__CTX,0.0
-Ipo4__CPX,0.0
-Gm10221__CTX,0.0
-Gm43176__CTX,974.5489292978109
-Gm43420__CTX,2011.649416137326
-Il10ra__CTX,0.0
-Zswim5__CPX,0.0
-Trp53i13__CTX,28.84140010770005
-Gm42463__CPX,20.817900845905346
-Zmym6__CTX,1775.0082845497118
-Gm42989__CTX,0.0
-UNKNOWN_1531__CTX,0.0
-Kmt2c__CTX,386.1533750380609
-Fadd__CTX,837.8818360366946
-Neu1__CTX,0.5833137614019966
-Arhgap19__CTX,167.33404398429667
-Gm26652__CTX,665.9999999999943
-Sp4__CTX,0.3627549299341805
-Sigirr__CTX,0.0
-Arhgef7__CPX,5.59670749758383
-Tmem242__CTX,3.9678559569675866
-Sqstm1__CTX,0.25406162464985993
-Gde1__CTX,0.25406162464985993
-Tmem232__CTX,0.0
-Ppil6__CTX,6.8468465693703635
-Kank3__CTX,1473.4306638295589
-Fam168a__CTX,5.409649743786081
-Ctu1__CTX,0.0
-Phip__CTX,671.6417043936893
-Serpinb1b__CTX,457.75397393138775
-Iqgap3__CTX,66.55435601910759
-Fastk__CPX,0.0
-H1f10__CTX,17.642160911721973
-Zfp869__CTX,450.3062348311475
-Heg1__CTX,0.2698412698412698
-Dqx1__CTX,12.894536552841007
-Rtl8b__CTX,177.08885745012535
-Gm38077__CTX,1022.1502636619391
-Ccnyl1__CTX,63.455371815538314
-Atg4d__CTX,0.544457876632578
-Gm42853__CTX,472.3872610446098
-Erbin__CTX,103.35439029162693
-Tfip11__CTX,0.0
-Gm38104__CTX,0.0
-Wdr47__CTX,515.4451993554144
-Rpl28-ps1__CTX,19.579980328389553
-Trdmt1__CTX,1858.2540906553063
-Erh__CTX,29.115825692213427
-Gm15542__CTX,0.0
-Mllt6__CTX,127.6220939412168
-Gm26592__CTX,1.8847973455339078
-Gm42941__CTX,0.04423076923076923
-Gm42679__CTX,221.99999999999972
-Pcdhb19__CTX,0.0
-Fbxl22__CTX,4703.181927352568
-Mmp24__CTX,0.4242424242424242
-Rab36__CTX,0.0
-Tor1aip1__CTX,0.6831164808321926
-Zfp677__CTX,169.88357673614402
-Ess2__CTX,162.13556693614152
-Itgb1bp1__CTX,48.11631423965737
-1700047K16Rik__CTX,0.0
-Shh__CTX,625.5902854107154
-Etv1__CTX,0.024390243902439025
-Habp4__CTX,6447.832261076908
-Flnb__CTX,400.6765376895265
-Msi2__CTX,2.2227503175837704
-Skic3__CTX,0.0
-Cbx6__CTX,0.0
-Selenon__CPX,0.0
-Mpst__CTX,115.28195797415817
-Cand1__CTX,0.0
-Tmem229b__CTX,0.0
-Rfx1__CTX,16.136731588402224
-Gm37941__CTX,740.3105060251548
-Rnf13__CTX,0.1053238891693586
-5730408A14Rik__CTX,228.5895654334977
-Cfap418__CTX,1297.6094324461144
-Rab24__CTX,167.63797933692413
-Ankrd9__CTX,299.8099399669775
-D630023F18Rik__CTX,628.1608438733302
-Cables1__CTX,0.0
-Rfxank__CTX,444.22916666666816
-St14__CTX,513.236628094951
-Cemip__CTX,0.0
-Gm42727__CTX,1.4359958979420262
-Dalrd3__CTX,760.8334106327231
-Sypl2__CTX,0.0
-Dlg3__CTX,326.12781262298586
-Psme1__CTX,504.73143376105463
-Dnajb6__CTX,0.0
-Kmt2b__CTX,0.0
-Naa40__CTX,20.19535280467632
-Rps26__CTX,1.6435572001941425
-Atp1b1__CTX,0.0
-Nans__CTX,15.675874516789822
-Rpgr__CTX,434.71928168234666
-Ptk2b__CTX,0.0
-Zbtb45__CTX,629.6297739647852
-A430018G15Rik__CTX,0.13481810733925575
-Rhebl1__CTX,222.01111111110936
-Nudt6__CTX,305.76432345276123
-Paxbp1__CTX,1.532071273904046
-Zpr1__CTX,0.0
-Ncoa5__CPX,0.0
-Zfp799__CTX,0.0
-Dnmt3a__CTX,221.99999999999858
-Pwp2__CTX,0.0
-Nlgn2__CTX,97.75987458814367
-Arl1__CTX,974.8261393964734
-Abhd11__CTX,0.0
-Cntd1__CTX,0.0
-Plcg1__CTX,647.8661811419375
-Ptch2__CTX,33.07835079290166
-Flna__CTX,257.6705344742494
-Mtm1__CTX,436.736549558733
-Gm37777__CTX,104.5509656310358
-Gm43765__CTX,105.15679351276174
-Rab40c__CTX,167.0019748030027
-Plekhg5__CTX,0.0
-Med18__CTX,0.6111111111111112
-Ndst2__CTX,160.1296626169674
-Gne__CTX,28.33609577201904
-Thap11__CTX,86.27279401994764
-Kdm3b__CTX,274.3179197137053
-Smyd5__CTX,0.0
-Utp4__CPX,0.0
-Tcf23__CTX,0.0
-Tnrc18__CTX,0.0
-Brwd3__CTX,3476.855319099154
-Gm37452__CTX,1.3628176382660686
-Fdft1__CTX,426.25114868149177
-Fry__CTX,0.0
-Cry2__CTX,0.0
-Ss18__CTX,796.0989014422827
-Ndufb9__CTX,2.0920548564068597
-Csnk2b__CTX,0.0
-Ppme1__CTX,53.26400714490418
-4933439C10Rik__CTX,4.804419849156692
-Ripply3__CPX,0.0
-Gm37061__CTX,0.0
-Xpnpep1__CTX,9.575062413052349
-Csrp1__CTX,263.0648208299726
-Nr3c2__CTX,109.78894257493818
-Dgkh__CTX,0.0
-Mib1__CTX,26.59012224930414
-Nphp3__CTX,210.82500133056107
-Dipk1b__CTX,0.0
-Tceal3__CTX,0.0
-Fgf12__CTX,655.4097106516205
-Chmp6__CTX,0.5734211547457907
-Gdap1__CTX,208.5010053231396
-Tbc1d30__CTX,0.0
-Gm14634__CTX,479.2423994954232
-Zfp646__CPX,0.0
-Slc25a12__CTX,171.62644409742282
-Gas1__CTX,102.06821619496164
-Gypc__CTX,248.41971106994373
-Myo9a__CTX,13.427422406034243
-Pkd2__CTX,0.0
-Tarbp1__CTX,262.1510905735421
-UNKNOWN_1343__CTX,0.0
-Larp4__CTX,0.0
-Nufip2__CTX,0.0
-Slc38a9__CTX,0.0
-Gigyf1__CTX,281.52067993547035
-Rasa2__CTX,67.94026826325535
-Arhgef1__CTX,0.0
-Gm15513__CTX,2532.781787537558
-Samd5__CTX,79.76263846650738
-Gm38217__CTX,370.1683490261972
-Trpv4__CTX,372.4464866231642
-Ncaph__CTX,1477.4460136208513
-H2bc27__CTX,13.289293986237254
-Trib1__CTX,0.0
-D030028A08Rik__CTX,0.0
-Rom1__CTX,0.0
-Gm15124__CTX,0.3632992329789161
-Gpr65__CPX,0.0
-Popdc3__CTX,0.0
-Dhtkd1__CTX,0.047619047619047616
-Arhgef26__CTX,0.0
-Gdf10__CTX,221.99999999999622
-Zfp689__CTX,0.0
-Dynlt1f__CPX,0.0
-Zfp738__CTX,0.0
-Fam199x__CTX,0.0
-Arb2a__CTX,0.0
-Uty__CTX,0.0
-Gm43677__CTX,0.0
-Zbtb44__CTX,0.0
-Bean1__CTX,0.05448028673835126
-Fads3__CTX,0.0
-Usp33__CPX,2.346951959078205
-Mettl5__CTX,0.0
-Fra10ac1__CTX,2.346951959078205
-Aatf__CTX,88.96119254166112
-Gm43133__CTX,1.4987878787878788
-Sncg__CTX,0.0
-Ppp1r3g__CTX,12.018896684465851
-Pheta1__CPX,0.0
-Vmac__CTX,0.0
-Gm3764__CTX,0.0
-Fam91a1__CTX,4.526937782348199
-Adamts15__CTX,0.0
-Gria4__CTX,451.4107922554716
-Zranb2__CTX,7.500350952960005
-Nptn__CTX,0.0
-Vps39__CTX,203.56169416702707
-Grk3__CTX,2.534222130538148
-Eid2__CTX,88.35629430104002
-Zfp638__CTX,222.00000000000267
-Wwc2__CTX,749.1911024626735
-Mier3__CTX,799.8585432089019
-Kcnma1__CTX,27.10703948439957
-Gm37266__CTX,0.0
-Vps13a__CTX,3.075730097045931
-E230020A03Rik__CTX,0.0
-Ascc3__CTX,2.666666666666667
-Zfp382__CTX,0.0
-Hmgcs1__CTX,133.12831363117948
-Mipol1__CTX,1.2664113255041674
-Alkbh1__CTX,405.1847881576272
-Notch3__CTX,0.0
-2310034G01Rik__CTX,0.0
-Cdk7__CTX,432.71023340347375
-Acsbg3__CTX,0.0
-Sox30__CTX,5.8271330119156195
-Cdc42bpa__CTX,0.0
-Crygn__CTX,0.0
-Setd2__CTX,0.0
-Tle5__CTX,203.58691740022616
-Dusp28__CPX,0.0
-Pigv__CTX,0.0
-Mrps34__CPX,0.0
-Frmd3__CTX,0.0
-Ptrh1__CPX,0.0
-Gm5845__CTX,1913.145878762483
-Gprin2__CTX,613.565197410636
-Rpl8__CTX,0.0
-Hmox2__CTX,52.11436954909018
-Serpina3n__CTX,1.1389299229495013
-Ctso__CTX,79.80182552589078
-Tubg2__CTX,665.3184224518063
-C130023A14Rik__CTX,0.2465978875919641
-Mitd1__CTX,0.0
-Preb__CPX,0.0
-Exoc1__CPX,269.68097705284424
-Patz1__CTX,298.34652554891284
-5730409E04Rik__CTX,115.65070338594056
-Gm3364__CTX,0.0
-Ascl4__CTX,0.0
-Brdt__CTX,0.0
-Retreg3__CPX,0.0
-Phldb1__CTX,1042.917157296496
-Gm37529__CTX,222.00000000000753
-Sdr39u1__CTX,143.09633651147243
-Ubb__CTX,0.0
-Tmem138__CTX,0.0
-Sh2b1__CTX,0.0
-4921524J17Rik__CTX,892.3530258077786
-Pard6a__CTX,0.0
-Zgrf1__CTX,787.420045353907
-Ppm1j__CTX,821.7908260742433
-Zfp523__CTX,306.23768666019157
-Mrpl34__CTX,0.0
-Nudt22__CTX,946.1240978358528
-Gm38357__CTX,0.15778688524590162
-Slc13a5__CTX,758.0515668451255
-Cxcl14__CTX,2.5051355731165685
-Nudt16l1__CTX,15.315320819957654
-Slc7a14__CTX,225.59768288297946
-Pnkp__CTX,6.898833144963097
-Adrb3__CPX,67.13850262542843
-Agk__CTX,0.0
-Acot6__CPX,43.82467453221992
-Ece2__CTX,0.0
-Pcmtd1__CTX,0.0
-Gm17259__CTX,129.86003169330493
-Gm29488__CTX,0.0
-Muc3a__CTX,444.0000000000116
-Zfp874a__CTX,0.0
-Sdhb__CTX,0.0
-Alx3__CPX,0.0
-Rimbp3__CTX,0.0
-Snx22__CTX,221.99999999999767
-Zfp469__CTX,169.35107688966428
-Wdr6__CPX,0.0
-F9__CTX,0.0
-Gm10654__CTX,0.0
-Fam193b__CTX,0.0
-Mchr1__CTX,0.0
-Tcea1-ps1__CTX,258.8965057394159
-Xpr1__CTX,0.0
-4833417C18Rik__CTX,590.9284478265205
-Etohd2__CPX,0.0
-Ptpn4__CTX,8.915057777350414
-Wbp1__CTX,0.0
-Gm38299__CTX,313.0641025929532
-Folh1__CTX,0.0
-Plag1__CTX,0.0
-Vps13d__CTX,0.0
-Epcip__CTX,0.0
-St8sia6__CTX,0.0
-Iqank1__CTX,469.38794736405345
-Idi1__CTX,0.0
-Tmem104__CTX,45.42760014211945
-Cul4b__CTX,321.5173615827191
-Npas3__CTX,0.0
-Hs3st3b1__CTX,0.0
-Map3k20__CTX,0.0
-Zc3h11a__CTX,0.0
-Utp20__CTX,0.0
-Cops8__CTX,0.0
-Dpp10__CPX,0.0
-1700007L15Rik__CPX,0.0
-Comt__CTX,647.9555538929477
-Slc7a11__CTX,492.0001067892729
-Aldh8a1__CTX,0.0
-Mrps22__CPX,0.0
-Hycc1__CTX,737.5306180600451
-Cd24a__CTX,0.0
-Gm37834__CTX,0.0
-Map3k2__CTX,12.876072019465381
-Dcp2__CTX,195.5802889300578
-Gm15764__CTX,0.0
-Steap3__CTX,1985.532988058206
-Usp48__CPX,0.7034783465747907
-Med13l__CTX,2.6521217295303505
-Elmo2__CPX,0.0
-Pstpip2__CTX,51.12664420255781
-Gm42442__CTX,0.0
-Ncl__CTX,220.08701495344175
-Stard4__CTX,0.0
-Mthfd1l__CPX,0.0
-Ndufv3__CTX,0.0
-Lrp4__CTX,0.0
-Ankrd16__CTX,0.0
-Pole__CTX,0.0
-Svil__CTX,0.0
-Hlx__CTX,0.0
-Minar1__CTX,59.34437339757483
-UNKNOWN_1345__CTX,0.0
-Gm26225__CTX,273.3567067806432
-Zc3h12c__CTX,444.00000000000495
-Psd3__CTX,103.43928592313802
-Ddx6__CTX,171.51885012833029
-Vps13c__CTX,35.08668578345771
-1810021B22Rik__CTX,32.68770780180458
-Prkn__CPX,0.0
-Cdc25c__CTX,581.2619745910904
-Phka1__CTX,1017.9374842916377
-Socs5__CTX,0.0
-Fpgt__CTX,191.17984090398795
-Col25a1__CTX,193.66777013686036
-Gopc__CTX,0.0
-2810021J22Rik__CTX,0.0
-Wdr27__CTX,0.0
-Gm10516__CTX,12285.116175973117
-Knstrn__CTX,0.0
-Sp3__CTX,0.0
-Nicn1__CTX,0.0
-Tmem250__CTX,0.41040872567257547
-Ints5__CPX,0.0
-Gm43187__CTX,19.144570815985123
-Sec24a__CTX,31.668327291960846
-Gm43417__CTX,0.0
-Zcwpw2__CTX,532.465301944055
-Btbd1__CTX,0.0
-Mpnd__CPX,0.0
-Psmd2__CTX,1463.4641339964762
-Nek1__CTX,217.19558015084286
-Emc6__CTX,0.0
-Rgs5__CTX,0.0
-Ap2a1__CTX,0.0
-Farsa__STM,555.7263279260584
-Tpd52l2__CTX,0.0
-Cacul1__STM,159.4957545835544
-Casp8__STM,112.66724081082913
-Epor__STM,665.3356753122854
-Ints6l__STM,643.6181060020755
-Fchsd1__STM,31.811482640419296
-Vps35l__STM,1397.5563941832822
-Sema4d__STM,0.25884955752212385
-Phex__STM,25.942540672302265
-Gm29155__STM,222.0000000000008
-Plekha3__CTX,0.0
-Qars1__STM,222.00000000000185
-Smad2__STM,1.678974082426382
-Gnl2__STM,31.072688560805354
-Pcdhgc5__STM,10.728836532994563
-Sugp1__STM,1497.006602333813
-Bend5__STM,2413.2390672985416
-Chia1__STM,160.54214376228725
-Katnal1__STM,286.7343192025292
-Robo2__STM,222.00000000000017
-Apc__CTX,0.0
-Ccno__STM,47.69778549860948
-Zfp523__STM,1262.498331360396
-Ccnt1__CTX,17.24582421373053
-Mon1b__STM,17.23518591585819
-Gm20045__STM,2.5495271867612295
-Mllt11__STM,472.49818353795615
-Lpl__CTX,0.0
-Pabpn1__STM,197.10906050961887
-Bltp3b__STM,990.5581508109591
-Pgap2__STM,465.98851650105695
-Ace2__STM,0.0
-Mrpl16__STM,0.0
-Scg2__STM,19.55690755564948
-Atad5__CTX,0.697857142857143
-Ankub1__STM,5.075918988418988
-Pnck__STM,367.5623730194403
-Ly6h__STM,147.84736128342243
-AI593442__STM,1784.1468939425229
-Atat1__STM,0.0
-Appbp2__CTX,0.0
-Psmc5__STM,18.224445288857908
-Psmd12__STM,0.0
-Gm19967__STM,575.0889820749048
-Mydgf__CTX,0.0
-Pgam1__STM,232.77075289755646
-Gnl3l__STM,155.8577273204987
-Rab29__STM,0.0
-Gm3294__STM,8.809149276959559
-Col6a4__STM,0.0
-Ddx46__STM,0.12864540978749425
-Gm4924__STM,43.48415067117658
-Spaca6__STM,447.9354304484855
-Baz1a__STM,260.23939671383215
-Tekt1__CTX,0.0
-Hs1bp3__STM,70.66168762263959
-Slc1a4__STM,124.56080604058121
-Cep63__STM,168.11671356335154
-Mxra7__CTX,0.0
-Arl2bp__STM,259.64287463096986
-Mia2__CTX,0.0
-Smpdl3a__STM,0.0
-Szt2__STM,1.9986651706786347
-Amz2__STM,11.26740764212622
-Nfatc4__STM,93.78515818472587
-Cbln2__STM,1916.2077289932356
-St8sia5__STM,2419.2336613287393
-C2cd2l__STM,4433.993097047277
-Trp53bp1__STM,238.26036931092946
-Rpgrip1__STM,0.22059340283519488
-Oxt__STM,0.4931454300596873
-Gemin6__STM,0.0
-Zdhhc20__CTX,4.143242299346462
-Wif1__STM,795.1740242258943
-Copg1__STM,228.78654739506658
-Slc22a17__CTX,0.0
-Dlx5__STM,284.47712249445937
-Pcdhb20__STM,140.25182418725777
-Cmbl__CTX,0.0
-Ndufaf8__STM,222.00000000000233
-Shisa9__CTX,15.041503416172443
-Macroh2a1__STM,165.5496827116353
-Timm17b__STM,234.8940056110825
-Hapln3__STM,737.6248125601114
-Abi2__STM,2669.628145595001
-Msrb2__CTX,0.0
-Tomm70a__STM,89.61327889517052
-Fam13b__STM,716.4403953576584
-Gm15446__STM,0.0
-Cmtr1__CTX,11.177958014160563
-Cmas__STM,239.4319507499207
-Tubb2b__STM,1.166699041699042
-2510002D24Rik__STM,0.0
-1810044D09Rik__STM,0.0
-Ddhd1__STM,0.0
-4930447M23Rik__STM,1.908337792393331
-Sting1__CTX,161.6383539787257
-Galnt16__STM,383.6383539787214
-Tnks__STM,222.1312467015798
-Spata24__CTX,0.0
-Pnoc__STM,348.223409875688
-Me2__STM,357.8286808147462
-Iws1__CTX,0.0
-Bcor__STM,0.0
-Impact__CTX,0.0
-Fchsd2__STM,65.53712770799426
-Cyria__STM,222.00000000000077
-Fads2__CTX,9.128251489727287
-Msh2__STM,143.28002713683568
-Klhdc10__STM,124.95108189802222
-Pcx__CTX,0.0
-Ttc22__STM,143.83169042154108
-Efemp2__CTX,0.0
-Casq2__STM,184.02995715306042
-Col27a1__STM,1.443441499490238
-Car5a__CTX,471.8846814477942
-Gad2__STM,652.958923290225
-Mafa__STM,445.953144306241
-Adam17__STM,0.0
-Gm10699__STM,8.206848837080846
-Luc7l2__STM,2723.6478102872056
-Mrps12__STM,157.94022676499196
-Snrnp70__STM,1004.2171066751415
-Cfap92__STM,274.20542695316516
-Aste1__STM,2.7657642433528
-4833418N02Rik__STM,29.5506712802832
-Thoc3__CTX,0.0
-Zfp512b__STM,822.5679360222942
-Zfand2b__CTX,0.15770404271548435
-Crlf1__STM,0.9649641335686046
-Sez6l__STM,399.14918923944714
-Smim8__STM,2.5634615384615387
-Spp2__CTX,0.0
-Pantr2__STM,0.7054542773020356
-Cfh__CTX,9.128251489727287
-Emd__STM,13.987204383844508
-Dctn2__STM,1101.3044109045927
-Rgs2__STM,362.1144865052233
-Ywhag__STM,994.6080910821205
-Gm37569__STM,911.2323377165798
-Soat1__CTX,0.0
-Tyro3__STM,758.2358356665749
-Fam174c__STM,217.544571942385
-Nkx2-9__STM,851.593878878322
-Lypd6b__CTX,21.315231095506295
-Snai3__STM,644.7527448572176
-AB041806__STM,22.7653864956617
-Spopl__CTX,0.12226512226512226
-Ptk7__STM,16.74226931841361
-Alas1__STM,0.0
-Sgsm1__STM,205.06885685782257
-Ift122__STM,761.5993507169125
-Slc35e2__STM,71.33453638335584
-Htr1d__STM,244.6263060046063
-Luzp1__STM,53.63960410402952
-Shfl__STM,0.0
-Casq2__CTX,0.0
-Ano2__STM,15.741365553462881
-Snx7__STM,574.6560671989118
-Gsta3__STM,255.53941119434376
-Eif1b__STM,73.52721903254279
-BC004004__STM,0.0
-Ybx1__CTX,30.559232533718482
-Hbp1__STM,0.49213658429750173
-Osbpl8__STM,113.26290386213724
-Lmo2__STM,169.92249525550633
-Tmem130__STM,531.2180244344519
-Scn4b__STM,1184.7762358762254
-Macf1__CTX,13.70487716271395
-Cct8__STM,1.089422177714081
-Cd99l2__STM,1.122425629290618
-Ccdc28b__CTX,0.0
-Itgam__STM,0.35
-Nat10__STM,229.27552808067685
-Sike1__STM,222.6815775481878
-Vrk1__STM,377.8345144077181
-Psme4__STM,225.06969250187095
-Cd44__STM,0.0
-Sbk2__CTX,0.0
-Atr__STM,0.1736111111111111
-Niban1__STM,228.47568355119756
-Trp53rkb__STM,0.0
-Smyd4__STM,287.16322271035506
-Lpin2__STM,741.5238293425668
-Ip6k2__STM,84.85634357226954
-Dll3__STM,234.1435072421632
-Scap__STM,223.61362846369332
-Zfp512__STM,0.0
-Ncoa5__STM,0.0
-Txnl1__STM,211.8102758754204
-Mecp2__CTX,0.0
-Rnf144a__STM,155.50507198964561
-Tgfa__STM,122.09848085132583
-Spock3__STM,320.778879484651
-Eif4ebp1__CTX,7.039908123481977
-Thop1__STM,6.67867717672216
-H13__STM,232.5699921312256
-Gemin7__STM,153.43727342955913
-Nanp__STM,0.0
-Msmo1__CTX,1.959703072976988
-Lrtm2__STM,7.049303120239512
-Syne2__STM,1.6263697396436547
-Med25__STM,0.0
-Cpped1__STM,291.23662809495465
-2310030G06Rik__CTX,20.541994582925366
-Acadvl__STM,618.158490994149
-Poglut1__STM,3.023222351488269
-Syt3__STM,50.78466998785269
-Pigb__STM,0.16666666666666666
-Itgb2__STM,221.99999999999963
-Gm7467__STM,292.32699542340157
-Csnk1g1__CTX,0.0
-Cyp4f15__STM,23.07784767192898
-Me1__CTX,0.0
-Klhdc3__STM,0.30981067125645434
-Gm11696__STM,0.0
-Micu1__STM,343.2108049586919
-Lyzl4__CTX,0.0
-Ino80__STM,22.648529336719875
-Map3k14__STM,1.4771172041356333
-Mrpl3__CTX,4.77110030357712
-Rps6ka3__STM,12.941844637016084
-Lmtk2__STM,1006.2262462552108
-Dync2i2__STM,256.5945724863232
-Dock3__STM,515.8774954026563
-Pip5k1b__STM,32.680365754911335
-Slc39a12__STM,67.15738567231853
-Rnf207__STM,181.0722970061191
-Stk19__STM,73.29857726134564
-Angptl1__CTX,0.7764248818534936
-Prkcsh__STM,69.73055176849583
-Pmm1__STM,417.3535492727204
-Wdr89__STM,434.10466820711554
-Map3k13__CTX,0.0
-Cep350__CTX,29.935096484008827
-Ebf1__STM,35.37626296666663
-Rpap2__CTX,222.00000000000102
-Rhou__STM,0.0
-Sting1__STM,137.9127088193809
-Accs__STM,337.9819246147148
-Hhip__STM,29.197740055582805
-2700049A03Rik__CTX,39.525215752293924
-Mcrs1__STM,272.00831976039547
-Hey1__STM,935.4773108518112
-Emcn__STM,454.75863660576977
-Mapre2__STM,45.9445713369254
-Ptpn6__STM,174.08980119313804
-S100a13__STM,885.5420693809748
-Mir9-3hg__STM,0.0
-Ndufs6__STM,221.9999999999983
-Hectd1__CTX,0.0
-Mturn__STM,3808.1986122459607
-Zbtb3__STM,103.06580501190301
-Ak2__STM,221.99999999999662
-Slc18a1__CTX,1045.7747330003926
-Tpmt__STM,2.5333866803696643
-Ebag9__STM,0.29153605015673983
-Ric8a__STM,0.0
-Trappc3__STM,0.0
-Nmnat1__STM,0.0
-Smurf1__STM,44.405058705987436
-Dtx4__STM,6.318098393937353
-Otulinl__STM,590.5008145206244
-Gm16339__STM,9.27294962991628
-Elf1__CTX,0.0
-Cnot1__CTX,221.99999999999858
-Acadm__STM,231.7462651763329
-Casc3__STM,0.0
-Alg5__CTX,221.99999999999676
-Brd3__STM,0.0
-Zdhhc18__STM,457.4578609875299
-Tmem241__STM,665.9999999999995
-Zdhhc9__CTX,0.0
-Vps41__STM,87.59465855324954
-Aldh3a2__STM,66.52734447447853
-Efnb2__STM,804.288455324183
-Dbndd1__STM,887.9999999999574
-Trappc5__STM,661.4166278748571
-Ddhd1__CTX,0.0
-Dzip1l__CTX,0.0
-Prdm1__CTX,8.084254926992607
-Pdia5__STM,2243.4609784838444
-Il15ra__STM,410.848026917175
-Strip2__STM,1894.8636397395014
-Gm42725__STM,556.5416748412483
-Sesn1__CTX,0.4262260718805977
-Parva__STM,0.4262260718805977
-Ubr7__STM,221.99999999999898
-Fbxo25__CTX,221.99999999999955
+Casq2__STM,221.21407508994562
+Slco5a1__STM,28.38486337159275
+Lrch1__STM,384.7186845435035
+Gm37735__STM,5.475526962835444
 C130026L21Rik__STM,0.0
-Mrnip__STM,224.66673003952437
-Nop56__STM,99.29977872575932
-Dock10__CTX,0.0
-Synj2bp__STM,0.0
-Dscam__STM,2671.105621461801
-Pea15a__STM,1497.4823349086164
-Pmvk__STM,739.3348223241189
-Hyls1__STM,0.0
-Rxrb__CTX,0.0
-Nhsl1__CTX,0.0
-Coro1c__STM,0.0
-Ltbp4__CTX,0.0
-Htatsf1__STM,648.5343750320714
-Rad54l2__CTX,0.0
-Wwp1__CTX,0.0
-AI504432__STM,0.0
-Myzap__CTX,0.0
-Kansl1__STM,0.0
-Kctd12b__CTX,222.00000000000233
-Trnt1__STM,222.00000000000233
-Acbd5__STM,0.0
-Klf8__CTX,0.0
-Rpl37__CTX,0.0
-Mapk8ip2__STM,1878.1813868006357
-Gm42588__STM,12.458130227885718
-Immp1l__CTX,0.0
-Hic2__STM,0.0
-Krtcap2__CTX,0.0
-Rad51ap1__STM,0.0
-Marchf10__STM,444.474612037785
-Adamts3__CTX,0.0
-Stk25__STM,0.0
-Ift172__STM,4.939617490406164
-Rbmx__STM,559.6227760185495
-Ackr3__CTX,0.15458937198067632
-Rundc3a__STM,345.2932241590182
-Akr1b1__STM,0.0
-Ndufa13__STM,675.3282767193223
+Insl5__STM,44.25864957128131
+Dtx2__STM,42.8765617625479
+Bltp3b__STM,238.3752297679676
+Podxl2__STM,209.2186523895264
+Gm7467__STM,12.257840813333662
+1700017B05Rik__STM,127.24729741327754
+Arsj__STM,1247.0834202733756
+Cachd1__STM,8.289991947204351
+Chia1__STM,756.2740762271455
+Fli1__STM,0.048538011695906436
+Phf12__STM,279.72769529346203
+Ip6k2__STM,94.30293839928676
+Plekhj1__STM,276.9109218205569
+Ankub1__STM,610.0000000000056
 Insyn2a__STM,0.0
-Inha__STM,453.2482386666914
-Ilf2__STM,0.0
-Gphn__CTX,0.0
-Yipf6__CTX,0.0
-Ckb__STM,0.0
-Gjb6__STM,0.0
-Ccdc169__CTX,270.3290004697087
-Ift46__STM,44.948998041372235
-Stx3__STM,0.0
-Col6a3__STM,387.5830162266338
-Gm8186__CTX,0.0
-Oxr1__STM,464.49729384124674
-Lpar4__CTX,0.0
-Mib2__STM,443.999999999986
-D16Ertd472e__STM,85.27633344906471
-Snip1__CTX,0.0
-Lca5__STM,203.81037477802647
-Spr__STM,2032.4866640790717
-B230217C12Rik__CTX,319.43987205329796
-Zfp719__STM,222.39095395132088
-Myo1a__STM,569.3602970519105
-Mterf1b__CTX,12.565273085028574
-C130075A20Rik__STM,0.8186192717746116
-Tcf4__CTX,0.0
-Pcdhga5__STM,213.5290203863736
-Tprkb__CTX,0.0
-Cdh15__STM,0.0
-Gimap4__CTX,0.0
-Impdh1__STM,0.0
-Polr3c__STM,0.0
-Ddias__STM,0.0
-Ep300__CTX,0.3657422168786489
-Synpo2__STM,232.70406369931783
-Mrfap1__CTX,0.0
-Mpp7__CTX,12.179696392739224
-Abcg1__STM,0.0
-Mmel1__CTX,221.99999999999963
-Gm17322__STM,0.0
-Tubb2a__CTX,0.0
-Col13a1__CTX,13.029155500581153
-Tcf7__STM,21.40400593636925
-Kcnq5__STM,250.57109115344704
-Polg2__STM,0.573866246507756
-Gm26814__STM,1080.423183124339
-1110002L01Rik__STM,0.5010802770720691
-Wars1__STM,0.0
-Cdk17__STM,2007.1415013052015
-Manbal__STM,1167.170027639128
-Gpr180__STM,649.1663419194604
-Efcc1__CTX,22.298729140032407
-Aard__CTX,0.0
-Firre__STM,0.0
-Flnc__CTX,0.7658668730650154
-Qrich1__STM,0.0
-Tmem100__CTX,0.0
-Podxl2__STM,393.73345137889055
-C030034I22Rik__CTX,733.3401517529428
-Fyn__STM,447.07861914574755
-St3gal5__STM,80.60252849087962
-Nbeal1__CTX,0.0
-Nr2f6__STM,0.43241338432768683
-4930513N10Rik__CTX,0.0
-Saraf__STM,244.39763788708342
-D930028M14Rik__CTX,175.4676716103147
-Gfra2__STM,237.4259680489498
-Col4a2__STM,1.0310701325457843
-Pgap4__STM,743.8702454209723
-D430036J16Rik__STM,101.21141305741135
-Chst14__CTX,0.0
-Lca5l__STM,0.0
-UNKNOWN_1454__CTX,0.0
-Tmem8b__CTX,0.0
-Car8__STM,183.59439183697037
-Rps3a3__STM,0.0
-Taco1os__CTX,31.208179079837276
-Rarb__STM,167.11746482904957
-Fkbp1b__STM,19.56426328902896
-Hspa1a__STM,186.9102162053758
-Npr2__STM,89.57645324897594
-Vav3__STM,38.03033591394318
-Tcf15__STM,398.7291166307448
-A330040F15Rik__CTX,6.1218640903778185
-Hacd3__STM,3.2019817369475034
-Efhd2__STM,269.34378513124176
-Rhobtb2__STM,994.7079426856347
-Pdpk1__STM,203.02423009333538
-Tbx3os1__CTX,221.99999999999662
-D17H6S53E__STM,0.0
-Gm43359__STM,0.0
-Tfr2__STM,0.0
-Gm18284__CTX,0.0
-Egfem1__STM,0.6476190476190476
-Zfp346__STM,100.70748533189192
-6030458C11Rik__STM,202.4489100614158
-Mrc1__STM,0.0
-Tmem201__STM,221.99999999999733
-Adcy5__STM,1131.1591399917488
-Fbxl16__STM,1493.2720080997628
-Agbl5__STM,901.1366796363674
-Tpbg__STM,0.0
-Klf16__STM,338.4276951637259
-Penk__STM,1731.4128130672366
-Slc24a3__STM,1418.7494419835352
-Ap1ar__STM,1071.3834809170469
-Aasdhppt__STM,443.9999999999984
-4930519P11Rik__CTX,665.9999999999995
-Zbtb40__STM,443.99999999999835
-Rundc1__STM,25.28790889711261
-Bvht__CTX,64.6518109026014
-Gm4804__CTX,0.0
-Polr1g__STM,87.13803079958124
-Gm29155__CTX,221.99999999999804
-Sh3bp1__STM,0.0
-Cog4__STM,8.905767754846094
-Efl1__STM,240.76520589714855
-6430511E19Rik__CTX,0.0
-Gm37258__CTX,28.822701639997565
-Uqcr10__STM,63.121472114019646
-Lamtor5__STM,4.717229316930237
-Gm38254__CTX,222.00000000000563
+Firre__STM,14.921404413905634
+Gm43672__STM,223.00000000000352
+Ipo13__STM,1.2634155111802943
+Htr1d__STM,1261.8086338606397
+Slc5a5__STM,2044.209027975402
+Rarb__STM,618.2994807186165
+Adora2a__STM,353.16899832977265
+Slc36a1__STM,1465.8408807638068
+Kcnab1__STM,576.0223133827567
+Jcad__STM,1428.111440783028
+Dgki__STM,45.021882686078975
+Col6a3__STM,710.050940765177
+Fam241a__STM,440.94704949432975
+Clec12a__STM,904.8030854632096
+Poglut1__STM,53.42031909997009
+Tspan33__STM,181.94929190154315
+Mcrs1__STM,429.0731402867829
+Dock3__STM,452.81766714899663
+Hey1__STM,250.2946488490007
+Kctd1__STM,120.91337561296898
+Gm42722__STM,929.8133731107358
+Gab2__STM,0.0
+Sugp1__STM,869.5708728734538
+Pnck__STM,382.4212021315346
+Arl2bp__STM,271.7279697295242
+Trappc5__STM,156.97969311965062
+Mllt11__STM,216.58095668698743
+Snrnp70__STM,753.063073268385
+Ankrd34a__CPX,227.1068874769869
+Uqcr11__STM,400.0158742403732
+Nanp__STM,0.0
+Cpped1__STM,220.52920398719525
+Cep63__STM,319.37463211017774
+Baz1a__STM,64.14841744118445
+Col27a1__STM,3.082066646509905
+Tubb2b__STM,451.1567548906722
+Szt2__STM,0.0
+Vti1b__STM,245.16355301459825
+Vps35l__STM,1191.6534870187538
+Dtx4__STM,215.7910163834203
+Gm20712__STM,916.6196467684663
+Zswim5__CPX,88.61875567636731
+Cdk17__STM,2542.535122321045
+Abi2__STM,4644.75121382404
+Slc39a12__STM,467.3612593429179
+Lmtk2__STM,272.732737977276
+Slc35e2__STM,367.1692269181638
+Arel1__STM,1285.0913653475411
+Scn4b__STM,267.17368526806683
+Ap1ar__STM,565.5549467187402
+Rbmx__STM,159.7031647053511
 Polr1b__STM,0.0
-Gm37745__CTX,0.0
-Cacna2d3__STM,635.6475767094485
-Gabra4__STM,273.4265075556786
-Adra2a__STM,574.3616616992567
-Pld5__STM,28.52097226801367
-Rad51ap2__STM,81.52790117051029
-Gm20712__STM,5.710905387960488
-Wdsub1__STM,0.0
-Phf12__STM,15.97350660348093
-Grb2__STM,311.46481392135155
-Prmt8__STM,0.0
-Gm37033__CTX,0.0
-Gm43413__CTX,230.03643647245542
-Chmp2a__STM,222.6809592772022
-Gm42482__CTX,0.0
-Gm43009__CTX,86.91825845235498
-Cxcl16__STM,1.225058417288103
-Itpr3__STM,5.630837870538413
-Gm37124__STM,13.346692974233287
-Tmx3__STM,296.6052145046249
-Ddx31__STM,1326.932002198697
-Slco5a1__STM,0.0
-Gm43795__CTX,0.0
-Peg13__CTX,0.0
-Tiam2__STM,713.4017077477831
-Gm42897__CTX,0.6639155055081948
-Isl1__STM,30.20222527426384
-Gm42600__CTX,0.0
-Fam8a1__STM,0.0
-Ckmt1__STM,204.22741137411492
-Ggct__STM,451.09671438503216
-Snap47__STM,90.94384404215006
-Mpped2__STM,209.5599016380401
-Rbms1__STM,498.93504813552505
-Prps1__STM,14.981523025199476
-Rbm8a__STM,152.31081766277757
-Tbc1d22b__STM,254.5376063808689
-Trank1__STM,502.8506770724813
-Acvrl1__STM,323.4076273036859
-Calb2__STM,7.92296180121513
-Rxrg__STM,159.61782758195935
-Adora2a__STM,197.598093197816
-Vti1b__STM,179.66945283128666
-Strn__STM,234.9162794583209
-Kcnab1__STM,368.96183771786593
-Jcad__STM,578.6463581793585
-Dgki__STM,0.0
-Scube3__STM,958.7063253937155
-Basp1__STM,332.8081497828267
-Gng7__STM,184.3670448709466
-Slc35d3__STM,637.1658545882041
-Kcnip1__STM,367.69966918610606
-Fxyd6__STM,129.60251388077285
-Gpr88__STM,264.30399462561553
-Tlnrd1__STM,400.9459174069534
+Cbln3__STM,72.96555693922913
+Prnp__STM,237.27785270267023
+Ttc39c__STM,81.33242081666882
+AA986860__STM,22.95528073616129
+Mapk8ip2__STM,1722.138722202354
+Nkx2-9__STM,728.2148102631278
+Npat__STM,278.46934562622516
+Irx1__STM,55.57702451233951
+Pabpn1__STM,463.07400023372503
+Cyp4f15__STM,0.0
+Fastk__CPX,207.9134576460587
+Adcy5__STM,646.1009067912078
+Kras__STM,18.273209495395875
+Rps6ka3__STM,54.169982305598054
+Wdr17__STM,1469.6047140695418
+Derl1__STM,333.48063164795656
+Thrsp__STM,202.13148104548478
+Stk32a__STM,600.210375374993
+Zfp523__STM,2213.929377306736
+Irs2__STM,119.05866129931096
+Pdlim3__STM,1093.1167978680062
+Ckmt1__STM,2702.77142150485
+Snx7__STM,385.56252097665947
+Cntnap3__STM,1.2634057971014494
+Syne2__STM,1.1176332034382408
+Ccdc187__STM,1.4660973084886126
+Copg1__STM,652.9062672040742
+Mrpl58__STM,15.987680436963435
+Mrnip__STM,142.05149840910158
+Idnk__STM,1.1135217615798465
+Zfp142__STM,232.89707267552143
+Ndufa13__STM,222.5632486218787
+Lrguk__CPX,0.0
+Rps5__STM,92.55125315871764
+Trim68__STM,0.0
+Synj2bp__STM,0.3967952543336175
+Gm15564__STM,0.16785714285714284
+Kctd10__STM,10.919416433239961
+Luc7l2__STM,696.2431882905151
+Nckipsd__STM,449.7603111468313
+Ccdc30__STM,669.6481256399189
+Loxl1__STM,0.0
+Atr__STM,7.972033783923398
+Nkrf__STM,5.972564935064934
+Ccn4__CPX,0.0
+Gm42869__STM,174.90136528953522
+Trim26__STM,3.374635982455278
+Rsrp1__STM,463.9711132865849
+Pea15a__STM,790.6440378254
+Prmt8__STM,2.5093307282711104
+Amigo2__STM,64.57051411360824
+Htr6__STM,0.0
+Gemin6__STM,0.0
+Emd__STM,363.161714819013
+Calb2__STM,477.4871002510675
+9330151L19Rik__STM,0.0
+Gm26814__STM,89.3107122438678
+Prlr__STM,0.0
+Dlx5__STM,925.8529640762433
+Cmas__STM,2445.9975460414967
+Epor__STM,3.3814576737668727
+Cbln2__STM,117.7956574318664
+Pkia__STM,215.35545708816713
+Chmp2a__STM,229.255185076452
+Samd14__STM,421.73632160246024
+Kcnip3__STM,0.0
+Gm3294__STM,24.064777027534905
+Gm37569__STM,703.5082463994146
+Gm20045__STM,2.342454783820526
+Cxadr__STM,9.82806587584654
+Tspyl5__STM,434.2188878723668
+Ebf1__STM,71.5788527971082
+Sema3b__STM,2.1405098007582475
+Hmcn1__STM,445.9999999999982
+Ace2__STM,1.858535337211808
+Gm19967__STM,314.5312925860377
+Naa40__STM,93.35421746701935
+Saraf__STM,108.75015508413996
+Grb2__STM,256.1992250880446
+Fam8a1__STM,586.7722746634022
+Gm9930__STM,295.58656137667737
+Dock8__STM,0.0
+Zim1__STM,198.2464936246704
+Amz2__STM,60.23414489388088
+Fam174c__STM,91.94846636663762
+Coro7__STM,0.0
+Smyd4__STM,225.22673271568254
+Stip1__STM,494.780306913751
+C130075A20Rik__STM,0.014084507042253521
+Wdr74__CPX,0.0
+Arhgap10__STM,0.0
+Gpr180__STM,1026.8762524308338
+Coro1c__STM,0.0
+Ripply3__CPX,0.0
+Gemin7__STM,232.2920617648463
+Car8__STM,1.8987064081506346
+Klhdc3__STM,20.437637331480783
+Arhgef28__STM,180.69974948616849
+Casp8__STM,71.34571998386467
+Irf8__STM,0.0
+Sfr1__STM,0.4905341520987188
+Stk19__STM,473.153106830059
+Col4a2__STM,12.60157763509837
+Dlx1__STM,0.0
+Zfp758__STM,0.0
+Emcn__STM,316.0827711224902
+Phex__STM,384.7545833146625
+2700097O09Rik__STM,9.046847865831419
+Tbp__STM,0.0
+Osbpl10__STM,222.99999999999875
+Hkdc1__CPX,0.0
+Hapln3__STM,88.20948739726998
+Elmod2__STM,114.43835692107213
+Snai3__STM,110.66563300896993
+Mapt__STM,852.3402753594276
+Rad51ap1__STM,722.5151839369588
+Lmo2__STM,1122.555674901642
+mt-Nd1__STM,206.9406988163779
+Hes6__STM,478.3659018402459
+Ctnna1__STM,281.3769901567048
+Gpr65__CPX,1.2574552832148773
+Psmc5__STM,81.41022585573342
+Gtf3c1__STM,324.6654406586719
+Ric8a__STM,4.781915593132081
+Nmnat1__STM,13.389539381768362
+Nit2__STM,357.51094086738595
+Mir9-3hg__STM,0.0
+Thop1__STM,331.173560035605
+Pmm1__STM,388.0008472134027
+Fntb__STM,100.08181512803678
+Sting1__STM,18.350702347744765
+Nop56__STM,618.1381287972968
+Rps3a3__STM,0.0
+Lrrc8b__STM,132.6006133489382
+Gm10699__STM,60.75909913240701
+Me2__STM,38.82355084085589
+Tbc1d22b__STM,492.8052690106737
+Mrps12__STM,238.51935103283893
+Med25__STM,0.0
+Rgs20__STM,64.65647365852661
+Dctn2__STM,458.3043746111635
+Pdzd11__STM,0.0
+Pcdhb20__STM,2.656207911502029
+Zfp512b__STM,72.39636877398125
+Tpbg__STM,0.0
+Osbpl6__STM,137.95513064350808
+Zfp346__CPX,23.71831365290661
+Cdip1__STM,200.4221187540845
+Prss22__STM,9.671274772092909
+Snap47__STM,915.3201615154005
+Lca5l__STM,16.125270693237372
+Dcun1d4__STM,2.0594225713829086
+Celf1__STM,1173.8905537077649
+Pcdhb7__STM,484.38496880926016
+Bet1__STM,445.9999999999923
+Sostdc1__STM,0.0
+Tiam2__STM,699.1586914700921
+Spns2__STM,194.21738351914217
+Slc25a53__STM,0.0
+Atp5po__STM,1083.9788240460064
+Trappc3__STM,19.93641885746294
+Gm42727__STM,35.76632706070194
+Gm13375__STM,6.739402985845648
+Tec__STM,0.0
+Dync1li1__STM,6.553004181821061
+Dusp28__CPX,0.0
+Ndufs6__STM,34.0145533558762
+Ddx23__CPX,0.0
+Alas1__STM,0.0
+Laptm4b__STM,552.6225624265049
+Ccdc34__STM,223.00000000000037
+Trnt1__STM,222.99999999999872
+Preb__CPX,0.0
+Acadm__STM,12.976097840000417
+Exoc1__CPX,222.99999999999974
+Slc25a30__STM,518.2681672710182
+Rab29__STM,0.0
+Tob2__STM,275.71600401483425
+Ddb2__STM,228.9150859044239
+Cyria__STM,79.50408680457693
+Pdia5__STM,925.5658828211076
+2310022A10Rik__STM,0.0
+Gm42600__STM,263.72464709318155
+Mob2__STM,66.94265331510715
+Ppp1r13b__STM,17.438538230595473
+Fam13b__STM,252.94075789200681
+Mon1b__STM,149.5770862147214
+Gm4924__STM,381.30539777744406
+Stx3__STM,0.0
+Polr2j__STM,31.328240421152366
+Inha__STM,568.9439709165159
+Lamtor4__STM,90.89559151899115
+Gm37397__STM,183.46726643245105
+Acot6__CPX,1.9682127062621069
+Elavl2__STM,81.26019709260078
+Gfra2__STM,394.89921644099076
+Pmvk__STM,919.045481435646
+Cisd3__STM,259.46732998279856
+Rundc1__STM,4.318772440844472
+Pld5__STM,394.9657975972876
+Rad51ap2__STM,260.29217040970894
+Scarb1__STM,0.0
+Acad9__STM,0.0
+Gsta3__STM,4.110804289092487
+Itpr3__STM,239.03716726034725
+Mthfr__STM,0.0
+Ubr7__STM,77.17052317970285
+BB031773__STM,0.0
+Rgs2__STM,296.08997874057354
+Adra2a__STM,487.4200530511982
+Trpc3__STM,0.0
+Faf2__STM,361.7880315616625
+Eif1b__STM,2100.9565964902677
+Stxbp3__STM,277.4033953817296
+Mkrn1__STM,829.6455837693674
+Crybb3__STM,0.0
+Nptn__STM,452.17705973271825
+Mesd__STM,500.4652029578216
+Ddx46__STM,0.0
+Fbxl16__STM,3223.5458579464416
+Ano2__STM,267.2964321886871
+Icosl__STM,0.0
+Wdsub1__STM,308.5002528091142
+Nid2__STM,144.82502326772635
+Zbtb3__STM,359.37242414468193
+Med23__STM,0.0
+Kcnk6__STM,1.9744695910568568
+Tcf15__STM,60.27898934303985
+Gm15446__STM,0.0
+Pnoc__STM,126.90101041259926
+Qrich1__STM,0.0
+Ip6k1__STM,377.7525097569018
+Bvht__CPX,0.0
+Ube2v2__CPX,139.76121737382547
+Traip__STM,64.4788162203634
+Dscam__STM,135.37555607848049
+Tlnrd1__STM,171.4562685815333
+Dpp10__CPX,222.99999999999832
+Kdm3b__STM,223.48952020201853
+Ncmap__STM,0.0
+Slc16a4__STM,0.0
+Mrm3__STM,23.511654018643615
+Bend7__STM,0.0
+Rgl2__STM,95.8249079863731
+Mrps18b__STM,20.34932486446923
+Slfn8__STM,13.103085985186201
+Rps6-ps1__STM,223.0000000000002
+Ncoa5__STM,223.00000000000054
+BC004004__STM,0.0
+Strip2__STM,379.0095083253907
+Galnt13__STM,390.41598341446337
+Spryd3__STM,293.93886168772804
+Vldlr__STM,223.00000000000202
+Neu2__STM,33.26922250719962
+Fkbp4__STM,396.58392349057493
+Hic2__STM,15.383221014212287
+Zfp512__STM,0.0
+Spr__STM,585.1544395897555
+Polr3c__STM,223.0000000000054
+Vav3__STM,54.160565609447026
+Ift46__STM,461.6952949272263
+Lrrk1__STM,0.0
+Agbl5__STM,2555.7357097546264
+Nmnat3__STM,793.9261263141955
+Isl1__STM,301.5818227780332
+Mafa__STM,645.6242352971474
+Cd99l2__STM,223.00000000000014
+D430036J16Rik__STM,447.89196568342027
+Zfp346__STM,131.08250705181482
+Gnl3l__STM,0.0
+Ddx31__STM,274.9478115485926
+AI504432__STM,0.0
+Mpp2__CPX,308.5002528091142
+Tspoap1__STM,87.83184862748453
+S100a13__STM,3.908844407991741
+Trpc5__STM,0.0
+Mrln__CPX,0.0
+Cntnap4__STM,12.660093133410117
+Gng7__STM,330.58481685947214
+Fmnl2__STM,1006.9867947335774
+Shfl__STM,0.0
+Bloc1s1__CPX,231.008904500267
+Cfap54__STM,116.56998486945216
+Timm17a__STM,130.4893391735949
+Rbm8a__STM,372.54637685501797
+Polg2__STM,41.909125782273115
+Brd3__STM,0.0
+4930447M23Rik__STM,0.0
+Tmx3__STM,125.73101336628282
+Gm16339__STM,101.5850013437268
+Ggct__STM,26.804665398473077
+Mpped2__STM,517.1593173112657
+H13__STM,116.65347164632806
+Rbms1__STM,578.6423635304093
+Prps1__STM,26.445771388506806
+Trank1__STM,665.9356247426666
+Acvrl1__STM,310.0179203751388
+Rxrg__STM,99.01133885781304
+Fkbp1b__STM,18.235342997987647
+Strn__STM,614.0233826586134
+C2cd2l__STM,191.705736921645
+Scube3__STM,242.8214536778862
+Basp1__STM,31.69635798435161
+Slc35d3__STM,681.597749257269
+Kcnip1__STM,408.82686204919105
+Spock3__STM,1005.6719308222197
+Fxyd6__STM,44.45515697342348
+Gpr88__STM,813.8557911847923
 Gm6556__STM,0.0
-Sec14l1__STM,149.06078856839696
-Fsbp__STM,0.5503672154140853
-Slc5a5__STM,225.87527408438402
-Zim1__STM,62.28002646663574
-Cacng4__STM,201.425124423588
-Coch__STM,208.23930058764083
-Laptm4b__STM,232.1218260841506
-Fkbp4__STM,4.800149299197961
-Cisd3__STM,427.5155006894417
-Dnajc5__STM,422.8944620970279
-Erlin1__STM,1016.0546410649641
-Arel1__STM,939.6571468041518
-1500015L24Rik__STM,45.22798110894983
-Kctd10__STM,0.0
-Gtf3c1__STM,210.13697233869308
-Gm29325__STM,443.99999999997885
+Tcf7__STM,63.67842089731871
+Rnf144a__STM,92.85896897221903
+Sec14l1__STM,341.9652768314415
+Cacna2d3__STM,567.2078446662
+Tgfa__STM,76.84431151901947
+Penk__STM,341.3383780281463
+Hspa1a__STM,96.56743593725461
+Fsbp__STM,0.012195121951219513
+Cacng4__STM,348.11088429626
+Coch__STM,270.5484656037603
+Rhobtb2__STM,277.07198630325155
+Msh2__STM,14.10799255738733
+Klf16__STM,30.121545394590004
+Dnajc5__STM,559.7371684339766
+Hbp1__STM,0.054661301140174375
+Wif1__STM,11.407937210605532
+Erlin1__STM,397.8931756490166
+Scap__STM,222.9999999999981
+Slc24a3__STM,643.9930280042634
+Gm37124__STM,28.23793177234478
+Luzp1__STM,0.0
+1500015L24Rik__STM,293.6836759184776
+Ckb__STM,0.0
+Efnb2__STM,909.3737928662471
+St8sia5__STM,1766.5454610705817
+Gm29325__STM,668.9999999999902
 Jup__STM,0.0
-Ctnna1__STM,226.84275372295366
-Tspan33__STM,1.8929945636471035
-1700017B05Rik__STM,350.37122427053976
-Esam__STM,222.85838556870942
-Naa40__STM,0.0
-Enho__STM,758.4069437992806
-Derl1__STM,79.77484345361049
-4921539H07Rik__STM,340.7697285336091
-Tmem25__STM,62.73707848309947
-Htr1a__STM,2.2447415189806788
-Itga4__STM,69.19417832343774
-Clec12a__STM,21.81003856352764
-Smg9__STM,1.4455859892068017
-Kndc1__STM,89.2695409937312
-Rgs20__STM,14.796278453202472
-Cacng2__STM,226.0743034414008
-Lrrc4c__STM,78.49457164183711
-Map1lc3b__STM,24.388503445440634
-Tspyl5__STM,132.44254693651564
-Pcdhb13__STM,6.196377186879585
-Stk32a__STM,180.33558726155357
-Ctnnbip1__STM,8.854468699337348
-Cdip1__STM,55.48791300896387
-Tmem160__STM,1.270293177551242
-Uqcr11__STM,377.27463572704147
-Atp5po__STM,944.3111947981101
-Dtx2__STM,0.0
-Rgl2__STM,223.83603616665434
-Celf1__STM,511.60075105947794
-Spryd3__STM,3.206639142428594
-Pcdhb7__STM,239.0029191891017
-C230014O12Rik__STM,23.749264772221586
-mt-Nd1__STM,29.96343865873567
-Mapt__STM,244.08764414098158
-Id4__STM,511.9060797568864
-Ly6e__STM,408.61495110488374
-Acot7__STM,221.37857026527433
-Gucy1a1__STM,328.11668588143937
-Arx__STM,3.0216657851951965
-Gm5093__STM,17.74814396819291
-Gclc__STM,391.7684926062064
-Fbxo28__STM,77.95449364373326
-Elavl2__STM,15.792767196189715
-Rsrp1__STM,17.79471467013182
-Abhd2__STM,56.04466307336272
-Parm1__STM,143.52176635086028
-Rapgef5__STM,328.75725950090526
-Elapor2__STM,15.029764080783442
-Rps5__STM,222.00000000000057
+Npr2__STM,0.0
+Esam__STM,5.8966407914764245
+Enho__STM,632.8895029128213
+Aldh3a2__STM,0.0
+Ly6h__STM,67.55528924578536
+Ttc22__STM,0.0
+4921539H07Rik__STM,505.5612857194457
+Tmem25__STM,39.98521594652788
+Htr1a__STM,9.683783871991754
+Tomm70a__STM,157.55432609637214
+Itga4__STM,111.41716493039506
+Cpxm1__STM,0.0
+Smg9__STM,13.553889575552926
+Kndc1__STM,4.261827810705869
+Nr2f6__STM,0.0
+Cacng2__STM,232.74476405341863
+Synpo2__STM,99.02475480152609
+Lrrc4c__STM,29.646244179438487
+Zfp959__STM,0.0
+Prkcsh__STM,70.87894264769717
+Map1lc3b__STM,40.83315221595225
+Wdr89__STM,230.07473508644753
+Pcdhb13__STM,7.182298180171677
+Dll3__STM,0.0
+Impdh1__STM,0.0
+Ctnnbip1__STM,14.098463220231853
+Farsa__STM,152.30880627594763
+Vps41__STM,19.751416289234637
+AI593442__STM,626.1256653658423
+Tmem160__STM,4.479285321092127
+Ptpn6__STM,0.0
+C230014O12Rik__STM,41.47173079190422
+Pgap4__STM,877.304590121122
+Rundc3a__STM,236.4837725541864
+Osbpl8__STM,424.21299658559843
+Id4__STM,227.67896897297172
+Ly6e__STM,97.44829798079583
+Gad2__STM,34.09259290914469
+Acot7__STM,353.9577052603617
+Gucy1a1__STM,411.3916797586972
+Arx__STM,0.6660258123172401
+Mturn__STM,24.184525068150165
+Ywhag__STM,209.81339823052332
+Gm5093__STM,12.730323450682333
+Zdhhc18__STM,224.24560096766106
+Fchsd2__STM,210.54070453135103
+Gclc__STM,262.210637089999
+Sgsm1__STM,197.97723565412196
+Trp53bp1__STM,108.27468962751568
+Fbxo28__STM,156.79877415788317
+Crlf1__STM,0.25679734918865355
+Gabra4__STM,110.5998925593258
+Oxr1__STM,25.323445723499674
+Abhd2__STM,99.34950666558024
+Parm1__STM,52.377084116862406
+Rapgef5__STM,26.536343391073956
+Elapor2__STM,13.525002149793972
+Pgam1__STM,74.06689049615962
+Niban1__STM,19.866831493407716
 Mrpl30__STM,0.0
-Plekhj1__STM,0.0
-Nars2__STM,100.46051545117221
+Nars2__STM,8.71060972528266
+Zbtb40__STM,0.0
 Xk__STM,0.0
-Dennd6b__STM,9.929816214880471
-Adcy2__STM,163.21991628024983
-Mkrn1__STM,317.1987670933471
-Hes6__STM,211.36462176714298
-Pdlim3__STM,222.0000000000003
-Timm17a__STM,538.6470478573473
-Gm26881__STM,548.9050962337936
-Atxn10__STM,110.0073885930009
-mt-Cytb__STM,354.14440048502803
+Aasdhppt__STM,222.99999999999974
+Dennd6b__STM,16.707991627039423
+Sike1__STM,119.7973540438497
+Adcy2__STM,171.2079995781223
+Lpin2__STM,255.44782297242585
+Ift122__STM,3.9868373878790844
+Macroh2a1__STM,31.67180394368866
+Gm26881__STM,114.36059484661497
+Ptk7__STM,225.1604526043634
+Atxn10__STM,75.39959378835366
+Kcnq5__STM,132.02772857786422
+mt-Cytb__STM,190.27630806530667
 Mrps18c__STM,0.0
-Wdr17__STM,310.4484916033754
-Galnt13__STM,23.7595833795229
-Ccdc177__STM,51.476618883005365
-Mrpl58__STM,0.0
-Sh3d19__STM,187.85868347842094
-Samd14__STM,349.27531440761743
+Ccdc177__STM,49.541247785619845
+Ebag9__STM,0.0
+Acadvl__STM,5.384499646881326
+Hs1bp3__STM,16.75806803868192
+Efl1__STM,46.832395037011416
+Cxcl16__STM,0.0
+Sh3d19__STM,226.57262348253877
 Tspear__STM,0.0
-P3h2__STM,167.78238016858592
-Lrrc8b__STM,116.28312804388985
-Utrn__STM,119.77615213467105
-Pcdhga6__STM,71.89278662237459
-Fbxo25__STM,66.3801486178561
-Cfap54__STM,0.2428374991954047
-Ccdc30__STM,125.29530848079457
-Gm9930__STM,97.81243885747466
-Nmnat3__STM,390.76078061176884
-Kctd1__STM,62.29076577650271
+P3h2__STM,28.515499900341016
+Utrn__STM,134.44033180080504
+Sez6l__STM,593.615549739369
+4833418N02Rik__STM,18.60438055077073
+Pcdhga6__STM,25.649926985618162
+Fyn__STM,1039.6535152287433
+Tnks__STM,222.9999999999993
+Fbxo25__STM,12.206055458217293
+Egfem1__STM,222.9999999999993
+Smpdl3a__STM,0.0
+Manbal__STM,290.90706667509295
+Micu1__STM,448.1534498665229
+Polr1g__STM,0.0
 Zfp389__STM,0.0
-Spns2__STM,225.6572007432661
-Ip6k1__STM,94.89158113055814
-Lamtor4__STM,209.8684714670118
-Cntnap4__STM,49.708647634900956
-Mfsd6__STM,1362.4267706858786
-Mtx3__STM,0.18894812974029482
-Adgra1__STM,477.2354016732889
-Entpd3__STM,125.15306894186392
+Slc1a4__STM,5.748622112575679
+Uqcr10__STM,39.621053017535694
+Bend5__STM,7.721628157461194
+Efhd2__STM,447.2179694285101
+Mfsd6__STM,1096.2550267491285
+Mtx3__STM,1.8089736224204374
+Adgra1__STM,44.66611738035649
+Entpd3__STM,76.8147364776145
+Hhip__STM,2.5653060645735533
 Ncln__STM,0.0
-Slc36a1__STM,0.0
-Sntg2__STM,211.62874852371348
-P2ry14__STM,6.842010284142379
-Tox__STM,35.680693853009224
-Greb1l__STM,72.39885998594347
-Fam241a__STM,1.299092409666368
-Acin1__STM,248.40305544463757
-Snx16__STM,9.711052877085574
-Prnp__STM,223.1793606782192
-Mhrt__STM,829.032721868123
-Gm42600__STM,0.0
-Slc25a29__STM,65.02890227667761
-Gm42722__STM,43.79448362959604
-Ppp1r13b__STM,7.801344175827328
-Alg5__STM,22.4512496991941
-Slfn8__STM,0.0
-Arhgef28__STM,464.47101109835273
-Insl5__STM,143.35339471363605
-Nid2__STM,8.857279616247654
-Serpina9__STM,23.908311190103447
-Elmod2__STM,0.0
-Tmem191__STM,0.22338872573904736
-Traip__STM,269.0502479869732
-Thrsp__STM,225.6711456983396
-Stambpl1__STM,0.5097225914247289
-Gm37397__STM,23.306077462217047
-Nit2__STM,236.35500140436753
-Gdpd1__STM,14.355001404369721
-Ngef__STM,93.24224648713563
-Nadsyn1__STM,1.5646415752470981
-Cxadr__STM,0.0
-Ttc39c__STM,222.00000000000077
-Mob2__STM,4.3964720039239085
+Map2k6__STM,0.0
+Sntg2__STM,159.3552167972516
+P2ry14__STM,6.905150229423613
+Tox__STM,14.602108153820032
+Greb1l__STM,245.70767689086546
+Acin1__STM,139.40468675989206
+Snx16__STM,8.722314529725518
+Otulinl__STM,65.89322877165385
+Vrk1__STM,13.486293452210445
+Ccno__STM,2.15050508298867
+Galnt16__STM,61.594227359483135
+Mhrt__STM,291.8108587236205
+Slc25a29__STM,75.54195491525601
+Alg5__STM,0.8741300405522672
+Tpmt__STM,2.501625014414055
+Sema4d__STM,0.0
+Mapre2__STM,222.9999999999992
+Lca5__STM,1.5002378478290168
+Smurf1__STM,67.35442990469045
+Cenpq__STM,223.00000000000063
+Pdpk1__STM,4.334764261730725
+Serpina9__STM,14.621701129523563
+6030458C11Rik__STM,0.0
+Tmem191__STM,1.592006098437095
+Stambpl1__STM,1.0178409130401538
+Cog4__STM,0.0
+Tmem130__STM,125.29818173613478
+Gdpd1__STM,9.878713517299714
+Ngef__STM,153.7260567943227
+Gm42725__STM,250.06216211495294
+D16Ertd472e__STM,0.0
+Nadsyn1__STM,222.9999999999989
+Lamtor5__STM,13.283197498134658
+Il15ra__STM,223.00000000000037
+Fchsd1__STM,0.0
 Parp3__STM,0.0
-Insc__STM,484.24032831627864
-Hs3st5__STM,0.0
-Epm2aip1__STM,16.806858295757394
-Mrps18b__STM,0.0
-Gm42869__STM,53.66245909800397
-Lipo3__STM,0.0
-Map4k2__STM,0.0
-Stip1__STM,0.0
+Timm17b__STM,223.0000000000032
+Nfatc4__STM,0.0
+Rnf123__STM,0.0
+Mmut__STM,222.999999999999
+Saysd1__STM,0.0
+Pip5k1b__STM,0.0
+Abcg1__STM,0.0
+Insc__STM,487.96858703608865
+Hs3st5__STM,0.037037037037037035
+Ints6l__STM,43.176430387119964
+Mib2__STM,446.0000000000092
+Epm2aip1__STM,34.41719452925557
+Txnl1__STM,0.0
 Sufu__STM,0.0
+Ndufaf8__STM,222.9999999999996
+Myo1a__STM,216.62852256780405
 Caly__STM,0.0
-Rap2a__STM,496.7105759706399
-Faf2__STM,8.999742702326133
-Irs2__STM,0.06340579710144928
-Bet1__STM,0.0
-Zfp142__STM,0.0
+Rap2a__STM,323.83203891232193
+Cct8__STM,0.0
+Tmem201__STM,0.0
 Dusp12__STM,0.0
 Gm27200__STM,0.0
-Ccdc34__STM,0.0
+Gm29155__STM,0.0
+Nat10__STM,68.22771504611072
+Spaca6__STM,73.09048859883757
+Tyro3__STM,3.7700929869742246
 Crls1__STM,0.0
 Dhx35__STM,0.0
-Stxbp3__STM,0.0
-Ddx20__STM,221.99999999999596
+Ddx20__STM,223.09742381801178
 Ttc12__STM,0.0
+Gnl2__STM,0.0
 Psmc2__STM,0.0
-Mthfd2l__STM,2.898013706504081
-Kdm3b__STM,37.94499738981309
-Mrm2__STM,17.413261760433972
-Rasgrp3__STM,371.68645994635216
-Kras__STM,114.342935447873
-Neu2__STM,7.585675946953288
-Nptn__STM,79.44449309749137
-Crebzf__STM,356.032973332006
-Stx4a__STM,0.01694915254237288
-Fbxw4__STM,43.36499749138449
-Ttc21b__STM,722.5213291632001
-Ccdc9b__STM,141.59204248081332
+Qars1__STM,222.99999999999997
+Itgam__STM,2.0742585260790913
+Mthfd2l__STM,154.63383367368348
+Mrm2__STM,70.54993343217176
+Accs__STM,25.197409753898736
+Klhdc10__STM,445.9999999999762
+Zfp719__STM,223.0000000000021
+Rasgrp3__STM,60.68585318762619
+Crebzf__STM,543.1923143526276
+Cacul1__STM,0.0
+Cfap92__STM,300.5602782892564
+Parva__STM,0.0
+Stx4a__STM,6.06905509545087
+Fbxw4__STM,29.205522593378713
+Ttc21b__STM,533.5525402294685
+Pgap2__STM,0.0
+Ccdc9b__STM,451.797546578194
 Chmp1b2__STM,0.0
 Krt80__STM,0.0
-Kcnip3__STM,0.0
-Tspoap1__STM,0.0
-Mroh5__STM,444.00000000000296
-Fmnl2__STM,241.9608592839696
-Dync1li1__STM,0.0
-Rasgrp2__STM,30.958672283800624
-Eif3b__STM,221.99999999999832
-Npat__STM,0.0
-Dcun1d4__STM,0.0
-Lrch1__STM,7.038138236361124
-Gm42463__STM,13.522615559781398
-Arsj__STM,213.0636630947758
-Hmcn1__STM,10.446384095493995
-Mrm3__STM,0.0
-Mesd__STM,35.73528457141275
-Osbpl6__STM,0.0
-Zfp811__STM,0.8424457994579946
+Dbndd1__STM,2.3315958183634007
+Mroh5__STM,137.49974719087928
+Katnal1__STM,2.0673826557050616
+Rasgrp2__STM,146.6831529114788
+Eif3b__STM,223.0000000000004
+Gm42463__STM,4.32842539428847
+Ino80__STM,0.0
+Psme4__STM,0.0
+Ago2__STM,0.0
+Dync2i2__STM,223.00000000000094
+Dtl__STM,0.0
+Ift172__STM,0.0
+Rnf207__STM,21.184814466006305
+Zfp811__STM,0.0625
 Gm4491__STM,0.0
-Polr2j__STM,0.0
-Cbln3__STM,0.0
-Kcnk6__STM,0.0
-AA986860__STM,0.0
-Zmpste24__STM,222.00000000000026
-Irx1__STM,0.0
+Scg2__STM,0.0
+Bcor__STM,0.0
+Zmpste24__STM,360.4997471908745
+Htatsf1__STM,0.0
 She__STM,0.0
 Abhd17b__STM,0.0
-4930444P10Rik__STM,222.00000000000054
-Ccdc187__STM,0.0
+4930444P10Rik__STM,222.99999999999858
 Cox6b2__STM,0.0
+Lrtm2__STM,0.0
+St3gal5__STM,0.0
+Pcdhga5__STM,0.0
 Gm37534__STM,0.0
-Slc25a16__STM,222.00000000000173
+Slc25a16__STM,223.0000000000001
 Gm17530__STM,0.0
