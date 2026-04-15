@@ -10,6 +10,9 @@ for name in mets["Name"]:
         print(f"{name}: {results[0].cid}")
         records.append({"Name": name, "CID": results[0].cid})
     else:
+        try: 
+            suffixes = name.strip("")
+            name = 
         print(f"SKIPPED: {name}")
         records.append({"Name": name, "CID": None})
 
