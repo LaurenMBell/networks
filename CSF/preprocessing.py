@@ -40,17 +40,18 @@ pooled = ["DSS_71+77+T0.5_090224", "DSS_72+74+T0.8.2_090224", "DSS_T0.5+B897_090
 "VECPAC_3678+3675_120224", "3369+3673+3371+3677_VECPAC_190224", "3354+3353VECPAC_190224",
 "3674+3677_VECPAC_190224", "3677+3688_VECPAC_190224", "3680+3629.1_REP_VECPAC_200224",
 "CSF_81_83_108_113_21122021", "DSS_114+107_090224", "CSF_118_120_21122021",
-"DSS_85+86+T3.8+78+906_120224"]
+"DSS_85+86+T3.8+78+906_120224"] #you dumbass you could've done this programatically 
 
 qced = df.drop(columns=pooled)
+qced = qced[1:]
+qced.to_csv("QC_filtering.csv", index=False)
 
 #filter for controls 
 #how could you do this with indicies
-for col in qced.columns:
-    if col[1] == "CTR":
-        print("TRUE")
-
-
+controls = qced.iloc[1].str.contains('CTR|T0', na=False)
+columns_to_keep = controls | controls.index == 0
+ctrls = qced.loc[:, columns_to_keep]
+ctrls.to_csv("CTRLs_filtering.csv", index=False)
 
 
 #========================================================================================
