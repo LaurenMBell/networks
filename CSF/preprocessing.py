@@ -17,7 +17,7 @@ def log_1(x):
     return np.log2(x + 1)
 
 
-#TO KEEP 
+#TO KEEP
 keep_samples = [
     "DSS_76_090224",
     "DSS_B896_090224",
