@@ -1,21 +1,21 @@
 import pandas as pd
 import pubchempy as pcp
 
-mets = pd.read_excel("gut_brain_network_2026_02_17.xlsx", sheet_name="Metabolite External IDs")
+mets = pd.read_excel("metabolites_for_sara.xlsx")
 
-records = []
-for name in mets["Name"]:
+cids = []
+for name in mets["Metabolite Name"]:
     results = pcp.get_compounds(name, "name")
     if results:
         print(f"{name}: {results[0].cid}")
-        records.append({"Name": name, "CID": results[0].cid})
+        cids.append({"Metabolite Name": name, "PubChem": results[0].cid, "SMILES":results[0].smiles})
     else:
-        try: 
-            suffixes = name.strip("")
-            name = 
+        #try: 
+            #suffixes = name.strip("")
+            #name = 
         print(f"SKIPPED: {name}")
-        records.append({"Name": name, "CID": None})
+        cids.append({"Metabolite Name": name, "PubChem": None, "SMILES":None})
 
-results_df = pd.DataFrame(records)
-results_df.to_csv("metabolite_cids.csv", index=False)
-print(f"done: {len(results_df)}")
+results_df = pd.DataFrame(cids)
+results_df.to_csv("metabolites_for_sara.csv", index=False)
+

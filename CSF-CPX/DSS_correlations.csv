@@ -1,4 +1,4 @@
-cpx_gene,pls_metabolite,DSS_corr_coef,DSS_p-value,DSS_n_samples
+cpx_gene,pls_metabolite,DSS_r,DSS_p,DSS_n
 ENSMUSG00000027374-P,"(2,5-Dimethoxyphenyl)acetone",-1.0,0.0,3
 ENSMUSG00000042626-P,"(2,5-Dimethoxyphenyl)acetone",-1.0,0.0,3
 ENSMUSG00000055681-P,"(2,5-Dimethoxyphenyl)acetone",0.5,0.6666666666666667,3

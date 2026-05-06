@@ -37,9 +37,9 @@ def compute_correlations(data, model_name):
         results.append({
             'cpx_gene': c_id,
             'pls_metabolite': p_id,
-            f'{model_name}_corr_coef': corr,
-            f'{model_name}_p-value': pval,
-            f'{model_name}_n_samples': n,
+            f'{model_name}_r': corr,
+            f'{model_name}_p': pval,
+            f'{model_name}_n': n,
         })
 
     return pd.DataFrame(results)
