@@ -18,6 +18,25 @@ def log_1(x):
     return np.log2(x + 1)
 
 
+def csf_names(sample_name, sara_ids):
+    tokens = str(sample_name).replace("_", " ").split()
+    for token in tokens:
+        if token in sara_ids:
+            return token
+
+        #the one B sample for some reason
+        if token.startswith("B") and token[1:] in sara_ids:
+            return token[1:]
+
+    return sample_name
+
+
+def rename_csf_columns(df, sara_ids):
+    df = df.copy()
+    df.columns = [csf_names(col, sara_ids) for col in df.columns]
+    return df
+
+
 #TO KEEP
 keep_samples = [
     "DSS_76_090224",
@@ -54,7 +73,7 @@ qnormed_nans = qnormed.copy()
 qnormed_nans[data == 0] = np.nan
 csf_preprocessed = pd.DataFrame(qnormed_nans)
 
-csf_preprocessed.to_csv("CSF_preprocessed.csv", index=False)
+csf_preprocessed.to_csv("CSF_preprocessed.csv", index=True)
 
 
 #====================== STR =================================
@@ -72,11 +91,8 @@ def rename_str_columns(df, mouse_map):
 
 # filter cpx data to just controls
 dss = pd.read_csv("STR_data/DSS.csv")
-dss = dss[dss["ID"].str.endswith("-S")]
 vecpac = pd.read_csv("STR_data/VECPAC.csv")
-vecpac = vecpac[vecpac["ID"].str.endswith("-S")]
 lps = pd.read_csv("STR_data/LPS.csv")
-lps = lps[lps["ID"].str.endswith("-S")]
 
 dss_map = pd.read_csv("STR_data/DSS_group_map.csv", header=None)
 vecpac_map = pd.read_csv("STR_data/VECPAC_group_map.csv", header=None)
@@ -103,30 +119,21 @@ id_list = mouse_map["sara_id"].astype(str).tolist()
 
 # change the column names of the cpx mice
 str_dss = rename_str_columns(str_dss, mouse_map)
-print(str_dss)
 str_vecpac = rename_str_columns(str_vecpac, mouse_map)
-print(str_vecpac)
 str_lps = rename_str_columns(str_lps, mouse_map)
-print(str_lps)
 
 # rename CSF columns to Sara IDs for joining
 sara_ids = set(mouse_map["sara_id"].astype(str))
 
-def extract_sara_id(col_name, sara_ids):
-    for part in col_name.split("_"):
-        if part in sara_ids:
-            return part
-    return col_name
-
-csf_preprocessed.columns = [
-    extract_sara_id(col, sara_ids) for col in csf_preprocessed.columns
-]
-
 #=============== JOIN BY MOUSE ==========================
-# pasre CSF sample names to get mouse IDs for matching
+# parse CSF sample names to get mouse IDs for matching
 csf_dss = csf_preprocessed[[col for col in csf_preprocessed.columns if 'DSS' in col]]
 csf_vecpac = csf_preprocessed[[col for col in csf_preprocessed.columns if 'VECPAC' in col]]
 csf_lps = csf_preprocessed[[col for col in csf_preprocessed.columns if 'LPS' in col]]
+
+csf_dss = rename_csf_columns(csf_dss, sara_ids)
+csf_vecpac = rename_csf_columns(csf_vecpac, sara_ids)
+csf_lps = rename_csf_columns(csf_lps, sara_ids)
 
 common_dss = sorted(list(set(str_dss.columns) & set(csf_dss.columns)))
 common_vecpac = sorted(list(set(str_vecpac.columns) & set(csf_vecpac.columns)))
@@ -135,12 +142,16 @@ common_lps = sorted(list(set(str_lps.columns) & set(csf_lps.columns)))
 print(common_dss, common_vecpac, common_lps)
 
 # simplify to the mice they have in common
-str_aligned_dss = str_dss[common_dss]
-str_aligned_vecpac = str_vecpac[common_vecpac]
-str_aligned_lps = str_lps[common_lps]
+str_aligned_dss = str_dss[["ID"] + common_dss]
+str_aligned_vecpac = str_vecpac[["ID"] + common_vecpac]
+str_aligned_lps = str_lps[["ID"] + common_lps]
 csf_aligned_dss = csf_dss[common_dss]
 csf_aligned_vecpac = csf_vecpac[common_vecpac]
 csf_aligned_lps = csf_lps[common_lps]
+
+csf_aligned_dss.insert(0, "ID", csf_aligned_dss.index)
+csf_aligned_vecpac.insert(0, "ID", csf_aligned_vecpac.index)
+csf_aligned_lps.insert(0, "ID", csf_aligned_lps.index)
 
 # merge each model by mouse
 merged_dss = pd.concat([str_aligned_dss, csf_aligned_dss], axis=0)
