@@ -25,8 +25,6 @@ df = pd.concat([vecpac, dss_subset, lps_subset, pooled_subset], axis=1)
 model_r_cols = ["VECPAC_r", "DSS_r", "LPS_r"]
 all_r_cols = model_r_cols + ["Pooled_r"]
 
-# Match the PLS/FEC rule: keep rows with at least two model-specific
-# correlations and consistent sign once the pooled correlation is included.
 df["r Count"] = df[model_r_cols].notna().sum(axis=1)
 df_valid = df[df["r Count"] >= 2].copy()
 
