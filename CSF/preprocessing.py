@@ -45,9 +45,16 @@ data = data.apply(pd.to_numeric, errors="coerce")
 
 data = data[[col for col in data.columns if col in keep_samples]]
 
+data.to_csv("pre_norm_CSF.csv", index=True)
+
 log_transformed = data.apply(log_1)
+print(log_transformed[0:5])
+
+log_transformed.to_csv("log_trans_CSF.csv")
+
 
 qnormed = qnorm.quantile_normalize(log_transformed, axis=1)
+print(qnormed[0:5])
 
 qnormed_nans = qnormed.copy()
 qnormed_nans[data == 0] = np.nan
