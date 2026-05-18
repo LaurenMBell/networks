@@ -30,21 +30,18 @@ df_valid = df[df["r Count"] >= 2].copy()
 
 df_valid["Consistent"] = df_valid[all_r_cols].apply(
     lambda row: (np.nanmin(row) > 0) or (np.nanmax(row) < 0),
-    axis=1,
-)
+    axis=1)
 
 df_valid.to_csv("all_correlations_pre_FDR.csv", index=False)
 print("saved all_correlations_pre_FDR.csv")
 
 is_consistent = df_valid[
-    df_valid["Consistent"] & df_valid["Pooled_p"].notna()
-].copy()
+    df_valid["Consistent"] & df_valid["Pooled_p"].notna()].copy()
 
 is_consistent["Sign"] = np.where(is_consistent["Pooled_r"] > 0, "+", "-")
 
-_, corrected_pvals = fdrcorrection(
-    is_consistent["Pooled_p"], alpha=0.05, method="indep", is_sorted=False
-)
+i, corrected_pvals = fdrcorrection(
+    is_consistent["Pooled_p"], alpha=0.05, method="indep", is_sorted=False)
 is_consistent["Pooled FDR"] = corrected_pvals
 
 is_consistent.to_csv("CSF-CPX_FDR.csv", index=False)

@@ -35,7 +35,7 @@ keep_samples = [
     "3679_VECPAC_190224",
     "3681_VECPAC_190224"]
 
-df = pd.read_csv("CSF_data/CSF_raw.csv", header=None)
+df = pd.read_csv("data/CSF_raw.csv", header=None)
 
 samples = df.iloc[0, 2:].str.strip().str.replace(r'\s+', '_', regex=True).values
 metabolites = df.iloc[2:, 0].values
@@ -46,14 +46,51 @@ data = data.apply(pd.to_numeric, errors="coerce")
 
 data = data[[col for col in data.columns if col in keep_samples]]
 
+data.to_csv("pre_norm_CSF.csv", index=True)
+
 log_transformed = data.apply(log_1)
+print(log_transformed[0:5])
 
-qnormed = qnorm.quantile_normalize(log_transformed, axis=1)
+log_transformed.to_csv("log_trans_CSF.csv")
 
-qnormed_nans = qnormed.copy()
-qnormed_nans[data == 0] = np.nan
 
-qnormed_nans.to_csv("CSF_preprocessed.csv", index=True)
+lg_DSS = log_transformed[["DSS_76_090224","DSS_B896_090224",
+    "DSS_T0.7_090224","DSS_T0.8_090224", "DSS_73_090224"]]
+q_DSS = qnorm.quantile_normalize(lg_DSS, axis=1)
+DSS_nans = q_DSS.copy()
+DSS_nans[data[["DSS_76_090224","DSS_B896_090224",
+    "DSS_T0.7_090224","DSS_T0.8_090224", "DSS_73_090224"]] == 0] = np.nan
+DSS_nans.to_csv("CSF_DSS_preprocessed.csv", index=True)
+csf_dss = DSS_nans
+csf_dss.columns = [mouse.split("_")[1].lstrip("B") for mouse in csf_dss.columns]
+
+
+lg_LPS = log_transformed[["935_CTR_LPS_CSF_070224",
+    "936_CTR_LPS_CSF_070224_2", "937_CTR_LPS_CSF_070224",
+    "941_CTR_LPS_CSF_070224", "942_CTR_LPS_CSF_070224",
+    "943_CTR_LPS_CSF_070224"]]
+q_LPS = qnorm.quantile_normalize(lg_LPS, axis=1)
+LPS_nans = q_LPS.copy()
+LPS_nans[data[["935_CTR_LPS_CSF_070224",
+    "936_CTR_LPS_CSF_070224_2", "937_CTR_LPS_CSF_070224",
+    "941_CTR_LPS_CSF_070224", "942_CTR_LPS_CSF_070224",
+    "943_CTR_LPS_CSF_070224"]] == 0] = np.nan
+LPS_nans.to_csv("CSF_LPS_preprocessed.csv", index=True)
+csf_lps = LPS_nans
+csf_lps.columns = [mouse.split("_")[0] for mouse in csf_lps.columns]
+
+
+
+lg_VECPAC = log_transformed[["3297_VECPAC_190224",
+    "3679_VECPAC_190224","3681_VECPAC_190224"]]
+q_VECPAC = qnorm.quantile_normalize(lg_VECPAC, axis=1)
+VECPAC_nans = q_VECPAC.copy()
+VECPAC_nans[data[["3297_VECPAC_190224",
+    "3679_VECPAC_190224","3681_VECPAC_190224"]] == 0] = np.nan
+VECPAC_nans.to_csv("CSF_VECPAC_preprocessed.csv", index=True)
+csf_vecpac = VECPAC_nans
+csf_vecpac.columns = [mouse.split("_")[0] for mouse in csf_vecpac.columns]
+
 
 
 #====================== CPX =================================
@@ -72,13 +109,13 @@ def rename_cpx_columns(df, mouse_map):
     return df
 
 #filter cpx data to just controls
-dss = pd.read_csv("CPX_data/DSS.csv")
-vecpac = pd.read_csv("CPX_data/VECPAC.csv")
-lps = pd.read_csv("CPX_data/LPS.csv") 
+dss = pd.read_csv("data/CPX_DSS.csv")
+vecpac = pd.read_csv("data/CPX_VECPAC.csv")
+lps = pd.read_csv("data/CPX_LPS.csv") 
 
-dss_map = pd.read_csv("CPX_data/DSS_group_map.csv", header=None)
-vecpac_map = pd.read_csv("CPX_data/VECPAC_group_map.csv", header=None)
-lps_map = pd.read_csv("CPX_data/LPS_group_map.csv", header=None)
+dss_map = pd.read_csv("data/DSS_group_map.csv", header=None)
+vecpac_map = pd.read_csv("data/VECPAC_group_map.csv", header=None)
+lps_map = pd.read_csv("data/LPS_group_map.csv", header=None)
 
 #get just the control samples from each map
 dss_map_controls = dss_map[dss_map[1] == "control"] 
@@ -94,7 +131,7 @@ cpx_dss = dss_filtered.copy()
 cpx_vecpac = vecpac_filtered.copy()
 cpx_lps = lps_filtered.copy()
 
-mouse_map = pd.read_csv("CPX_data/mouse_map.csv")
+mouse_map = pd.read_csv("data/mouse_map.csv")
 mouse_map.columns = ["matt_id", "sara_id"] 
 id_map = dict(zip(mouse_map["matt_id"].astype(str), mouse_map["sara_id"].astype(str)))
 id_list = mouse_map["sara_id"].astype(str).tolist()
@@ -107,10 +144,6 @@ cpx_lps = rename_cpx_columns(cpx_lps, mouse_map)
 
 #=============== JOIN BY MOUSE ==========================
 # Parse CSF sample names to extract mouse IDs for matching
-csf_dss = qnormed_nans[[col for col in qnormed_nans.columns if 'DSS' in col]]
-csf_vecpac = qnormed_nans[[col for col in qnormed_nans.columns if 'VECPAC' in col]]
-csf_lps = qnormed_nans[[col for col in qnormed_nans.columns if 'LPS' in col]]
-
 common_dss = sorted(list(set(cpx_dss.columns) & set(csf_dss.columns)))
 common_vecpac = sorted(list(set(cpx_vecpac.columns) & set(csf_vecpac.columns)))
 common_lps = sorted(list(set(cpx_lps.columns) & set(csf_lps.columns)))
@@ -130,9 +163,22 @@ merged_lps = pd.concat([cpx_aligned_lps, csf_aligned_lps], axis=0)
 
 print("MERGED DSS: ", merged_dss.columns)
 merged_dss.to_csv("merged_dss.csv", index=False)
+print("CSF DSS cols:", csf_dss.columns.tolist())
+print("CPX DSS cols:", cpx_dss.columns.tolist())
+print("SAME:", common_dss)
+
+
 print("MERGED VECPAC: ", merged_vecpac.columns)
 merged_vecpac.to_csv("merged_vecpac.csv", index=False)
+print("CSF VECPAC cols:", csf_vecpac.columns.tolist())
+print("CPX VECPAC cols:", cpx_vecpac.columns.tolist())
+print("SAME:", common_vecpac)
+
+
 print("MERGED LPS: ", merged_lps.columns)
 merged_lps.to_csv("merged_lps.csv", index=False)
+print("CSF LPS cols:", csf_lps.columns.tolist())
+print("CPX LPS cols:", cpx_lps.columns.tolist())
+print("SAME:", common_lps)
 
 
