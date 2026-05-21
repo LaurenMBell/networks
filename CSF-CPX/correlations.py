@@ -39,7 +39,8 @@ def compute_correlations(data, model_name):
             'pls_metabolite': p_id,
             f'{model_name}_r': corr,
             f'{model_name}_p': pval,
-            f'{model_name}_n': n})
+            f'{model_name}_n': n,
+        })
 
     return pd.DataFrame(results)
 
