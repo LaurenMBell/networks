@@ -29,7 +29,6 @@ def correlations(data, label):
     
     return results
 
-"""
 data = pd.read_csv("CSF_preprocessed.csv", index_col=0)
 
 #split by model name
@@ -44,12 +43,6 @@ lps_data = data[lps_cols]
 dss_data.to_csv("data/CSF_DSS.csv")
 vecpac_data.to_csv("data/CSF_VECPAC.csv")
 lps_data.to_csv("data/CSF_LPS.csv")
-"""
-dss_data = pd.read_csv("CSF_DSS_preprocessed.csv", index_col=0)
-vecpac_data = pd.read_csv("CSF_VECPAC_preprocessed.csv", index_col=0)
-lps_data = pd.read_csv("CSF_LPS_preprocessed.csv", index_col=0)
-data = pd.concat([dss_data, vecpac_data, lps_data], axis=1)
-
 
 models = [("DSS", dss_data),("VECPAC", vecpac_data),
     ("LPS", lps_data),("Pooled", data)]
