@@ -45,14 +45,9 @@ data = data.apply(pd.to_numeric, errors="coerce")
 
 data = data[[col for col in data.columns if col in keep_samples]]
 
-data.to_csv("pre_norm_CSF.csv", index=True)
-
 log_transformed = data.apply(log_1)
-print(log_transformed[0:5])
 
-log_transformed.to_csv("log_trans_CSF.csv")
-
-
+<<<<<<< HEAD
 lg_DSS = log_transformed[["DSS_76_090224","DSS_B896_090224",
     "DSS_T0.7_090224","DSS_T0.8_090224", "DSS_73_090224"]]
 q_DSS = qnorm.quantile_normalize(lg_DSS, axis=1)
@@ -60,6 +55,9 @@ DSS_nans = q_DSS.copy()
 DSS_nans[data[["DSS_76_090224","DSS_B896_090224",
     "DSS_T0.7_090224","DSS_T0.8_090224", "DSS_73_090224"]] == 0] = np.nan
 DSS_nans.to_csv("CSF_DSS_preprocessed.csv", index=True)
+=======
+qnormed = qnorm.quantile_normalize(log_transformed, axis=1)
+>>>>>>> parent of 353dfcb (updated qnorm)
 
 
 lg_LPS = log_transformed[["935_CTR_LPS_CSF_070224",
