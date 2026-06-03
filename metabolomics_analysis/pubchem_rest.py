@@ -1,3 +1,7 @@
+# late April/early May 2026
+# script to pull PubChem and HMDB IDs for metabolites 
+#takes blank workbork to fill out, looks up metablite in pubchem, 
+
 import pandas as pd
 import pubchempy as pcp
 
