@@ -53,10 +53,11 @@ print(log_transformed[0:5])
 
 log_transformed.to_csv("log_trans_CSF.csv")
 
+normalized = qnorm.quantile_normalize(log_transformed, axis=1)
 
-lg_DSS = log_transformed[["DSS_76_090224","DSS_B896_090224",
+q_DSS = normalized[["DSS_76_090224","DSS_B896_090224",
     "DSS_T0.7_090224","DSS_T0.8_090224", "DSS_73_090224"]]
-q_DSS = qnorm.quantile_normalize(lg_DSS, axis=1)
+#q_DSS = qnorm.quantile_normalize(lg_DSS, axis=1)
 DSS_nans = q_DSS.copy()
 DSS_nans[data[["DSS_76_090224","DSS_B896_090224",
     "DSS_T0.7_090224","DSS_T0.8_090224", "DSS_73_090224"]] == 0] = np.nan
@@ -65,11 +66,11 @@ csf_dss = DSS_nans
 csf_dss.columns = [mouse.split("_")[1].lstrip("B") for mouse in csf_dss.columns]
 
 
-lg_LPS = log_transformed[["935_CTR_LPS_CSF_070224",
+q_LPS = normalized[["935_CTR_LPS_CSF_070224",
     "936_CTR_LPS_CSF_070224_2", "937_CTR_LPS_CSF_070224",
     "941_CTR_LPS_CSF_070224", "942_CTR_LPS_CSF_070224",
     "943_CTR_LPS_CSF_070224"]]
-q_LPS = qnorm.quantile_normalize(lg_LPS, axis=1)
+#q_LPS = qnorm.quantile_normalize(lg_LPS, axis=1)
 LPS_nans = q_LPS.copy()
 LPS_nans[data[["935_CTR_LPS_CSF_070224",
     "936_CTR_LPS_CSF_070224_2", "937_CTR_LPS_CSF_070224",
@@ -81,9 +82,9 @@ csf_lps.columns = [mouse.split("_")[0] for mouse in csf_lps.columns]
 
 
 
-lg_VECPAC = log_transformed[["3297_VECPAC_190224",
+q_VECPAC = normalized[["3297_VECPAC_190224",
     "3679_VECPAC_190224","3681_VECPAC_190224"]]
-q_VECPAC = qnorm.quantile_normalize(lg_VECPAC, axis=1)
+#q_VECPAC = qnorm.quantile_normalize(lg_VECPAC, axis=1)
 VECPAC_nans = q_VECPAC.copy()
 VECPAC_nans[data[["3297_VECPAC_190224",
     "3679_VECPAC_190224","3681_VECPAC_190224"]] == 0] = np.nan

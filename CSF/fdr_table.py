@@ -48,3 +48,6 @@ is_consistent["Pooled FDR"] = corrected_pvals
 
 is_consistent.to_csv("CSF_FDR.csv", index=False)
 print("saved CSF_FDR.csv")
+
+thresholded = is_consistent[is_consistent["Pooled FDR"] <= 0.05]
+thresholded.to_csv("CSF_FDR_threshold.csv", index=False)
