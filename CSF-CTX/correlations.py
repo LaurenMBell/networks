@@ -7,26 +7,18 @@ import chime
 def compute_correlations(data, model_name):
     nodes = data['ID'].values
 
-    nodes_clean = (
-    pd.Series(nodes)
+    nodes_clean = (pd.Series(nodes)
       .astype(str)
       .str.strip()         
       .str.replace("–", "-", regex=False)
-      .values
-    )
+      .values)
     
     #identify genes and metabolites
-    c_data = [
-        (i, node_val)
-        for i, node_val in enumerate(nodes_clean)
-        if node_val.startswith("ENSMUSG") and node_val.endswith("-C")
-    ]
+    c_data = [(i, node_val) for i, node_val in enumerate(nodes_clean)
+        if node_val.startswith("ENSMUSG") and node_val.endswith("-C")]
 
-    f_data = [
-        (i, node_val)
-        for i, node_val in enumerate(nodes_clean)
-        if not node_val.startswith("ENSMUSG")
-    ]
+    f_data = [(i, node_val) for i, node_val in enumerate(nodes_clean)
+        if not node_val.startswith("ENSMUSG")]
 
     
     #get sample columns 
