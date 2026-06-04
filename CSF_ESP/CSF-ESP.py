@@ -169,7 +169,7 @@ def csf_cpx_rpuc(f):
     
     
     l0 = set(csf_cpx['cpx_gene']) #going to be the cpx nodes in csf-cpx
-    l1 =  set(csf_cpx['pls_metabolite']) #going to be csf nodes in csf-cpx
+    l1 =  set(csf_cpx['csf_metabolite']) #going to be csf nodes in csf-cpx
 
     #node direction hash table (gene:dir)
     dirs = dict(zip(cpx_node_dir["ID"], cpx_node_dir["Mean Log2 Fold Change Direction (DSS)"]))
@@ -188,7 +188,7 @@ def csf_cpx_rpuc(f):
 
     #init edges for rest of CSF
     for i, r in csf.iterrows(): 
-        G.add_edge(r["Metabolite 1"], r["Metabolite 2"], dir=r["edge_dir"])
+        G.add_edge(r["n1"], r["n2"], dir=r["edge_dir"])
     # ==================== PERFORMING INVERSE PUC =====================================
     layer_zero = [node for node in l0 if G.has_node(node) and G.degree(node) > 0]
     layers = build_layers(G, layer_zero)

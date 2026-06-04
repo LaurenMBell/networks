@@ -1,0 +1,391 @@
+n1,n2,edge_dir
+Pold1,"2,4-Di-tert-butylphenol",-1
+"2,4-Di-tert-butylphenol",Zfp768,-1
+Zfp768,"Phenol, 2,4-bis(1-methyl-1-phenylethyl)-",-1
+Glod4,"2-Cyclohexen-1-one, 3-methyl-",1
+"2-Cyclohexen-1-one, 3-methyl-",2-Methyl-3-pentanol,1
+"2-Cyclohexen-1-one, 3-methyl-",Hydracrylic acid,1
+Emd,3-Heptanol,1
+3-Heptanol,Smc4,-1
+3-Heptanol,"3,4-Methylenedioxyamphetamine",1
+Smurf1,4-Methoxyphenol,1
+4-Methoxyphenol,2-Ethylhexanoic acid,-1
+4-Methoxyphenol,Benzenepropanoic acid,-1
+Mfge8,Azelaic acid,-1
+Azelaic acid,Hk1,-1
+Azelaic acid,Ilvbl,-1
+Wdr6,Glycine,-1
+Wdr6,"Glycine, tert.-butyldimethylsilyl ester",-1
+Lrp2bp,Hypoxanthine,-1
+Sec62,Lignoceric acid,-1
+Lignoceric acid,Lrrc8c,-1
+Lignoceric acid,Pipecolic acid,1
+Lignoceric acid,Suberic acid,1
+Gpsm3,L-Tyrosine,1
+Kmt5b,N-Acetyl-L-alanine,-1
+N-Acetyl-L-alanine,Guanosine,-1
+Krt23,N-Methyl-1-[(trimethylsilyl)oxy]-1-{4-[(trimethylsilyl)oxy]phenyl}propan-2-amine,-1
+N-Methyl-1-[(trimethylsilyl)oxy]-1-{4-[(trimethylsilyl)oxy]phenyl}propan-2-amine,Diethylamine,1
+N-Methyl-1-[(trimethylsilyl)oxy]-1-{4-[(trimethylsilyl)oxy]phenyl}propan-2-amine,Heptylamine,1
+N-Methyl-1-[(trimethylsilyl)oxy]-1-{4-[(trimethylsilyl)oxy]phenyl}propan-2-amine,Hexacosanoic acid,1
+N-Methyl-1-[(trimethylsilyl)oxy]-1-{4-[(trimethylsilyl)oxy]phenyl}propan-2-amine,N-Caffeoyl-O-methyltyramine,1
+N-Methyl-1-[(trimethylsilyl)oxy]-1-{4-[(trimethylsilyl)oxy]phenyl}propan-2-amine,Suberic acid,1
+Pi4ka,Nonanoic acid,1
+Rif1,Oleamide,-1
+"Phenol, 2,4-bis(1-methyl-1-phenylethyl)-","2-Allyl-1,4-dimethoxybenzene",1
+Imp3,Propylene glycol,-1
+Propylene glycol,3-Buten-2-one,1
+Bcl7a,Salsoline,-1
+"(2,5-Dimethoxyphenyl)acetone",2-Propyl-1-pentanol,1
+"(2,5-Dimethoxyphenyl)acetone",Hexacosanoic acid,1
+Hexacosanoic acid,2-Naphthol,1
+Hexacosanoic acid,"6-Aminocaproic acid, N-(tert.-butyldimethylsilyl)",1
+Hexacosanoic acid,Curcumin,1
+Hexacosanoic acid,Frangulin,1
+Hexacosanoic acid,Glycerol,1
+Hexacosanoic acid,Niacin,1
+Hexacosanoic acid,Norketamine,1
+Hexacosanoic acid,Yangonin,1
+"1-(1-Hydroxybutyl)-2,5-dimethoxybenzene ","Erythrono-1,4-lactone",1
+"1-(1-Hydroxybutyl)-2,5-dimethoxybenzene ",Mevalonolactone,1
+Mevalonolactone,"3,4-Methylenedioxyamphetamine",-1
+"1-(2,4-Dimethoxyphenyl)-propan-2-one",Butyric Acid,1
+Butyric Acid,Hexanoic acid,1
+Butyric Acid,Phenoxyethanol,1
+"1-(4-Methoxyphenyl)-4,6-dimethyl-2(1H)-pyrimidinone","2,4-Imidazolidinedione, 5,5-dimethyl",-1
+"1-(4-Methoxyphenyl)-4,6-dimethyl-2(1H)-pyrimidinone","2,5-Dimethoxybenzhydrazide",1
+"1-(4-Methoxyphenyl)-4,6-dimethyl-2(1H)-pyrimidinone","2',5'-Dimethoxypropiophenone",1
+"1-(4-Methoxyphenyl)-4,6-dimethyl-2(1H)-pyrimidinone",2-Amino-4-methylbenzophenone,1
+"1-(4-Methoxyphenyl)-4,6-dimethyl-2(1H)-pyrimidinone",6-Methyluracil,-1
+"1-(4-Methoxyphenyl)-4,6-dimethyl-2(1H)-pyrimidinone",Aconitic acid,1
+"1-(4-Methoxyphenyl)-4,6-dimethyl-2(1H)-pyrimidinone","Hymexazole, tert-butyldimethylsilyl ether",-1
+"1-(4-Methoxyphenyl)-4,6-dimethyl-2(1H)-pyrimidinone","Kojic acid, bis(tert-butyldimethylsilyl) ether",-1
+"2,4-Imidazolidinedione, 5,5-dimethyl",2-Amino-4-methylbenzophenone,-1
+"2,4-Imidazolidinedione, 5,5-dimethyl",3-Aminobenzoic acid,1
+"2,4-Imidazolidinedione, 5,5-dimethyl",6-Methyluracil,1
+"2,4-Imidazolidinedione, 5,5-dimethyl",Durapan,1
+"2,4-Imidazolidinedione, 5,5-dimethyl","Hymexazole, tert-butyldimethylsilyl ether",1
+"2,4-Imidazolidinedione, 5,5-dimethyl","Kojic acid, bis(tert-butyldimethylsilyl) ether",1
+"2,4-Imidazolidinedione, 5,5-dimethyl",Methanesulfonic acid,1
+"2,4-Imidazolidinedione, 5,5-dimethyl",Methylthiouracil,1
+"2,4-Imidazolidinedione, 5,5-dimethyl",Pinosylvin,1
+"2,5-Dimethoxybenzhydrazide","2,5-Bis((tert-butyldimethylsilyl)oxy)-4,4-dimethyl-4H-imidazole",-1
+"2,5-Dimethoxybenzhydrazide","2,5-Dimethoxyphenol",1
+"2,5-Dimethoxybenzhydrazide","2',5'-Dimethoxypropiophenone",1
+"2,5-Dimethoxybenzhydrazide",6-Methyluracil,-1
+"2,5-Dimethoxybenzhydrazide",Cyclooctylamine,1
+"2,5-Dimethoxybenzhydrazide",Durapan,-1
+"2,5-Dimethoxybenzhydrazide","Hymexazole, tert-butyldimethylsilyl ether",-1
+"2,5-Dimethoxybenzhydrazide",Ketamine,-1
+"2,5-Dimethoxybenzhydrazide",Methanesulfonic acid,-1
+"2,5-Dimethoxybenzhydrazide",Methylthiouracil,-1
+"2',5'-Dimethoxypropiophenone","2,5-Bis((tert-butyldimethylsilyl)oxy)-4,4-dimethyl-4H-imidazole",-1
+"2',5'-Dimethoxypropiophenone",Durapan,-1
+"2',5'-Dimethoxypropiophenone",Methylthiouracil,-1
+2-Amino-4-methylbenzophenone,6-Methyluracil,-1
+2-Amino-4-methylbenzophenone,"Hymexazole, tert-butyldimethylsilyl ether",-1
+2-Amino-4-methylbenzophenone,"Kojic acid, bis(tert-butyldimethylsilyl) ether",-1
+6-Methyluracil,3-Aminobenzoic acid,1
+6-Methyluracil,Durapan,1
+6-Methyluracil,"Hymexazole, tert-butyldimethylsilyl ether",1
+6-Methyluracil,"Kojic acid, bis(tert-butyldimethylsilyl) ether",1
+6-Methyluracil,Methanesulfonic acid,1
+6-Methyluracil,Methylthiouracil,1
+6-Methyluracil,Pinosylvin,1
+"Hymexazole, tert-butyldimethylsilyl ether",3-Aminobenzoic acid,1
+"Hymexazole, tert-butyldimethylsilyl ether",Cholesterol,1
+"Hymexazole, tert-butyldimethylsilyl ether",Durapan,1
+"Hymexazole, tert-butyldimethylsilyl ether","Kojic acid, bis(tert-butyldimethylsilyl) ether",1
+"Hymexazole, tert-butyldimethylsilyl ether",Methanesulfonic acid,1
+"Hymexazole, tert-butyldimethylsilyl ether",Methylthiouracil,1
+"Hymexazole, tert-butyldimethylsilyl ether",Pinosylvin,1
+"Kojic acid, bis(tert-butyldimethylsilyl) ether",3-Aminobenzoic acid,1
+"Kojic acid, bis(tert-butyldimethylsilyl) ether",Durapan,1
+"Kojic acid, bis(tert-butyldimethylsilyl) ether",Heptylamine,1
+"Kojic acid, bis(tert-butyldimethylsilyl) ether",Methanesulfonic acid,1
+"Kojic acid, bis(tert-butyldimethylsilyl) ether",Methylthiouracil,1
+"Kojic acid, bis(tert-butyldimethylsilyl) ether",Pinosylvin,1
+1-(tert-Butyldimethylsilyl)-4-methyl-1H-pyrazole,Yangonin,1
+Vanillylmandelic acid,1-Octadecanol,1
+Vanillylmandelic acid,"2,2'-Bipyridine",1
+Vanillylmandelic acid,2-Decanol,1
+Vanillylmandelic acid,Citramalic acid,1
+Vanillylmandelic acid,Diacetyl monoxime,1
+1-Octadecanol,"2,2'-Bipyridine",1
+1-Octadecanol,2-Decanol,1
+1-Octadecanol,2-Pentadecanone,1
+1-Octadecanol,3-Buten-2-one,1
+1-Octadecanol,"5-Nonanol, tert-butyldimethylsilyl ether",1
+1-Octadecanol,Citramalic acid,1
+1-Octadecanol,Diacetyl monoxime,1
+1-Octadecanol,Thymol,1
+"2,2'-Bipyridine",2-Decanol,1
+"2,2'-Bipyridine","l-Norvaline, n-propargyloxycarbonyl-, isohexyl ester",-1
+2-Decanol,Diacetyl monoxime,1
+2-Decanol,"l-Norvaline, n-propargyloxycarbonyl-, isohexyl ester",-1
+3-Buten-2-one,"l-Norvaline, n-propargyloxycarbonyl-, isohexyl ester",-1
+Malic acid,"2,5-Dimethoxyphenol",-1
+Malic acid,"3,4-Methylenedioxyamphetamine",1
+Malic acid,Cyclooctylamine,-1
+"l-Norvaline, n-propargyloxycarbonyl-, isohexyl ester",5-Oxohexanoic Acid,-1
+"l-Norvaline, n-propargyloxycarbonyl-, isohexyl ester",Xylazine,-1
+"2,3-Dihydroxybutanoic acid",N-Acetylaminoethanol,1
+N-Acetylaminoethanol,"2,5-Bis((tert-butyldimethylsilyl)oxy)-4,4-dimethyl-4H-imidazole",-1
+"2,4,6-Cycloheptatrien-1-one",Isobutanol,-1
+Isobutanol,Methylthiouracil,-1
+3-Aminobenzoic acid,Durapan,1
+3-Aminobenzoic acid,Methanesulfonic acid,1
+3-Aminobenzoic acid,Methylthiouracil,1
+3-Aminobenzoic acid,Pinosylvin,1
+Durapan,"2-Butenoic acid, 3-[(tert-butyldimethylsilyl)oxy]",-1
+Durapan,Methanesulfonic acid,1
+Durapan,Methylthiouracil,1
+Durapan,Pinosylvin,1
+Methanesulfonic acid,2-Hexanol,-1
+Methanesulfonic acid,Methylthiouracil,1
+Methanesulfonic acid,Phenoxyethanol,1
+Methanesulfonic acid,Pinosylvin,1
+Methylthiouracil,"2,5-Bis((tert-butyldimethylsilyl)oxy)-4,4-dimethyl-4H-imidazole",1
+Methylthiouracil,Ketamine,1
+Methylthiouracil,Phenoxyethanol,1
+Methylthiouracil,Pinosylvin,1
+Pinosylvin,Phenoxyethanol,1
+"2,5-Bis((tert-butyldimethylsilyl)oxy)-4,4-dimethyl-4H-imidazole","Cyclohexanone, 3,3,5-trimethyl",-1
+"2,5-Bis((tert-butyldimethylsilyl)oxy)-4,4-dimethyl-4H-imidazole",Cyclooctylamine,-1
+"3-(4,7-Dimethoxy-2H-1,3-benzodioxol-5-yl)-2-methylprop-2-enal",Trimethylolpropane,1
+"Cyclohexanone, 3,3,5-trimethyl",2-Methyl-3-pentanol,1
+"Cyclohexanone, 3,3,5-trimethyl",L-Threonine,-1
+Cyclooctylamine,"2,5-Dimethoxyphenol",1
+"2,5-Dimethoxyphenol","3,4-Methylenedioxyamphetamine",-1
+Ketamine,Benzyl alcohol,1
+2-Methyl-3-pentanol,8-Methylnonanoic acid,1
+2-Methyl-3-pentanol,"Benzene, 1,4-dimethoxy",1
+Diethylamine,Trimethylolpropane,1
+"3,4-Methylenedioxyamphetamine",Uracil,1
+Trimethylolpropane,"Naringenin 4',7-dimethylether",1
+2-Butoxyethanol,Benzophenone,1
+2-Butoxyethanol,Iminodiacetic acid,1
+Benzophenone,"2'-Hydroxy-2,4,4',5-tetramethoxychalcone",1
+Benzophenone,2-Hydroxy-3-methylbutyric acid,1
+Benzophenone,Frangulin,1
+Iminodiacetic acid,N-Caffeoyl-O-methyltyramine,1
+Iminodiacetic acid,Suberic acid,1
+2-Ethylhexanoic acid,N-Acetylaspartic acid,1
+2-Ethylhexanoic acid,Pentanoic acid,1
+"2'-Hydroxy-2,4,4',5-tetramethoxychalcone",2-Hydroxy-3-methylbutyric acid,1
+"2'-Hydroxy-2,4,4',5-tetramethoxychalcone",Butachlor ESA,1
+"2'-Hydroxy-2,4,4',5-tetramethoxychalcone",L-Tryptophan,1
+"2'-Hydroxy-2,4,4',5-tetramethoxychalcone",Suberic acid,1
+2-Hydroxy-3-methylbutyric acid,Butachlor ESA,1
+2-Hydroxy-3-methylbutyric acid,DL-p-Hydroxyphenyllactic acid,1
+2-Hydroxy-3-methylbutyric acid,Frangulin,1
+2-Hydroxy-3-methylbutyric acid,Suberic acid,1
+Butachlor ESA,5-Azacytosine,1
+Butachlor ESA,Isopropylamine,-1
+L-Tryptophan,"6-Aminocaproic acid, N-(tert.-butyldimethylsilyl)",1
+L-Tryptophan,Heptylamine,1
+Suberic acid,4-Oxohexanoic acid,1
+DL-p-Hydroxyphenyllactic acid,Aniline,1
+Myristic acid,Pipecolic acid,1
+2-Naphthol,Heptylamine,1
+Uracil,Cholesterol,1
+"6-Aminocaproic acid, N-(tert.-butyldimethylsilyl)",Tetrahydro-solasodine triacetate,1
+"6-Methoxy-1-methyl-1,2,3,4-tetrahydroisoquinolin-7-ol ",Phenoxyethanol,-1
+Benzyl alcohol,Dodecanoic acid,1
+Hexanoic acid,Formamide,1
+Cholesterol,"N,N-Dimethyl-2-aminoethanol",1
+"2,4-Di-tert-butylphenol",Pold1,-1
+Zfp768,"2,4-Di-tert-butylphenol",-1
+"Phenol, 2,4-bis(1-methyl-1-phenylethyl)-",Zfp768,-1
+"2-Cyclohexen-1-one, 3-methyl-",Glod4,1
+2-Methyl-3-pentanol,"2-Cyclohexen-1-one, 3-methyl-",1
+Hydracrylic acid,"2-Cyclohexen-1-one, 3-methyl-",1
+3-Heptanol,Emd,1
+Smc4,3-Heptanol,-1
+"3,4-Methylenedioxyamphetamine",3-Heptanol,1
+4-Methoxyphenol,Smurf1,1
+2-Ethylhexanoic acid,4-Methoxyphenol,-1
+Benzenepropanoic acid,4-Methoxyphenol,-1
+Azelaic acid,Mfge8,-1
+Hk1,Azelaic acid,-1
+Ilvbl,Azelaic acid,-1
+Glycine,Wdr6,-1
+"Glycine, tert.-butyldimethylsilyl ester",Wdr6,-1
+Hypoxanthine,Lrp2bp,-1
+Lignoceric acid,Sec62,-1
+Lrrc8c,Lignoceric acid,-1
+Pipecolic acid,Lignoceric acid,1
+Suberic acid,Lignoceric acid,1
+L-Tyrosine,Gpsm3,1
+N-Acetyl-L-alanine,Kmt5b,-1
+Guanosine,N-Acetyl-L-alanine,-1
+N-Methyl-1-[(trimethylsilyl)oxy]-1-{4-[(trimethylsilyl)oxy]phenyl}propan-2-amine,Krt23,-1
+Diethylamine,N-Methyl-1-[(trimethylsilyl)oxy]-1-{4-[(trimethylsilyl)oxy]phenyl}propan-2-amine,1
+Heptylamine,N-Methyl-1-[(trimethylsilyl)oxy]-1-{4-[(trimethylsilyl)oxy]phenyl}propan-2-amine,1
+Hexacosanoic acid,N-Methyl-1-[(trimethylsilyl)oxy]-1-{4-[(trimethylsilyl)oxy]phenyl}propan-2-amine,1
+N-Caffeoyl-O-methyltyramine,N-Methyl-1-[(trimethylsilyl)oxy]-1-{4-[(trimethylsilyl)oxy]phenyl}propan-2-amine,1
+Suberic acid,N-Methyl-1-[(trimethylsilyl)oxy]-1-{4-[(trimethylsilyl)oxy]phenyl}propan-2-amine,1
+Nonanoic acid,Pi4ka,1
+Oleamide,Rif1,-1
+"2-Allyl-1,4-dimethoxybenzene","Phenol, 2,4-bis(1-methyl-1-phenylethyl)-",1
+Propylene glycol,Imp3,-1
+3-Buten-2-one,Propylene glycol,1
+Salsoline,Bcl7a,-1
+2-Propyl-1-pentanol,"(2,5-Dimethoxyphenyl)acetone",1
+Hexacosanoic acid,"(2,5-Dimethoxyphenyl)acetone",1
+2-Naphthol,Hexacosanoic acid,1
+"6-Aminocaproic acid, N-(tert.-butyldimethylsilyl)",Hexacosanoic acid,1
+Curcumin,Hexacosanoic acid,1
+Frangulin,Hexacosanoic acid,1
+Glycerol,Hexacosanoic acid,1
+Niacin,Hexacosanoic acid,1
+Norketamine,Hexacosanoic acid,1
+Yangonin,Hexacosanoic acid,1
+"Erythrono-1,4-lactone","1-(1-Hydroxybutyl)-2,5-dimethoxybenzene ",1
+Mevalonolactone,"1-(1-Hydroxybutyl)-2,5-dimethoxybenzene ",1
+"3,4-Methylenedioxyamphetamine",Mevalonolactone,-1
+Butyric Acid,"1-(2,4-Dimethoxyphenyl)-propan-2-one",1
+Hexanoic acid,Butyric Acid,1
+Phenoxyethanol,Butyric Acid,1
+"2,4-Imidazolidinedione, 5,5-dimethyl","1-(4-Methoxyphenyl)-4,6-dimethyl-2(1H)-pyrimidinone",-1
+"2,5-Dimethoxybenzhydrazide","1-(4-Methoxyphenyl)-4,6-dimethyl-2(1H)-pyrimidinone",1
+"2',5'-Dimethoxypropiophenone","1-(4-Methoxyphenyl)-4,6-dimethyl-2(1H)-pyrimidinone",1
+2-Amino-4-methylbenzophenone,"1-(4-Methoxyphenyl)-4,6-dimethyl-2(1H)-pyrimidinone",1
+6-Methyluracil,"1-(4-Methoxyphenyl)-4,6-dimethyl-2(1H)-pyrimidinone",-1
+Aconitic acid,"1-(4-Methoxyphenyl)-4,6-dimethyl-2(1H)-pyrimidinone",1
+"Hymexazole, tert-butyldimethylsilyl ether","1-(4-Methoxyphenyl)-4,6-dimethyl-2(1H)-pyrimidinone",-1
+"Kojic acid, bis(tert-butyldimethylsilyl) ether","1-(4-Methoxyphenyl)-4,6-dimethyl-2(1H)-pyrimidinone",-1
+2-Amino-4-methylbenzophenone,"2,4-Imidazolidinedione, 5,5-dimethyl",-1
+3-Aminobenzoic acid,"2,4-Imidazolidinedione, 5,5-dimethyl",1
+6-Methyluracil,"2,4-Imidazolidinedione, 5,5-dimethyl",1
+Durapan,"2,4-Imidazolidinedione, 5,5-dimethyl",1
+"Hymexazole, tert-butyldimethylsilyl ether","2,4-Imidazolidinedione, 5,5-dimethyl",1
+"Kojic acid, bis(tert-butyldimethylsilyl) ether","2,4-Imidazolidinedione, 5,5-dimethyl",1
+Methanesulfonic acid,"2,4-Imidazolidinedione, 5,5-dimethyl",1
+Methylthiouracil,"2,4-Imidazolidinedione, 5,5-dimethyl",1
+Pinosylvin,"2,4-Imidazolidinedione, 5,5-dimethyl",1
+"2,5-Bis((tert-butyldimethylsilyl)oxy)-4,4-dimethyl-4H-imidazole","2,5-Dimethoxybenzhydrazide",-1
+"2,5-Dimethoxyphenol","2,5-Dimethoxybenzhydrazide",1
+"2',5'-Dimethoxypropiophenone","2,5-Dimethoxybenzhydrazide",1
+6-Methyluracil,"2,5-Dimethoxybenzhydrazide",-1
+Cyclooctylamine,"2,5-Dimethoxybenzhydrazide",1
+Durapan,"2,5-Dimethoxybenzhydrazide",-1
+"Hymexazole, tert-butyldimethylsilyl ether","2,5-Dimethoxybenzhydrazide",-1
+Ketamine,"2,5-Dimethoxybenzhydrazide",-1
+Methanesulfonic acid,"2,5-Dimethoxybenzhydrazide",-1
+Methylthiouracil,"2,5-Dimethoxybenzhydrazide",-1
+"2,5-Bis((tert-butyldimethylsilyl)oxy)-4,4-dimethyl-4H-imidazole","2',5'-Dimethoxypropiophenone",-1
+Durapan,"2',5'-Dimethoxypropiophenone",-1
+Methylthiouracil,"2',5'-Dimethoxypropiophenone",-1
+6-Methyluracil,2-Amino-4-methylbenzophenone,-1
+"Hymexazole, tert-butyldimethylsilyl ether",2-Amino-4-methylbenzophenone,-1
+"Kojic acid, bis(tert-butyldimethylsilyl) ether",2-Amino-4-methylbenzophenone,-1
+3-Aminobenzoic acid,6-Methyluracil,1
+Durapan,6-Methyluracil,1
+"Hymexazole, tert-butyldimethylsilyl ether",6-Methyluracil,1
+"Kojic acid, bis(tert-butyldimethylsilyl) ether",6-Methyluracil,1
+Methanesulfonic acid,6-Methyluracil,1
+Methylthiouracil,6-Methyluracil,1
+Pinosylvin,6-Methyluracil,1
+3-Aminobenzoic acid,"Hymexazole, tert-butyldimethylsilyl ether",1
+Cholesterol,"Hymexazole, tert-butyldimethylsilyl ether",1
+Durapan,"Hymexazole, tert-butyldimethylsilyl ether",1
+"Kojic acid, bis(tert-butyldimethylsilyl) ether","Hymexazole, tert-butyldimethylsilyl ether",1
+Methanesulfonic acid,"Hymexazole, tert-butyldimethylsilyl ether",1
+Methylthiouracil,"Hymexazole, tert-butyldimethylsilyl ether",1
+Pinosylvin,"Hymexazole, tert-butyldimethylsilyl ether",1
+3-Aminobenzoic acid,"Kojic acid, bis(tert-butyldimethylsilyl) ether",1
+Durapan,"Kojic acid, bis(tert-butyldimethylsilyl) ether",1
+Heptylamine,"Kojic acid, bis(tert-butyldimethylsilyl) ether",1
+Methanesulfonic acid,"Kojic acid, bis(tert-butyldimethylsilyl) ether",1
+Methylthiouracil,"Kojic acid, bis(tert-butyldimethylsilyl) ether",1
+Pinosylvin,"Kojic acid, bis(tert-butyldimethylsilyl) ether",1
+Yangonin,1-(tert-Butyldimethylsilyl)-4-methyl-1H-pyrazole,1
+1-Octadecanol,Vanillylmandelic acid,1
+"2,2'-Bipyridine",Vanillylmandelic acid,1
+2-Decanol,Vanillylmandelic acid,1
+Citramalic acid,Vanillylmandelic acid,1
+Diacetyl monoxime,Vanillylmandelic acid,1
+"2,2'-Bipyridine",1-Octadecanol,1
+2-Decanol,1-Octadecanol,1
+2-Pentadecanone,1-Octadecanol,1
+3-Buten-2-one,1-Octadecanol,1
+"5-Nonanol, tert-butyldimethylsilyl ether",1-Octadecanol,1
+Citramalic acid,1-Octadecanol,1
+Diacetyl monoxime,1-Octadecanol,1
+Thymol,1-Octadecanol,1
+2-Decanol,"2,2'-Bipyridine",1
+"l-Norvaline, n-propargyloxycarbonyl-, isohexyl ester","2,2'-Bipyridine",-1
+Diacetyl monoxime,2-Decanol,1
+"l-Norvaline, n-propargyloxycarbonyl-, isohexyl ester",2-Decanol,-1
+"l-Norvaline, n-propargyloxycarbonyl-, isohexyl ester",3-Buten-2-one,-1
+"2,5-Dimethoxyphenol",Malic acid,-1
+"3,4-Methylenedioxyamphetamine",Malic acid,1
+Cyclooctylamine,Malic acid,-1
+5-Oxohexanoic Acid,"l-Norvaline, n-propargyloxycarbonyl-, isohexyl ester",-1
+Xylazine,"l-Norvaline, n-propargyloxycarbonyl-, isohexyl ester",-1
+N-Acetylaminoethanol,"2,3-Dihydroxybutanoic acid",1
+"2,5-Bis((tert-butyldimethylsilyl)oxy)-4,4-dimethyl-4H-imidazole",N-Acetylaminoethanol,-1
+Isobutanol,"2,4,6-Cycloheptatrien-1-one",-1
+Methylthiouracil,Isobutanol,-1
+Durapan,3-Aminobenzoic acid,1
+Methanesulfonic acid,3-Aminobenzoic acid,1
+Methylthiouracil,3-Aminobenzoic acid,1
+Pinosylvin,3-Aminobenzoic acid,1
+"2-Butenoic acid, 3-[(tert-butyldimethylsilyl)oxy]",Durapan,-1
+Methanesulfonic acid,Durapan,1
+Methylthiouracil,Durapan,1
+Pinosylvin,Durapan,1
+2-Hexanol,Methanesulfonic acid,-1
+Methylthiouracil,Methanesulfonic acid,1
+Phenoxyethanol,Methanesulfonic acid,1
+Pinosylvin,Methanesulfonic acid,1
+"2,5-Bis((tert-butyldimethylsilyl)oxy)-4,4-dimethyl-4H-imidazole",Methylthiouracil,1
+Ketamine,Methylthiouracil,1
+Phenoxyethanol,Methylthiouracil,1
+Pinosylvin,Methylthiouracil,1
+Phenoxyethanol,Pinosylvin,1
+"Cyclohexanone, 3,3,5-trimethyl","2,5-Bis((tert-butyldimethylsilyl)oxy)-4,4-dimethyl-4H-imidazole",-1
+Cyclooctylamine,"2,5-Bis((tert-butyldimethylsilyl)oxy)-4,4-dimethyl-4H-imidazole",-1
+Trimethylolpropane,"3-(4,7-Dimethoxy-2H-1,3-benzodioxol-5-yl)-2-methylprop-2-enal",1
+2-Methyl-3-pentanol,"Cyclohexanone, 3,3,5-trimethyl",1
+L-Threonine,"Cyclohexanone, 3,3,5-trimethyl",-1
+"2,5-Dimethoxyphenol",Cyclooctylamine,1
+"3,4-Methylenedioxyamphetamine","2,5-Dimethoxyphenol",-1
+Benzyl alcohol,Ketamine,1
+8-Methylnonanoic acid,2-Methyl-3-pentanol,1
+"Benzene, 1,4-dimethoxy",2-Methyl-3-pentanol,1
+Trimethylolpropane,Diethylamine,1
+Uracil,"3,4-Methylenedioxyamphetamine",1
+"Naringenin 4',7-dimethylether",Trimethylolpropane,1
+Benzophenone,2-Butoxyethanol,1
+Iminodiacetic acid,2-Butoxyethanol,1
+"2'-Hydroxy-2,4,4',5-tetramethoxychalcone",Benzophenone,1
+2-Hydroxy-3-methylbutyric acid,Benzophenone,1
+Frangulin,Benzophenone,1
+N-Caffeoyl-O-methyltyramine,Iminodiacetic acid,1
+Suberic acid,Iminodiacetic acid,1
+N-Acetylaspartic acid,2-Ethylhexanoic acid,1
+Pentanoic acid,2-Ethylhexanoic acid,1
+2-Hydroxy-3-methylbutyric acid,"2'-Hydroxy-2,4,4',5-tetramethoxychalcone",1
+Butachlor ESA,"2'-Hydroxy-2,4,4',5-tetramethoxychalcone",1
+L-Tryptophan,"2'-Hydroxy-2,4,4',5-tetramethoxychalcone",1
+Suberic acid,"2'-Hydroxy-2,4,4',5-tetramethoxychalcone",1
+Butachlor ESA,2-Hydroxy-3-methylbutyric acid,1
+DL-p-Hydroxyphenyllactic acid,2-Hydroxy-3-methylbutyric acid,1
+Frangulin,2-Hydroxy-3-methylbutyric acid,1
+Suberic acid,2-Hydroxy-3-methylbutyric acid,1
+5-Azacytosine,Butachlor ESA,1
+Isopropylamine,Butachlor ESA,-1
+"6-Aminocaproic acid, N-(tert.-butyldimethylsilyl)",L-Tryptophan,1
+Heptylamine,L-Tryptophan,1
+4-Oxohexanoic acid,Suberic acid,1
+Aniline,DL-p-Hydroxyphenyllactic acid,1
+Pipecolic acid,Myristic acid,1
+Heptylamine,2-Naphthol,1
+Cholesterol,Uracil,1
+Tetrahydro-solasodine triacetate,"6-Aminocaproic acid, N-(tert.-butyldimethylsilyl)",1
+Phenoxyethanol,"6-Methoxy-1-methyl-1,2,3,4-tetrahydroisoquinolin-7-ol ",-1
+Dodecanoic acid,Benzyl alcohol,1
+Formamide,Hexanoic acid,1
+"N,N-Dimethyl-2-aminoethanol",Cholesterol,1
