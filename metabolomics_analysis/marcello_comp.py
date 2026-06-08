@@ -1,25 +1,23 @@
 # 5-4-26
-# script for comparing de-derivatized metabolites against existing metabolite list 
-# result was processed in excel for repeating values 
+# script for comparing Lauren de-derivatized metabolite names against Marcello names
 # most of this code comes from pubchem_rest.py
 
 import pandas as pd
 import pubchempy as pcp
 import time
 
-PLS = pd.read_excel("metabolites_analysis.xlsx", sheet_name="Duplicate Check PLS")
-PLS.attrs["Name"] = "PLS"
-FEC = pd.read_excel("metabolites_analysis.xlsx", sheet_name="Duplicate Check FEC")
-FEC.attrs["Name"] = "FEC"
-CSF = pd.read_excel("metabolites_analysis.xlsx", sheet_name="Duplicate Check CSF")
-CSF.attrs["Name"] = "CSF"
+data = pd.read_excel("metabolites_analysis.xlsx", sheet_name="Marcello Comparison")
+M = data["Marcello Name"]
+M.attrs["Name"] = "M"
 
-#networks = [PLS, FEC, CSF]
-networks = [CSF]
+L = data["Lauren Name"]
+L.attrs["Name"] = "L"
 
-for net in networks:
+to_check = [M, L]
+
+for net in to_check:
     mets = []  
-    for name in net.iloc[:,0]:
+    for name in net:
         try:
             results = pcp.get_compounds(name, "name")
         except:
@@ -37,4 +35,4 @@ for net in networks:
             mets.append({'metabolite': name, 'pubchem_id': None}) 
 
     results_df = pd.DataFrame(mets)
-    results_df.to_csv(f"duplicate_analysis_{net.attrs["Name"]}.tsv", sep = "\t", index=False)
+    results_df.to_csv(f"m_comp_{net.attrs["Name"]}.tsv", sep = "\t", index=False)
