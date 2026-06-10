@@ -1,11 +1,10 @@
+##STEP 1.6 OF ANALYSIS PLAN
+
 import networkx as nx
 import pandas as pd
 import matplotlib.pyplot as plt
 import time
 import pickle
-
-#predictr/predictdir
-#direction of change 
 
 def vote(G, neighbor, target):
     #up = 1, down = -1

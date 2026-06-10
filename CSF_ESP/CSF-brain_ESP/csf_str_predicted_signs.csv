@@ -1,0 +1,9 @@
+n1,n2,csf_dir,brain_dir,predicted_sign
+ENSMUSG00000001552-S,"1-(4-Methoxyphenyl)-4,6-dimethyl-2(1H)-pyrimidinone",-1.0,-1.0,1
+ENSMUSG00000020610-S,Azelaic acid,-1.0,1.0,-1
+ENSMUSG00000026360-S,Xylazine,-1.0,-1.0,1
+ENSMUSG00000028937-S,"Propanoic acid, dimethyl(isopropyl)silyl ester",,1.0,
+ENSMUSG00000031309-S,Norephedrine,,-1.0,
+ENSMUSG00000032567-S,Norephedrine,,-1.0,
+ENSMUSG00000036053-S,Methanesulfonic acid,1.0,1.0,1
+ENSMUSG00000038984-S,Methyl lactate,,-1.0,
