@@ -12,21 +12,18 @@ def compute_correlations(data, model_name):
       .astype(str)
       .str.strip()         
       .str.replace("–", "-", regex=False)
-      .values
-    )
+      .values)
     
     #identify genes and metabolites
     c_data = [
         (i, node_val)
         for i, node_val in enumerate(nodes_clean)
-        if node_val.startswith("ENSMUSG") and node_val.endswith("-S")
-    ]
+        if node_val.startswith("ENSMUSG") and node_val.endswith("-S")]
 
     f_data = [
         (i, node_val)
         for i, node_val in enumerate(nodes_clean)
-        if not node_val.startswith("ENSMUSG")
-    ]
+        if not node_val.startswith("ENSMUSG")]
 
     
     #get sample columns 
@@ -75,18 +72,18 @@ vecpac = pd.read_csv("merged_vecpac.csv")
 lps = pd.read_csv("merged_lps.csv")
 
 #compute correlations for each model separately
-#dss_correlations = compute_correlations(dss, "DSS")
-#dss_correlations.to_csv("DSS_correlations.csv", index=False)
+dss_correlations = compute_correlations(dss, "DSS")
+dss_correlations.to_csv("DSS_correlations.csv", index=False)
 print("dss done")
 chime.success()
 
-#vecpac_correlations = compute_correlations(vecpac, "VECPAC")
-#vecpac_correlations.to_csv("VECPAC_correlations.csv", index=False)
+vecpac_correlations = compute_correlations(vecpac, "VECPAC")
+vecpac_correlations.to_csv("VECPAC_correlations.csv", index=False)
 print("vecpac done")
 chime.success()
 
-#lps_correlations = compute_correlations(lps, "LPS")
-#lps_correlations.to_csv("LPS_correlations.csv", index=False)
+lps_correlations = compute_correlations(lps, "LPS")
+lps_correlations.to_csv("LPS_correlations.csv", index=False)
 print("lps done")
 chime.success()
 
