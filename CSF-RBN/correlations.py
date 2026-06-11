@@ -19,14 +19,12 @@ def compute_correlations(data, model_name):
     c_data = [
         (i, node_val)
         for i, node_val in enumerate(nodes_clean)
-        if node_val.startswith("ENSMUSG") and node_val.endswith("-B")
-    ]
+        if node_val.startswith("ENSMUSG") and node_val.endswith("-B")]
 
     f_data = [
         (i, node_val)
         for i, node_val in enumerate(nodes_clean)
-        if not node_val.startswith("ENSMUSG")
-    ]
+        if not node_val.startswith("ENSMUSG")]
 
     
     #get sample columns 

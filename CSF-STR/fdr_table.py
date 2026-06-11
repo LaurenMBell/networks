@@ -30,7 +30,7 @@ model_r_cols = ["VECPAC_r", "DSS_r", "LPS_r"]
 all_r_cols = model_r_cols + ["Pooled_r"]
 
 df["r Count"] = df[model_r_cols].notna().sum(axis=1)
-df_valid = df[df["r Count"] >= 2].copy()
+df_valid = df[df["r Count"] >= 1].copy()
 
 df_valid["Consistent"] = df_valid[all_r_cols].apply(
     lambda row: (np.nanmin(row) > 0) or (np.nanmax(row) < 0), axis=1)
