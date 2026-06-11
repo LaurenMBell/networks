@@ -39,10 +39,16 @@ for i in df.index:
     else:
         df.loc[i, "pooled_r_sign"] = -1
 
+#IF MODEL SIGN == POOLED R SIGN
 df["model_agreement_pooled_sign"] = (df["model_sign"] == df["pooled_r_sign"]).map({True: 1, False: -1}, na_action='ignore')
+
+#IF MODEL SIGN == PRED SIGN
 df["model_agreement_pred_sign"] = (df["model_sign"] == df["predicted_sign"]).map({True: 1, False: -1}, na_action='ignore')
+
+#IF POOLED R SIGN = PRED SIGN
 df["pooled_pred_agreement_sign"] = (df["pooled_r_sign"] == df["predicted_sign"]).map({True: 1, False: -1}, na_action='ignore')
 
+#IF ALL SIGNS AGREE
 df["all_sign_agreement"] = ((df["model_agreement_pooled_sign"] == 1) &
     (df["model_agreement_pred_sign"] == 1) & 
     (df["pooled_pred_agreement_sign"] == 1)).map({True: 1, False: -1})
