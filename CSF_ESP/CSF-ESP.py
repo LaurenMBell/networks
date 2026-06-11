@@ -159,16 +159,16 @@ def same_level_edges(G, curr_layer, d, f):
 def csf_cpx_rpuc(f):
     f.write(time.strftime("CURRENT TIME: %Y-%m-%d %H:%M:%S\n\n"))
     f.write("Started CSF-CPX!\n")
-    csf_cpx = pd.read_csv("../CSF-CPX/CSF-CPX_FDR_threshold.csv")
+    csf_cpx = pd.read_csv("CSF-CPX_FDR_threshold.csv")
     csf_cpx = csf_cpx[csf_cpx["Pooled FDR"] <= 0.1]
 
-    csf = pd.read_csv("../CSF/CSF_FDR_threshold.csv")
+    csf = pd.read_csv("CSF_FDR_threshold.csv")
     csf = csf[(csf["Pooled FDR"] <= 0.05) & (csf[["VECPAC_p", "DSS_p", "LPS_p"]].max(axis=1) <= 0.2)]
     cpx_node_dir = pd.read_csv("network_nodes.csv") #LAUREN YOU NEED TO TAKE THIS FROM THE DATA
     
     
     l0 = set(csf_cpx['cpx_gene']) #going to be the cpx nodes in csf-cpx
-    #l1 =  set(csf_cpx['csf_metabolite']) #going to be csf nodes in csf-cpx
+    l1 =  set(csf_cpx['csf_metabolite']) #going to be csf nodes in csf-cpx
 
     #node direction hash table (gene:dir)
     dirs = dict(zip(cpx_node_dir["ID"], cpx_node_dir["Mean Log2 Fold Change Direction (DSS)"]))
