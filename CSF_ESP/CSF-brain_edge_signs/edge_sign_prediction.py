@@ -2,6 +2,7 @@
 
 import pandas as pd
 import pickle
+import numpy as np
 
 p = open("../id_to_symbol_map.pickle", 'rb')
 name_dict = pickle.load(p)
@@ -10,8 +11,10 @@ p.close()
 def predict_one_sign(row):
         csf = row["csf_dir"]
         brain = row["brain_dir"]
-        if pd.isna(csf) or pd.isna(brain):
-            return None
+        if pd.isna(csf):
+            return np.nan
+        if pd.isna(brain):
+             return np.nan
         if csf == brain:
             return "1"
         else:

@@ -1,0 +1,24 @@
+n1,n2,VECPAC_r,LPS_r,DSS_r,pooled_r,predicted_sign,model_agreement_pooled_sign,model_agreement_pred_sign,pooled_pred_agreement_sign,all_sign_agreement
+ENSMUSG00000001552-S,"1-(4-Methoxyphenyl)-4,6-dimethyl-2(1H)-pyrimidinone",,-0.8999999999999998,-1.0,-0.9833333333333332,1.0,1,-1,-1,-1
+ENSMUSG00000020610-S,Azelaic acid,,-0.8720815992723809,-1.0,-0.979088068244196,-1.0,1,1,1,1
+ENSMUSG00000026360-S,Xylazine,,1.0,1.0,0.9958246164193104,1.0,1,1,1,1
+ENSMUSG00000028937-S,"Propanoic acid, dimethyl(isopropyl)silyl ester",,-1.0,-1.0,-0.9940297973880048,,1,-1,-1,-1
+ENSMUSG00000031309-S,Norephedrine,,1.0,1.0,1.0,,1,-1,-1,-1
+ENSMUSG00000032567-S,Norephedrine,,1.0,1.0,1.0,,1,-1,-1,-1
+ENSMUSG00000036053-S,Methanesulfonic acid,,-1.0,-1.0,-1.0,1.0,1,-1,-1,-1
+ENSMUSG00000038984-S,Methyl lactate,,1.0,1.0,0.9940297973880048,,1,-1,-1,-1
+ENSMUSG00000003418-C,Durapan,,1.0,1.0,1.0,1.0,1,1,1,1
+ENSMUSG00000005089-C,2-Butenedioic acid,,-1.0,-1.0,-0.9910312089651148,,1,-1,-1,-1
+ENSMUSG00000016833-C,Heptylamine,,-1.0,-1.0,-1.0,-1.0,1,1,1,1
+ENSMUSG00000020592-C,Durapan,,1.0,1.0,1.0,-1.0,1,-1,-1,-1
+ENSMUSG00000021188-C,N-Acetyl-L-alanine,,-1.0,-1.0,-0.9880235200593538,-1.0,1,1,1,1
+ENSMUSG00000026017-C,Adenine,,-1.0,-1.0,-1.0,,1,-1,-1,-1
+ENSMUSG00000026197-C,Glycine,,-1.0,-1.0,-1.0,-1.0,1,1,1,1
+ENSMUSG00000029513-C,"1-(4-Methoxyphenyl)-4,6-dimethyl-2(1H)-pyrimidinone",,-1.0,-1.0,-0.9910312089651148,1.0,1,-1,-1,-1
+ENSMUSG00000031574-C,Leucylglycine,,1.0,1.0,1.0,,1,-1,-1,-1
+ENSMUSG00000032418-C,Urea,,-1.0,-1.0,-0.9940297973880048,,1,-1,-1,-1
+ENSMUSG00000041058-C,N-Acetyl-L-alanine,,-1.0,-1.0,-0.9880235200593538,-1.0,1,1,1,1
+ENSMUSG00000050315-C,3-Aminobenzoic acid,,1.0,1.0,0.9910312089651148,-1.0,1,-1,-1,-1
+ENSMUSG00000057440-C,2-Propyl-1-pentanol,,-1.0,-1.0,-1.0,-1.0,1,1,1,1
+ENSMUSG00000062352-C,"Propanoic acid, dimethyl(isopropyl)silyl ester",,-1.0,-1.0,-1.0,,1,-1,-1,-1
+ENSMUSG00000087516-C,"Cyclopentaneacetic acid, 3-oxo-2-pentyl-, methyl ester",,-0.8660254037844387,-1.0,-0.9879518072289156,,1,-1,-1,-1
