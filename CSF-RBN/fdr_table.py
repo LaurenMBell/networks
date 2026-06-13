@@ -30,20 +30,30 @@ model_r_cols = ["VECPAC_r", "DSS_r", "LPS_r"]
 all_r_cols = model_r_cols + ["Pooled_r"]
 
 df["r Count"] = df[model_r_cols].notna().sum(axis=1)
-df_valid = df[df["r Count"] >= 0].copy()
+df.to_csv("all_correlations_pre_FDR.csv", index=False)
+print(f"saved all_correlations_pre_FDR.csv")
 
-df_valid.to_csv("all_correlations_pre_FDR.csv", index=False)
-print("saved all_correlations_pre_FDR.csv")
 
-is_consistent = df_valid[df_valid["Pooled_p"].notna()].copy()
+is_consistent = df[df["Pooled_p"].notna()].copy()
 
 is_consistent["Sign"] = np.where(is_consistent["Pooled_r"] > 0, "+", "-")
 
-i, corrected_pvals = fdrcorrection(is_consistent["Pooled_p"], alpha=0.05, method="indep", is_sorted=False)
-is_consistent["Pooled FDR"] = corrected_pvals
+valid_pvals_mask = pd.to_numeric(is_consistent["Pooled_p"], errors='coerce').notna()
+valid_pvals = is_consistent.loc[valid_pvals_mask, "Pooled_p"]
+
+is_consistent["Pooled FDR"] = np.nan
+
+if len(valid_pvals) > 0:
+    rejected, corrected_pvals = fdrcorrection(
+        valid_pvals.values,
+        alpha=0.05,
+        method="indep",
+        is_sorted=False
+    )
+    is_consistent.loc[valid_pvals_mask, "Pooled FDR"] = corrected_pvals
 
 is_consistent.to_csv("CSF-RBN_FDR.csv", index=False)
-print("saved CSF-RBN_FDR.csv")
+print(f"saved CSF-RBN_FDR.csv")
 
 thresholded = is_consistent[is_consistent["Pooled FDR"] <= 0.05]
 thresholded.to_csv("CSF-RBN_FDR_threshold.csv", index=False)

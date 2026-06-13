@@ -35,7 +35,7 @@ df_valid = df[df["r Count"] >= 0].copy()
 df_valid.to_csv("all_correlations_pre_FDR.csv", index=False)
 print("saved all_correlations_pre_FDR.csv")
 
-is_consistent = df_valid[df_valid["Pooled_p"].notna()].copy()
+is_consistent = df_valid[df_valid["Pooled_p"]].copy()
 
 is_consistent["Sign"] = np.where(is_consistent["Pooled_r"] > 0, "+", "-")
 
