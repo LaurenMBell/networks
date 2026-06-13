@@ -33,24 +33,28 @@ df["r Count"] = df[model_r_cols].notna().sum(axis=1)
 df.to_csv("all_correlations_pre_FDR.csv", index=False)
 print(f"saved all_correlations_pre_FDR.csv")
 
-
 is_consistent = df[df["Pooled_p"].notna()].copy()
-
 is_consistent["Sign"] = np.where(is_consistent["Pooled_r"] > 0, "+", "-")
 
-valid_pvals_mask = pd.to_numeric(is_consistent["Pooled_p"], errors='coerce').notna()
-valid_pvals = is_consistent.loc[valid_pvals_mask, "Pooled_p"]
+pooled_r_numeric = pd.to_numeric(is_consistent["Pooled_r"], errors='coerce')
+pooled_p_numeric = pd.to_numeric(is_consistent["Pooled_p"], errors='coerce')
 
+valid_pvals_mask = (
+    pooled_p_numeric.notna()
+    & pooled_r_numeric.notna()
+    & (pooled_r_numeric != 0)
+)
+
+valid_pvals = is_consistent.loc[valid_pvals_mask, "Pooled_p"]
 is_consistent["Pooled FDR"] = np.nan
 
-if len(valid_pvals) > 0:
-    rejected, corrected_pvals = fdrcorrection(
+rejected, corrected_pvals = fdrcorrection(
         valid_pvals.values,
         alpha=0.05,
         method="indep",
-        is_sorted=False
-    )
-    is_consistent.loc[valid_pvals_mask, "Pooled FDR"] = corrected_pvals
+        is_sorted=False)
+print(len(corrected_pvals))
+is_consistent.loc[valid_pvals_mask, "Pooled FDR"] = corrected_pvals
 
 is_consistent.to_csv("CSF-CTX_FDR.csv", index=False)
 print(f"saved CSF-CTX_FDR.csv")
