@@ -30,12 +30,12 @@ model_r_cols = ["VECPAC_r", "DSS_r", "LPS_r"]
 all_r_cols = model_r_cols + ["Pooled_r"]
 
 df["r Count"] = df[model_r_cols].notna().sum(axis=1)
-df_valid = df[df["r Count"] >= 0].copy()
+df_valid = df.copy() 
 
 df_valid.to_csv("all_correlations_pre_FDR.csv", index=False)
 print("saved all_correlations_pre_FDR.csv")
 
-is_consistent = df_valid[df_valid["Pooled_p"]].copy()
+is_consistent = df_valid[df_valid["Pooled_p"].notna()].copy()
 
 is_consistent["Sign"] = np.where(is_consistent["Pooled_r"] > 0, "+", "-")
 
@@ -47,6 +47,4 @@ print("saved CSF-STR_FDR.csv")
 
 thresholded = is_consistent[is_consistent["Pooled FDR"] <= 0.05]
 thresholded.to_csv("CSF-STR_FDR_threshold.csv", index=False)
-
-
 
