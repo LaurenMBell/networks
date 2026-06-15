@@ -1,41 +1,12 @@
-CURRENT TIME: 2026-06-11 10:30:25
+CURRENT TIME: 2026-06-14 21:25:03
 
 Started CSF-CPX!
 
-NODE:Glycine, tert.-butyldimethylsilyl ester,
+NODE:Nonanoic acid,
 LAYER:1
-neighbor vote ENSMUSG00000066357-P: down
-positive votes: 0
-negative votes: 1
-frustration=0.0
-
-NODE:4-Methoxyphenol,
-LAYER:1
-neighbor vote ENSMUSG00000038780-P: up
+neighbor vote ENSMUSG00000041720-P: up
 positive votes: 1
 negative votes: 0
-frustration=0.0
-
-NODE:Hypoxanthine,
-LAYER:1
-neighbor vote ENSMUSG00000031637-P: up
-positive votes: 1
-negative votes: 0
-frustration=0.0
-
-NODE:Lignoceric acid,
-LAYER:1
-neighbor vote ENSMUSG00000027706-P: up
-neighbor vote ENSMUSG00000054720-P: up
-positive votes: 2
-negative votes: 0
-frustration=0.0
-
-NODE:Propylene glycol,
-LAYER:1
-neighbor vote ENSMUSG00000032288-P: down
-positive votes: 0
-negative votes: 1
 frustration=0.0
 
 NODE:Azelaic acid,
@@ -47,18 +18,25 @@ positive votes: 0
 negative votes: 3
 frustration=0.0
 
-NODE:Salsoline,
-LAYER:1
-neighbor vote ENSMUSG00000029438-P: up
-positive votes: 1
-negative votes: 0
-frustration=0.0
-
 NODE:N-Methyl-1-[(trimethylsilyl)oxy]-1-{4-[(trimethylsilyl)oxy]phenyl}propan-2-amine,
 LAYER:1
 neighbor vote ENSMUSG00000006777-P: up
 positive votes: 1
 negative votes: 0
+frustration=0.0
+
+NODE:Hypoxanthine,
+LAYER:1
+neighbor vote ENSMUSG00000031637-P: up
+positive votes: 1
+negative votes: 0
+frustration=0.0
+
+NODE:Glycine,
+LAYER:1
+neighbor vote ENSMUSG00000066357-P: down
+positive votes: 0
+negative votes: 1
 frustration=0.0
 
 NODE:L-Tyrosine,
@@ -68,18 +46,11 @@ positive votes: 0
 negative votes: 1
 frustration=0.0
 
-NODE:Nonanoic acid,
+NODE:4-Methoxyphenol,
 LAYER:1
-neighbor vote ENSMUSG00000041720-P: up
+neighbor vote ENSMUSG00000038780-P: up
 positive votes: 1
 negative votes: 0
-frustration=0.0
-
-NODE:Phenol, 2,4-bis(1-methyl-1-phenylethyl)-,
-LAYER:1
-neighbor vote ENSMUSG00000047371-P: down
-positive votes: 0
-negative votes: 1
 frustration=0.0
 
 NODE:2,4-Di-tert-butylphenol,
@@ -90,11 +61,18 @@ positive votes: 0
 negative votes: 2
 frustration=0.0
 
-NODE:Glycine,
+NODE:Phenol, 2,4-bis(1-methyl-1-phenylethyl)-,
 LAYER:1
-neighbor vote ENSMUSG00000066357-P: down
+neighbor vote ENSMUSG00000047371-P: down
 positive votes: 0
 negative votes: 1
+frustration=0.0
+
+NODE:Salsoline,
+LAYER:1
+neighbor vote ENSMUSG00000029438-P: up
+positive votes: 1
+negative votes: 0
 frustration=0.0
 
 NODE:Oleamide,
@@ -102,13 +80,6 @@ LAYER:1
 neighbor vote ENSMUSG00000036202-P: up
 positive votes: 1
 negative votes: 0
-frustration=0.0
-
-NODE:2-Cyclohexen-1-one, 3-methyl-,
-LAYER:1
-neighbor vote ENSMUSG00000017286-P: down
-positive votes: 0
-negative votes: 1
 frustration=0.0
 
 NODE:N-Acetyl-L-alanine,
@@ -126,11 +97,61 @@ positive votes: 2
 negative votes: 0
 frustration=0.0
 
+NODE:Propylene glycol,
+LAYER:1
+neighbor vote ENSMUSG00000032288-P: down
+positive votes: 0
+negative votes: 1
+frustration=0.0
+
+NODE:2-Cyclohexen-1-one, 3-methyl-,
+LAYER:1
+neighbor vote ENSMUSG00000017286-P: down
+positive votes: 0
+negative votes: 1
+frustration=0.0
+
+NODE:Glycine, tert.-butyldimethylsilyl ester,
+LAYER:1
+neighbor vote ENSMUSG00000066357-P: down
+positive votes: 0
+negative votes: 1
+frustration=0.0
+
+NODE:Lignoceric acid,
+LAYER:1
+neighbor vote ENSMUSG00000027706-P: up
+neighbor vote ENSMUSG00000054720-P: up
+positive votes: 2
+negative votes: 0
+frustration=0.0
+
+NODE:N-Caffeoyl-O-methyltyramine,
+LAYER:2
+neighbor vote N-Methyl-1-[(trimethylsilyl)oxy]-1-{4-[(trimethylsilyl)oxy]phenyl}propan-2-amine: up
+positive votes: 1
+negative votes: 0
+frustration=0.0
+
 NODE:Suberic acid,
 LAYER:2
 neighbor vote Lignoceric acid: up
 neighbor vote N-Methyl-1-[(trimethylsilyl)oxy]-1-{4-[(trimethylsilyl)oxy]phenyl}propan-2-amine: up
 positive votes: 2
+negative votes: 0
+frustration=0.0
+
+NODE:3-Buten-2-one,
+LAYER:2
+neighbor vote Propylene glycol: down
+positive votes: 0
+negative votes: 1
+frustration=0.0
+
+NODE:Pipecolic acid,
+LAYER:2
+neighbor vote Lignoceric acid: up
+positive votes: 1
 negative votes: 0
 frustration=0.0
 
@@ -143,11 +164,11 @@ negative votes: 1
 Adenine node is removed (1.0 > 0.2)
 frustration=1.0
 
-NODE:2-Methyl-3-pentanol,
+NODE:Hexacosanoic acid,
 LAYER:2
-neighbor vote 2-Cyclohexen-1-one, 3-methyl-: down
-positive votes: 0
-negative votes: 1
+neighbor vote N-Methyl-1-[(trimethylsilyl)oxy]-1-{4-[(trimethylsilyl)oxy]phenyl}propan-2-amine: up
+positive votes: 1
+negative votes: 0
 frustration=0.0
 
 NODE:Hydracrylic acid,
@@ -157,21 +178,42 @@ positive votes: 0
 negative votes: 1
 frustration=0.0
 
-NODE:N-Caffeoyl-O-methyltyramine,
-LAYER:2
-neighbor vote N-Methyl-1-[(trimethylsilyl)oxy]-1-{4-[(trimethylsilyl)oxy]phenyl}propan-2-amine: up
-positive votes: 1
-negative votes: 0
-frustration=0.0
-
-NODE:Benzenepropanoic acid,
+NODE:2-Ethylhexanoic acid,
 LAYER:2
 neighbor vote 4-Methoxyphenol: down
 positive votes: 0
 negative votes: 1
 frustration=0.0
 
-NODE:2-Ethylhexanoic acid,
+NODE:2-Methyl-3-pentanol,
+LAYER:2
+neighbor vote 2-Cyclohexen-1-one, 3-methyl-: down
+positive votes: 0
+negative votes: 1
+frustration=0.0
+
+NODE:Heptylamine,
+LAYER:2
+neighbor vote N-Methyl-1-[(trimethylsilyl)oxy]-1-{4-[(trimethylsilyl)oxy]phenyl}propan-2-amine: up
+positive votes: 1
+negative votes: 0
+frustration=0.0
+
+NODE:2-Allyl-1,4-dimethoxybenzene,
+LAYER:2
+neighbor vote Phenol, 2,4-bis(1-methyl-1-phenylethyl)-: down
+positive votes: 0
+negative votes: 1
+frustration=0.0
+
+NODE:Guanosine,
+LAYER:2
+neighbor vote N-Acetyl-L-alanine: down
+positive votes: 0
+negative votes: 1
+frustration=0.0
+
+NODE:Benzenepropanoic acid,
 LAYER:2
 neighbor vote 4-Methoxyphenol: down
 positive votes: 0
@@ -191,54 +233,29 @@ neighbor vote 3-Heptanol: up
 positive votes: 1
 negative votes: 0
 frustration=0.0
-
-NODE:Hexacosanoic acid,
-LAYER:2
-neighbor vote N-Methyl-1-[(trimethylsilyl)oxy]-1-{4-[(trimethylsilyl)oxy]phenyl}propan-2-amine: up
-positive votes: 1
-negative votes: 0
-frustration=0.0
-
-NODE:Pipecolic acid,
-LAYER:2
-neighbor vote Lignoceric acid: up
-positive votes: 1
-negative votes: 0
-frustration=0.0
-
-NODE:Heptylamine,
-LAYER:2
-neighbor vote N-Methyl-1-[(trimethylsilyl)oxy]-1-{4-[(trimethylsilyl)oxy]phenyl}propan-2-amine: up
-positive votes: 1
-negative votes: 0
-frustration=0.0
-
-NODE:Guanosine,
-LAYER:2
-neighbor vote N-Acetyl-L-alanine: down
-positive votes: 0
-negative votes: 1
-frustration=0.0
-
-NODE:3-Buten-2-one,
-LAYER:2
-neighbor vote Propylene glycol: down
-positive votes: 0
-negative votes: 1
-frustration=0.0
-
-NODE:2-Allyl-1,4-dimethoxybenzene,
-LAYER:2
-neighbor vote Phenol, 2,4-bis(1-methyl-1-phenylethyl)-: down
-positive votes: 0
-negative votes: 1
-frustration=0.0
 SAME EDGE REMOVAL Diethylamine-2-Methyl-3-pentanol edge is removed in layer 2
 
-NODE:4-Oxohexanoic acid,
+NODE:D-Streptamine, O-6-amino-6-deoxy-alpha-D-glucopyranosyl-(1-4)-O-(3-deoxy-4-C-methyl-3-(methylamino)-beta-L-arabinopyranosyl-(1-6))-2-deoxy-,
 LAYER:3
+neighbor vote 2-Methyl-3-pentanol: down
 neighbor vote Suberic acid: up
 positive votes: 1
+negative votes: 1
+D-Streptamine, O-6-amino-6-deoxy-alpha-D-glucopyranosyl-(1-4)-O-(3-deoxy-4-C-methyl-3-(methylamino)-beta-L-arabinopyranosyl-(1-6))-2-deoxy- node is removed (1.0 > 0.2)
+frustration=1.0
+
+NODE:Mevalonolactone,
+LAYER:3
+neighbor vote 3,4-Methylenedioxyamphetamine: down
+positive votes: 0
+negative votes: 1
+frustration=0.0
+
+NODE:Iminodiacetic acid,
+LAYER:3
+neighbor vote N-Caffeoyl-O-methyltyramine: up
+neighbor vote Suberic acid: up
+positive votes: 2
 negative votes: 0
 frustration=0.0
 
@@ -249,32 +266,41 @@ positive votes: 1
 negative votes: 0
 frustration=0.0
 
-NODE:2-Hydroxy-3-methylbutyric acid,
+NODE:2'-Hydroxy-2,4,4',5-tetramethoxychalcone,
 LAYER:3
 neighbor vote Suberic acid: up
 positive votes: 1
 negative votes: 0
 frustration=0.0
 
-NODE:L-Tryptophan,
+NODE:Triethyl citrate,
 LAYER:3
-neighbor vote Heptylamine: up
+neighbor vote 3-Buten-2-one: down
+neighbor vote Hexacosanoic acid: up
 positive votes: 1
-negative votes: 0
-frustration=0.0
+negative votes: 1
+Triethyl citrate node is removed (1.0 > 0.2)
+frustration=1.0
 
-NODE:N-Acetylaspartic acid,
+NODE:1-Octadecanol,
 LAYER:3
-neighbor vote 2-Ethylhexanoic acid: down
+neighbor vote 3-Buten-2-one: down
 positive votes: 0
 negative votes: 1
 frustration=0.0
 
-NODE:Norketamine,
+NODE:6-Aminocaproic acid, N-(tert.-butyldimethylsilyl),
 LAYER:3
 neighbor vote Hexacosanoic acid: up
 positive votes: 1
 negative votes: 0
+frustration=0.0
+
+NODE:Cyclohexanone, 3,3,5-trimethyl,
+LAYER:3
+neighbor vote 2-Methyl-3-pentanol: down
+positive votes: 0
+negative votes: 1
 frustration=0.0
 
 NODE:(2,5-Dimethoxyphenyl)acetone,
@@ -291,28 +317,14 @@ positive votes: 1
 negative votes: 0
 frustration=0.0
 
-NODE:Yangonin,
+NODE:Myristic acid,
 LAYER:3
-neighbor vote Hexacosanoic acid: up
+neighbor vote Pipecolic acid: up
 positive votes: 1
 negative votes: 0
 frustration=0.0
 
-NODE:1-Octadecanol,
-LAYER:3
-neighbor vote 3-Buten-2-one: down
-positive votes: 0
-negative votes: 1
-frustration=0.0
-
-NODE:8-Methylnonanoic acid,
-LAYER:3
-neighbor vote 2-Methyl-3-pentanol: down
-positive votes: 0
-negative votes: 1
-frustration=0.0
-
-NODE:Curcumin,
+NODE:Niacin,
 LAYER:3
 neighbor vote Hexacosanoic acid: up
 positive votes: 1
@@ -326,17 +338,9 @@ positive votes: 1
 negative votes: 0
 frustration=0.0
 
-NODE:Iminodiacetic acid,
+NODE:2,5-Dimethoxyphenol,
 LAYER:3
-neighbor vote N-Caffeoyl-O-methyltyramine: up
-neighbor vote Suberic acid: up
-positive votes: 2
-negative votes: 0
-frustration=0.0
-
-NODE:Cyclohexanone, 3,3,5-trimethyl,
-LAYER:3
-neighbor vote 2-Methyl-3-pentanol: down
+neighbor vote 3,4-Methylenedioxyamphetamine: down
 positive votes: 0
 negative votes: 1
 frustration=0.0
@@ -348,20 +352,11 @@ positive votes: 1
 negative votes: 0
 frustration=0.0
 
-NODE:D-Streptamine, O-6-amino-6-deoxy-alpha-D-glucopyranosyl-(1-4)-O-(3-deoxy-4-C-methyl-3-(methylamino)-beta-L-arabinopyranosyl-(1-6))-2-deoxy-,
+NODE:8-Methylnonanoic acid,
 LAYER:3
 neighbor vote 2-Methyl-3-pentanol: down
-neighbor vote Suberic acid: up
-positive votes: 1
+positive votes: 0
 negative votes: 1
-D-Streptamine, O-6-amino-6-deoxy-alpha-D-glucopyranosyl-(1-4)-O-(3-deoxy-4-C-methyl-3-(methylamino)-beta-L-arabinopyranosyl-(1-6))-2-deoxy- node is removed (1.0 > 0.2)
-frustration=1.0
-
-NODE:2'-Hydroxy-2,4,4',5-tetramethoxychalcone,
-LAYER:3
-neighbor vote Suberic acid: up
-positive votes: 1
-negative votes: 0
 frustration=0.0
 
 NODE:Benzene, 1,4-dimethoxy,
@@ -371,18 +366,37 @@ positive votes: 0
 negative votes: 1
 frustration=0.0
 
-NODE:2,5-Dimethoxybenzonitrile,
+NODE:l-Norvaline, n-propargyloxycarbonyl-, isohexyl ester,
 LAYER:3
-neighbor vote 2-Methyl-3-pentanol: down
-neighbor vote Diethylamine: up
+neighbor vote 3-Buten-2-one: up
 positive votes: 1
-negative votes: 1
-2,5-Dimethoxybenzonitrile node is removed (1.0 > 0.2)
-frustration=1.0
+negative votes: 0
+frustration=0.0
 
 NODE:Kojic acid, bis(tert-butyldimethylsilyl) ether,
 LAYER:3
 neighbor vote Heptylamine: up
+positive votes: 1
+negative votes: 0
+frustration=0.0
+
+NODE:Norketamine,
+LAYER:3
+neighbor vote Hexacosanoic acid: up
+positive votes: 1
+negative votes: 0
+frustration=0.0
+
+NODE:2-Hydroxy-3-methylbutyric acid,
+LAYER:3
+neighbor vote Suberic acid: up
+positive votes: 1
+negative votes: 0
+frustration=0.0
+
+NODE:Frangulin,
+LAYER:3
+neighbor vote Hexacosanoic acid: up
 positive votes: 1
 negative votes: 0
 frustration=0.0
@@ -395,12 +409,35 @@ positive votes: 2
 negative votes: 0
 frustration=0.0
 
-NODE:Mevalonolactone,
+NODE:N-Acetylaspartic acid,
 LAYER:3
-neighbor vote 3,4-Methylenedioxyamphetamine: down
+neighbor vote 2-Ethylhexanoic acid: down
 positive votes: 0
 negative votes: 1
 frustration=0.0
+
+NODE:Curcumin,
+LAYER:3
+neighbor vote Hexacosanoic acid: up
+positive votes: 1
+negative votes: 0
+frustration=0.0
+
+NODE:L-Tryptophan,
+LAYER:3
+neighbor vote Heptylamine: up
+positive votes: 1
+negative votes: 0
+frustration=0.0
+
+NODE:2,5-Dimethoxybenzonitrile,
+LAYER:3
+neighbor vote 2-Methyl-3-pentanol: down
+neighbor vote Diethylamine: up
+positive votes: 1
+negative votes: 1
+2,5-Dimethoxybenzonitrile node is removed (1.0 > 0.2)
+frustration=1.0
 
 NODE:Pentanoic acid,
 LAYER:3
@@ -409,96 +446,29 @@ positive votes: 0
 negative votes: 1
 frustration=0.0
 
-NODE:Triethyl citrate,
+NODE:4-Oxohexanoic acid,
 LAYER:3
-neighbor vote 3-Buten-2-one: down
-neighbor vote Hexacosanoic acid: up
-positive votes: 1
-negative votes: 1
-Triethyl citrate node is removed (1.0 > 0.2)
-frustration=1.0
-
-NODE:l-Norvaline, n-propargyloxycarbonyl-, isohexyl ester,
-LAYER:3
-neighbor vote 3-Buten-2-one: up
+neighbor vote Suberic acid: up
 positive votes: 1
 negative votes: 0
 frustration=0.0
 
-NODE:Niacin,
+NODE:Yangonin,
 LAYER:3
 neighbor vote Hexacosanoic acid: up
 positive votes: 1
 negative votes: 0
 frustration=0.0
-
-NODE:Myristic acid,
-LAYER:3
-neighbor vote Pipecolic acid: up
-positive votes: 1
-negative votes: 0
-frustration=0.0
-
-NODE:6-Aminocaproic acid, N-(tert.-butyldimethylsilyl),
-LAYER:3
-neighbor vote Hexacosanoic acid: up
-positive votes: 1
-negative votes: 0
-frustration=0.0
-
-NODE:Frangulin,
-LAYER:3
-neighbor vote Hexacosanoic acid: up
-positive votes: 1
-negative votes: 0
-frustration=0.0
-
-NODE:2,5-Dimethoxyphenol,
-LAYER:3
-neighbor vote 3,4-Methylenedioxyamphetamine: down
-positive votes: 0
-negative votes: 1
-frustration=0.0
-SAME EDGE REMOVAL l-Norvaline, n-propargyloxycarbonyl-, isohexyl ester-L-Tryptophan edge is removed in layer 3
-SAME EDGE REMOVAL Malic acid-1-Octadecanol edge is removed in layer 3
-SAME EDGE REMOVAL Mevalonolactone-l-Norvaline, n-propargyloxycarbonyl-, isohexyl ester edge is removed in layer 3
+SAME EDGE REMOVAL l-Norvaline, n-propargyloxycarbonyl-, isohexyl ester-Mevalonolactone edge is removed in layer 3
 SAME EDGE REMOVAL 2,5-Dimethoxyphenol-Trimethylolpropane edge is removed in layer 3
+SAME EDGE REMOVAL 1-Octadecanol-Malic acid edge is removed in layer 3
+SAME EDGE REMOVAL l-Norvaline, n-propargyloxycarbonyl-, isohexyl ester-L-Tryptophan edge is removed in layer 3
 
-NODE:Methanesulfonic acid,
+NODE:Hymexazole, tert-butyldimethylsilyl ether,
 LAYER:4
 neighbor vote Kojic acid, bis(tert-butyldimethylsilyl) ether: up
 positive votes: 1
 negative votes: 0
-frustration=0.0
-
-NODE:5-Nonanol, tert-butyldimethylsilyl ether,
-LAYER:4
-neighbor vote 1-Octadecanol: down
-positive votes: 0
-negative votes: 1
-frustration=0.0
-
-NODE:Tetrahydro-solasodine triacetate,
-LAYER:4
-neighbor vote 6-Aminocaproic acid, N-(tert.-butyldimethylsilyl): up
-positive votes: 1
-negative votes: 0
-frustration=0.0
-
-NODE:Pentanedioic acid,
-LAYER:4
-neighbor vote 2-Hydroxy-3-methylbutyric acid: up
-neighbor vote 8-Methylnonanoic acid: down
-positive votes: 1
-negative votes: 1
-Pentanedioic acid node is removed (1.0 > 0.2)
-frustration=1.0
-
-NODE:Citramalic acid,
-LAYER:4
-neighbor vote 1-Octadecanol: down
-positive votes: 0
-negative votes: 1
 frustration=0.0
 
 NODE:Propanoic acid, dimethyl(isopropyl)silyl ester,
@@ -511,35 +481,36 @@ negative votes: 1
 Propanoic acid, dimethyl(isopropyl)silyl ester node is removed (0.3333333333333333 > 0.2)
 frustration=0.3333333333333333
 
-NODE:5-Oxohexanoic Acid,
-LAYER:4
-neighbor vote l-Norvaline, n-propargyloxycarbonyl-, isohexyl ester: down
-positive votes: 0
-negative votes: 1
-frustration=0.0
-
-NODE:Xylazine,
-LAYER:4
-neighbor vote l-Norvaline, n-propargyloxycarbonyl-, isohexyl ester: down
-positive votes: 0
-negative votes: 1
-frustration=0.0
-
-NODE:Naringenin 4',7-dimethylether,
-LAYER:4
-neighbor vote Trimethylolpropane: up
-positive votes: 1
-negative votes: 0
-frustration=0.0
-
-NODE:Isopropyl palmitate,
+NODE:Thymol,
 LAYER:4
 neighbor vote 1-Octadecanol: down
-neighbor vote 2-Hydroxy-3-methylbutyric acid: up
-positive votes: 1
+positive votes: 0
 negative votes: 1
-Isopropyl palmitate node is removed (1.0 > 0.2)
-frustration=1.0
+frustration=0.0
+
+NODE:2-Decanol,
+LAYER:4
+neighbor vote 1-Octadecanol: down
+neighbor vote l-Norvaline, n-propargyloxycarbonyl-, isohexyl ester: down
+positive votes: 0
+negative votes: 2
+frustration=0.0
+
+NODE:Vanillylmandelic acid,
+LAYER:4
+neighbor vote 1-Octadecanol: down
+positive votes: 0
+negative votes: 1
+frustration=0.0
+
+NODE:Benzophenone,
+LAYER:4
+neighbor vote 2'-Hydroxy-2,4,4',5-tetramethoxychalcone: up
+neighbor vote 2-Hydroxy-3-methylbutyric acid: up
+neighbor vote Frangulin: up
+positive votes: 3
+negative votes: 0
+frustration=0.0
 
 NODE:Dodecanoic acid, 1-methylethyl ester,
 LAYER:4
@@ -553,97 +524,16 @@ negative votes: 2
 Dodecanoic acid, 1-methylethyl ester node is removed (0.4 > 0.2)
 frustration=0.4
 
-NODE:Pinosylvin,
-LAYER:4
-neighbor vote Kojic acid, bis(tert-butyldimethylsilyl) ether: up
-positive votes: 1
-negative votes: 0
-frustration=0.0
-
-NODE:2-Methylcyclohexanol, (Z),
-LAYER:4
-neighbor vote 1-Octadecanol: down
-neighbor vote l-Norvaline, n-propargyloxycarbonyl-, isohexyl ester: down
-neighbor vote Myristic acid: up
-positive votes: 1
-negative votes: 2
-2-Methylcyclohexanol, (Z) node is removed (0.3333333333333333 > 0.2)
-frustration=0.3333333333333333
-
-NODE:2-Amino-4-methylbenzophenone,
-LAYER:4
-neighbor vote Kojic acid, bis(tert-butyldimethylsilyl) ether: down
-positive votes: 0
-negative votes: 1
-frustration=0.0
-
-NODE:6-Methyluracil,
-LAYER:4
-neighbor vote Kojic acid, bis(tert-butyldimethylsilyl) ether: up
-positive votes: 1
-negative votes: 0
-frustration=0.0
-
-NODE:Methylthiouracil,
-LAYER:4
-neighbor vote Kojic acid, bis(tert-butyldimethylsilyl) ether: up
-positive votes: 1
-negative votes: 0
-frustration=0.0
-
-NODE:1-(4-Methoxyphenyl)-4,6-dimethyl-2(1H)-pyrimidinone,
-LAYER:4
-neighbor vote Kojic acid, bis(tert-butyldimethylsilyl) ether: down
-positive votes: 0
-negative votes: 1
-frustration=0.0
-
-NODE:1-(tert-Butyldimethylsilyl)-4-methyl-1H-pyrazole,
-LAYER:4
-neighbor vote Yangonin: up
-positive votes: 1
-negative votes: 0
-frustration=0.0
-
-NODE:1-(1-Hydroxybutyl)-2,5-dimethoxybenzene ,
-LAYER:4
-neighbor vote Mevalonolactone: down
-positive votes: 0
-negative votes: 1
-frustration=0.0
-
-NODE:3-Aminobenzoic acid,
-LAYER:4
-neighbor vote Kojic acid, bis(tert-butyldimethylsilyl) ether: up
-positive votes: 1
-negative votes: 0
-frustration=0.0
-
-NODE:Hymexazole, tert-butyldimethylsilyl ether,
-LAYER:4
-neighbor vote Kojic acid, bis(tert-butyldimethylsilyl) ether: up
-positive votes: 1
-negative votes: 0
-frustration=0.0
-
-NODE:2-Decanol,
-LAYER:4
-neighbor vote 1-Octadecanol: down
-neighbor vote l-Norvaline, n-propargyloxycarbonyl-, isohexyl ester: down
-positive votes: 0
-negative votes: 2
-frustration=0.0
-
-NODE:Thymol,
-LAYER:4
-neighbor vote 1-Octadecanol: down
-positive votes: 0
-negative votes: 1
-frustration=0.0
-
 NODE:Durapan,
 LAYER:4
 neighbor vote Kojic acid, bis(tert-butyldimethylsilyl) ether: up
+positive votes: 1
+negative votes: 0
+frustration=0.0
+
+NODE:2-Propyl-1-pentanol,
+LAYER:4
+neighbor vote (2,5-Dimethoxyphenyl)acetone: up
 positive votes: 1
 negative votes: 0
 frustration=0.0
@@ -656,32 +546,25 @@ positive votes: 0
 negative votes: 2
 frustration=0.0
 
-NODE:2,5-Bis((tert-butyldimethylsilyl)oxy)-4,4-dimethyl-4H-imidazole,
+NODE:Pentanedioic acid,
 LAYER:4
-neighbor vote Cyclohexanone, 3,3,5-trimethyl: up
+neighbor vote 2-Hydroxy-3-methylbutyric acid: up
+neighbor vote 8-Methylnonanoic acid: down
+positive votes: 1
+negative votes: 1
+Pentanedioic acid node is removed (1.0 > 0.2)
+frustration=1.0
+
+NODE:Cholesterol,
+LAYER:4
+neighbor vote Uracil: up
 positive votes: 1
 negative votes: 0
 frustration=0.0
 
-NODE:2,5-Dimethoxybenzhydrazide,
+NODE:1-(4-Methoxyphenyl)-4,6-dimethyl-2(1H)-pyrimidinone,
 LAYER:4
-neighbor vote 2,5-Dimethoxyphenol: down
-positive votes: 0
-negative votes: 1
-frustration=0.0
-
-NODE:L-Glutamine,
-LAYER:4
-neighbor vote 1-Octadecanol: down
-neighbor vote Yangonin: up
-positive votes: 1
-negative votes: 1
-L-Glutamine node is removed (1.0 > 0.2)
-frustration=1.0
-
-NODE:Vanillylmandelic acid,
-LAYER:4
-neighbor vote 1-Octadecanol: down
+neighbor vote Kojic acid, bis(tert-butyldimethylsilyl) ether: down
 positive votes: 0
 negative votes: 1
 frustration=0.0
@@ -696,18 +579,119 @@ negative votes: 2
 Benzenesulfonamide, N-butyl node is removed (0.3333333333333333 > 0.2)
 frustration=0.3333333333333333
 
-NODE:Benzophenone,
+NODE:L-Threonine,
 LAYER:4
-neighbor vote 2'-Hydroxy-2,4,4',5-tetramethoxychalcone: up
-neighbor vote 2-Hydroxy-3-methylbutyric acid: up
-neighbor vote Frangulin: up
-positive votes: 3
+neighbor vote Cyclohexanone, 3,3,5-trimethyl: up
+positive votes: 1
 negative votes: 0
 frustration=0.0
 
-NODE:2-Propyl-1-pentanol,
+NODE:2,4-Imidazolidinedione, 5,5-dimethyl,
 LAYER:4
-neighbor vote (2,5-Dimethoxyphenyl)acetone: up
+neighbor vote Kojic acid, bis(tert-butyldimethylsilyl) ether: up
+positive votes: 1
+negative votes: 0
+frustration=0.0
+
+NODE:Methanesulfonic acid,
+LAYER:4
+neighbor vote Kojic acid, bis(tert-butyldimethylsilyl) ether: up
+positive votes: 1
+negative votes: 0
+frustration=0.0
+
+NODE:1-(1-Hydroxybutyl)-2,5-dimethoxybenzene ,
+LAYER:4
+neighbor vote Mevalonolactone: down
+positive votes: 0
+negative votes: 1
+frustration=0.0
+
+NODE:3,5-Dimethylphenol,
+LAYER:4
+neighbor vote 1-Octadecanol: down
+neighbor vote 2-Hydroxy-3-methylbutyric acid: up
+positive votes: 1
+negative votes: 1
+3,5-Dimethylphenol node is removed (1.0 > 0.2)
+frustration=1.0
+
+NODE:2-Methylcyclohexanol, (Z),
+LAYER:4
+neighbor vote 1-Octadecanol: down
+neighbor vote l-Norvaline, n-propargyloxycarbonyl-, isohexyl ester: down
+neighbor vote Myristic acid: up
+positive votes: 1
+negative votes: 2
+2-Methylcyclohexanol, (Z) node is removed (0.3333333333333333 > 0.2)
+frustration=0.3333333333333333
+
+NODE:Naringenin 4',7-dimethylether,
+LAYER:4
+neighbor vote Trimethylolpropane: up
+positive votes: 1
+negative votes: 0
+frustration=0.0
+
+NODE:Xylazine,
+LAYER:4
+neighbor vote l-Norvaline, n-propargyloxycarbonyl-, isohexyl ester: down
+positive votes: 0
+negative votes: 1
+frustration=0.0
+
+NODE:Citramalic acid,
+LAYER:4
+neighbor vote 1-Octadecanol: down
+positive votes: 0
+negative votes: 1
+frustration=0.0
+
+NODE:5-Oxohexanoic Acid,
+LAYER:4
+neighbor vote l-Norvaline, n-propargyloxycarbonyl-, isohexyl ester: down
+positive votes: 0
+negative votes: 1
+frustration=0.0
+
+NODE:6-Methyluracil,
+LAYER:4
+neighbor vote Kojic acid, bis(tert-butyldimethylsilyl) ether: up
+positive votes: 1
+negative votes: 0
+frustration=0.0
+
+NODE:2-Amino-4-methylbenzophenone,
+LAYER:4
+neighbor vote Kojic acid, bis(tert-butyldimethylsilyl) ether: down
+positive votes: 0
+negative votes: 1
+frustration=0.0
+
+NODE:2-Butoxyethanol,
+LAYER:4
+neighbor vote Iminodiacetic acid: up
+positive votes: 1
+negative votes: 0
+frustration=0.0
+
+NODE:1-(tert-Butyldimethylsilyl)-4-methyl-1H-pyrazole,
+LAYER:4
+neighbor vote Yangonin: up
+positive votes: 1
+negative votes: 0
+frustration=0.0
+
+NODE:3-Aminobenzoic acid,
+LAYER:4
+neighbor vote Kojic acid, bis(tert-butyldimethylsilyl) ether: up
+positive votes: 1
+negative votes: 0
+frustration=0.0
+
+NODE:DL-p-Hydroxyphenyllactic acid,
+LAYER:4
+neighbor vote 2-Hydroxy-3-methylbutyric acid: up
 positive votes: 1
 negative votes: 0
 frustration=0.0
@@ -724,28 +708,18 @@ negative votes: 2
 Cytosine, N-(tert-butyldimethylsilyl)- node is removed (0.4 > 0.2)
 frustration=0.4
 
-NODE:DL-p-Hydroxyphenyllactic acid,
+NODE:2,5-Bis((tert-butyldimethylsilyl)oxy)-4,4-dimethyl-4H-imidazole,
 LAYER:4
-neighbor vote 2-Hydroxy-3-methylbutyric acid: up
+neighbor vote Cyclohexanone, 3,3,5-trimethyl: up
 positive votes: 1
 negative votes: 0
 frustration=0.0
 
-NODE:3,5-Dimethylphenol,
+NODE:2,5-Dimethoxybenzhydrazide,
 LAYER:4
-neighbor vote 1-Octadecanol: down
-neighbor vote 2-Hydroxy-3-methylbutyric acid: up
-positive votes: 1
+neighbor vote 2,5-Dimethoxyphenol: down
+positive votes: 0
 negative votes: 1
-3,5-Dimethylphenol node is removed (1.0 > 0.2)
-frustration=1.0
-
-NODE:Butachlor ESA,
-LAYER:4
-neighbor vote 2'-Hydroxy-2,4,4',5-tetramethoxychalcone: up
-neighbor vote 2-Hydroxy-3-methylbutyric acid: up
-positive votes: 2
-negative votes: 0
 frustration=0.0
 
 NODE:Diacetyl monoxime,
@@ -755,47 +729,14 @@ positive votes: 0
 negative votes: 1
 frustration=0.0
 
-NODE:Cholesterol,
-LAYER:4
-neighbor vote Uracil: up
-positive votes: 1
-negative votes: 0
-frustration=0.0
-
-NODE:2-Pentadecanone,
+NODE:L-Glutamine,
 LAYER:4
 neighbor vote 1-Octadecanol: down
-positive votes: 0
+neighbor vote Yangonin: up
+positive votes: 1
 negative votes: 1
-frustration=0.0
-
-NODE:L-Threonine,
-LAYER:4
-neighbor vote Cyclohexanone, 3,3,5-trimethyl: up
-positive votes: 1
-negative votes: 0
-frustration=0.0
-
-NODE:2-Butoxyethanol,
-LAYER:4
-neighbor vote Iminodiacetic acid: up
-positive votes: 1
-negative votes: 0
-frustration=0.0
-
-NODE:2,4-Imidazolidinedione, 5,5-dimethyl,
-LAYER:4
-neighbor vote Kojic acid, bis(tert-butyldimethylsilyl) ether: up
-positive votes: 1
-negative votes: 0
-frustration=0.0
-
-NODE:3-(4,7-Dimethoxy-2H-1,3-benzodioxol-5-yl)-2-methylprop-2-enal,
-LAYER:4
-neighbor vote Trimethylolpropane: up
-positive votes: 1
-negative votes: 0
-frustration=0.0
+L-Glutamine node is removed (1.0 > 0.2)
+frustration=1.0
 
 NODE:L-Alanine,
 LAYER:4
@@ -806,6 +747,50 @@ negative votes: 1
 L-Alanine node is removed (1.0 > 0.2)
 frustration=1.0
 
+NODE:2-Pentadecanone,
+LAYER:4
+neighbor vote 1-Octadecanol: down
+positive votes: 0
+negative votes: 1
+frustration=0.0
+
+NODE:Methylthiouracil,
+LAYER:4
+neighbor vote Kojic acid, bis(tert-butyldimethylsilyl) ether: up
+positive votes: 1
+negative votes: 0
+frustration=0.0
+
+NODE:5-Nonanol, tert-butyldimethylsilyl ether,
+LAYER:4
+neighbor vote 1-Octadecanol: down
+positive votes: 0
+negative votes: 1
+frustration=0.0
+
+NODE:3-(4,7-Dimethoxy-2H-1,3-benzodioxol-5-yl)-2-methylprop-2-enal,
+LAYER:4
+neighbor vote Trimethylolpropane: up
+positive votes: 1
+negative votes: 0
+frustration=0.0
+
+NODE:Isopropyl palmitate,
+LAYER:4
+neighbor vote 1-Octadecanol: down
+neighbor vote 2-Hydroxy-3-methylbutyric acid: up
+positive votes: 1
+negative votes: 1
+Isopropyl palmitate node is removed (1.0 > 0.2)
+frustration=1.0
+
+NODE:Pinosylvin,
+LAYER:4
+neighbor vote Kojic acid, bis(tert-butyldimethylsilyl) ether: up
+positive votes: 1
+negative votes: 0
+frustration=0.0
+
 NODE:2,2'-Bipyridine,
 LAYER:4
 neighbor vote 1-Octadecanol: down
@@ -813,26 +798,27 @@ neighbor vote l-Norvaline, n-propargyloxycarbonyl-, isohexyl ester: down
 positive votes: 0
 negative votes: 2
 frustration=0.0
-SAME EDGE REMOVAL Xylazine-Methanesulfonic acid edge is removed in layer 4
-SAME EDGE REMOVAL 3-(4,7-Dimethoxy-2H-1,3-benzodioxol-5-yl)-2-methylprop-2-enal-Methylthiouracil edge is removed in layer 4
-SAME EDGE REMOVAL Vanillylmandelic acid-1-(tert-Butyldimethylsilyl)-4-methyl-1H-pyrazole edge is removed in layer 4
-SAME EDGE REMOVAL 3-(4,7-Dimethoxy-2H-1,3-benzodioxol-5-yl)-2-methylprop-2-enal-2,5-Bis((tert-butyldimethylsilyl)oxy)-4,4-dimethyl-4H-imidazole edge is removed in layer 4
-SAME EDGE REMOVAL 3-(4,7-Dimethoxy-2H-1,3-benzodioxol-5-yl)-2-methylprop-2-enal-2,5-Dimethoxybenzhydrazide edge is removed in layer 4
-SAME EDGE REMOVAL 2-Pentadecanone-Butachlor ESA edge is removed in layer 4
 
-NODE:Erythrono-1,4-lactone,
-LAYER:5
-neighbor vote 1-(1-Hydroxybutyl)-2,5-dimethoxybenzene : down
-positive votes: 0
-negative votes: 1
-frustration=0.0
-
-NODE:5-Azacytosine,
-LAYER:5
-neighbor vote Butachlor ESA: up
+NODE:Tetrahydro-solasodine triacetate,
+LAYER:4
+neighbor vote 6-Aminocaproic acid, N-(tert.-butyldimethylsilyl): up
 positive votes: 1
 negative votes: 0
 frustration=0.0
+
+NODE:Butachlor ESA,
+LAYER:4
+neighbor vote 2'-Hydroxy-2,4,4',5-tetramethoxychalcone: up
+neighbor vote 2-Hydroxy-3-methylbutyric acid: up
+positive votes: 2
+negative votes: 0
+frustration=0.0
+SAME EDGE REMOVAL 1-(tert-Butyldimethylsilyl)-4-methyl-1H-pyrazole-Vanillylmandelic acid edge is removed in layer 4
+SAME EDGE REMOVAL 2-Pentadecanone-Butachlor ESA edge is removed in layer 4
+SAME EDGE REMOVAL Xylazine-Methanesulfonic acid edge is removed in layer 4
+SAME EDGE REMOVAL 3-(4,7-Dimethoxy-2H-1,3-benzodioxol-5-yl)-2-methylprop-2-enal-2,5-Bis((tert-butyldimethylsilyl)oxy)-4,4-dimethyl-4H-imidazole edge is removed in layer 4
+SAME EDGE REMOVAL 3-(4,7-Dimethoxy-2H-1,3-benzodioxol-5-yl)-2-methylprop-2-enal-2,5-Dimethoxybenzhydrazide edge is removed in layer 4
+SAME EDGE REMOVAL 3-(4,7-Dimethoxy-2H-1,3-benzodioxol-5-yl)-2-methylprop-2-enal-Methylthiouracil edge is removed in layer 4
 
 NODE:2',5'-Dimethoxypropiophenone,
 LAYER:5
@@ -845,9 +831,18 @@ positive votes: 0
 negative votes: 5
 frustration=0.0
 
-NODE:Isobutanol,
+NODE:Phenoxyethanol,
 LAYER:5
-neighbor vote Methylthiouracil: down
+neighbor vote Methanesulfonic acid: up
+neighbor vote Methylthiouracil: up
+neighbor vote Pinosylvin: up
+positive votes: 3
+negative votes: 0
+frustration=0.0
+
+NODE:N-Acetylaminoethanol,
+LAYER:5
+neighbor vote 2,5-Bis((tert-butyldimethylsilyl)oxy)-4,4-dimethyl-4H-imidazole: down
 positive votes: 0
 negative votes: 1
 frustration=0.0
@@ -859,11 +854,31 @@ positive votes: 0
 negative votes: 1
 frustration=0.0
 
-NODE:Ketamine,
+NODE:Erythrono-1,4-lactone,
 LAYER:5
-neighbor vote 2,5-Dimethoxybenzhydrazide: up
-neighbor vote Methylthiouracil: up
-positive votes: 2
+neighbor vote 1-(1-Hydroxybutyl)-2,5-dimethoxybenzene : down
+positive votes: 0
+negative votes: 1
+frustration=0.0
+
+NODE:Isopropylamine,
+LAYER:5
+neighbor vote Butachlor ESA: down
+positive votes: 0
+negative votes: 1
+frustration=0.0
+
+NODE:Isobutanol,
+LAYER:5
+neighbor vote Methylthiouracil: down
+positive votes: 0
+negative votes: 1
+frustration=0.0
+
+NODE:5-Azacytosine,
+LAYER:5
+neighbor vote Butachlor ESA: up
+positive votes: 1
 negative votes: 0
 frustration=0.0
 
@@ -884,11 +899,19 @@ negative votes: 1
 L-Leucine node is removed (0.3333333333333333 > 0.2)
 frustration=0.3333333333333333
 
-NODE:N-Acetylaminoethanol,
+NODE:Aniline,
 LAYER:5
-neighbor vote 2,5-Bis((tert-butyldimethylsilyl)oxy)-4,4-dimethyl-4H-imidazole: down
-positive votes: 0
-negative votes: 1
+neighbor vote DL-p-Hydroxyphenyllactic acid: up
+positive votes: 1
+negative votes: 0
+frustration=0.0
+
+NODE:Ketamine,
+LAYER:5
+neighbor vote 2,5-Dimethoxybenzhydrazide: up
+neighbor vote Methylthiouracil: up
+positive votes: 2
+negative votes: 0
 frustration=0.0
 
 NODE:N,N-Dimethyl-2-aminoethanol,
@@ -905,27 +928,11 @@ positive votes: 0
 negative votes: 1
 frustration=0.0
 
-NODE:Isopropylamine,
-LAYER:5
-neighbor vote Butachlor ESA: down
+NODE:2,3-Dihydroxybutanoic acid,
+LAYER:6
+neighbor vote N-Acetylaminoethanol: down
 positive votes: 0
 negative votes: 1
-frustration=0.0
-
-NODE:Aniline,
-LAYER:5
-neighbor vote DL-p-Hydroxyphenyllactic acid: up
-positive votes: 1
-negative votes: 0
-frustration=0.0
-
-NODE:Phenoxyethanol,
-LAYER:5
-neighbor vote Methanesulfonic acid: up
-neighbor vote Methylthiouracil: up
-neighbor vote Pinosylvin: up
-positive votes: 3
-negative votes: 0
 frustration=0.0
 
 NODE:Benzyl alcohol,
@@ -938,13 +945,6 @@ frustration=0.0
 NODE:6-Methoxy-1-methyl-1,2,3,4-tetrahydroisoquinolin-7-ol ,
 LAYER:6
 neighbor vote Phenoxyethanol: down
-positive votes: 0
-negative votes: 1
-frustration=0.0
-
-NODE:2,3-Dihydroxybutanoic acid,
-LAYER:6
-neighbor vote N-Acetylaminoethanol: down
 positive votes: 0
 negative votes: 1
 frustration=0.0
@@ -1128,31 +1128,31 @@ Pipecolic acid: {'dir': 1}
 Xylazine: {'dir': -1}
 Naringenin 4',7-dimethylether: {'dir': 1}
 LAYER 0: 
-{'ENSMUSG00000030605-P', 'ENSMUSG00000045098-P', 'ENSMUSG00000032763-P', 'ENSMUSG00000036202-P', 'ENSMUSG00000066357-P', 'ENSMUSG00000037012-P', 'ENSMUSG00000041720-P', 'ENSMUSG00000001964-P', 'ENSMUSG00000006777-P', 'ENSMUSG00000038780-P', 'ENSMUSG00000031637-P', 'ENSMUSG00000054720-P', 'ENSMUSG00000017286-P', 'ENSMUSG00000034349-P', 'ENSMUSG00000027706-P', 'ENSMUSG00000034786-P', 'ENSMUSG00000032288-P', 'ENSMUSG00000029438-P', 'ENSMUSG00000047371-P', 'ENSMUSG00000038644-P'}
+{'ENSMUSG00000054720-P', 'ENSMUSG00000029438-P', 'ENSMUSG00000047371-P', 'ENSMUSG00000037012-P', 'ENSMUSG00000006777-P', 'ENSMUSG00000038644-P', 'ENSMUSG00000031637-P', 'ENSMUSG00000045098-P', 'ENSMUSG00000041720-P', 'ENSMUSG00000032288-P', 'ENSMUSG00000017286-P', 'ENSMUSG00000066357-P', 'ENSMUSG00000032763-P', 'ENSMUSG00000001964-P', 'ENSMUSG00000036202-P', 'ENSMUSG00000030605-P', 'ENSMUSG00000027706-P', 'ENSMUSG00000038780-P', 'ENSMUSG00000034349-P', 'ENSMUSG00000034786-P'}
 
 
 LAYER 1: 
-{'Glycine, tert.-butyldimethylsilyl ester', 'Salsoline', 'N-Methyl-1-[(trimethylsilyl)oxy]-1-{4-[(trimethylsilyl)oxy]phenyl}propan-2-amine', '4-Methoxyphenol', 'Hypoxanthine', 'Lignoceric acid', 'L-Tyrosine', 'Nonanoic acid', 'Propylene glycol', '2,4-Di-tert-butylphenol', 'Phenol, 2,4-bis(1-methyl-1-phenylethyl)-', 'Glycine', 'Azelaic acid', 'Oleamide', '2-Cyclohexen-1-one, 3-methyl-', 'N-Acetyl-L-alanine', '3-Heptanol'}
+{'Nonanoic acid', 'Azelaic acid', 'N-Methyl-1-[(trimethylsilyl)oxy]-1-{4-[(trimethylsilyl)oxy]phenyl}propan-2-amine', 'Hypoxanthine', 'Glycine', '3-Heptanol', 'L-Tyrosine', 'Propylene glycol', '4-Methoxyphenol', '2,4-Di-tert-butylphenol', '2-Cyclohexen-1-one, 3-methyl-', 'Phenol, 2,4-bis(1-methyl-1-phenylethyl)-', 'Salsoline', 'Glycine, tert.-butyldimethylsilyl ester', 'Lignoceric acid', 'Oleamide', 'N-Acetyl-L-alanine'}
 
 
 LAYER 2: 
-{'Suberic acid', '2-Methyl-3-pentanol', 'Hydracrylic acid', 'N-Caffeoyl-O-methyltyramine', 'Benzenepropanoic acid', '2-Ethylhexanoic acid', 'Diethylamine', '3,4-Methylenedioxyamphetamine', 'Hexacosanoic acid', 'Pipecolic acid', 'Heptylamine', 'Guanosine', '3-Buten-2-one', '2-Allyl-1,4-dimethoxybenzene'}
+{'N-Caffeoyl-O-methyltyramine', 'Suberic acid', '3-Buten-2-one', 'Pipecolic acid', 'Hexacosanoic acid', 'Hydracrylic acid', '2-Allyl-1,4-dimethoxybenzene', '2-Ethylhexanoic acid', '2-Methyl-3-pentanol', 'Heptylamine', 'Guanosine', 'Benzenepropanoic acid', 'Diethylamine', '3,4-Methylenedioxyamphetamine'}
 
 
 LAYER 3: 
-{'2-Hydroxy-3-methylbutyric acid', 'L-Tryptophan', 'N-Acetylaspartic acid', 'Norketamine', '1-Octadecanol', '8-Methylnonanoic acid', 'Cyclohexanone, 3,3,5-trimethyl', 'Glycerol', 'Kojic acid, bis(tert-butyldimethylsilyl) ether', 'Niacin', 'Myristic acid', 'Frangulin', 'l-Norvaline, n-propargyloxycarbonyl-, isohexyl ester', '4-Oxohexanoic acid', 'Trimethylolpropane', '(2,5-Dimethoxyphenyl)acetone', 'Uracil', 'Yangonin', 'Curcumin', 'Malic acid', 'Iminodiacetic acid', "2'-Hydroxy-2,4,4',5-tetramethoxychalcone", 'Benzene, 1,4-dimethoxy', '2-Naphthol', 'Mevalonolactone', 'Pentanoic acid', '6-Aminocaproic acid, N-(tert.-butyldimethylsilyl)', '2,5-Dimethoxyphenol'}
+{'Mevalonolactone', 'Trimethylolpropane', '6-Aminocaproic acid, N-(tert.-butyldimethylsilyl)', '(2,5-Dimethoxyphenyl)acetone', 'Uracil', 'Niacin', 'Malic acid', '8-Methylnonanoic acid', 'Benzene, 1,4-dimethoxy', 'Norketamine', 'N-Acetylaspartic acid', 'L-Tryptophan', 'Yangonin', 'Myristic acid', 'Iminodiacetic acid', "2'-Hydroxy-2,4,4',5-tetramethoxychalcone", '1-Octadecanol', 'Cyclohexanone, 3,3,5-trimethyl', '2,5-Dimethoxyphenol', 'Glycerol', 'l-Norvaline, n-propargyloxycarbonyl-, isohexyl ester', 'Kojic acid, bis(tert-butyldimethylsilyl) ether', '2-Hydroxy-3-methylbutyric acid', 'Frangulin', '2-Naphthol', 'Curcumin', 'Pentanoic acid', '4-Oxohexanoic acid'}
 
 
 LAYER 4: 
-{'Methanesulfonic acid', '5-Nonanol, tert-butyldimethylsilyl ether', 'Tetrahydro-solasodine triacetate', 'Citramalic acid', '5-Oxohexanoic Acid', 'Xylazine', "Naringenin 4',7-dimethylether", 'Pinosylvin', '2-Amino-4-methylbenzophenone', '6-Methyluracil', 'Methylthiouracil', '1-(4-Methoxyphenyl)-4,6-dimethyl-2(1H)-pyrimidinone', '1-(tert-Butyldimethylsilyl)-4-methyl-1H-pyrazole', "2,2'-Bipyridine", '3-Aminobenzoic acid', 'Hymexazole, tert-butyldimethylsilyl ether', '1-(1-Hydroxybutyl)-2,5-dimethoxybenzene ', 'Durapan', '2-Decanol', 'Cyclooctylamine', '2,5-Bis((tert-butyldimethylsilyl)oxy)-4,4-dimethyl-4H-imidazole', '2,5-Dimethoxybenzhydrazide', 'Vanillylmandelic acid', 'Benzophenone', '2-Propyl-1-pentanol', 'DL-p-Hydroxyphenyllactic acid', 'Butachlor ESA', 'Diacetyl monoxime', 'Cholesterol', '2-Pentadecanone', 'L-Threonine', '2-Butoxyethanol', '2,4-Imidazolidinedione, 5,5-dimethyl', '3-(4,7-Dimethoxy-2H-1,3-benzodioxol-5-yl)-2-methylprop-2-enal', 'Thymol'}
+{'Hymexazole, tert-butyldimethylsilyl ether', 'Thymol', '2-Decanol', 'Vanillylmandelic acid', 'Benzophenone', 'Durapan', '2-Propyl-1-pentanol', 'Cyclooctylamine', 'Cholesterol', '1-(4-Methoxyphenyl)-4,6-dimethyl-2(1H)-pyrimidinone', 'L-Threonine', '2,4-Imidazolidinedione, 5,5-dimethyl', 'Methanesulfonic acid', '1-(1-Hydroxybutyl)-2,5-dimethoxybenzene ', "Naringenin 4',7-dimethylether", 'Xylazine', 'Citramalic acid', '5-Oxohexanoic Acid', '6-Methyluracil', '2-Amino-4-methylbenzophenone', '2-Butoxyethanol', '1-(tert-Butyldimethylsilyl)-4-methyl-1H-pyrazole', '3-Aminobenzoic acid', 'DL-p-Hydroxyphenyllactic acid', '2,5-Bis((tert-butyldimethylsilyl)oxy)-4,4-dimethyl-4H-imidazole', '2,5-Dimethoxybenzhydrazide', 'Diacetyl monoxime', '2-Pentadecanone', 'Methylthiouracil', '5-Nonanol, tert-butyldimethylsilyl ether', '3-(4,7-Dimethoxy-2H-1,3-benzodioxol-5-yl)-2-methylprop-2-enal', 'Pinosylvin', "2,2'-Bipyridine", 'Tetrahydro-solasodine triacetate', 'Butachlor ESA'}
 
 
 LAYER 5: 
-{'Erythrono-1,4-lactone', '5-Azacytosine', "2',5'-Dimethoxypropiophenone", 'Isobutanol', '2-Hexanol', 'Ketamine', 'Aconitic acid', 'N-Acetylaminoethanol', 'N,N-Dimethyl-2-aminoethanol', '2-Butenoic acid, 3-[(tert-butyldimethylsilyl)oxy]', 'Isopropylamine', 'Aniline', 'Phenoxyethanol'}
+{"2',5'-Dimethoxypropiophenone", 'Phenoxyethanol', 'N-Acetylaminoethanol', '2-Hexanol', 'Erythrono-1,4-lactone', 'Isopropylamine', 'Isobutanol', '5-Azacytosine', 'Aconitic acid', 'Aniline', 'Ketamine', 'N,N-Dimethyl-2-aminoethanol', '2-Butenoic acid, 3-[(tert-butyldimethylsilyl)oxy]'}
 
 
 LAYER 6: 
-{'6-Methoxy-1-methyl-1,2,3,4-tetrahydroisoquinolin-7-ol ', '2,3-Dihydroxybutanoic acid', 'Benzyl alcohol', 'Butyric Acid', '2,4,6-Cycloheptatrien-1-one'}
+{'2,3-Dihydroxybutanoic acid', '6-Methoxy-1-methyl-1,2,3,4-tetrahydroisoquinolin-7-ol ', 'Benzyl alcohol', 'Butyric Acid', '2,4,6-Cycloheptatrien-1-one'}
 
 
 LAYER 7: 

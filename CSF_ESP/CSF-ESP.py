@@ -159,10 +159,11 @@ def same_level_edges(G, curr_layer, d, f):
 def csf_cpx_rpuc(f):
     f.write(time.strftime("CURRENT TIME: %Y-%m-%d %H:%M:%S\n\n"))
     f.write("Started CSF-CPX!\n")
-    csf_cpx = pd.read_csv("CSF-CPX_FDR_threshold.csv")
+    csf_cpx = pd.read_csv("/Users/laurenbell/Desktop/networks/CSF-CPX/CSF-CPX_FDR_threshold.csv")
+    csf_cpx["edge_dir"] = csf_cpx["Sign"].map({"+": 1, "-": -1})
     csf_cpx = csf_cpx[csf_cpx["Pooled FDR"] <= 0.1]
 
-    csf = pd.read_csv("CSF_FDR_threshold.csv")
+    csf = pd.read_csv("/Users/laurenbell/Desktop/networks/CSF/CSF_FDR_threshold.csv")
     csf = csf[(csf["Pooled FDR"] <= 0.05) & (csf[["VECPAC_p", "DSS_p", "LPS_p"]].max(axis=1) <= 0.2)]
     cpx_node_dir = pd.read_csv("network_nodes.csv") #LAUREN YOU NEED TO TAKE THIS FROM THE DATA
     
